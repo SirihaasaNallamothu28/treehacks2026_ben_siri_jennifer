@@ -1,0 +1,12 @@
+PMID: 41689388
+Title: Efficacy of wound protectors in reducing surgical site infections in patients undergoing open colorectal surgery: A systematic review and meta-analysis.
+
+Abstract:
+The incidence of surgical site infections (SSIs) has been reported to be significantly higher in colorectal surgeries compared to other surgical procedures. Wound protectors have been developed to help reduce the incidence of SSIs by creating a barrier between the incisional wound and the contaminated surgical field, but their efficacy remains uncertain.
+To assess whether the use of wound protectors reduces the incidence of SSIs in patients undergoing open colorectal surgery.
+A comprehensive literature review was conducted using PubMed, Embase, Web of Science and Cochrane databases from inception to January 2025.
+Randomised controlled trials (RCTs) assessing the efficacy of wound protectors for reducing the incidence of SSIs in patients undergoing open colorectal surgery.
+The intervention consisted of wound protectors (e.g., Alexis O-ring wound retractors, plastic ring drape).
+The main outcome was SSI. We pooled risk ratios (RRs) with a 95% confidence interval (CI) using a random effects model. Statistical analysis was performed using R software (version 4.4.2).
+We included 6 RCTs comprising 666 patients, of whom 327 (49 %) were randomised to the wound protectors' group. The mean follow-up duration was 30 days post-operatively. The incidence of SSIs was significantly lower in the intervention group (RR 0.44; 95% CI 0.22-0.88; p = 0.021). Subgroup analysis of four RCTs evaluating Alexis-O ring wound retractors showed a significantly lower incidence of SSIs in the experimental group (RR 0.21; 95% CI 0.09-0.48; p < 0.001).
+Wound protectors were associated with a significantly lower incidence of SSIs in patients undergoing open colorectal surgery.

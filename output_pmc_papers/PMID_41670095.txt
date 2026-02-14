@@ -1,0 +1,8 @@
+PMID: 41670095
+Title: Trends and spatial distribution of pediatric second-dose COVID-19 vaccination coverage: a temporal analysis, Brazil, 2022-2023.
+
+Abstract:
+To investigate the trend and spatial distribution of pediatric second-dose COVID-19 vaccination coverage among children aged 5 to 11 years in Brazil, in 2022 and 2023.
+This was a time series analysis study using vaccination and target population data extracted from the Ministry of Health Vacinômetro platform. The second-dose coverage trend was estimated by joinpoint regression (segmented regression), while spatial distribution was analyzed using choropleth maps to identify regional variations between the Brazilian states.
+Average monthly percentage change (AMPC) in vaccination coverage in Brazil as a whole remained stable during the period (AMPC -8.30%), with significant geographical heterogeneity. The Northern region (AMPC 5.76%) had a rising trend, in particular in the states of Acre (AMPC 23.42%) and Amazonas (AMPC 18.26%). Falling trends were observed in the Southeast region (AMPC -8.30%) as well as in specific states, such as Mato Grosso do Sul (AMPC -4.74%), Pará (AMPC -4.71%) and Rio de Janeiro (AMPC -4.27%). Fourteen states (51.9%) had a stable trend. The time series revealed initial increase in 2022, followed by deceleration and stabilization in 2023.
+A significant and uneven variation in pediatric second-dose COVID-19 vaccination coverage was observed between 2022 and 2023. The results highlight the urgent need for targeted strategies to increase vaccination adherence, especially in areas with lower coverage.

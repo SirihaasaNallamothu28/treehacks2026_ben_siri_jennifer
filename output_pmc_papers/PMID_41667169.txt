@@ -1,0 +1,13 @@
+PMID: 41667169
+Title: Feasibility of the MAINTAIN intervention to support independence after a fall for people with dementia: a pilot cluster randomised controlled trial in participants' own homes.
+
+Abstract:
+To evaluate the feasibility of conducting a full-scale randomised controlled trial to assess the clinical and cost-effectiveness of the MAINTAIN intervention, designed to support recovery and independence following a fall among people living with dementia.
+Pilot cluster randomised controlled trial (c-RCT).
+Community-based healthcare services across six UK sites representing primary and secondary care settings.
+31 participant-carer dyads were recruited. Eligibility criteria included a diagnosis of dementia and a recent fall. Exclusion criteria included severe comorbidity precluding participation. The consent rate was 84%, and retention at follow-up was 81%.
+The MAINTAIN intervention comprised tailored, home-based therapy sessions delivered by trained professionals, focusing on functional recovery, confidence and re-engagement in daily activities, compared with usual care. The intervention was delivered over 12 weeks with booster sessions up to week 24, with the full trial period lasting 28 weeks.
+Feasibility outcomes included recruitment and retention rates, intervention adherence and data completeness for outcome and economic measures. Exploratory outcomes assessed functional performance and quality of life. Feasibility outcomes were assessed at baseline, 12 weeks and 28 weeks.
+Recruitment occurred over an 8-month period (September 2023-April 2024) across six UK sites. Most intervention participants (89%) attended at least 60% of planned sessions. Completion rates for outcome and economic data were high, indicating strong acceptability and feasibility of both the intervention and trial procedures.
+The pilot c-RCT demonstrated that recruitment, retention and intervention delivery were feasible and well accepted. Findings support progression to a definitive trial to evaluate the effectiveness and cost-effectiveness of the MAINTAIN intervention.
+ISRCTN16413728 (International Standard Randomised Controlled Trial Number registry).

@@ -1,0 +1,9 @@
+PMID: 41668634
+Title: Association Between GLP-1 Receptor Agonists and the Risk of Colon Cancer in Adults With Type 2 Diabetes or Obesity: A Systematic Review and Network Meta-Analysis.
+
+Abstract:
+To evaluate the association between glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and intestinal cancers and to explore the risk factors for these associations.
+PubMed, Embase, Web of Science, Scopus, Cochrane Central Register of Controlled Trials (CENTRAL), and ClinicalTrials.gov were searched through 13 June 2024, to identify randomised clinical trials (RCTs) assessing the relationship between GLP-1 RA use and colorectal, colon, rectal, and intestinal cancers. Pooled relative risks (RRs) and 95% confidence intervals (CIs) for each outcome were calculated.
+In 17 RCTs comprising 36,415 patients, GLP-1 RAs was associated with a significantly reduced risk of colon cancer (RR, 0.34; 95% CI, 0.17-0.68; I<sup>2</sup> = 0.0%), and showed a neutral effect on the risk of colorectal carcinoma, rectal, and intestinal cancer, with RRs of 1.13 (95% CI, 0.92-1.39; I<sup>2</sup> = 0.0%), 3.64 (95% CI, 0.76-17.40; I<sup>2</sup> = 0.0%), and 0.76 (95% CI, 0.31-1.84; I<sup>2</sup> = 23.3%), respectively. In the network meta-analysis and subgroup analysis, a potential association was observed between albiglutide and subcutaneous semaglutide and a lower incidence of colon cancer among adults treated for a longer duration and with lower baseline HbA1c levels, regardless of baseline body mass index, age, or type of control group.
+GLP-1 RAs may be associated with a lower risk of colon cancer in adults with type 2 diabetes mellitus, warranting further validation in trials among high-risk populations.
+The study protocol was pre-registered and published on PROSPERO (CRD: 42024548010; https://www.crd.york.ac.uk/prospero/#recordDetails).

@@ -1,0 +1,5 @@
+PMID: 41683762
+Title: Monitoring Nanoparticle Interaction with Murine Breast Cancer Cells Using Multimodal Fluorescence Lifetime Microscopy.
+
+Abstract:
+To investigate drug delivery in cancer therapy, we integrate fluorescence lifetime measurements, microspectrometry, and confocal laser scanning microscopy to track the uptake of inorganic-organic hybrid nanoparticles (IOH-NPs) by breast cancer cells over incubation periods ranging from 2 to 24 h. Non-radiative energy transfer (FRET) from the LysoTracker Green to the IOH-NPs confirms their lysosomal localization and possibly improves their optical excitation. Beyond the resolution limits of light and electron microscopy, fluorescence lifetime kinetics-including FRET-can thus reveal the nanoscale cellular localization of IOH-NPs and guide the optimization of fluorescence excitation. Here, we extend optical microscopy into a fifth dimension-picosecond fluorescence decay times-complementing 3D spatial and spectral information, establishing lifetime measurements as a versatile tool to study nanoparticle uptake in cancer therapy.

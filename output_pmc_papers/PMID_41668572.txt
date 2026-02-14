@@ -1,0 +1,9 @@
+PMID: 41668572
+Title: [Posterior petrous meningiomas: clinical manifestations, anatomical relationships and postoperative outcomes].
+
+Abstract:
+Posterior petrous meningiomas (PPM) are located anterior and posterior to internal auditory meatus. Their relationships with cerebellopontine angle are variable, and they present with various symptoms.
+To create a classification of PPMs depending on location in relation to internal auditory meatus, and to compare clinical symptoms, anatomical relationships and postoperative outcomes for different groups of PPM.
+A retrospective study included 112 patients undergoing surgery for PPM (97 women and 15 men aged 25-80 years). There were 61 left-sided and 51 right-sided tumors (mean size 32.4 mm, range 10-66 mm).
+PPMs were divided into retromeatal (R) in 44 cases, antemeatal (A) in 62 cases and anteretromeatal (AR) in 6 cases. PPM size in the R group was 34 mm (15-66 mm), in the A group - 30 mm (10-64 mm), in the AR group - 49 mm (38-65 mm). Total resection was performed in 84 patients (36, 47 and 1 in three groups, respectively). Anatomical integrity of cranial nerves was preserved in most patients. Postoperative deterioration of cranial nerve dysfunction was noted in 24 patients in groups A and AR.
+Antemeatal meningiomas more often present with cranial nerve dysfunction, retromeatal meningiomas - with cerebellar symptoms. Retromastoid approach enables total/subtotal resection of PPM, and postoperative cranial nerve dysfunction is more common in antemeatal meningiomas. Preservation of anatomical and functional integrity of neurovascular structures is important for favorable postoperative outcomes.

@@ -1,0 +1,8 @@
+PMID: 41675637
+Title: Efficacy and safety of sodium-glucose cotransporter 2 inhibitors in the treatment of diabetic kidney disease: a meta-analysis.
+
+Abstract:
+Diabetic kidney disease is a major cause of end-stage renal disease. Herein, we aimed to assess the efficacy and safety of sodium-glucose cotransporter 2 (SGLT2) inhibitors in patients with diabetic kidney disease.
+PubMed, Embase, and Web of Science databases were searched for eligible randomized clinical trials (RCTs) published up to July 2024. Effect sizes were summarized as risk ratios (RR) or weighted mean differences (WMD) with 95% confidence intervals (CI). Statistical analyses were performed using Stata.
+Fifteen studies (24463 patients) were included in the meta-analysis. The results of the meta-analysis showed that compared with the control group, SGLT2 inhibitor intervention could reduce the estimated glomerular filtration rate (WMD=-2.47; 95% CI: -3.18, -1.76), systolic blood pressure (WMD=-4.09; 95% CI: -4.97 to -3.21), diastolic blood pressure (WMD=-2.47; 95% CI: -3.06 to -1.88), and glycated hemoglobin (WMD=-0.27; 95% CI: -0.38, -0.17). Moreover, there was no significant difference between the SGLT2 inhibitor and control groups in terms of the incidence of overall adverse event, urinary tract infection, bone fracture and hypoglycemia. However, the incidence of genital infection and diabetic ketoacidosis in the SGLT2 inhibitor group was higher than that in the control group.
+Our study confirms the beneficial effects in diabetic kidney disease patients, while also demonstrating a higher risk of genital infections and diabetic ketoacidosis in the SGLT2 inhibitor group compared to controls.

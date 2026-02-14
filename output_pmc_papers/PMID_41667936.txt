@@ -1,0 +1,8 @@
+PMID: 41667936
+Title: Farnesyl Diphosphate Synthase Promotes Proliferation of Hepatocellular Carcinoma Cells by Interacting With Glucose-6-Phosphate Dehydrogenase.
+
+Abstract:
+Hepatocellular carcinoma (HCC) is a highly aggressive malignancy characterized by metabolic reprogramming that supports tumour growth and survival. This study identifies farnesyl diphosphate synthase (FDPs), a key enzyme in the mevalonate pathway, as a critical regulator of HCC proliferation and apoptosis.
+We applied bioinformatics analysis through TCGA and GSE database to identify the expression of FDPs within HCC patients. Then, mechanistic studies were conducted including Western blots, apoptosis assay, RT-qPCR, rescue assay, RNA-sequencing, in vivo study to prove the role of FDPs in regulating HCC progression.
+FDPs was found to be significantly upregulated in HCC tissues, and its down-regulation promotes tumour cell apoptosis while inhibiting tumour cell proliferation in vitro and in vivo. Mechanistically, we identified FDPs regulate glucose-6-phosphate dehydrogenase (G6PD) by RNA sequencing, bioinformatics prediction, and rescue experiments, indicating its involvement in glycolysis regulation in tumour cells. The identification of this FDPs-G6PD axis suggests a novel metabolic pathway contributing to HCC development.
+In summary, this study highlights FDPs play an essential oncogenic role in HCC, linking it to metabolic reprogramming and tumour survival. These findings establish FDPs as a promising therapeutic target, offering a foundation for further exploration of its regulatory mechanisms and potential clinical applications.

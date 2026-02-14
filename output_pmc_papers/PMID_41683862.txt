@@ -1,0 +1,5 @@
+PMID: 41683862
+Title: Pathways of Resistance: Modern Multiple Myeloma Therapies and Overcoming Reliance on Genomic Integrity.
+
+Abstract:
+Multiple myeloma (MM) is the second most common hematological malignancy in the US and Europe-comprising approximately 10% of all hematologic cancer cases-and its incidence has increased over the last three decades by approximately 120% due to an aging world population. It remains an incurable cancer among diseases in modern medicine. This review outlines the relevant cancer biology of MM, with a special emphasis on the role of tumor protein p53. We provide the most up-to-date summary of the current drugs in clinical or pre-clinical trials targeting weaknesses in the MM apoptotic mechanism. In addition, we highlight the potential for new routes to strike and kill myeloma cells, possibly creating a vaccine-like effect that prevents relapse, using the principles of immunogenic cell death (ICD).

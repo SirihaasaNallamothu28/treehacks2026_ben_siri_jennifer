@@ -1,0 +1,8 @@
+PMID: 41670527
+Title: Serum miRNA-210 Expression at Different Stages of Spontaneous Intracerebral Hemorrhage.
+
+Abstract:
+This study investigates the changes in serum miRNA-210 expression at different stages of spontaneous intracerebral hemorrhage (sICH) and their clinical significance.
+Twenty patients with sICH and admitted to the Neurosurgery Department of the Affiliated Hospital of Beihua University between August 2022 and January 2023 were selected for this study. Venous blood samples were collected on Day 1 (within 12 hours) and Day 7 after disease onset. Serum miRNA-210 expression was quantified using quantitative reverse transcription polymerase chain reaction (qRT-PCR).
+Serum miRNA-210 levels on Day 7 (31.5775 ± 0.13242) were significantly lower than on Day 1 (31.6865 ± 0.1654) in patients with sICH. Results of a paired t-test analysis showed a t value of 2.268, p = 0.035 (p < 0.05).
+In this study, differences in serum miRNA-210 expression at different stages of sICH were found to be significant. Changes in miRNA-210 levels may serve as potential biomarkers for disease progression, providing insights for clinical management.

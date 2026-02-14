@@ -1,0 +1,9 @@
+PMID: 41664550
+Title: Prognostic Value of Elevated miR-502-3p in Patients With Post-Stroke Cognitive Impairment.
+
+Abstract:
+Post-stroke cognitive impairment (PSCI) is a common complication following a stroke. Recent findings highlight the role of miR-502-3p in both vascular and neurodegenerative diseases. However, the role in PSCI remains uncovered.
+This study emphasized the differential expression of miR-502-3p and subsequently evaluated the predictive value of miR-502-3p expression levels for PSCI.
+The study subjects included 112 patients with PSCI and 161 individuals with post-stroke cognitive normality. The relative expression of miR-502-3p was calculated by qPCR, while its predictive value for PSCI was assessed via ROC curve. Pearson's correlation coefficient was utilized to analyze the correlation between serum miR-502p-3p levels and PSCI. Multivariate logistic regression was used to identify risk factors of PSCI.
+Serum miR-502-3p was identified as significantly elevated in the PSCI group. The area under the ROC curve was 0.850, with a sensitivity of 76.79% and a specificity of 77.64%. The miR-502-3p level was positively correlated with both NIHSS and mRS scores. In addition, a negative correlation was observed between the miR-502-3p level and MoCA score. Elevated miR-502-3p and hypertension were identified as independent risk factors for PSCI.
+Significantly elevated serum miR-502-3p was a promising biomarker for the onset of PSCI. Elevated miR-502-3p and hypertension were independent risk factors for PSCI.

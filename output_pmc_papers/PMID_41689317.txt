@@ -1,0 +1,10 @@
+PMID: 41689317
+Title: Implications of Fatty Acid Metabolism Genes on the Prognostic Landscape of Neuroblastoma: Integration of Genetic and Immune Profiles.
+
+Abstract:
+To explore the impact of fatty acid metabolism genes on the prognosis of neuroblastoma and identify potential therapeutic targets.
+An observational study. Place and Duration of the Study: Department of Pathology, Tianjin Cancer Hospital, Airport Hospital, Tianjin, China, from January 2022 to December 2023.
+A retrospective in silico analysis of public datasets (GSE49710 and E-MTAB-8248) was carried out. Patients were clustered based on fatty acid metabolism gene expression using a hierarchical clustering method. Survival differences between clusters were analysed using the Kaplan-Meier method and the log-rank test. Immune infiltration was assessed using the ESTIMATE, MCP-counter, and CIBERSORT algorithms, while immunotherapy response predictions were made using the tumour immune dysfunction and exclusion (TIDE) and immunophenoscore (IPS) algorithms. Therapeutic potentials were evaluated using the Connectivity Map (CMAP) database. Statistical significance of differences in gene expression and immune cell proportions was determined using Student's t-test or Wilcoxon rank-sum test, as appropriate. A four-gene prognostic model was developed using a random forest algorithm and validated externally, assessing its performance through ROC curves and decision curve analysis (DCA).
+Distinct clusters showed varying survival, immune profiles, and therapy responses. Time-dependent areas under the curve (AUC) at 1/3/5 years were 0.861/0.897/0.883 (in the cohort training, GSE49710) and 0.872/0.830/0.822 (in the external validation cohort, E-MTAB-8248). The four-gene model outperformed traditional clinical markers, predicting better survival outcomes.
+Fatty acid metabolism genes are crucial in neuroblastoma prognosis, offering insights for personalised therapy and highlighting the four-gene model's predictive superiority.
+Neuroblastoma, Fatty acid metabolism, Immune infiltration, Prognostic biomarkers, HDAC Inhibitors.

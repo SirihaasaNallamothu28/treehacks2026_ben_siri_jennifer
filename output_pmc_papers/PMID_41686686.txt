@@ -1,0 +1,8 @@
+PMID: 41686686
+Title: Utility of PAX1/JAM3 methylation analysis for triage of high-risk HPV-positive individuals.
+
+Abstract:
+We sought to assess the clinical utility of methylation detection of paired box gene 1 (PAX1) and junctional adhesion molecule 3 (JAM3) in the triage of individuals testing positive for high-risk human papillomavirus (HPV).
+Cervical secretions from 312 high-risk HPV-positive patients were analyzed for dual-gene methylation of PAX1 and JAM3 (PAX1m/JAM3m). Methylation levels were compared across histologically confirmed cervical lesions. Using histopathology as the reference standard, the triage performance of PAX1m/JAM3m was evaluated against cytology and HPV-16/18 genotyping.
+Methylation positivity increased in statistical significance with lesion severity (P < .001 for trend). For the detection of cervical intraepithelial neoplasia (CIN) 2 or more severe lesions (CIN2+), PAX1m/JAM3m yielded a sensitivity of 91.8% (95% CI, 84.1%-96.2%), specificity of 90.7% (95% CI, 85.7%-94.1%), and an area under the receiver operating characteristic curve of 0.912 (95% CI, 0.874-0.951), outperforming cytology, HPV-16/18 genotyping, and their combinations. Using PAX1m/JAM3m positivity as a criterion for colposcopy referral, 1 CIN2+ case was detected per 1.22 referrals, reducing the colposcopy referral rate by approximately 19.2% and increasing the CIN2+ detection rate by 39.4% compared with cytology at the atypical squamous cells of undetermined significance threshold.
+PAX1m/JAM3m levels are strongly associated with cervical lesion severity and represent a promising triage strategy for high-risk HPV-positive individuals.

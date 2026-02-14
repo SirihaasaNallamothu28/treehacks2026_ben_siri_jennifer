@@ -1,0 +1,5 @@
+PMID: 41687017
+Title: The Vascular-Immune Cells Crosstalk and Microenvironment in Pulmonary Hypertension.
+
+Abstract:
+Pulmonary hypertension is a disease of the lung vasculature, which eventually leads to heart dysfunction. Despite the advances in the discovery and development of new treatments, most of them are aimed to palliate symptoms. Thus, it is crucial to identify novel potential targets directly acting on vascular remodeling. Further understanding of this pathological event is needed to completely describe the disease's mechanisms and effectively generate therapeutical strategies able to cure the disease. Here, we propose an integrative perspective of studying pulmonary hypertension based on the interactions between the vascular cells and their surroundings. This review describes the crosstalk between vascular cells and immune cells in the diseased vasculature, highlighting the central role of this axis and the importance of healthy cell-to-cell communication. Furthermore, we discuss the possibility of considering the pulmonary microenvironment as a key pathological factor in pulmonary hypertension.

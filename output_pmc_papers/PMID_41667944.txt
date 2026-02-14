@@ -1,0 +1,8 @@
+PMID: 41667944
+Title: Thrombocytopenia and Bleeding in Patients With Oncologic Emergencies Following Cancer Therapy.
+
+Abstract:
+There is a lack of studies investigating Cancer therapy-induced thrombocytopenia (CTIT) and the risk factors predicting CTIT-related hemorrhage in the emergency oncology patient population. This study aimed to present Chinese data on CTIT and organ bleeding in patients undergoing emergency oncology.
+This retrospective study was conducted in the Oncology Emergency Department. We evaluated the clinical features and outcomes of CTIT and associated organ hemorrhage.
+A retrospective analysis collected data from 8590 cases of malignant tumor emergency visits. Among these, 1164 cases (13.5%) of CTIT met the inclusion criteria, with a median patient age of 61 years. 61 (5.24%) of the 1164 CTIT cases were associated with overt organ hemorrhage. Independent risk factors predicting CTIT deterioration included Eastern Cooperative Oncology Group (ECOG) score of 2-4 (odds ratio [OR] = 4.883), stage IV (OR = 2.275), organ bleeding (OR = 3.029), anemia (OR = 3.243), and fever (OR = 5.360), all with p < 0.05. Among the 61 cases with bleeding, 41% (25/61) involved lung cancer. The bleeding group had a significantly higher proportion of patients with fever (11.5% vs. 2.9%), pleural effusion (25.0% vs. 9.8%), and malnutrition requiring parenteral nutritional support (9.8% vs. 2.8%) compared to the non-bleeding group (p < 0.05). Fever (OR = 4.886, p = 0.003) and pleural effusion (OR = 4.812, p = 0.007) were identified as independent risk factors for CTIT-related bleeding.
+Malignancies associated with reduced platelet counts and additional risk factors require heightened clinical vigilance for hemorrhage development.

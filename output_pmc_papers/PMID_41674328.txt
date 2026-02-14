@@ -1,0 +1,5 @@
+PMID: 41674328
+Title: Synchronous diagnosis of multicentric glioma with distinct isocitrate dehydrogenase molecular profiles: a case report.
+
+Abstract:
+This case report characterizes the molecular pathology of two synchronous IDH mutant gliomas in a 28-year-old female patient. The patient exhibited symptoms of dizziness, retro-orbital pain, headache, and numbness with paresthesia in her right arm. MRI imaging revealed two distinct non-enhancing T2/FLAIR hyperintense lesions in the left frontal and parietal lobes. Histopathologic and molecular analyses, including whole exome sequencing, were performed on the resected specimens from each location. The left parietal tumor was diagnosed as a grade 4 astrocytoma with an IDH1 R132H mutation, while the left frontal tumor was classified as a grade 2 oligodendroglioma with an IDH1 R132S mutation. Given the distinct molecular profiles of both synchronous tumors, treatment consideration was given to each individual primary tumor.

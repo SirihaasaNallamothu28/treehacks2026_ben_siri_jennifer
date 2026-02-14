@@ -1,0 +1,5 @@
+PMID: 41667199
+Title: Hypercalcaemia as an immune-related adverse event secondary to ipilimumab and nivolumab therapy in a patient with metastatic renal cell carcinoma.
+
+Abstract:
+We report a case of severe hypercalcaemia after a single cycle of a combination therapy of ipilimumab and nivolumab. Initial evaluation ruled out common causes, including bone metastases, parathyroid hormone/parathyroid hormone-related protein elevation and paraproteinaemia. Her serum 1,25-dihydroxyvitamin D (calcitriol) levels were significantly elevated following the first immunotherapy cycle. Hypercalcaemia responded only to glucocorticoid therapy, with normalisation of serum calcium and calcitriol levels. Recurrence of hypercalcaemia after glucocorticoid discontinuation and subsequent resolution with glucocorticoid re-initiation strongly supported a calcitriol-mediated mechanism, most likely as an immune-related effect of ipilimumab and nivolumab.

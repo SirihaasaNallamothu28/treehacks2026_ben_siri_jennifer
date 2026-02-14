@@ -1,0 +1,8 @@
+PMID: 41684145
+Title: Predictors of Intravenous Immunoglobulin Non-Responsiveness in Children With Kawasaki Disease.
+
+Abstract:
+This retrospective study assesses whether the systemic immune-inflammation index (SII) is a better predictor of intravenous immunoglobulin (IVIG) non-responsiveness (IVIG-NR) in children with Kawasaki disease (KD children) than the neutrophil-to-lymphocyte ratio (NLR) and platelet-to-lymphocyte ratio (PLR).
+After 458 pediatric KD patients were categorized as IVIG responders or non-responders, blood test data were collected from both groups prior to IVIG administration. Upon SII, NLR, and PLR calculation, IVIG-NR predictive performances of these markers were evaluated through receiver operating characteristic curve evaluation, and IVIG-NR risk factors (RFs) were determined by multivariate logistic regression.
+Compared to IVIG responders, the non-responders showed significantly higher NLR, PLR, and SII (p-values < 0.05). The cut-off values of these markers for optimal IVIG-NR prediction were 4.245, 147.736, and 1465.238, respectively.
+Although all three of them were the independent RFs for IVIG-NR in KD children, SII was a better IVIG-NR predictor than NLR and PLR.

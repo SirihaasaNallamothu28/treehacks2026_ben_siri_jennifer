@@ -1,0 +1,7 @@
+PMID: 41670322
+Title: A man in his 60s with immunodeficiency and hepatitis.
+
+Abstract:
+Major causes of elevated liver enzymes are toxic, infectious, neoplastic and autoimmune disease. In immunocompromised patients, the spectrum of infectious pathogens causing hepatitis is broader and the immune response is blunted, making diagnosis more challenging.
+A man in his sixties had received CAR-T therapy for multiple myeloma.
+The increasing number of immunocompromised patients means that more patients are at risk of developing chronic hepatitis E. Serologic tests may be unreliable for this patient population, and nucleic acid testing for HEV RNA should be the primary diagnostic approach. HEV can be contracted in Norway, and hepatitis E is an underdiagnosed infection.

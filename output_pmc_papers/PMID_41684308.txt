@@ -1,0 +1,8 @@
+PMID: 41684308
+Title: Comparing various bowel preparation regimens in constipated patients undergoing colonoscopy: A systematic review and network meta-analysis of randomised controlled trials.
+
+Abstract:
+Colonoscopy effectiveness in detecting colorectal carcinoma depends on adequate bowel preparation (ABP). This network meta-analysis assesses the efficacy and safety of various bowel preparation regimens in patients with constipation.
+PubMed, Cochrane Central and ScienceDirect were searched till April 2025. A frequentist network meta-analysis was performed using the 'meta' and 'netmeta' packages on R version 4.3.3. The ranking was done using P-scores.
+Fifteen randomised controlled trials were included. Compared with 4 L polyethylene glycol (PEG), 3 L PEG + 3d-linaclotide (Lin) (risk ratio [RR] = 1.29; 95% confidence intervals [CI]: [1.12, 1.47]), 4 L PEG + 1d-Lin (RR = 1.25; 95% CI: [1.04, 1.51]), sodium phosphate (NaP) + bisacodyl (RR = 1.52; 95% CI: [1.09, 2.10]), probiotic 14d + NaP (RR = 3.59; 95% CI: [1.83, 7.04]) may show improvements in the rate of ABP. The probiotic 14d + NaP regimen was ranked best regarding ABP (P-score = 0.99) and bloating (P-score = 0.84). The 3 L PEG + 3d-Lin showed a reduction (RR = 0.18; 95% CI: [0.04, 0.88]) in abdominal pain and was ranked best regarding abdominal pain (P-score = 0.89) and vomiting (P-score = 0.80). The 4 L PEG + 1d-Lin was ranked best (P-score = 0.77) in terms of nausea.
+The 14d-probiotics + NaP and 3 L PEG + 3d-Lin may be among the more effective and tolerable bowel preparation regimens. While adverse events were similar, the observed reduction in abdominal pain with 3 L PEG + 3d-Lin may suggest improved patient comfort and adherence.

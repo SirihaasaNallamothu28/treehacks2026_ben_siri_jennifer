@@ -1,0 +1,8 @@
+PMID: 41669887
+Title: Associated Autoimmunity in Myasthenia Gravis in Denmark: A Nationwide Case-Control Study.
+
+Abstract:
+Myasthenia gravis (MG) is an autoantibody-mediated neuromuscular disease often co-occurring with other autoimmune diseases (ADs). We aimed to determine the temporal relationship between other ADs and MG.
+We conducted a nationwide, population-based case-control study of MG patients and 10 age-, sex-, and index date-matched controls from 1985 to 2020. We used conditional logistic regression to estimate odds ratios (ORs) for AD diagnoses preceding MG, and Cox regression to calculate hazard ratios (HRs) for ADs succeeding MG. Analyses were stratified by sex, age group (≤ 50 and > 50 years), baseline comorbidity, and time intervals (0-5 and 5-10 years) before and after MG.
+Our study population included 2110 MG cases (1060 females) and 21,100 matched controls, with 27.4% ≤ 50 years old. Before the index date, 5.2% of MG patients and 2.7% of controls were diagnosed with another AD, yielding an OR of 1.9 (95% CI 1.5-2.3). After MG diagnosis, 5.0% of MG patients and 2.7% of controls received an AD diagnosis (HR 2.1, 95% CI 1.2-2.6), with an overrepresentation of patients ≤ 50 years or younger, females, and patients with a low comorbidity level. Most diagnoses occurred within 5 years before MG onset. The strongest associations were observed for autoimmune thyroiditis, systemic lupus erythematosus, and pernicious anemia.
+MG patients are twofold more likely to be diagnosed with another AD, especially MG patients ≤ 50 years and women, suggesting a shared autoimmune predisposition. Understanding the AD spectrum associated with MG could improve diagnostic accuracy and treatment strategies.

@@ -1,0 +1,9 @@
+PMID: 41672949
+Title: Impact of Biologics on Cardiovascular Events in Ankylosing Spondylitis: A Meta-Analysis.
+
+Abstract:
+This meta-analysis aimed to explore the impact of biologics on the development of cardiovascular events (CEs) in patients with ankylosing spondylitis (AS).
+We collected literature related to the effects of biologics on CEs in AS patients through computerized searches of Embase, Web of Science, PubMed, and the Cochrane Library, as well as manual searches. The literature retrieval spanned from the inception of these databases up to March 28, 2025. Literature selection and data extraction were performed in accordance with predefined eligibility criteria. The Newcastle-Ottawa Scale and the Cochrane Risk of Bias tool for randomized trials were utilized to evaluate the quality of eligible articles. Data analysis was performed using STATA 15.0.
+This meta-analysis incorporated 23 eligible articles encompassing 92 623 subjects. The results illustrated that the biologics group had a lower overall CE risk than the non-biologics group (RR = 0.61, 95% CI, 0.44-0.84, p = 0.003). Specifically, the biologics group demonstrated a reduced risk of myocardial infarction (RR = 0.42, 95% CI, 0.27-0.65, p < 0.001) and ischemic heart disease (RR = 0.09, 95% CI, 0.04-0.17, p < 0.001). However, there were no significant differences in the risk of heart failure between the two groups (p > 0.05). There was no statistically significant variation in the occurrence of CEs between the two groups with the use of etanercept, ixekizumab, or golimumab (p > 0.05).
+Overall, biologic use may mitigate the risk of CEs, particularly impacting IHD and MI. Given the limitations inherent in the current body of research, additional large randomized controlled trials examining other CE subtypes and specific drug effects are needed.
+Not applicable.

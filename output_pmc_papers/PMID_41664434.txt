@@ -1,0 +1,8 @@
+PMID: 41664434
+Title: Local Anesthetic Transperineal Prostate Biopsy: Does It Affect Uroflowmetry Results.
+
+Abstract:
+Transperineal prostate biopsy (TP-Bx) is increasingly preferred due to its lower infection risk and improved clinically significant prostate cancer detection rates. Its feasibility under local anesthesia provides both clinical and economic advantages. However, acute urinary retention (AUR) remains a significant post-procedure concern. This study aims to evaluate the impact of transperineal prostate biopsy performed under local anesthesia on voiding function using uroflowmetry parameters.
+A prospective observational study was conducted with 74 patients. TP-Bx was performed under local anesthesia using a freehand technique. Uroflowmetry parameters, including maximum urinary flow rate (Q<sub>max</sub>, mL/s), average urinary flow rate (Q<sub>ave</sub>, mL/s), voided volume (V<sub>v</sub>, mL), and post-void residual volume (PVR), were assessed before and after the procedure to evaluate its impact on voiding function.
+The average changes in Q<sub>max</sub> and Q<sub>ave</sub> between pre and post procedure were 1.78 ± 4.33 and 0.63 ± 1.70, respectively. A significant reduction in Q<sub>max</sub> and Q<sub>ave</sub> was observed after TP-Bx (p < 0.001). PVR increased after TP-Bx (p < 0.001); however, these changes were mild and did not require catheterization.
+With increasing experience, TP-Bx has become safer. The use of local anesthesia reduces anesthesia-related complications, and the historically feared risk of AUR appears lower than previously assumed. These findings support TP-Bx as a safe and effective diagnostic approach.

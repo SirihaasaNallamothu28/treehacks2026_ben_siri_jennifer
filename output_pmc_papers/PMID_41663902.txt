@@ -1,0 +1,8 @@
+PMID: 41663902
+Title: Risk Factors for Major Adverse Cardiovascular Events, Malignancies, and Serious Infections With Tofacitinib in Rheumatoid Arthritis: Post Hoc Analysis of a 3-Year J-Post-Marketing Surveillance.
+
+Abstract:
+This post hoc analysis of all-case post-marketing surveillance in Japanese patients with rheumatoid arthritis assessed risk factors for major adverse cardiovascular events (MACE), malignancies, and serious infections (SI).
+Data of patients who received tofacitinib (≥ 1 dose) were stratified by each combination of age (< 50 years and ≥ 50 years) and the number of cardiovascular (CV) risk factors (0 or ≥ 1). Incidence rates (IRs) of each adverse event (AE)-MACE, malignancies, and SI, stratified by age, CV risk factors, and patient background factors were calculated.
+Overall, 7021 patients were stratified by each combination of age (< 50 and ≥ 50 years) and the number of CV risk factors (0 or ≥ 1). The IRs for malignancies and SI were higher in patients aged ≥ 50 vs. < 50 years. The IRs for all AEs were higher in patients with ≥ 1 CV risk factors than 0 CV risk factors. Older age was strongly correlated with all AEs. MACE and SI were more likely to be affected by any CV risk factors, while the other AE was influenced by some of them.
+Older age was a risk factor for all AEs (MACE, malignancies, and SI). MACE risk was also increased in patients with ≥ 1 CV risk factors versus those without. SI risk might also be increased in patients with ≥ 1 CV risk factors.

@@ -1,0 +1,5 @@
+PMID: 41672042
+Title: Doping cDC1s for tolerance.
+
+Abstract:
+Type 1 conventional dendritic cells (cDC1s) are key antigen-presenting cells and have been implicated in the induction of peripheral tolerance, yet how cDC1s actively enforce immune tolerance remains unclear. In a recent issue of Nature, Zhang et al. propose that erythropoietin receptor signaling biases cDC1s toward a maturation state associated with immune tolerance across transplantation, homeostasis, and cancer.

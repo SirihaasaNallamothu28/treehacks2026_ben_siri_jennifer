@@ -1,0 +1,8 @@
+PMID: 41677086
+Title: Positive Psychology Interventions in Patients With Prostate Cancer: A Systematic Review.
+
+Abstract:
+Prostate cancer is the most common malignancy in men and may often result in psychiatric symptoms due to the direct disease effects, hormonal treatments, functional losses, and psychological responses of patients to the cancer. Positive psychology interventions have shown promise in alleviating psychological symptoms in patients with chronic diseases but are infrequently studied in patients with prostate cancer.
+Our systematic review aimed to examine the benefits of positive psychology interventions for patients with prostate cancer.
+We searched the PubMed/Medline, Embase, and PsycInfo databases yielding 1078 initial studies, 10 of which met inclusion criteria. The methodological quality of included studies was formally assessed. Positive psychology interventions consisted of mindfulness-based therapies, meditation, hope and resilience therapies, and well-being therapies. Most studies showed a positive effect on outcomes for patients with early to advanced stage prostate cancers, including psychological distress, mood disorders, anxiety, quality of life, happiness, and life satisfaction. However, most studies were limited by small sample size, qualitative findings, and loss to follow-up.
+This systematic review demonstrates that positive psychology approaches may have benefit in patients with prostate cancer. Hormonal changes and inflammatory biomarkers are potential pathways through which positive psychology interventions influence this population.

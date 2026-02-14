@@ -1,0 +1,8 @@
+PMID: 41664176
+Title: Enhanced recovery after surgery in laparoscopic radical gastrectomy for gastric cancer: efficacy, safety, meta-analysis.
+
+Abstract:
+To systematically evaluate the efficacy and safety of enhanced recovery after surgery (ERAS) involving laparoscopic radical gastrectomy for gastric cancer (GC).
+A systematic literature search was conducted across four English databases (PubMed, the Cochrane Library, EMBASE, Web of Science) and two Chinese databases (China National Knowledge Infrastructure, Wanfang Database). The search period extended from database inception to 31 December 2024. Meta-analysis was performed using RevMan (v.5.3) software.
+Thirteen randomised controlled trials (RCTs) involving 1,915 patients (953 in the experimental group, 962 in the control group) were included. Compared with the control group, the experimental group had shorter postoperative hospital stays, fewer complications, less intraoperative blood loss, shorter time to first flatus, first oral food intake and ambulation and lower C-reactive protein levels on days 1, 3 and 5, but a higher readmission rate. No deaths occurred.
+Enhanced recovery after surgery significantly enhances recovery and reduces complications in cases of laparoscopic radical gastrectomy, demonstrating both efficacy and safety. Despite a higher readmission rate, it represents a beneficial perioperative strategy worthy of clinical adoption.

@@ -1,0 +1,10 @@
+PMID: 41689313
+Title: Artificial Intelligence-Based Digital Image Analysis for Assessing Ki67, P53, and PHH3 Expression in Glioblastoma Multiforme.
+
+Abstract:
+To compare artificial intelligence (AI)-based analysis of Ki67, PHH3, and p53 immunohistochemical (IHC) biomarkers in glioblastoma multiforme (GBM) with conventional evaluations performed by experienced pathologists, and to assess the consistency and statistical significance of both approaches across different sampling areas.
+A cross-sectional analytical study. Place and Duration of the Study: Department of Medical Pathology, Cigli Training and Research Hospital, Izmir Bakircay University, Izmir, Turkiye, from January 2023 to January 2025.
+Twenty GBM cases were analysed using IHC staining for Ki67, PHH3, and p53 in formalin-fixed and paraffin-embedded tissue sections. Stained slides were digitised and evaluated by two expert pathologists and AI-based image analysis software. Quantitative assessments were performed on 1 mm2 and 7 mm2 tumour areas. Inter- and intra-method comparisons were performed using Cohen's Kappa for agreement and Spearman's correlation for association.
+Intra-method comparisons showed strong consistency for both AI and pathologist assessments at 1 mm2 and 7 mm2 field sizes. In AI analyses, significant correlations were found between Ki67 and PHH3 (r = 0.750, p <0.001 at 1 mm2; r = 0.757, p <0.001 at 7 mm2) and between PHH3 and p53 (r = 0.548, p = 0.012 at 1 mm2; r = 0.701, p = 0.001 at 7 mm2). No correlation was observed between these markers at either field size in pathologist assessments (p >0.05 for all comparisons).
+AI-supported digital pathology demonstrates strong potential for improving the objectivity and individualisation of biomarker assessment in aggressive tumours such as GBM.
+Digital pathology, Artificial intelligence, Ki67, p53, PHH3, Glioblastoma.

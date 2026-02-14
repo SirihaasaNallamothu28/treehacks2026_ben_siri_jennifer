@@ -1,0 +1,13 @@
+PMID: 41667193
+Title: Standard chemoradiotherapy with concurrent and adjuvant camrelizumab in patients with high risk nasopharyngeal carcinoma: multicentre, randomised, open label, phase 3 trial.
+
+Abstract:
+To assess treatment with camrelizumab (a programmed death 1 inhibitor) in addition to concurrent chemoradiotherapy and as a maintenance treatment in patients with high risk nasopharyngeal carcinoma.
+Multicentre, randomised, open label, phase 3 trial.
+Seven hospitals in China between 18 August 2020 and 21 June 2022.
+Adults aged 18-70 years with newly diagnosed high risk nasopharyngeal carcinoma after three cycles of induction chemotherapy with gemcitabine and cisplatin (stage 4a, stage 2-3 with stable or progressive disease, or detectable Epstein-Barr virus DNA).
+Patients were randomly assigned (1:1) to receive combination chemoradiotherapy based on cisplatin (standard treatment group) or standard treatment with 19 cycles of intravenous camrelizumab (200 mg) once every three weeks (radiotherapy plus two concurrent cycles and 17 adjuvant cycles; camrelizumab group).
+The primary endpoint in the intention-to-treat group was progression-free survival, defined as the time from randomisation to disease recurrence (locoregional or distant) or death from any cause. Secondary endpoints included safety and overall survival.
+390 patients were enrolled and randomly assigned to the camrelizumab group (n=194) or the standard treatment group (n=196). At median follow-up of 39.9 months (interquartile range 36.8-43.4 months), progression-free survival was higher in the camrelizumab group than the standard treatment group (36 months: 83.4%, 95% confidence interval 78.3% to 88.8% <i>v</i> 71.3%, 65.2% to 77.9%; stratified hazard ratio 0.51, 95% confidence interval 0.34 to 0.77, P=0.001). The incidence of acute and late adverse events (grade 3 or 4) was 50.5% and 3.2% in the camrelizumab group compared with 48.7% and 3.7% in the standard treatment group. Immunological adverse events (grade 3 or 4) occurred in 19 patients (10.2%) in the camrelizumab group.
+The addition of camrelizumab to concurrent chemoradiotherapy and as a maintenance treatment improved progression-free survival among patients with high risk nasopharyngeal carcinoma after induction chemotherapy.
+ClinicalTrials.gov NCT04453826.
