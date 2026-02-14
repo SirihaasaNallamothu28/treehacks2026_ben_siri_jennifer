@@ -1,7 +1,0 @@
-PMID: 41688205
-Title: [Survival analysis in oncology: common methods and pitfalls].
-Journal: Zhonghua zhong liu za zhi [Chinese journal of oncology]
-Authors: Wu, H T; Liu, L
-
-Abstract:
-Survival analysis plays a crucial role in clinical oncology by estimating patient survival time, evaluating treatment efficacy, and predicting prognosis. However, the complexity of survival data and the application conditions of statistical methods pose challenges in method selection and result interpretation. This review systematically outlines the fundamental concepts and procedures of survival analysis, with a focus on the application conditions and analytical processes of the Kaplan-Meier method, Log-rank test, Cox proportional hazards model, and the Accelerated Failure Time (AFT) model. Common pitfalls in clinical oncology research are also discussed, including: (1) unscientific selection of covariates; (2) neglecting the assessment of the proportional hazards assumption when applying the Cox proportional hazards model; (3) improper handling of censored data; (4) inadequate sample size or number of events resulting in low statistical power; (5) insufficient attention to absolute risk measures; (6) confusion between median survival time and median follow-up time; and (7) failure to adjust for multiple comparisons. This review aims to provide practical guidance for conducting and reporting survival analysis in oncology research, thereby improving research quality and supporting cancer prevention and treatment efforts.

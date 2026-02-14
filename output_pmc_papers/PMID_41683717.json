@@ -1,0 +1,14 @@
+{
+    "pmid": "41683717",
+    "title": "Targeting Macrophages in Immunotherapy: The Ascent of CAR-Macrophages.",
+    "abstract": "Chimeric antigen receptor (CAR)-engineered immune cell therapies have revolutionized cancer treatment, with CAR-T cells demonstrating remarkable efficacy against hematological malignancies. However, the effectiveness of CAR-T and other lymphocyte-based therapies against solid tumors remains limited, primarily due to the immunosuppressive tumor microenvironment and poor infiltration of effector cells. Recently, CAR-macrophage (CAR-M) immunotherapy has emerged as a promising strategy to overcome these barriers. Leveraging the innate tumor-homing ability, phagocytic function, and antigen-presenting capacity of macrophages, CAR-M therapies offer unique advantages for targeting solid tumors. This review provides a comprehensive overview of the development and current state of CAR-Macrophage immunotherapy, including advances in CAR design and macrophage engineering, preclinical and clinical progress, and mechanistic insights into their anti-tumor activity. The review critically examined both the benefits and limitations of CAR-M approaches, addressing persistent challenges such as cell sourcing, durability, and safety, while also exploring innovative strategies to enhance therapeutic efficacy. Finally, future perspectives and the potential clinical impact of CAR-macrophage therapies were outlined, underscoring their emerging role in the evolving landscape of cancer immunotherapy.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031292",
+    "authors": [
+        "Nadella, Vinod",
+        "Sharma, Anu"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

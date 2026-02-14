@@ -1,7 +1,0 @@
-PMID: 41683634
-Title: Special Issue "Resistance to Therapy in Ovarian Cancers".
-Journal: International journal of molecular sciences
-Authors: Azzalini, Eros; Bonin, Serena
-
-Abstract:
-Epithelial ovarian cancers (EOCs) are a heterogenous group of neoplasms at the clinical, pathological, and molecular levels [...].

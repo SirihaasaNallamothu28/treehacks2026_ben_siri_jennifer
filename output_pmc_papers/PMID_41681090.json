@@ -1,0 +1,16 @@
+{
+    "pmid": "41681090",
+    "title": "Immune Infiltration Landscape in Osteosarcoma: Clinical Implications for Prognosis and Therapy.",
+    "abstract": "With survival rates for osteosarcoma largely unchanged for 40\u2009years-especially in metastatic/recurrent cases. While the immune microenvironment is believed to play a crucial role, the heterogeneity of immune cell infiltration (ICI) and its precise impact on prognosis and therapeutic response remain poorly characterized. There is a lack of a robust, ICI-based scoring system to stratify patients and identify novel therapeutic targets. This study aimed to identify the characteristics of ICI subtypes for evaluating prognosis and therapeutic benefits.\nBased on gene expression and clinical data from TARGET and GEO databases, ICI was characterized using ESTIMATE and CIBERSORT, leading to the development of a prognostic ICI score via PCA that stratified patients into high- and low-score groups. Key genes associated with this score were subsequently identified through WGCNA and further validated by constructing a prognostic prediction model. Finally, the ICI score demonstrated significant predictive value for metastasis and HUVOS grade across clinical cohorts.\nWe identified three ICI subtypes with distinct prognostic values. Patients with higher ICI scores showed improved survival and were enriched in CD8<sup>+</sup> T cells, monocytes, M1 macrophages, M2 macrophages, activated dendritic cells, resting mast cells, and activated mast cells. Three key genes-WAS, ARHGAP30, and PARVG-were associated with metastasis, Huvos grade, and macrophage-specific expression and served as potential prognostic biomarkers.\nThis study highlights the prognostic and therapeutic relevance of immune infiltration in osteosarcoma. The ICI score and key genes offer insights into tumor heterogeneity and potential therapeutic targets, particularly in modulating macrophage polarization and enhancing antitumor immunity. Limitations include retrospective data and lack of functional validation. Future work should focus on experimental verification and clinical translation of these immune biomarkers.",
+    "publication_year": "2026",
+    "journal": "Cancer reports (Hoboken, N.J.)",
+    "doi": "10.1002/cnr2.70495",
+    "authors": [
+        "Wang, Yuerong",
+        "Liu, Xueni",
+        "Xie, Guojin",
+        "Li, Zheqian"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

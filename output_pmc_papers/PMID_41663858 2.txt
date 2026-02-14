@@ -1,8 +1,0 @@
-PMID: 41663858
-Title: Carbon fiber-reinforced polyetheretherketone spinal instrumentation in pediatric spinal tumors: report of two cases and review of the literature.
-
-Abstract:
-Carbon fiber-reinforced polyetheretherketone (CFR-PEEK) spinal implants lessen MRI artifacts compared with titanium, potentially improving surveillance and radiotherapy planning; pediatric experience remains limited. We sought to demonstrate feasibility and imaging/radiotherapy workflow advantages in children with spinal tumors.
-An 11-year-old boy with retroclival chordoma underwent occipitocervical fusion (occiput-C5) using CFR-PEEK lateral mass screws with conventional occipital hardware; postoperative MRI sharply delineated the operative bed and enabled proton planning; he is disease-free at 6 months. A 15-year-old boy with recurrent L2-L3 Ewing sarcoma underwent laminectomy with facetectomy, gross-total resection, and L2-L3 fusion using CFR-PEEK pedicle screws; postoperative imaging showed minimal artifact and facilitated proton planning; he is disease-free at 11 months.
-Across both cases, radiolucency and markedly reduced artifact improved visualization of the tumor bed and thecal sac, supporting accurate target definition for proton therapy without compromising construct stability; pediatric constraints (e.g., lack of CFR-PEEK occipital components) were manageable with hybrid hardware.
-CFR-PEEK appears to be a practical and promising option for pediatric spinal oncology when long-term MRI surveillance and adjuvant radiotherapy are anticipated. Our experience, alongside a focused literature review, supports selective use and motivates prospective pediatric studies to confirm imaging, radiotherapy, and durability benefits.

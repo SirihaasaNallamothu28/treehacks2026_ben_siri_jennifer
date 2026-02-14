@@ -1,7 +1,0 @@
-PMID: 41683536
-Title: Enhancing Tumor Photodynamic Therapy via Molecular Engineering and Functional Modification of Photosensitizers.
-Journal: Molecules (Basel, Switzerland)
-Authors: Zheng, Wei; Tao, Linlin; Xia, Xiaofeng; Wang, Tianlin; Wang, Feiyi
-
-Abstract:
-Photosensitizers are susceptible to interference from the biological internal environment, which largely restricts the clinical application of photodynamic therapy. For instance, most existing photosensitizers tend to aggregate in the biological environment, resulting in a decrease in reactive oxygen species yield; their therapeutic efficacy is unsatisfactory in hypoxic tumor environments; they are difficult to accumulate effectively in tumor sites and cannot accurately distinguish between tumors and healthy tissues. To address these issues, this review systematically elaborates on a series of optimization strategies, including improving the intersystem crossing efficiency of photosensitizers through molecular engineering, endowing them with aggregation-induced emission properties, developing type I photosensitizers, and functionalizing photosensitizers by modifying biological proteins, targeting groups, or combining with nanoengineering, aiming to enhance the efficiency of photodynamic therapy. By summarizing the latest research breakthroughs, innovative methods, and emerging applications in this field, the review provides practical solutions and broad application prospects for photodynamic therapy, which is expected to promote the clinical translation and application of photosensitizers.

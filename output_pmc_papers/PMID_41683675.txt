@@ -1,7 +1,0 @@
-PMID: 41683675
-Title: Nasal <i>Staphylococcus aureus</i> in COVID-19 Patients Shows No Enrichment of High-Risk Clones.
-Journal: International journal of molecular sciences
-Authors: Piechowicz, Lidia; Necel, Agnieszka; Kosznik-Kwaśnicka, Katarzyna; Pałys, Magdalena; Pałubicka, Anna; Międzobrodzki, Jacek; Kosecka-Strojek, Maja
-
-Abstract:
-<i>Staphylococcus aureus</i> nasal carriage is a potential source of secondary infections in COVID-19 patients, yet it remains unclear whether SARS-CoV-2 infection favors colonization by more virulent or resistant strains. We analyzed 31 nasal <i>S. aureus</i> isolates from hospitalized COVID-19 patients to assess antimicrobial resistance, virulence gene content, and genetic diversity. Only two isolates (6.4%) were methicillin resistant, and most strains showed limited resistance beyond the MLSB phenotype. Adhesin genes were highly prevalent, whereas toxin genes were detected in only 16.1% of isolates. <i>Spa</i> typing revealed high genetic diversity with no dominant clone. Overall, <i>S. aureus</i> isolates from COVID-19 patients did not differ substantially from previously described carriage strains, suggesting no selective enrichment of highly virulent or resistant lineages during SARS-CoV-2 infection.

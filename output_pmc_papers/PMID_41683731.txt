@@ -1,7 +1,0 @@
-PMID: 41683731
-Title: Cuproptosis and Diabetic Osteoporosis: Mechanisms and Therapeutic Prospects.
-Journal: International journal of molecular sciences
-Authors: Chen, Shih-Yu; Chen, Wanyi; Gao, Ze; Cui, Yan; Zhu, Xiaofeng
-
-Abstract:
-Diabetic osteoporosis (DOP) is a metabolic bone disease characterized by abnormal bone tissue structure and reduced bone strength in patients with diabetes. Its pathogenesis is complex, involving multiple factors rather than a single cause, and has not yet been fully elucidated. Cuproptosis, a novel form of programmed cell death discovered in 2022, differs mechanistically from apoptosis, necroptosis, and ferroptosis. This process relies on the accumulation of intracellular copper ions and is closely associated with mitochondrial respiration. Studies have indicated that cuproptosis is intimately linked to glucose metabolism and bone metabolism. This review explores the role of copper homeostasis in maintaining glucose metabolism and bone quality and systematically elucidates the potential associations between cuproptosis and these processes from molecular, cellular, and pathophysiological perspectives, aiming to provide new insights and prospects for future research directions in diabetic osteoporosis.

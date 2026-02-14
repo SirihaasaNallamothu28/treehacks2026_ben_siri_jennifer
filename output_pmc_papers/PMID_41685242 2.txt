@@ -1,8 +1,0 @@
-PMID: 41685242
-Title: Standardizing cervical lymph node evaluation in papillary thyroid carcinoma: diagnostic accuracy of Node-RADS on ultrasound.
-
-Abstract:
-To assess the diagnostic performance of the Node Reporting and Data System (Node-RADS) in ultrasonographic evaluation of cervical lymph node (LN) metastasis in papillary thyroid carcinoma (PTC) and compare it with conventional suspicious sonographic features.
-This retrospective study included 227 PTC patients (269 LNs) who underwent preoperative cervical LN ultrasound and biopsy (September 2022-December 2023). Two radiologists independently assigned Node-RADS scores (1-5) based on LN size and morphologic features (shape, border, echogenicity). Diagnostic performance was evaluated using ROC analysis, with histopathology as the reference standard. Node-RADS was compared to five American Thyroid Association (ATA)-defined suspicious features (microcalcifications, cystic changes, etc.). Multivariable analysis assessed an integrated model combining Node-RADS with peripheral vascularity.
-Metastatic LNs (63.9%, 172/269) exhibited higher Node-RADS scores (malignancy rates: 35.7% for score 1 vs. 88.2% for score 5). Node-RADS achieved an AUC of 0.720 (95% CI: 0.662-0.773), surpassing individual features (best AUC: 0.703 for peripheral vascularity). Inter-reader agreement was good (<i>κ</i> = 0.67). A combined Node-RADS and peripheral vascularity model significantly improved diagnostic performance (AUC: 0.825, <i>p</i> < 0.01).
-Node-RADS offers standardized, reproducible risk stratification for cervical LN metastasis in PTC, with moderate diagnostic accuracy. Integration with peripheral vascularity enhances performance, supporting its potential clinical utility in preoperative assessment.

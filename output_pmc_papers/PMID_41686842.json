@@ -1,0 +1,21 @@
+{
+    "pmid": "41686842",
+    "title": "A rare ORAI1 missense variant associates with risk of vascular diseases in White British adults.",
+    "abstract": "Pathological remodelling of native vascular smooth muscle cells (VSMC) within the arterial wall is a key contributor to vascular disease. A driver of this remodelling is platelet-derived growth factor BB (PDGF-BB) and its signalling via activation of the store-operated calcium ion channel, ORAI1. Here, we investigated if there are associations of ORAI1 polymorphisms with human cardiovascular disease.\nWe conducted candidate gene association analysis and revealed that a missense ORAI1 variant (rs3741596, S218G) associates with an increased risk of hospital-diagnosed peripheral vascular disease, generalised atherosclerosis, acute ischaemic heart disease, and atrioventricular and left bundle-branch block in White British UK Biobank participants. Rs3741596 is also associated with higher circulating platelet counts and reduced total triglyceride levels. Functional analysis of the effects of rs3741596 S218G variant on ORAI1 channel function, via introduction of the S218G ORAI1 variant in HEK293 cells using CRISPR/Cas9 and investigation of its effects on store-operated calcium entry (SOCE), showed significantly enhanced SOCE compared to wild type cells, suggesting that the S218G variant enhances ORAI1 function.\nOur results reveal an association between an ORAI1 missense variant and hospitalisation for peripheral vascular disease, generalised atherosclerosis, acute ischaemic heart disease, and atrioventricular and left bundle-branch block. These findings provide a novel insight into the role of ORAI1 in vascular remodelling and highlight its potential as a treatment target for vascular pathologies.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0337519",
+    "authors": [
+        "Shawer, Heba",
+        "Cheng, Chew W",
+        "Hemmings, Karen E",
+        "Aldawsari, Abeer M",
+        "Revilla-Gonz\u00e1lez, Gonzalo",
+        "Stocco, Fabio",
+        "Shi, Jian",
+        "Beech, David J",
+        "Bailey, Marc A"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

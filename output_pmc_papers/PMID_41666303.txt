@@ -1,9 +1,0 @@
-PMID: 41666303
-Title: Artificial Intelligence Models to Predict Recurrence Risk Prediction in Early-Stage Non-Small Cell Lung Cancer: A Systematic Review.
-
-Abstract:
-The purpose of this study was to systematically evaluate predictive models for assessing the risk of postoperative recurrence in patients with early-stage non-small cell lung cancer, and to determine the effect of integrating different data modalities on model performance.
-A systematic search of PubMed, Embase, and Web of Science databases up to April 30, 2025 identified eligible studies. Seventeen original studies were included after screening 2672 records and reviewing 133 full texts. Data extraction focused on study characteristics, types of data used, modelling strategies, and predictive performance. Risk of bias was assessed using the Prediction model Risk of Bias Assessment Tool (PROBAST)+artificial intelligence (AI) tool.
-Random forest and random survival forest models performed robustly on single-modality data, while the integration of multimodality data significantly improved model performance (area under the curve [AUC] range: 0.72-0.94). Notably, the DeepRePath model based on XGBoost achieved an AUC of 0.94 in pathological image analysis, while graph neural networks also performed well in multicentre CT data analysis (AUC 0.785). However, models generally face the risk of overfitting. PROBAST+AI tool assessments revealed that 7 studies were classified as high-risk during the model development phase due to improper sample handling, while 13 studies exhibited high bias risk during the validation phase due to insufficient test set size (<100) or reliance on apparent performance.
-Predictive models show promising accuracy for recurrence risk assessment in early-stage non-small cell lung cancer, with multimodal data integration improving generalizability.
-CRD42024629196.

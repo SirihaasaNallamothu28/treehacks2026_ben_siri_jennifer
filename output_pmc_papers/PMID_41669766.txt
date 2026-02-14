@@ -1,8 +1,0 @@
-PMID: 41669766
-Title: Modulation of Neuroinflammation and Nitrite Imbalance in the Hippocampus by Simvastatin: Therapeutic Potential in Maternal Separation-Induced Autism Spectrum Disorder.
-
-Abstract:
-Autism spectrum disorder (ASD) is an increasingly occurring neurobiological condition. As a main risk factor, maternal separation (MS) stress has a role in the foundation of ASD. Simvastatin possessed neuroprotective effects. We intended to estimate the impact of simvastatin on autism-related behaviours in mice subjected to the MS paradigm, concentrating on its likely effects on hippocampal oxidative stress imbalance and neuroinflammation.
-Forty mice were unintentionally assigned into 5 groups: including control group (normal saline treated [10 mL/kg]) and MS groups respectively administrated with normal saline (10 mL/kg) or simvastatin at doses of 2.5, 5 and 10 mg/kg for 2 weeks. Shuttle box, marble burying (MB) and three-chamber sociability trials were performed. Hippocampal malondialdehyde (MDA), nitrite, total antioxidant capacity (TAC) and expression of proinflammatory cytokines, counting TLR4, TNF-α, IL-1β and NLRP3, were measured.
-Simvastatin in MS mice led to notable improvements in behaviour and cognition as elevating social interaction indices in the three-chamber test, enhancing passive avoidance memory in the shuttle box test and reducing repetitive actions as observed in the marble burying test. Simvastatin abridged the hippocampal nitrite content and neuroinflammatory response.
-Simvastatin, perhaps through weakening the hippocampal nitrite imbalance and neuroinflammation, alleviated autism-related behaviours in MS mice.

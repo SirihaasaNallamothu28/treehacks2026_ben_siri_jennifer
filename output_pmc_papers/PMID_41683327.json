@@ -1,0 +1,22 @@
+{
+    "pmid": "41683327",
+    "title": "Composition of the Gut Microbiota in Older Adults Residing in a Nursing Home and Its Association with Dementia.",
+    "abstract": "<b>Background</b>: The human gut microbiota plays a pivotal role in maintaining health throughout the lifespan, and age-related alterations in its composition and diversity have been implicated in numerous chronic and neurodegenerative conditions. However, the combined effects of aging, dementia, and shared living environments on gut microbial communities remain incompletely understood. <b>Methods</b>: This study included 56 older adults residing in a nursing home, of whom 29 had been diagnosed with dementia. Gut microbiota composition was characterized by 16S ribosomal RNA (rRNA) gene sequencing. Microbial diversity was assessed using alpha- and beta-diversity metrics, and differences in amplicon sequence variants (ASVs)/features were determined. Analyses adopted some covariates as potential confounders variables including age, sex, frailty status, drug use, and time spent in the nursing home. <b>Results</b>: Alpha diversity was significantly higher in older adults compared with younger, while beta-diversity analyses revealed distinct microbial community structures between age groups. In older individuals, <i>Bacteroidota</i> and <i>Proteobacteria</i> were the most abundant phyla, whereas <i>Firmicutes</i> and <i>Actinobacteriota</i> declined with advancing age. Notably, older adults exhibited an increased relative abundance of <i>Euryarchaeota</i>, a phylum encompassing <i>Archaea</i>, predominantly methanogens involved in anaerobic carbon dioxide reduction to methane. In subjects with dementia, marked compositional shifts were detected, resulting in a distinct microbial signature. Dementia was associated with a significant enrichment of <i>Actinobacteriota</i>, <i>Euryarchaeota</i>, and <i>Proteobacteria</i>, alongside a depletion of <i>Bacteroidota</i> and <i>Firmicutes</i>. Overall, different bacterial genera mostly belonging to the <i>Firmicutes</i> phylum were associated both with aging and dementia. <b>Conclusions</b>: Results show age-related remodeling of the gut microbiota, with a stable core of common taxa and distinct individual-specific signatures. These shifts reflect both host factors and life-long environmental conditions. Dementia-related changes seem to correlate with increased inflammatory species, thus suggesting the effect of vulnerability in microbiota changes in subjects sharing living environment and diet.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030505",
+    "authors": [
+        "Sena, Giada",
+        "De Rango, Francesco",
+        "De Rose, Elisabetta",
+        "Perrotta, Annamaria",
+        "Berardelli, Maurizio",
+        "Scorza, Angelo",
+        "Cretella, Bonaventura",
+        "Passarino, Giuseppe",
+        "D'Aquila, Patrizia",
+        "Bellizzi, Dina"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

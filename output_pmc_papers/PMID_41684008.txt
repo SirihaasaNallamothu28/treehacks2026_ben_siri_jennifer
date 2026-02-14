@@ -1,7 +1,0 @@
-PMID: 41684008
-Title: Composition of Human Meibomian Gland Secretions: Insights from TOF-SIMS Analysis.
-Journal: International journal of molecular sciences
-Authors: Balin, Katarzyna; Węglarz, Beata; Dobiczek, Karol; Tarnawska, Dorota
-
-Abstract:
-This study evaluated the efficacy of the TOF-SIMS (time-of-flight secondary ion mass spectrometry) technique for the comprehensive lipidomic analysis of human meibum, a lipid-rich secretion essential for tear film stability, using samples collected from ten participants. The applied methodology proved effective in characterizing the complex chemistry of meibum, confirming the presence of diverse lipid classes, including fatty acids, sterols, and glycerolipids. Multivariate and pairwise statistical analyses, including permutational multivariate analysis of variance (PERMANOVA) and maximum mean discrepancy (MMD),confirmed the significant compositional difference between the two groups. Principal component analysis (PCA) revealed a clear separation between the samples, driven primarily by an elevated ratio of monounsaturated fatty acids (C18:1, C16:1) to cholesterol in the group with MGD compared to healthy controls. These findings demonstrate the utility of TOF-SIMS coupled with multivariate analysis for detecting disease-specific molecular alterations in meibum, highlighting its potential for differentiating ocular surface pathologies.

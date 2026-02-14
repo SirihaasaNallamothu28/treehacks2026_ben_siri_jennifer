@@ -1,8 +1,0 @@
-PMID: 41668141
-Title: Epidemiological profile of surgical treatment for colorectal cancer: Retrospective analysis of trends and regional disparities in Brazil, 2014-2024.
-
-Abstract:
-Colorectal cancer (CRC) represents a major challenge for public health in Brazil due to its high incidence and mortality. This study examines temporal trends, regional disparities and outcomes of CRC surgeries performed in Brazil between 2014 and 2024.
-We conducted a retrospective observational analysis using data from the Hospital Information System of the Unified Health System (SIH-SUS). We included all patients who underwent CRC surgery financed by the SUS during the period. We analysed patient demographics, surgery rates per 100,000 inhabitants (excluding the population covered by voluntary private health insurance), in-hospital mortality and length of stay in the five geographic regions of Brazil.
-In total, we identified 313,531 CRC surgeries. Most patients were between 60 and 69 years old (30.1%), with a similar distribution between genders (50.2% men). Surgery rates varied considerably across regions, from 51.4 per 100,000 inhabitants in the North to 319.9 in the South. In-hospital mortality ranged from 5.2% to 6.7%, with variation among geographic regions. The number of procedures increased by 74% during the period, except for a decline in 2020, possibly related to the COVID-19 pandemic.
-Our findings reveal substantial regional heterogeneity in surgical provision and in-hospital outcomes for CRC within the Brazilian public health system, particularly affecting the North region. These descriptive patterns may inform health system monitoring and future policy-oriented research and decision making.

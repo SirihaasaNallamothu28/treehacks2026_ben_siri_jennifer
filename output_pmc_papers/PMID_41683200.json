@@ -1,0 +1,27 @@
+{
+    "pmid": "41683200",
+    "title": "Bioelectrical Impedance and GLIM Criteria Identify Early Nutritional Deterioration and Mortality in Acute Leukemia Patients Undergoing Chemotherapy.",
+    "abstract": "Malnutrition is highly prevalent in patients with acute leukemia and is frequently underrecognized at diagnosis. Traditional screening tools based on anthropometry often fail to identify early nutritional deterioration. This study aimed to evaluate the prognostic utility of a comprehensive morphofunctional assessment-including bioelectrical impedance vector analysis (BIVA), handgrip strength (HGS), and muscle ultrasound-conducted at diagnosis and after induction therapy, to evaluate the prognostic association with 12-month mortality.\nIn this prospective cohort study, 52 adult patients with newly diagnosed acute leukemia were enrolled between November 2022 and November 2024 at two tertiary hospitals in M\u00e1laga, Spain. Nutritional status was determined using GLIM criteria. Morphofunctional assessment included BIVA-derived phase angle (PhA), HGS via dynamometry, and rectus femoris ultrasound. A second evaluation was performed prior to haematopoietic stem cell transplantation. Mortality at 12 months was the primary outcome. Logistic regression and ROC analysis were used to assess prognostic associations.\nAt baseline, 65.4% of patients were classified as malnourished. After three months, patients showed significant declines in PhA (-0.55\u00b0, <i>p</i> < 0.001), body cell mass (-3.15 kg, <i>p</i> < 0.01), skeletal muscle mass (-1.66 kg, <i>p</i> < 0.01), and rectus femoris cross-sectional area (-0.36 cm<sup>2</sup>, <i>p</i> = 0.011). Baseline malnutrition (OR = 6.88; 95% CI: 1.17-40.38; <i>p</i> = 0.033) and PhA decline \u2265 0.90\u00b0 were both independently associated with higher 12-month mortality.\nEarly morphofunctional assessment using GLIM criteria, BIVA, and muscle ultrasound identifies patients at nutritional and functional risk. PhA decline during treatment was associated with higher 12-month mortality, supporting the need for early, personalized nutritional intervention in leukemia care.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030374",
+    "authors": [
+        "Dalla Rovere, Lara",
+        "Tapia Guerrero, Mar\u00eda Jos\u00e9",
+        "Doulatram-Gamgaram, Viyey K",
+        "Garcia-Olivares, Mar\u00eda",
+        "Del Arco-Romualdo, Bel\u00e9n",
+        "Gonzalo-Mar\u00edn, Montserrat",
+        "Mora, Mar\u00eda Rosario Vallejo",
+        "Decoud, Daniel Barrios",
+        "Aizp\u00fan, Carola D\u00edaz",
+        "S\u00e1nchez-Torralvo, Francisco Jos\u00e9",
+        "Herola-Cobos, Cristina",
+        "Hardy-A\u00f1\u00f3n, Carmen",
+        "Hernandez-Sanchez, Agust\u00edn",
+        "Garc\u00eda-Almeida, Jos\u00e9 Manuel",
+        "Olveira, Gabriel"
+    ],
+    "num_authors": 15,
+    "citations": 0
+}

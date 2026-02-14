@@ -1,0 +1,15 @@
+{
+    "pmid": "41686307",
+    "title": "Exploration of biosynthetic gene clusters in Streptomyces sp. EMB26: A genomic and functional insight into antibacterial potential.",
+    "abstract": "A halotolerant actinobacterial strain, EMB26, was isolated from soil collected from the Salt Pan region of Raigarh, Maharashtra, India. The strain formed dry, powdery colonies with greyish-white aerial mycelia, and Scanning Electron Microscopy revealed a dense, interwoven mycelial network with variable coloration, including grey, white, and pink aerial masses. Phylogenetic analysis based on 16S rRNA sequencing (GenBank Accession No. PP587436) identified EMB26 as closely related to Streptomyces coelicolor, a species well known for its bioactive potential. Physiologically, EMB26 tolerated up to 7% NaCl (optimal 5-6%), efficiently utilized carbohydrates such as dextrose and fructose, resisted multiple antibiotics including chloramphenicol and penicillin G, and produced enzymes such as amylase, protease, and \u03b2-galactosidase. Genome analysis (GenBank Accession No. CP177290) revealed extensive biosynthetic potential, with gene clusters predicting metabolites including naphthyridinomycin, curamycin, alkylresorcinols, ectoine, and desferrioxamine. Consistent with these predictions, EMB26 exhibited strong antibacterial activity against Gram-positive pathogens, including methicillin-resistant Staphylococcus aureus (MRSA), as well as Gram-negative bacteria. The strain also effectively disrupted preformed biofilms of Pseudomonas aeruginosa, highlighting a clear correlation between its genomic potential and observed phenotypic bioactivity. Collectively, these features underscore EMB26 as a promising source of novel antimicrobial and bioactive compounds for addressing multidrug-resistant infections.",
+    "publication_year": "2026",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02263-4",
+    "authors": [
+        "Zaidi, Saniya",
+        "Srivastava, Nitin",
+        "Khare, Sunil Kumar"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

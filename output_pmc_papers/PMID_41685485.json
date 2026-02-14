@@ -1,0 +1,15 @@
+{
+    "pmid": "41685485",
+    "title": "Establishing an Artificial Intelligence Sandbox for Diagnostic Imaging in Ontario.",
+    "abstract": "Ontario faces persistent diagnostic imaging (DI) challenges, which includes fragmented implementation of Artificial Intelligence (AI) solutions. The Canadian Association of Radiologists (CAR) has emphasized the need for freely available, modality-specific sandboxes to safely evaluate and refine AI tools prior to clinical use. In response, this paper proposes a provincially governed AI Sandbox for Diagnostic Imaging, designed to enable secure testing, validation, and scaling of AI innovations within a privacy-by-design framework. The AI Sandbox integrates six policy domains, such as clinical utility, ethics and privacy, technical design, governance, legal compliance, and sustainability, to guide responsible adoption. Supported by the Ontario Ministry of Health's commitment to trustworthy AI, this initiative aims to foster equitable, transparent, and system-wide innovation in diagnostic imaging.",
+    "publication_year": "2026",
+    "journal": "Studies in health technology and informatics",
+    "doi": "10.3233/SHTI260029",
+    "authors": [
+        "Bravo, Michael",
+        "Althagafi, Marwan G",
+        "Kalantarova, Anastasia"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

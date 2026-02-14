@@ -1,0 +1,25 @@
+{
+    "pmid": "41684244",
+    "title": "Risk of hypertension in people with HIV in the USA initiating modern antiretroviral regimens: pooled analysis of blood pressure data from five clinical trials.",
+    "abstract": "People with HIV have a greater risk of cardiovascular disease than the general population. Current literature suggests that some ARTs may exacerbate this risk.\nTo estimate the risk of hypertension in treatment-na\u00efve people with HIV receiving integrase strand transfer inhibitor (INSTI)/tenofovir alafenamide (TAF) or INSTI/non-TAF versus NNRTI/non-TAF regimens.\nPost hoc pooled analysis evaluating data from US participants in five Phase 3 randomized studies. Adjusted prevalence of Stage 1 and 2 hypertension (American College of Cardiology/American Heart Association criteria) and conditional odds of higher blood pressure ratios were estimated using proportional odds mixed-effect regression through 108\u2005weeks after ART initiation. Time to incident hypertension through 96\u2005weeks was modelled using Cox proportional-hazards regression.\nIn total, 2411 participants were included (528, 749 and 1134 received NNRTI/non-TAF, INSTI/non-TAF and INSTI/TAF regimens, respectively). Nearly half of participants had hypertension (Stage \u22651) at baseline. The Week 96 adjusted estimates of risk of hypertension (95% CI) were 1.06 (0.99, 1.13) and 1.12 (0.98, 1.27) for Stages \u22651 and \u22652 hypertension, respectively, for NNRTI/non-TAF versus INSTI/non-TAF, and 1.01 (0.95, 1.08) and 1.02 (0.91, 1.17) for Stages \u22651 and \u22652 hypertension, respectively, for NNRTI/non-TAF versus INSTI/TAF. There were no significant differences in conditional odds of high blood pressure between treatment groups. No significant differences were identified in time to incident composite hypertension for INSTI/non-TAF and INSTI/TAF versus NNRTI/non-TAF regimens; estimated hazard ratios (approximate 95% CI) were 0.88 (0.66, 1.17) and 0.98 (0.75, 1.28), respectively.\nResults suggest the risk of hypertension is not significantly different across INSTI/TAF, INSTI/non-TAF and NNRTI/non-TAF regimens.",
+    "publication_year": "2026",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "doi": "10.1093/jac/dkag005",
+    "authors": [
+        "Hsue, Priscilla Y",
+        "Waters, Laura",
+        "Orkin, Chloe",
+        "Tiraboschi, Juan Manuel",
+        "Avihingsanon, Anchalee",
+        "Marongiu, Andrea",
+        "Whiteman, Andrew S",
+        "Tian, Yuan",
+        "Nielson, Carrie M",
+        "Aizen, Keith",
+        "Cohen, Calvin",
+        "Hindman, Jason T",
+        "Rockstroh, J\u00fcrgen K"
+    ],
+    "num_authors": 13,
+    "citations": 0
+}

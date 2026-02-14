@@ -1,5 +1,0 @@
-PMID: 41667925
-Title: [Challenges and strategies in managing distal aneurysms after endovascular repair of aortic dissection].
-
-Abstract:
-Aortic dissection is a life-threatening cardiovascular condition, with thoracic endovascular aortic repair (TEVAR) emerging as the preferred treatment for Stanford type B aortic dissection. TEVAR facilitates thrombosis of the false lumen and remodeling of the true lumen by sealing the initial entry tear. While distal re-entry tears are often left untreated, which can result in the formation and progression of distal aneurysms. Current surgical techniques for managing distal aneurysms each possess distinct advantages and limitations, while their complex anatomical characteristics present significant challenges for clinical application. This article aims to examine the applicability, benefits, drawbacks, and challenges associated with various methods for managing distal aneurysms following aortic dissection, along with corresponding strategies, to provide valuable insights for clinical practice.

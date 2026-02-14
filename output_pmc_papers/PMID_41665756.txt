@@ -1,9 +1,0 @@
-PMID: 41665756
-Title: The effect of prenatal education on the fear of childbirth: A systematic review and meta-analysis.
-
-Abstract:
-To evaluate the effect of prenatal education on the fear of childbirth among pregnant women based on previously conducted studies.
-A systematic review and meta-analysis of randomized controlled trials and quasi-experimental studies was conducted following the PRISMA guidelines. The data were pooled through meta-analysis. ROBINS-I and RoB2 were used to assess the quality of the studies. The GRADE approach was used for evaluating the certainty of evidence.
-The meta-analysis included 28 studies and the total sample size of the studies was 3073. The results showed that statistically, prenatal education significantly reduced the fear of childbirth during both the antepartum and postpartum period (SMD: -1.12, z = 9.14, p < 0.001; MD: -24.35, z = 6.18, p < 0.001 respectively). The meta-regression performed indicated that the study design, the course of the COVID-19 pandemic, data collection tools, the countries of the studies and features of education had no effect on the results of fear of childbirth in pregnancy. Moreover, the meta-analyses showed that prenatal education increased the likelihood of vaginal birth and the preference for vaginal birth approximately by two times and three times respectively (OR: 2.00, z = 4.82, p < 0.001; OR: 2.87, z = 3.89, p = 0.001 respectively). The certainty of evidence was low for fear of childbirth during pregnancy, moderate for fear of childbirth in the postpartum period and high for vaginal birth and preference for vaginal birth.
-This study revealed that prenatal education was effective for reducing the fear of childbirth and therefore, increasing vaginal births.
-CCRD42022378547.

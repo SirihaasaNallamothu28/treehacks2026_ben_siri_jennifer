@@ -1,0 +1,14 @@
+{
+    "pmid": "41688757",
+    "title": "Intracranial hemorrhage in deep brain stimulation: a meta-analysis of incidence, surgical approach, laterality, symptoms, and center experience.",
+    "abstract": "Intracranial hemorrhage (ICH) is one of the most serious complications of deep brain stimulation (DBS). Reported incidence varies widely due to differences in surgical technique, patient selection, and definitions of hemorrhagic events. This meta-analysis provides an updated estimation of ICH risk in modern DBS practice, focusing on data from high-volume centers published within the last decade. Following PRISMA 2020 principles, we searched PubMed/MEDLINE and Scopus for studies published between June 30, 2014, and June 30, 2024. Eligible studies were single-center cohorts or case series including more than 100 patients undergoing DBS for neurological, movement, or psychiatric disorders. Thirty studies comprising 9634 patients and 17,517 implanted electrodes met inclusion criteria. Pooled proportions were calculated using random-effects models. Subgroup analyses examined the effect of surgical technique (MER vs. non-MER), hemorrhage laterality, and symptomatic versus asymptomatic events. Meta-regression assessed the association between annual electrode volume and ICH risk. The pooled incidence of ICH was 2.74% per patient, 1.49% per electrode, and 2.35% per procedure. MER-based procedures showed a slightly higher ICH rate (2.89%) than non-MER (2.16%), although the difference was not statistically significant (p\u2009=\u20090.706). Unilateral hemorrhages accounted for 83% of all ICHs, and symptomatic events represented 54.4% of cases. Higher annual electrode volume was significantly associated with lower hemorrhage rates (p\u2009<\u20090.001). Modern DBS is associated with a relatively low risk of intracranial hemorrhage, particularly in experienced, high-volume centers. The predominance of unilateral and symptomatic events highlights the importance of careful perioperative monitoring.",
+    "publication_year": "2026",
+    "journal": "Neurosurgical review",
+    "doi": "10.1007/s10143-026-04148-6",
+    "authors": [
+        "Karamon, Karol Sylwester",
+        "Sobstyl, Micha\u0142"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

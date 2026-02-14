@@ -1,9 +1,0 @@
-PMID: 41668891
-Title: Impella Versus Selective Biatrial Canulation for Left Ventricular Unloading During Extracorporeal Membrane Oxygenation.
-
-Abstract:
-Comparisons of preload unloading techniques for left ventricle overdistension during venoarterial (VA) extracorporeal membrane oxygenation (ECMO) support are scarce. We compared outcomes in patients with left ventricular distension treated with cannulated percutaneous atrioseptostomy combined with ECMO-specified as selective biatrial extracorporeal membrane oxygenation (SBA-ECMO)-versus those treated with Impella CP/5.0 in combination with ECMO (ECPELLA).
-Consecutive adult patients who received VA-ECMO and underwent additional left ventricle unloading between January 2014 and March 2023 were studied. The primary endpoint was the number of ventilation-free days. The secondary endpoints were serious bleeding, blood product consumption, thrombotic complications, and 28-day mortality.
-We included 57 patients, 27 of whom received SBA-ECMO and 30 of whom received ECPELLA. The median number of ventilation-free days was 10 days (0-23) with SBA-ECMO and 5 days (0-23) with the ECPELLA (<i>p</i> = 0.61). According to the multivariable analyses, SBA-ECMO was associated with a lower risk of serious bleeding (HR 0.31 [95% CI 0.12-0.80]) and less blood product consumption (RR 0.57 [95% CI 0.36-0.90]) than ECPELLA. Thrombotic complications and 28-day mortality were similar between the groups before and after multivariable analyses.
-In patients with left ventricle congestion during VA-ECMO support, left ventricle unloading with SBA-ECMO was associated with reduced serious bleeding and transfusions compared with ECPELLA, despite a similar number of ventilation-free days, thrombotic complications, and mortality.
-ClinicalTrials.gov identifiers: NCT03431467 and NCT05577195.

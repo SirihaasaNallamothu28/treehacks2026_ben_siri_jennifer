@@ -1,8 +1,0 @@
-PMID: 41664890
-Title: Who Wins the Battle Against Obesity? A Network Meta-Analysis Comparing Tirzepatide and Semaglutide.
-
-Abstract:
-Pharmacological therapies are recommended for individuals with obesity. Semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1), and tirzepatide, a dual glucose-dependent insulinotropic polypeptide and GLP-1 receptor agonist (GIP/GLP-1), are among the leading pharmacological options for obesity treatment. This network meta-analysis (NMA) aims to evaluate the comparative efficacy of these two agents in reducing body weight and improving glycemic parameters.
-Pairwise comparisons within the NMA were conducted using a frequentist approach in RCTs comparing tirzepatide or semaglutide versus placebo, as well as tirzepatide versus semaglutide at their maximum dosages (15 and 2.4 mg, respectively).
-A total of 28 RCTs were included, comprising 34 367 participants, 39.6% of whom were women and with a mean age of 57.8 ± 8.95 years. Tirzepatide demonstrated superiority over semaglutide in percentage weight reduction (mean difference [MD] 6.10%; 95% CI: 3.64, 8.57), absolute weight loss (MD 4.55 kg; 95% CI: 1.28, 7.83), BMI reduction (MD 1.71 kg/m<sup>2</sup>; 95% CI: 0.08, 3.34), and waist circumference reduction (MD 2.89 cm; 95% CI: 1.25, 4.53). Regarding glycemic parameters, tirzepatide was also more effective than semaglutide in reducing HbA1c (MD 0.33%; 95% CI: 0.20, 0.46) and fasting blood glucose (MD 10.39 mg/dL; 95% CI: 4.48, 16.29).
-In this NMA, tirzepatide appeared to be superior to semaglutide in both body weight reduction and improvement of glycemic indices.

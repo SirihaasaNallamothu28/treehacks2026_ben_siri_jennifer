@@ -1,8 +1,0 @@
-PMID: 41673213
-Title: Perfusion changes associated with intratumoral embolization and feeder occlusion for meningiomas: an arterial spin labeling study.
-
-Abstract:
-Preoperative embolization for meningiomas has been used as an adjuvant therapy for surgery, although its clinical benefits remain controversial. Among embolization strategies, intratumoral embolization has been suggested to reduce tumor blood flow (TBF) more effectively than feeder occlusion; however, objective perfusion-based evaluations remain limited. The purpose of this study was to explore perfusion changes associated with feeder occlusion and intratumoral embolization using arterial spin labeling (ASL).
-Forty-three consecutive patients who underwent preoperative embolization for meningiomas and pre- and post-embolization ASL were classified into intratumoral embolization and feeder occlusion groups. The TBF and cerebral blood flow (CBF) of each patient were calculated from the ASL. The TBF/CBF (T/N) ratios and the flow reduction rate were evaluated for both intratumoral embolization and feeder occlusion groups.
-The postoperative T/N ratio significantly decreased in the intratumoral embolization group compared with the preoperative T/N ratio (P = 0.003). Meanwhile, no significant change was observed in the feeder occlusion group (P = 0.36). The flow reduction rate was significantly higher in the intratumoral embolization group than in the feeder occlusion group (50.6% vs. 24.1%; P = 0.001).
-In this retrospective cohort, intratumoral embolization was associated with a greater reduction in tumor blood flow than feeder occlusion as assessed by ASL.

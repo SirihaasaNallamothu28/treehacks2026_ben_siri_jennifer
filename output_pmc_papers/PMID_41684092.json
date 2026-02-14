@@ -1,0 +1,28 @@
+{
+    "pmid": "41684092",
+    "title": "Rhein Alleviates Cerebral Ischemia/Reperfusion Injury by Inhibiting the Microglial NLRP3 Inflammasome/Pyroptosis Axis and Regulating Microglial M1/M2 Phenotypes.",
+    "abstract": "The activation of the NLRP3 inflammasome is critical to inducing microglial activation and pyroptosis following cerebral ischemia/reperfusion (I/R). Suppressing the neurotoxicity of activated microglia has become an effective approach for treating cerebral I/R injury. Rhein is an anthraquinone compound found in rheum, and possesses anti-inflammatory, antagonistic, and antifibrotic effects. This study assessed whether rhein influences NLRP3 inflammasome activation, pyroptosis, and the polarization of microglia after cerebral I/R or oxygen-glucose deprivation and reoxygenation (OGD/R). Cerebral I/R models were established in Sprague-Dawley rats via transient middle cerebral artery occlusion (tMCAO) surgery, and OGD/R models were established in BV-2 cells using a hypoxic chamber. After treatment with rhein, the infarction/edema ratio, BV-2 cell viability, expression of NLRP3 inflammasome, and levels of microglial polarization and pyroptosis were detected. Finally, NLRP3 inhibitors (MCC950) were used to assess whether rhein exerted its effects by inhibiting the activation of the NLRP3 inflammasome in regulating pyroptosis and polarization of microglia. Rhein permeated the blood-brain barrier of rats after tMCAO, protected against tMCAO-induced brain injury, and inhibited microglial NLRP3 inflammasome activation and pyroptosis after tMCAO or OGD/R.\u00a0It also suppressed tMCAO- or OGD/R-induced polarization of the M1 phenotype in microglia, and skewed them toward the M2 phenotype. Moreover, co-administration of rhein and MCC950 synergistically enhanced both the inhibition of the NLRP3 inflammasome activation/pyroptosis axis and the regulation of microglial polarization after tMCAO or OGD/R.\u00a0Rhein exerts neuroprotective effects by regulating microglial pyroptosis and polarization through inhibiting the activation of NLRP3 inflammasome after tMCAO or OGD/R.",
+    "publication_year": "2026",
+    "journal": "The American journal of Chinese medicine",
+    "doi": "10.1142/S0192415X26500096",
+    "authors": [
+        "Li, Xun",
+        "Li, Yan",
+        "Jing, Wei-Peng",
+        "Yao, Ming-He",
+        "Li, Ling-Ling",
+        "Zhang, Hai-Bo",
+        "Liu, Yan-Jie",
+        "Xu, Hua-Ming",
+        "Ren, Dong-Fang",
+        "Ma, Hui-Fen",
+        "Yuan, Pei-Pei",
+        "Li, Ya-Min",
+        "Fu, Jun-Min",
+        "Wang, Hui",
+        "Fang, Xiao-Yan",
+        "Miao, Ming-San"
+    ],
+    "num_authors": 16,
+    "citations": 0
+}

@@ -1,0 +1,21 @@
+{
+    "pmid": "41685321",
+    "title": "Prognostic value of HRCT-based risk stratification for acute/subacute progression in polymyositis/dermatomyositis-associated interstitial lung disease.",
+    "abstract": "Aiming to evaluate the predictive value of high-resolution computed tomography (HRCT) features for identifying acute/subacute progression in patients with polymyositis/dermatomyositis (PM/DM)-associated interstitial lung disease (ILD), and to develop a risk stratification algorithm based on clinico-radiologic parameters.\nThis retrospective cohort study included 282 patients with PM/DM who underwent HRCT from January 2020 to December 2024. Baseline clinical data and HRCT imaging characteristics were systematically collected. Over time, 140 patients with PM/DM-ILD were followed. HRCT scores and imaging patterns were assessed, and cases of acute/subacute ILD progression were documented during the follow-up period. Penalized Cox regression (LASSO) was conducted to identify independent risk factors associated with disease progression and to develop a risk stratification method. The concordance index (C-index), net reclassification improvement (NRI), integrated discrimination improvement (IDI) and decision curve analysis (DCA) were used to evaluate the discriminative ability of this stratification. Algorithm performance was assessed using calibration plots to evaluate agreement between predicted and observed risks.\nDuring a median follow-up duration of 5.69 months (IQR, 1.77-5.91 months), 56 (40.0%) patients experienced acute/subacute ILD progression. The HRCT score was considered an independent predictor of acute/subacute progression in patients with PM/DM-ILD. A newly developed risk stratification scheme, according to thresholds of HRCT score, imaging classification (organizing pneumonia [OP] vs. non-OP patterns), and anti-MDA5 antibody status, demonstrated good predictive ability for identifying patients at risk of progression. In combination with clinical parameters, the integrated predictive algorithm significantly outperformed traditional clinical risk algorithm, with significant enhancements in C-index (to 0.764). The incremental predicted value was demonstrated by improved NRI (0.470), IDI (0.218), and DCA metrics.\nA high HRCT score is an independent predictor of acute/subacute progression in patients with PM/DM-ILD. Incorporating clinical parameters into the imaging-based algorithm significantly improves its predictive accuracy for progressive disease.",
+    "publication_year": "2026",
+    "journal": "Frontiers in immunology",
+    "doi": "10.3389/fimmu.2026.1748191",
+    "authors": [
+        "Jiang, Siyu",
+        "Su, Kaixiang",
+        "Pang, Caifeng",
+        "Tang, Yuqing",
+        "Xiang, Yujie",
+        "Han, Ju",
+        "Pu, Hongji",
+        "He, Yonglong",
+        "Li, Rui"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

@@ -1,0 +1,24 @@
+{
+    "pmid": "41683958",
+    "title": "Multi-Omics Analysis of a Spontaneous Type 2 Diabetes Model in <i>Myodes rufocanus</i> and Its Underlying Mechanisms.",
+    "abstract": "Diabetes mellitus (DM) is a chronic metabolic disorder characterized by persistent hyperglycemia, progressive \u03b2-cell dysfunction, and insulin resistance. While numerous chemically induced and transgenic rodent models exist, spontaneous models recapitulating natural type 2 diabetes mellitus (T2DM) progression remain scarce. Here, we characterize <i>Myodes rufocanus</i> as a novel spontaneous T2DM model through comprehensive assessments of 18-week-old male F6 voles, demonstrating hallmark diabetic features including weight gain, hyperphagia, polydipsia, hyperglycemia, insulin resistance, and dyslipidemia. Pancreatic transcriptomic profiling revealed pronounced COX14 (cytochrome c oxidase assembly factor 14) downregulation, as validated by qPCR and Western blotting in pancreatic tissue and MIN6 \u03b2-cells. MIN6 cells under chronic high-glucose conditions (30 mM) exhibited diminished mitochondrial membrane potential, impaired ATP biosynthesis, elevated reactive oxygen species, and attenuated glucose-stimulated insulin secretion, with consistent COX14 downregulation suggesting potential association with mitochondrial dysfunction. Additionally, suppressed Nrf2-HO-1 antioxidant signaling appeared to compound cellular injury, with intrinsic apoptotic pathway activation indicated by elevated Bax/Bcl-2 ratios and caspase-3 activity. These findings establish M. rufocanus as a valuable spontaneous T2DM model and implicate COX14 downregulation as a potential correlate of mitochondrial impairment and \u03b2-cell failure in diabetes pathogenesis.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031539",
+    "authors": [
+        "Ullah, Ijaz",
+        "Mujeeb, Haseena",
+        "Li, Qindan",
+        "Zhou, Xingxuan",
+        "Alam, Habib",
+        "Rahman, Mujeeb Ur",
+        "Zhao, Yanan",
+        "Zhou, Jiazheng",
+        "Wang, Qingying",
+        "Luo, Sanpin",
+        "Wang, Liang",
+        "Wang, Jingyu"
+    ],
+    "num_authors": 12,
+    "citations": 0
+}

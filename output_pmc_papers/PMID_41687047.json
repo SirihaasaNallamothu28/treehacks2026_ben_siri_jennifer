@@ -1,0 +1,23 @@
+{
+    "pmid": "41687047",
+    "title": "Association of Systemic Inflammatory Markers With Cerebral Small Vessel Disease Progression: A Community-Based Prospective Study.",
+    "abstract": "Inflammation is an established risk factor in the development of cerebral small vessel disease (CSVD). This study aimed to investigate the associations between neutrophil-to-lymphocyte ratio (NLR), monocyte-to-lymphocyte ratio (MLR), and systemic immune-inflammation index (SII) with progression of CSVD.\nThis prospective cohort study used data from the PolyvasculaR Evaluation for Cognitive Impairment and vaScular Events study between 2017 and 2024. Participants were excluded for a history of stroke or cancer or because of missing data on baseline systemic inflammatory markers or follow-up neuroimaging for CSVD. Baseline systemic inflammatory markers were calculated by neutrophils, monocytes, lymphocytes, and platelets count data, and categorized into 4 groups according to the quartiles. The progression of total CSVD burden, using Wardlaw and Rothwell ratings, along with progression of specific MRI markers were assessed between baseline and wave 3 follow-up (\u223c4.7 years). Assessment of the associations was performed using log-binomial regression models.\nThe median follow-up duration was 4.7 years (interquartile range 4.5-4.8), and 2,267 participants were included. At baseline, the mean age of the participants was 60.4 years, with 50.6% being male. An elevation in NLR was associated with progression of total CSVD burden (Wardlaw: adjusted relative risk [aRR] 1.23, 95% CI 1.08-1.41; Rothwell: aRR 1.29, 95% CI 1.11-1.50) and incident cerebral microbleeds (CMBs) (aRR 1.43, 95% CI 1.16-1.78). High level of MLR was associated with incident lacunes (aRR 1.88, 95% CI 1.28-2.77) and incident CMBs (aRR 1.33, 95% CI 1.08-1.65). High level of SII was associated with progression of total CSVD burden (Wardlaw: aRR 1.15, 95% CI 1.01-1.31; Rothwell: aRR 1.17, 95% CI 1.01-1.35) and incident CMBs (aRR 1.34, 95% CI 1.10-1.64). Linear associations between these markers and progression of CSVD were demonstrated by restricted cubic spline analysis.\nThis community-based prospective study demonstrated that elevated NLR, MLR, and SII were associated with progression of total CSVD burden and progression of white matter hyperintensity, incident lacunes, and CMBs over \u223c4.7 years, supporting their potential to provide additional context for CSVD preventive considerations. Limitations include study's single-city population and the lack of dynamic changes in inflammatory markers.",
+    "publication_year": "2026",
+    "journal": "Neurology",
+    "doi": "10.1212/WNL.0000000000214711",
+    "authors": [
+        "Zhang, Ziyan",
+        "Zhang, Dingwen",
+        "Cai, Xueli",
+        "Yang, Yingying",
+        "Sun, Jingping",
+        "Niu, Guanyu",
+        "Xu, Ziqian",
+        "Jing, Jing",
+        "Wang, Yongjun",
+        "Wang, Yilong",
+        "Pan, Yuesong"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

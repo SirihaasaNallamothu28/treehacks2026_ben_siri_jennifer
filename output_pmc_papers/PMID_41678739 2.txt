@@ -1,8 +1,0 @@
-PMID: 41678739
-Title: Qian Yang Yu Yin Granule ameliorates hypertension-induced renal injury through the modulation of oxidative stress via Sestrin2 signaling pathway.
-
-Abstract:
-This study investigated the protective mechanisms of Qian Yang Yu Yin Granule (QYYYG) against hypertensive renal injury.
-A hypertensive renal injury model was established in Spontaneous hypertensive rat (SHR) rats using angiotensin II infusion combined with unilateral nephrectomy. Rats were assigned to model, valsartan, and high-/low-dose QYYYG groups and treated for 8 weeks. Blood pressure (BP), blood urea nitrogen (BUN), renal histopathology, and related biochemical indicators were evaluated. In vitro, HK-2 cells pretreated with QYYYG or valsartan were subjected to hypoxic conditions. The expression levels of HIF-1α, NOX4, HO-1, Nrf2, and SESN2 were quantified.
-QYYYG markedly reduced BP and BUN levels and ameliorated renal histopathological damage. It upregulated SESN2, activated AMPKα, inhibited mTOR phosphorylation, and suppressed NOX4 expression, thereby reducing HIF-1α accumulation. QYYYG also enhanced the expression of SESN2, Nrf2, and HO-1. Consistently, in vitro, QYYYG significantly increased SESN2, Nrf2, and HO-1 expression while reducing NOX4 and HIF-1α levels.
-QYYYG alleviates hypertensive renal injury by regulating the Sestrin2 signaling pathway and improving local oxidative stress responses.

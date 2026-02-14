@@ -1,7 +1,0 @@
-PMID: 41683957
-Title: SMURF2 in Anticancer Therapy: Dual Role in Carcinogenesis and Theranostics.
-Journal: International journal of molecular sciences
-Authors: Eom, Joy; Chun, Yejin; Chang, Hae Ryung
-
-Abstract:
-Cancer is a heterogeneous disease at the cellular level and analyzing the genetic and molecular profile is essential for targeted therapy. Cancer cells continue to mutate, often resulting in drug resistance. In addition, cancers such as triple-negative breast cancer (TNBC) lack the target proteins used in some of the most effective therapies. This necessitates the identification of novel target proteins and biomarkers for effective treatment strategies. Ubiquitin E3 ligases are often differentially expressed in cancer cells, and numerous anticancer agents have been developed to inhibit them. SMURF2 is an E3 ligase that is differentially expressed in multiple cancer types. Although inhibiting upregulated SMURF2 may be strategically straightforward, enhancing the downregulated gene is often difficult. In addition, because E3 ligases ubiquitinate a variety of substrate proteins, targeting SMURF2 requires detailed analysis to achieve anticancer effect. This review discusses the dual role of SMURF2 in carcinogenesis and addresses the complex context-dependent function of SMURF2 in the various cellular pathways. In addition, resistance to existing cancer therapy related to SMURF2 and sensitivity mechanisms is discussed. Lastly, theranostic strategies for anticancer agents and biomarker development are suggested.

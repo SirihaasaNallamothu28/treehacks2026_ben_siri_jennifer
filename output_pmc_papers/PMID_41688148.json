@@ -1,0 +1,16 @@
+{
+    "pmid": "41688148",
+    "title": "Assessment of cytoplasmic dsDNA for cellular immunogenicity.",
+    "abstract": "Detection of cytosolic double-stranded DNA (dsDNA) is critical for understanding its role in innate immunity, infection, cancer, and autoimmune diseases. Various methods have been developed to identify and quantify cytosolic dsDNA, each offering unique strengths in terms of sensitivity, specificity, and throughput. Immunofluorescence microscopy enables direct visualization of cytosolic dsDNA, providing insights into its localization and dynamics within cells. Enzyme-linked immunosorbent assays (ELISAs) and immunoblotting techniques detect dsDNA indirectly through associated proteins like cGAS. Fluorescent spectroscopy-based methods allow for rapid and specific quantification of dsDNA. Additionally, biosensors and nanotechnology-based approaches are emerging as novel tools for dsDNA detection with enhanced sensitivity. This methodological compendium provides an overview of the common lab bench methodologies, highlighting their applications, limitations, and potential advancements in the detection of cytosolic dsDNA in various sample forms, such as cells, sectioned tissue, and cellular cytosol extracts.",
+    "publication_year": "2026",
+    "journal": "Methods in cell biology",
+    "doi": "10.1016/bs.mcb.2025.10.010",
+    "authors": [
+        "Mondal, Isha",
+        "Das, Oishika",
+        "Sun, Raymond",
+        "Lu, Rongze Olivia"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

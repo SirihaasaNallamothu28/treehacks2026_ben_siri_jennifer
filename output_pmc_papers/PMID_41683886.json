@@ -1,0 +1,19 @@
+{
+    "pmid": "41683886",
+    "title": "Cytokine Dynamics in Severe COVID-19 vs. Influenza A Elderly Patients: A Prospective Comparative Study.",
+    "abstract": "COVID-19 and influenza A (FluA) cause severe respiratory infections in elderly patients, with cytokine dysregulation playing a central role. Direct comparative data in older adults remains limited. We aimed to characterize cytokine dynamics and their prognostic value in hospitalized elderly patients with COVID-19 vs. FluA. We performed a prospective cohort study including adults \u2265 60 years hospitalized with respiratory failure due to COVID-19 or FluA between March 2023 and March 2024. Serum IL-1\u03b2, IL-6, IL-10, IL-17A, IL-34, MCP-1, and CXCL10 were measured on Day 1 and Day 5 of hospitalization using Luminex<sup>\u00ae</sup>. Cytokines and associations with non-invasive ventilation (NIV) were assessed by ROC analysis and multivariate logistic regression. 83 patients were included (39 COVID-19, median age 79 years; 44 FluA, median 77 years). At Day 1, COVID-19 exhibited significantly higher IL-6, IL-10, and CXCL10; FluA showed an attenuated cytokine response. At Day 5, cytokines declined in both groups. Baseline IL-6 independently predicted NIV (adjusted OR 3.02), whereas higher MCP-1 was associated with reduced NIV requirement. Early cytokine differences between COVID-19 and FluA are evident in elderly patients, but values converged by Day 5. IL-6 remains an informative early predictor of respiratory deterioration; MCP-1 may reflect a regulated innate response.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031463",
+    "authors": [
+        "Rus, Mihai Aronel",
+        "Hu\u021banu, Adina",
+        "Leucu\u021ba, Daniel Corneliu",
+        "Briciu, Violeta Tincu\u021ba",
+        "Muntean, Monica Iuliana",
+        "Ionic\u0103, Angela",
+        "Lup\u0219e, Mihaela Sorina"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

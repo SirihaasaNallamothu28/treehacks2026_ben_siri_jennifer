@@ -1,0 +1,23 @@
+{
+    "pmid": "41683660",
+    "title": "Functional and Epigenomic Consequences of <i>DNMT1</i> Variants in Inherited Neurological Disorders.",
+    "abstract": "<i>DNMT1</i> variants are linked to complex neurodegenerative syndromes, yet their variant-specific functional and epigenomic consequences remain poorly defined. <i>DNMT1</i> variants were identified in eight patients using gene-panel or whole-exome sequencing. Functional effects were assessed by site-directed mutagenesis and transient expression in HEK293T cells. Genome-wide methylation profiling of peripheral blood leukocyte DNA was performed using Nanopore sequencing, enabling direct quantification of 5-methylcytosine (5mC). CpG island-level differential methylation and gene set enrichment analysis (GSEA) were conducted. Variants in the replication foci targeting sequence (RFTS) domain (p.Y511H, p.Y540C, p.H569R) exhibited reduced DNMT1 protein expression, decreased enzymatic activity, and cytosolic aggregation. Variants in the C-terminal catalytic domain (p.A1334V and p.P1546S) showed reduced protein expression with relatively mild enzymatic impairment. Patients carrying the p.Y511H variant demonstrated a significant reduction in global 5mC levels compared with controls. Principal component analysis revealed distinct methylomic profiles separating most patients from controls, with marked intra- and inter-familial heterogeneity. CpG island-level analysis identified a single significantly hypomethylated region in p.Y511H carriers, and GSEA revealed differential enrichment of multiple Gene Ontology biological pathways. This study defines domain-dependent functional effects of <i>DNMT1</i> variants and provides the first nanopore-based methylome analysis, revealing variant-specific and heterogeneous epigenomic alterations.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031232",
+    "authors": [
+        "Yuan, Jun-Hui",
+        "Higuchi, Yujiro",
+        "Ando, Masahiro",
+        "Yoshimura, Akiko",
+        "Nozuma, Satoshi",
+        "Sakiyama, Yusuke",
+        "Kanda, Takashi",
+        "Nomoto, Masahiro",
+        "Nakamura, Takeshi",
+        "Nobuhara, Yasuyuki",
+        "Takashima, Hiroshi"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

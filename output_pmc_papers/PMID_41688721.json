@@ -1,0 +1,17 @@
+{
+    "pmid": "41688721",
+    "title": "The impact of coping styles on anxiety and depression trajectories in thyroid cancer surgery patients: a longitudinal study.",
+    "abstract": "Persistent anxiety and depression can adversely affect the long-term quality of life in patients undergoing thyroid cancer surgery. However, the trajectories, influencing factors, and effects of coping styles on these psychological states are not well understood. This study aims to identify the trajectories and latent classes of anxiety and depression among thyroid cancer surgery patients and to explore the impact of demographic, clinical factors, and coping styles, focusing on the predictive role of coping.\nA longitudinal study was conducted from November 2022 to January 2024 at two hospitals in Suzhou. Data were collected at four time points: preoperative (T<sub>0</sub>), 1\u00a0month (T<sub>1</sub>), 3\u00a0months (T<sub>2</sub>), and 6\u00a0months (T<sub>3</sub>) post-surgery using a demographic questionnaire, the Beck Anxiety Inventory (BAI), and the Beck Depression Inventory (BDI). Repeated measures ANOVA described overall trends, Growth Mixture Model identified latent classes, and logistic regression assessed the predictive effect of coping styles.\nA total of 139 patients completed all follow-ups. Anxiety and depression levels significantly varied over time (P\u2009<\u20090.001). Anxiety decreased then increased, with the lowest score at T<sub>2</sub> (3.01\u2009\u00b1\u20093.84), while depression steadily decreased, reaching its lowest at T<sub>3</sub> (4.71\u2009\u00b1\u20096.38). Two latent classes were found for both anxiety and depression, with the majority in the remission groups (80.58% for anxiety; 89.93% for depression). High preoperative depression scores, postoperative superior laryngeal nerve injury, and negative coping were linked to exacerbation of anxiety, whereas negative coping was associated with exacerbation of depression. After adjusting, negative coping significantly predicted both anxiety (OR\u2009=\u20094.51, 95% CI: 1.51-13.26, P\u2009=\u20090.006) and depression exacerbation (OR\u2009=\u20098.91, 95% CI: 2.71-29.29, P\u2009<\u20090.001).\nThyroid cancer surgery patients exhibit diverse anxiety and depression trajectories. Patients with high preoperative depression scores, postoperative superior laryngeal nerve injury, or negative coping styles need extra attention. Notably, negative coping significantly predicts worsening anxiety and depression.",
+    "publication_year": "2026",
+    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+    "doi": "10.1007/s00520-026-10435-1",
+    "authors": [
+        "Zhang, Jiyin",
+        "Li, Langjuan",
+        "Lai, Fengxia",
+        "Guo, Daoxia",
+        "Tian, Li"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

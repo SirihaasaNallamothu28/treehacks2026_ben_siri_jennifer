@@ -1,0 +1,18 @@
+{
+    "pmid": "41688101",
+    "title": "Latent profiles of frailty in patients with head and neck cancer undergoing radiotherapy: a cross-sectional study.",
+    "abstract": "To identify distinct latent frailty profiles using latent profile analysis (LPA) in patients undergoing radiotherapy for head and neck cancer (HNC) and to examine the factors associated with profile membership.\nA cross-sectional study.\nThis research used data acquired from a major tertiary referral hospital in China.\nThis study recruited 391 HNC patients receiving radiotherapy.\nValidated instruments included a demographic questionnaire, Charlson Comorbidity Index (CCI), Pittsburgh Sleep Quality Index, FRAIL Scale, Hospital Anxiety and Depression Scale and Perceived Social Support Scale. Profile membership associations were assessed using \u03c7<sup>2</sup> tests, univariate analysis and multivariable logistic regression.\nThe frailty status of patients can be divided into three different categories: (1) robust group (23.0%), (2) prefrail group (49.6%) and (3) frail group (27.4%). Frailty demonstrated independent associations with nine clinical parameters in adjusted regression models: radiotherapy session frequency, social support, age, CCI score, educational attainment, metastasis, nutritional risk, radiation-induced injuries and serum albumin levels (p<0.05).\nThe distinct frailty profiles identified by LPA can inform the future development of targeted care protocols for specific subgroups (eg, the frail group), with a focus on key predictors such as age and nutritional risk.",
+    "publication_year": "2026",
+    "journal": "BMJ open",
+    "doi": "10.1136/bmjopen-2025-108357",
+    "authors": [
+        "Pu, Xiaolan",
+        "Ju, Mei",
+        "Han, Xingping",
+        "Ma, Wenqiong",
+        "Wang, Lin",
+        "Wang, Ting"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

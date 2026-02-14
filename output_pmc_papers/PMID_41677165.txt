@@ -1,7 +1,0 @@
-PMID: 41677165
-Title: Advances in Five-Membered Heterocyclic Scaffolds as Anti-Tuberculosis Agents: A Decade of Discovery.
-Journal: Archiv der Pharmazie
-Authors: Tejaswani, P; Das, Debashis; Kumar, Spandan; Kundu, Amit; Jahan, Kousar; Jain, Rahul; Ahmed, Shujauddin
-
-Abstract:
-Tuberculosis remains a deadly infectious disease with 1.09 million deaths and 10.8 million new cases reported in 2023. Escalating drug resistance and mortality rates worsen the situation. To address these issues, new TB agents with improved activity, better enzyme activation, low toxicity, and acceptable physicochemical and pharmacokinetic profiles are needed. Several reports on five-membered heterocycles with one, two, or more heteroatoms have demonstrated anti-TB properties against Mycobacterium tuberculosis. Clinical candidates such as pretomanid (nitroimidazole), linezolid (oxazolidinone), and delamanid (imidazo-oxazole ring) approved by the FDA provide evidence for their significance against TB. This review addresses the global challenge of tuberculosis by highlighting the strategic design of five-membered heterocyclic scaffolds. It provides a comprehensive overview of the evolution of clinical candidates and recent advancements in pyrrole-, furan-, thiophene-, pyrazole-, imidazole-, thiazole-, oxadiazole-, thiadiazole-, and tetrazole-based scaffolds and their hybrid derivatives developed over the past decade, and further offers insights into their SAR analyses and molecular docking aspects.

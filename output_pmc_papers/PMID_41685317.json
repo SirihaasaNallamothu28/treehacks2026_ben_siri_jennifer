@@ -1,0 +1,15 @@
+{
+    "pmid": "41685317",
+    "title": "Identification and validation of \u03b3-Linolenic acid as a natural FABP5 inhibitor in hepatocellular carcinoma through deep learning and experimental approaches.",
+    "abstract": "Fatty acid binding protein 5 (FABP5) is implicated in hepatocellular carcinoma (HCC) progression and represents a potential therapeutic target.\nWe integrated machine learning-based virtual screening, molecular docking and molecular dynamics simulations to identify natural compounds with high binding affinity to FABP5. Candidate compounds were further validated by in-vitro assays in HCC cell lines, including proliferation, migration/invasion, apoptosis/ferroptosis-related readouts, and mechanistic validation.\nThe optimized models enabled efficient screening of natural products and prioritized \u03b3-linolenic acid (GLA) as a top candidate FABP5 inhibitor. Docking and simulations supported stable binding and key residue interactions. Experimentally, GLA inhibited HCC cell proliferation and aggressiveness and promoted cell death-related pathways consistent with anti-tumor activity.\nOur deep learning-guided workflow identified \u03b3-linolenic acid as a natural FABP5 inhibitor and supports its potential as a lead compound for HCC therapy.",
+    "publication_year": "2026",
+    "journal": "Frontiers in immunology",
+    "doi": "10.3389/fimmu.2026.1700347",
+    "authors": [
+        "An, Yuan",
+        "Liu, Hongyu",
+        "Li, Wei"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

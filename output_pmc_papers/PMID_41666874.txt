@@ -1,5 +1,0 @@
-PMID: 41666874
-Title: Enhancing therapeutic outcomes with artificial intelligence for HR-positive, HER2-negative metastatic breast cancer.
-
-Abstract:
-Cyclin-dependent kinase 4/6 inhibitors (CDK4/6i) are an integral first-line treatment for hormone receptor-positive metastatic breast cancer, though resistance eventually develops. In this issue of Cancer Cell, Fan et al. report results from LINUX, a randomized phase 2 trial applying an artificial intelligence digital pathology classification system to guide therapy after CDK4/6i progression.

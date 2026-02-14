@@ -1,8 +1,0 @@
-PMID: 41670103
-Title: Prostate cancer survival according to socioeconomic and tumor characteristics in Manizales, Colombia.
-
-Abstract:
-To estimate prostate cancer survival according to socioeconomic and tumor characteristics in the municipality of Manizales, Colombia, during the 2008-2018 period, based on population-based data.
-A population-based retrospective cohort study was conducted, including all incident cases of primary prostate cancer diagnosed in Manizales between 2008 and 2018, recorded in the Manizales Population-Based Cancer Registry. Overall survival was estimated using the Kaplan-Meier method, both for the total cohort and according to health insurance regimen, area of residence, socioeconomic position, age groups, histological type, essential Tumor-Node-Metastasis (TNM) classification, and risk according to Gleason score. The association between the variables of interest and survival was evaluated using Cox regression models.
-The overall five-year survival was 76.5%. Significant differences in survival were identified according to the health insurance regimen, with the risk of death before five years being approximately twice as high in patients from the subsidized and non-affiliated regimen compared to those from the contributory, special, and exception regimen.
-Prostate cancer survival in Manizales is lower than that reported in populations with higher levels of development. Significant gaps in survival persist according to the health insurance regimen, disadvantaging the most socioeconomically vulnerable population, possibly mediated by late diagnoses due to barriers in timely access to treatment.

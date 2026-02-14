@@ -1,7 +1,0 @@
-PMID: 41689452
-Title: ASD: antigen-specific antibody database.
-Journal: mAbs
-Authors: Czerwiński, Arkadiusz; Dudzic, Paweł; Wójtowicz, Konrad; Jaszczyszyn, Igor; Bielska, Weronika; Wrobel, Sonia; Demharter, Samuel; Spreafico, Roberto; Greiff, Victor; Krawczyk, Konrad
-
-Abstract:
-The development of computational models addressing therapeutic antibodies faces significant challenges. Particularly, the prediction of binding affinity across a diverse set of measurements, due to the scarcity of data. A critical data element is the set of antibody-antigen interaction pairs associated with sequences. To address this issue, we developed the Antigen Specific Antibody Database (ASD, https://naturalantibody.com/agab/), a database aggregating antibody-antigen interaction data from multiple studies with standardized formatting and annotations. Our dataset compilation strategy resulted in data from 15 distinct sources, resulting in 1,097,946 unique antibody-antigen interactions (with 9575 unique antigens). The ASD captures diverse affinity measures and qualitative binding assessment, along with metadata including UniProt and PDB identifiers, target protein names, confidence levels, and experimental conditions such as type of measured affinity, source organism, and germline genes. Through this integration drive, we make available an ample resource of interaction data gathered from the public domain to act as a foundation for model development and further data generation.

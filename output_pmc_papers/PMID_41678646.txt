@@ -1,8 +1,0 @@
-PMID: 41678646
-Title: Complete Proximal Rectus Femoris Avulsion Repair in a Division I Collegiate Track Athlete: A Case Report.
-Journal: JBJS case connector
-Authors: Setaro, Ben; Ravich, Jonas W; Conyer, Ryan; Su, Charles A
-
-Abstract:
-A 20-year-old track athlete experienced a pop in her left hip with immediate pain and weakness during a race. She had a palpable defect distal to the anterior inferior iliac spine (AIIS). Magnetic resonance imaging demonstrated a complete tear of the rectus femoris direct head tendon from the AIIS, with 3 cm of retraction. Given her age and activity level, she underwent successful proximal rectus femoris avulsion repair and experienced a full return to sport.
-For athletes with an isolated avulsion of the direct head of the rectus femoris and significant tendon retraction, surgical repair can support full and timely return to sport.

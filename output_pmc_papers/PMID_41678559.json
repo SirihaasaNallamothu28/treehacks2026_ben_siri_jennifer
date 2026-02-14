@@ -1,0 +1,22 @@
+{
+    "pmid": "41678559",
+    "title": "Anthropometric and biochemical nutritional indicators and survival in women with breast cancer: A retrospective cohort study.",
+    "abstract": "Weight gain has been observed in breast cancer (BC) survivors, and this can affect survival and lead to adverse health effects such as overweight and obesity. It may be associated with an increase in cancer recurrence of between 35 and 40% with worse survival results, especially in those with estrogen receptor-positive breast cancer. Therefore, this study aims to determine the association between nutritional status and survival in women with BC at a Peruvian Specialized Oncology Institute.\nThis retrospective cohort involves a sample of 195 breast cancer patients whose medical records were obtained from 2017. Survival differences were measured using Cox proportional hazards models, expressed as hazard ratios (RR) and 95% confidence intervals. Univariate and multivariate analyses were performed previously.\nWe show no association between anthropometric variables; however, a relation was found with biochemical variables, including iron [HR: 2.61, CI 95%: 1.23-5.55, p\u2009=\u20090.013], albumin [HR: 10.02, CI 95%: 2.86-35, p\u2009=\u20090.0001], and total lymphocyte count [HR: 2.12, CI 95%: 1.00-4.50, p\u2009=\u20090.045] with overall survival.\nWe conclude that while no association was found between anthropometric variables and survival in women with breast cancer, specific biochemical markers. Further research is needed to adapt the recommendations for food quality control included in the diet and assess whether it leads to better outcomes.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0341500",
+    "authors": [
+        "S\u00e1nchez-Salda\u00f1a, Lourdes",
+        "Lozada-Urbano, Michelle",
+        "Sullcahuaman-Allende, Yasser",
+        "Cotrina-Concha, Jos\u00e9",
+        "Velarde-M\u00e9ndez, Marco",
+        "Chavez-Chocano, Jorge",
+        "Rodr\u00edguez-Coyla, Enrique",
+        "Zambrano-Jaimes, Luis",
+        "Mantilla-Quispe, Ra\u00fal",
+        "Rosales-Rimache, Jaime"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

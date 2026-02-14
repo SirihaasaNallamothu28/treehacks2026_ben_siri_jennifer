@@ -1,0 +1,21 @@
+{
+    "pmid": "41685551",
+    "title": "Classification of tauopathies from human brain homogenates through salt-modulated tau amplification.",
+    "abstract": "Tauopathies are a heterogeneous group of neurodegenerative disorders defined by abnormal aggregation of tau protein. Although cryogenic electron microscopy (cryo-EM) has uncovered disease-specific tau structures, translating these insights into diagnostic tools remains difficult.\nWe developed a heparin-free, salt-modulated real-time quaking-induced conversion (RT-QuIC) assay using K12 and K11 tau substrates, targeting aggregation-prone regions. This current method improves on previous methodology by minimising the number of required substrates by modulating reaction salt content in order to differentiate yet-undistinguished tauopathy strains. Thioflavin T fluorescence kinetics and attenuated total reflectance Fourier transform infrared spectroscopy (ATR-FTIR) spectroscopy were used to classify tau aggregates from human brain homogenates.\nThis method differentiated eight tauopathies, including Alzheimer's disease, Pick disease, progressive supranuclear palsy (PSP), corticobasal degeneration (CBD), argyrophilic grain disease (AGD), frontotemporal dementia with parkinsonism associated with chromosome 17 with N279K mutation (FTDP-17 N279K), and globular glial tauopathies types II and III. Subclassification of 4R tauopathies was achieved by modulating salt conditions and analyzing aggregation profiles. FTIR confirmed preservation of conformational differences.\nThis salt-modulated, heparin-free RT-QuIC platform enables sensitive tauopathy classification based on strain-specific kinetics and structure. It offers a practical tool for diagnostic development, mechanistic studies, and therapeutic screening.",
+    "publication_year": "2026",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "doi": "10.1002/alz.71112",
+    "authors": [
+        "Santambrogio, Alessia",
+        "Metrick, Michael A",
+        "Xu, Peifeng",
+        "Gallagher, Nicholas C T",
+        "Koga, Shunsuke",
+        "Ghetti, Bernardino",
+        "Dickson, Dennis W",
+        "Caughey, Byron",
+        "Vendruscolo, Michele"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

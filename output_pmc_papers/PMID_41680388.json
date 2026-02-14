@@ -1,0 +1,15 @@
+{
+    "pmid": "41680388",
+    "title": "Purinergic P2X7 receptor signaling in anxiety: Roles of stress-related neuroinflammatory mechanisms and therapeutic horizons.",
+    "abstract": "Anxiety is a psychological state marked by constant uneasiness, fear, or stress in response to an actual or perceived danger, resulting in physical changes such as elevated cardiac activity, poor concentration, and restlessness. The excessive stimulation of these responses results in anxiety disorders that disrupt daily activities and even impact familial and social life. The purinergic P2X7 receptor (P2X7R), a ligand-gated ion channel, is predominantly expressed in microglia and serves as a vital detector of cellular stress and injury in the central nervous system (CNS). P2X7R activation requires a high concentration of extracellular adenosine triphosphate (ATP); therefore, it is closely associated with cellular stress. Research has demonstrated that chronic stress inhibits Na<sup>+</sup>/K<sup>+</sup>-ATPase (NKA1) on the cell surface of microglia, thereby increasing the P2X7R expression. The hyperactivity of this receptor contributes to neuroinflammation and, consequently, promotes anxiety-like behaviours. The role of P2X7R in psychostimulant addiction, such as methamphetamine (METH), is complex, but increasing evidence illustrates its activation with neuroinflammation, relapse, and increased dependency. The cumulative stress activates the P2X7R, resulting in amplification of interleukin-17A (IL-17A) levels in the prefrontal cortex (PFC) and amygdala, which intensifies anxiety levels during a psychostimulant withdrawal. Future investigation should concentrate on the development of highly selective P2X7R antagonists and their ability to transverse the blood-brain barrier (BBB), as well as the incorporation of genetic information to enhance personalised therapy methods. This article aims to explore the molecular pathways and neurobehavioral processes of P2X7R in anxiety, highlight therapeutic advances, and outline future directions for translational neuropharmacology.",
+    "publication_year": "2026",
+    "journal": "Purinergic signalling",
+    "doi": "10.1007/s11302-026-10134-w",
+    "authors": [
+        "Kaur, Simranpreet",
+        "Giri, Vikash Kumar",
+        "Aran, Khadga Raj"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

@@ -1,8 +1,0 @@
-PMID: 41664599
-Title: Molecular Classification of Patients With COVID-19 Based on Transcriptional Profiling.
-
-Abstract:
-COVID-19 has caused over 7 million deaths worldwide and remains a critical public health threat. The marked heterogeneity in immune responses among patients poses challenges for targeted treatment. Molecular classification is essential for guiding precision therapies.
-We performed unsupervised consensus clustering on blood transcriptomic data from 351 COVID-19 patients to identify molecular endotypes and validated the classification in an independent cohort of 56 patients. To identify robust endotype-specific biomarkers, we applied XGBoost, LASSO, and random forest algorithms.
-Three endotypes with distinct biological and clinical profiles were identified. Endotype 1, associated with favorable outcomes, showed enriched DNA replication pathways and elevated IL7 expression. Endotype 2 featured hypoxia and angiotensin-related pathways. Endotype 3 exhibited TLR4 activation, IL-1β upregulation, and impaired NK cytotoxicity, correlating with poor outcomes. All endotypes shared type I interferon activation. Predictive biomarker pairs included STAT4:S100A11 (endotype 1), SLC4A1:RPL31 (endotype 2), and RALB:MTR (endotype 3), enabling endotype classification with high accuracy. Importantly, these biomarker genes can be reliably measured in peripheral blood using RT-qPCR, making the classification model feasible for clinical application.
-This molecular classification reveals heterogeneity in COVID-19 and proposes biomarker-guided strategies for patient stratification and management.

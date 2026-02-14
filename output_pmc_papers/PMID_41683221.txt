@@ -1,7 +1,0 @@
-PMID: 41683221
-Title: The Ketogenic Diet in Type 2 Diabetes and Obesity: A Narrative Review of Clinical Evidence.
-Journal: Nutrients
-Authors: Kilian, Julia; Szlęzak, Dominika; Tyszka-Czochara, Malgorzata; Filipowicz-Popielarska, Elżbieta; Bronowicka-Adamska, Patrycja
-
-Abstract:
-Type 2 diabetes mellitus (T2DM) and obesity represent a growing global public health challenge, strongly associated with excess body weight, unhealthy dietary habits, and a sedentary lifestyle. The ketogenic diet (KD), characterized by very low carbohydrate intake, moderate protein intake, and high fat consumption, induces a metabolic state known as ketosis, in which the body switches from glucose to fat as its primary energy source. KD has gained increasing interest as a strategy to improve glycemic control, reduce body weight, and improve lipid profiles in individuals with obesity and T2DM. The purpose of this narrative review is to summarize the current scientific evidence on the effects of KD on key metabolic parameters, including blood glucose levels, glycated hemoglobin (HbA1c), body weight, and body composition. The analysis is based on peer-reviewed articles retrieved from PubMed, Embase, and Scopus with particular emphasis on clinical studies that provide robust evidence on the efficacy and safety of KD in the treatment of metabolic disorders.

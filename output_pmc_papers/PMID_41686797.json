@@ -1,0 +1,17 @@
+{
+    "pmid": "41686797",
+    "title": "Mapping disparities in diabetic eye exam adherence using geographic information systems.",
+    "abstract": "Diabetic retinopathy is a leading cause of preventable vision loss in adults, and timely retinal screening is essential for early detection and intervention. However, adherence to diabetic eye exam guidelines remains suboptimal, particularly in underserved populations. Geographic Information Systems (GIS) offer a novel approach to visualizing disparities in eye care access and adherence.\nWe conducted a retrospective, cross-sectional study of 15,656 patients with diabetes mellitus (aged 18-75) receiving care in a university-based health system in Monroe County, NY, from November 2020 to November 2021. Eye exam adherence was determined using Healthcare Effectiveness Data and Information Set (HEDIS) criteria. Patient-level demographics and ZIP-code-level socioeconomic data were analyzed using ordinary least squares (OLS) regression. GIS choropleth maps were used to visualize regional variations in eye exam adherence and associated demographic and socioeconomic indicators.\nOverall, 31.5% of patients were non-adherent to HEDIS eye exam standards. Non-adherence rates varied significantly by ZIP code (range: 13-50%) and were strongly associated with higher poverty (R\u00b2\u2009=\u20090.50, p\u2009<\u20090.0001), unemployment (R\u00b2\u2009=\u20090.17, p\u2009=\u20090.008), and lower educational attainment (R\u00b2\u2009=\u20090.50, p\u2009<\u20090.0001). Non-adherence also increased with higher proportions of Hispanic (R\u00b2\u2009=\u20090.24, p\u2009=\u20090.001) and non-Hispanic Black residents (R\u00b2\u2009=\u20090.45, p\u2009<\u20090.0001), and decreased with higher proportions of non-Hispanic White residents (R\u00b2\u2009=\u20090.45, p\u2009<\u20090.0001). GIS mapping identified an urban cluster of ZIP codes with consistently high non-adherence and socioeconomic risk profiles, as well as a rural outlier with high non-adherence but differing demographic characteristics.\nOur findings highlight geographic, socioeconomic, and racial disparities in diabetic eye exam adherence. GIS can serve as a powerful tool to identify high-risk populations and inform targeted outreach strategies aimed at reducing vision loss in vulnerable communities.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0340804",
+    "authors": [
+        "Dogra, Neil Sai",
+        "Geiss, Michael Patrick",
+        "Gearinger, Talia",
+        "Delmerico, Alan",
+        "Ramchandran, Rajeev S"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

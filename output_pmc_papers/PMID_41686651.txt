@@ -1,7 +1,0 @@
-PMID: 41686651
-Title: 3D reconstruction of spatial transcriptomics with spatial pattern enhanced graph convolutional neural network.
-Journal: Briefings in bioinformatics
-Authors: Tang, Chen; Zhou, Yuansheng; Xiao, Xue; Dong, Lei; Yu, Lei; Li, Qiwei; Xiao, Guanghua; Xu, Lin
-
-Abstract:
-Spatially resolved transcriptomics (SRT) is a promising new technology that enables simultaneous analysis of gene expression and spatial information for biomedical research. However, the existing statistical and deep learning algorithms used for analyzing SRT data rely solely on two-dimensional (2D) spatial coordinates, which limits their ability to accurately identify spatial domains, spatially variable genes (SVGs), cell-to-cell communications, and developmental trajectories in a three-dimensional (3D) spatial manner. To address these limitations, we introduced Spa3D, which utilized the anti-leakage Fourier transform and graph convolutional neural network model to reconstruct 3D-based spatial structures from multiple 2D SRT slices. We demonstrate that Spa3D is appliable to analyze data from various SRT technology platforms and outperforms state-of-art methods by: (i) improving spatial domain identification through 3D reconstruction, (ii) elucidating cell-cell communication landscape in the 3D cellular organization, (iii) modeling of organ-level tempo-spatial development patterns in a 3D fashion, and (iv) annotating 3D spatial trajectory that are not captured by 2D spatial coordinates.

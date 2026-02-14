@@ -1,7 +1,0 @@
-PMID: 41673046
-Title: Semantic alignment of the German Human Genome-Phenome Archive metadata model in Europe's genomics field.
-Journal: Scientific data
-Authors: Mauer, Karoline; Iyappan, Anandhi; Parker, Simon; Sürün, Bilge; Tremper, Galina; Menges, Paul; Kuchenbecker, Léon; Kirli, Koray; Schultze, Joachim L; Nahnsen, Sven; Ulas, Thomas
-
-Abstract:
-Legal and technical developments drive data sharing via federated infrastructures, especially in the field of human omics. This requires interoperability across technical, syntactic, organizational, and semantic layers. The German Human Genome-Phenome Archive (GHGA) has been building a national, federated infrastructure for secure sharing of human omics data. As part of its mission to enhance interoperability and to promote reliable data sharing, a detailed crosswalk analysis was conducted comparing the GHGA metadata model with four other domain-relevant standards and metadata models: EGA (Submission API and model draft), FAIR Genomes and ISA-tab. The analysis aimed at identifying semantic consensus fields to define datasets in the context of human omics by forward mapping (GHGA model to external models). Backward mapping (external models to GHGA) focused on spotting gaps in GHGA's semantic metadata representation. Forward mapping showed overall similar property coverage across models, aligning with MINSEQE. Backward mapping showed greater model heterogeneity. None of the identified information gaps spanned across all models. These findings highlight the detail and adaptability of the GHGA metadata model.

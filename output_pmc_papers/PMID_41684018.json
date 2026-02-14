@@ -1,0 +1,18 @@
+{
+    "pmid": "41684018",
+    "title": "3,4-Dihydroxybenzaldehyde Exerts Anti-Alzheimer's Effects by Inhibiting A\u03b2 Protofibril Assembly and Activating Antioxidant Defense Mechanisms.",
+    "abstract": "3,4-Dihydroxybenzaldehyde (DBD) is a polyphenolic active constituent derived from <i>Gastrodia elata</i>. Its characteristic phenolic structure is associated with diverse bioactivities, such as anti-inflammatory, antioxidant, and cardioprotective effects. However, its role and underlying mechanisms in combating Alzheimer's disease (AD) remain inadequately elucidated. In this study, we employed computational and experimental approaches to investigate the anti-AD effects of DBD. Molecular dynamics simulations revealed that DBD binds to A\u03b2 fibrils via \u03c0-\u03c0 stacking, hydrophobic interactions, and hydrogen bonds, suggesting its potential to disrupt A\u03b2 fibril stability and thereby inhibit aggregation. In vivo experiments in an AD C. elegans model demonstrated that 2 mM DBD treatment significantly delayed paralysis and extended lifespan. It also improved locomotor activity and pharyngeal pumping rates, while reducing lipofuscin accumulation. These results collectively suggest that DBD promotes healthspan-associated phenotypes. Broad-targeted metabolomics analysis indicated that DBD significantly altered the metabolic profile of the worms. Further mechanistic investigations suggested that the protective effects of DBD are associated with the activation of the DAF-16/FOXO and SKN-1/Nrf2 signaling pathways, accompanied by enhanced resistance to oxidative and thermal stress in nematodes. These findings suggest that DBD exhibits anti-AD potential through multimodal mechanisms, which involve interference with A\u03b2 toxicity and reinforcement of cellular defense. This study supports DBD as a candidate compound and provides a rationale for its further investigation.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031599",
+    "authors": [
+        "Zhao, Zhourong",
+        "Yang, Lin",
+        "Zhang, Zhuo",
+        "Song, Jia",
+        "Zhang, Chao",
+        "Duan, Xiaohua"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

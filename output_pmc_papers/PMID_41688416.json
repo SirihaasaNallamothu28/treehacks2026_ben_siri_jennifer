@@ -1,0 +1,15 @@
+{
+    "pmid": "41688416",
+    "title": "Emerging Regulatory Mechanisms in Sinoatrial Node Automaticity.",
+    "abstract": "The sinoatrial node (SAN), the primary cardiac pacemaker, governs rhythmic heartbeats through spontaneous electrical impulses. While the classical \"coupled-clock\" theory, integrating the membrane voltage clock (driven by cyclic ion channel activity) and the calcium clock (orchestrated by rhythmic sarcoplasmic reticulum Ca<sup>2+</sup> release), remains central to understanding pacemaker automaticity, recent research has unveiled multifaceted regulatory mechanisms that may complement this core model. This review synthesises current evidence on the critical roles of pacemaker cell-microenvironment interaction, glutamatergic signalling via mitochondrial reactive oxygen species (ROS)-Ca<sup>2+</sup> coupling, and novel molecular modulators such as CIRP, SGO1, and GLP-1. These insights reveal a highly integrated and dynamic regulatory network that potentially modulates SAN automaticity under physiological and pathological conditions. Elucidating these mechanisms not only deepens our understanding of cardiac pacemaking but also identifies potential therapeutic targets for SAN dysfunction and associated arrhythmias.",
+    "publication_year": "2026",
+    "journal": "Journal of cellular and molecular medicine",
+    "doi": "10.1111/jcmm.71058",
+    "authors": [
+        "Liu, Hongyu",
+        "Cao, Yuting",
+        "Su, Xuling"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

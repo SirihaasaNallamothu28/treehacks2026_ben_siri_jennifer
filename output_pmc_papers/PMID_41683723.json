@@ -1,0 +1,26 @@
+{
+    "pmid": "41683723",
+    "title": "Reanimation of Stored Tissue Biopsies: A Functional Study and Translational Approach.",
+    "abstract": "The availability of biobanked tissues represents an important resource for translational research; however, functional investigations are generally limited to freshly collected samples. To address this limitation, we developed an innovative strategy to restore functional properties of frozen biopsies by microtransplanting patient-derived membrane proteins into <i>Xenopus laevis</i> oocytes. This study aimed to recover and characterize the physiological properties of human colon cancer cell membranes and to investigate the role of neurotransmitter-related signaling and ion currents in cancer. Membrane incorporation was assessed by immunohistochemical detection of tumor-specific markers, including carcinoembryonic antigen, together with confocal microscopy and ultrastructural analyses. Functional viability was evaluated using two-electrode voltage clamp recordings to assess endogenous calcium-activated chloride currents and responses to selected neurotransmitters. The successful incorporation of colon cancer membranes was confirmed by specific immunoreactivity and ultrastructural features consistent with cancer cell architecture. Although no functional responses to the tested neurotransmitters were detected, oocytes microinjected with cancer membranes showed a marked reduction or complete suppression in endogenous calcium-activated chloride currents. These findings demonstrate that membrane microtransplantation into <i>Xenopus</i> oocytes is a reliable translational approach to functionally investigate cancer cell membranes from frozen biopsies, and suggest that altered chloride channel activity may represent a baseline for new studies to investigate new potential therapeutic targets for colon cancer.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031298",
+    "authors": [
+        "Alfano, Veronica",
+        "Ruffolo, Gabriele",
+        "Spila, Antonella",
+        "Valente, Maria Giovanna",
+        "Sansone, Luigi",
+        "Belli, Manuel",
+        "Ramadan, Dania",
+        "Miele, Chiara",
+        "Garelli, Luca",
+        "Lupacchini, Leonardo",
+        "Ferroni, Patrizia",
+        "Merlo, Daniela",
+        "Palma, Eleonora",
+        "Guadagni, Fiorella"
+    ],
+    "num_authors": 14,
+    "citations": 0
+}

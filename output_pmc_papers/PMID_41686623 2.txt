@@ -1,8 +1,0 @@
-PMID: 41686623
-Title: Trends and hotspots in the studies of spinal metastasis: A bibliometric analysis from 2000 to 2023.
-
-Abstract:
-Spinal metastasis (SM) is described as a metastatic malignant bone tumor with a high mortality rate and often leads to symptoms related to spinal cord or nerve compression, such as pain and debilitating neurological dysfunction. In this study, we explored the research hotspots and trends in SM using bibliometric analysis, which provided reliable novel hints and pathways for future exploration.
-We reviewed articles and reviews on SM published in the Web of Science Core Collection between 2000 and 2023. VOSviewer and CiteSpace were used to conduct the bibliometric and knowledge map analyses.
-A total of 2325 original articles and reviews published in 489 academic journals by 10,460 authors from 2231 affiliations in 61 countries/regions were retrieved. The United States was the largest contributor. The University of Toronto was the leader in relevant research. Arjun Sahgal was the most published author and Peter C Gerszten had the most co-citations. The Journal of Neurosurgery Spine published the most SM related articles, and Spine was the most commonly cited journal. The preeminent areas of scholarly inquiry concerning SM were centered on minimally invasive treatments, radiation therapy, and the prognosis and management of patients with SM.
-SM is a common type of metastatic bone tumor, and its treatment is increasingly shifting towards minimally invasive surgery and radiation therapy, with a growing emphasis on the prognosis and management of SM as a key area for future research.

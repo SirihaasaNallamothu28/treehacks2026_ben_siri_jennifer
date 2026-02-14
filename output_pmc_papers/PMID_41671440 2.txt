@@ -1,5 +1,0 @@
-PMID: 41671440
-Title: Cervical Cancer, Version 2.2026, NCCN Clinical Practice Guidelines In Oncology.
-
-Abstract:
-The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Cervical Cancer provide diagnostic workup, staging, and various treatment recommendations for cervical cancer based on clinical and surgical staging. This selection from the NCCN Guidelines for cervical cancer specifically focuses on diagnosis and workup, principles of staging and surgery, and primary treatment recommendations for early-stage and advanced disease and provides a detailed overview of systemic therapy recommendations for cervical cancer.

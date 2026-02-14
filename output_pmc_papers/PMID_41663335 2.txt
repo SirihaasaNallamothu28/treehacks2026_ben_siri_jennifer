@@ -1,8 +1,0 @@
-PMID: 41663335
-Title: The influence of midlife morbidity clusters on dementia risk: The ARIC study.
-
-Abstract:
-Understanding comorbidities' combined impacts on dementia risk may offer a more comprehensive understanding of individuals' risk. Using machine-learning, we grouped individuals with similar midlife risk profiles into clusters and explored associations with dementia risk.
-Participants without dementia at baseline (1987-1989) from the prospective Atherosclerosis Risk in Communities (ARIC) study were included (ages 45-64 years; N = 15,250). Using unsupervised hierarchical cluster analysis, nine clusters were created and defined based on 14 midlife morbidities. The associations with incident dementia (N = 3272 cases, median follow-up 25 years) and deaths (N = 9099) were evaluated using time-to-event regression models.
-Compared with the healthiest cluster (Cluster 1), Clusters 2 (smoking) (hazard ratio [HR](95% confidence interval [CI]) = 1.62 (1.08, 2.43)), 5 (obesity, diabetes, hypertension, and hypertriglyceridemia) (HR(95%CI) = 1.91 (1.35,2.70)), and 7/8 (atrial fibrillation/heart failure) (HR(95%CI) = 2.69 (1.59,4.57)) were associated with dementia. Accounting for competing risk of death in the Fine-Gray subdistribution model negated the cluster-dementia association.
-Midlife morbidity clusters are important for dementia and mortality risk.

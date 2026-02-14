@@ -1,0 +1,16 @@
+{
+    "pmid": "41682578",
+    "title": "A Modified Dot-Pattern Moir\u00e9 Fringe Topography Technique for Efficient Human Body Surface Analysis.",
+    "abstract": "Raster-stereography and Moir\u00e9 Fringe Topography are widely recognized as effective techniques for surface screening. Traditionally, these methods have been applied in various medical and clinical contexts, such as assessing human body symmetry, analyzing spinal deformities, evaluating scapular positioning, and predicting trunk-related abnormalities. Both techniques have proven to be reliable tools for examining the human body surface and identifying health-related issues. However, in these techniques, line grids projected onto non-uniform surfaces often break or distort, complicating curvature detection. Capturing and digitizing these distortions through photographymeans further reducing accuracy due to low contrast between background and projected lines. In this paper, we present a modified, i.e., dotted-based, approach to Moir\u00e9 Fringe Topography construction, offering a simpler, more accurate, and efficient method for recording human body surface curvatures. The proposed technique significantly reduces the complexity of the data acquisition process while maintaining precision in surface analysis. A Single-Photon Avalanche Diode (SPAD) image sensor was used to capture the Moir\u00e9 patterns.",
+    "publication_year": "2026",
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26031063",
+    "authors": [
+        "Wasim, Muhammad",
+        "Ahsan, Syed Talha",
+        "Ahmed, Lubaid",
+        "Sagar, Subhash"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

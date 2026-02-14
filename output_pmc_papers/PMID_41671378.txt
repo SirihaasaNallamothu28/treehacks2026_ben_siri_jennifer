@@ -1,7 +1,0 @@
-PMID: 41671378
-Title: Silencer variants are key drivers of gene up-regulation in Alzheimer's disease.
-Journal: Science advances
-Authors: Huang, Di; Ovcharenko, Ivan
-
-Abstract:
-The genetic mechanisms of ~90% of Alzheimer's disease (AD)-associated variants residing in noncoding DNA remain poorly understood. To address this, we developed a deep learning framework that integrates bulk histone modification data with single-cell open chromatin profiles to evaluate the regulatory potential of noncoding variants. This model identified 1457 silencer and 3084 enhancer AD-associated variants in dorsolateral prefrontal cortex, classifying gene loci as silencer-only (SL), enhancer-only (EN), or dual-function (ENSL). EN loci predominantly regulate housekeeping metabolic processes, SL loci (including <i>MS4A6A</i> and <i>HLA-D</i>) are linked to immune responses (with ~70% substantially up-regulated in AD microglia), while ENSL loci are implicated in neurofibrillary tangle assembly. Our model achieves robust power in assessing the impact of regulatory variants, with ~70% directional concordance with experimental results. It identified rs636317 as a putative causal silencer variant, distinguishing it from a neutral variant located 11 base pairs away. This study advances understanding of the AD-associated regulatory landscape and provides a framework for ascertaining noncoding variants in AD pathogenesis.

@@ -1,0 +1,19 @@
+{
+    "pmid": "41683507",
+    "title": "Raman Investigation of Cardiac Tissues with Sodium-Induced High Stiffness.",
+    "abstract": "This study investigates the molecular and mechanical effects of sodium accumulation in myocardial tissue using a combination of physiological measurements and Raman spectroscopy. Male Wistar rats were maintained on normal- and high-salt diets to induce differential sodium loading in cardiac tissue. Hemodynamic and mechanical analyses revealed increased myocardial stiffness and altered contractile parameters in the high-salt group. Raman microspectroscopy of myocardial sections demonstrated distinct spectral changes, particularly in regions corresponding to glycosaminoglycan (GAG), collagen, and its component, proline. Enhanced Raman signals near 1640 cm<sup>-1</sup> in the Amide I range, 1246 cm<sup>-1</sup> in the Amide III range, and in the 1030-1070 cm<sup>-1</sup> range indicated structural modifications of the GAG-collagen complex and an increased contribution of proline-rich collagen, consistent with elevated tissue rigidity. These findings support the concept that sodium deposition in the myocardium alters its molecular architecture and mechanical properties through GAG-mediated binding and collagen remodeling. This study provides new insights into the biophysical mechanisms linking sodium homeostasis to myocardial stiffness and diastolic dysfunction.",
+    "publication_year": "2026",
+    "journal": "Molecules (Basel, Switzerland)",
+    "doi": "10.3390/molecules31030530",
+    "authors": [
+        "Artyukov, Igor",
+        "Arutyunov, Gregory",
+        "Dragunov, Dmitrii",
+        "Melnik, Nikolay",
+        "Perevedentseva, Elena",
+        "Mitrokhin, Vadim M",
+        "Sokolova, Anna"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

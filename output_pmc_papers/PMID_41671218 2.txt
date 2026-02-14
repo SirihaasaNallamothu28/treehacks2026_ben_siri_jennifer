@@ -1,8 +1,0 @@
-PMID: 41671218
-Title: Comparative inhibitory effects of zeolite, sepiolite, and kaolinite on A549 lung cancer cells.
-
-Abstract:
-Clays, by their unique structure, due to reduction in the acidity of blood and the surrounding environment, crystalline structure, pores, channels, and variations in microporosity significantly influence cellular growth. This study intends to examine the inhibitory effect of zeolite, sepiolite, and kaolinite on the human lung adenocarcinoma cell line (A549) in comparison to PBMCs (peripheral blood mononuclear cells) as representative cells of the immune system.
-The cytotoxic effect of zeolite, sepiolite, and kaolinite was assessed using cell viability assay, comparing responses in cancerous A549 cells and non-cancerous peripheral blood mononuclear cells (PBMCs) to determine selective toxicity.
-Our results demonstrate that all three clays significantly decreased A549 cell viability in a dose- and time-dependent manner, while exhibiting minimal cytotoxicity toward PBMCs. The IC50 values were calculated as follows: 0.34 mg/mL for zeolite, 0.06 mg/mL for kaolinite, and 0.09 mg/mL for sepiolite.
-These findings suggest a degree of selective anticancer activity, positioning these clay minerals as promising candidates for further development as adjunct or alternative anticancer agents.

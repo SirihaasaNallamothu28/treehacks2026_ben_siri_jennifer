@@ -1,7 +1,0 @@
-PMID: 41689260
-Title: Deriving Duration Time From Occupancy Data-A Case Study in the Length of Stay in Intensive Care Units for COVID-19 Patients.
-Journal: Biometrical journal. Biometrische Zeitschrift
-Authors: Rave, Martje; Kauermann, Göran
-
-Abstract:
-This paper focuses on drawing information on underlying processes, which are not directly observed in the data. In particular, we work with data in which only the total count of units in a system at a given time point is observed, but the underlying process of inflows, length of stay, and outflows is not. The particular data example looked at in this paper is the occupancy of intensive care units (ICUs) during the COVID-19 pandemic, where the aggregated numbers of occupied beds in ICUs on the district level ('Landkreis') are recorded, but not the number of incoming and outgoing patients. The Skellam distribution allows us to infer the number of incoming and outgoing patients from the occupancy in the ICUs. This paper goes a step beyond and approaches the question of whether we can also estimate the average length of stay of ICU patients. Hence, the task is to derive not only the number of incoming and outgoing units from a total net count but also to gain information on the duration time of patients on ICUs. We make use of a stochastic expectation-maximization algorithm and additionally include exogenous information which are assumed to explain the intensity of inflow.

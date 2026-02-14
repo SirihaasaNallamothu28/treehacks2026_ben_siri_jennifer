@@ -1,7 +1,0 @@
-PMID: 41683829
-Title: Inducible Costimulator and Its Ligand Promote Proliferation and Migration of Tumor Cells in Cutaneous T-Cell Lymphoma.
-Journal: International journal of molecular sciences
-Authors: Oka, Kenta; Miyagawa, Takuya; Morita, Hiromichi; Suga, Hiraku; Miyagaki, Tomomitsu; Shibata, Sayaka; Kamijo, Hiroaki; Mizuno, Yuka; Hisamoto, Teruyoshi; Omori, Issei; Boki, Hikari; Oka, Tomonori; Takahashi-Shishido, Naomi; Sugaya, Makoto; Sato, Shinichi
-
-Abstract:
-Inducible costimulator (ICOS) is a costimulatory immune checkpoint receptor expressed on activated T-cells, while the ICOS ligand (ICOSL) is expressed on antigen-presenting cells. The ICOS-ICOSL axis promotes the survival of memory and effector T-cells and induces several immune responses. In addition, the ICOS-ICOSL interaction induces cell proliferation, cell survival, and cytokine production. The roles of ICOS and ICOSL in cutaneous T-cell lymphoma (CTCL) are unclear. In this study, we examined the roles of ICOS and ICOSL in CTCL. The tumor cells co-expressed ICOS and ICOSL, and the upregulated expression of ICOS and ICOSL reflected disease severity. Anti-ICOS and anti-ICOSL neutralizing antibodies inhibited both the in vitro and in vivo proliferation of CTCL cell lines. The anti-ICOSL neutralizing antibodies induced apoptosis and suppressed CCR4 expression on tumor cells, inhibiting CCR4-CCL17-mediated migration. These results suggest that the ICOS-ICOSL axis plays an essential role in CTCL pathogenesis, and targeting the ICOS-ICOSL axis could be a viable strategy for treating CTCL.

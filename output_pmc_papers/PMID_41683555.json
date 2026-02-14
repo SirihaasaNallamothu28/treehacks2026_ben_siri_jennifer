@@ -1,0 +1,16 @@
+{
+    "pmid": "41683555",
+    "title": "Linking Phytochemical Diversity to Aflatoxin Suppression: LC-MS/MS Metabolomics of <i>Trichilia dregeana</i> Bark Extracts.",
+    "abstract": "<i>Trichilia dregeana</i> has a rich phytochemical diversity and biological activity; however, information on its metabolomic profile and antimycotoxigenic potential is limited. This study investigated different extracts of <i>T. dregeana</i> bark obtained with various solvents (water, ethanol, ethyl acetate, and methanol), assessing their chemical composition using LC-MS and their inhibitory activity against the aflatoxin produced by <i>Aspergillus</i> fungi. LC-MS analysis identified metabolites belonging to several secondary metabolite classes, including flavonoids, phenolic acids, lignan glycosides, cardiac glycosides, coumarins, cinnamic acids, and limonoids. Solvent polarity strongly influenced metabolite distribution, with water and methanol enriching polar antioxidant compounds, while ethanol and ethyl acetate extracted semipolar antimicrobial constituents. The antimycotoxigenic efficacy of <i>T. dregeana</i> bark extracts was evaluated against <i>Aspergillus flavus</i> in maize, rice, and flour matrices. Among the tested extracts, only the methanolic extract exhibited a statistically significant reduction in aflatoxin levels (\u00b5g/kg), while the water, ethanol, and ethyl acetate extracts showed no significant inhibition. Fungal inoculation significantly increased aflatoxin levels, with maize showing the highest contamination (673.32 \u00b5g/kg). At 50 \u00b5g/mL extract, aflatoxin concentrations were reduced to 230.39 \u00b5g/kg maize, 129.93 \u00b5g/kg rice, and 143.89 \u00b5g/kg flour, with efficacy comparable to or exceeding the commercial fungicide tenazole. Associations between solvent-dependent metabolite class distribution and aflatoxin suppression were observed; however, bioactivity was demonstrated exclusively at the crude extract level. These findings suggest that methanolic extracts of <i>T. dregeana</i> bark may represent a promising natural alternative to antimycotoxin agents, warranting further fractionation and mechanistic validation.",
+    "publication_year": "2026",
+    "journal": "Molecules (Basel, Switzerland)",
+    "doi": "10.3390/molecules31030578",
+    "authors": [
+        "Jobe, Martha Cebile",
+        "Moyo, Babra",
+        "Madala, Ntakadzeni Edwin",
+        "Mwanza, Mulunda"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

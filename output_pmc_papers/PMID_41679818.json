@@ -1,0 +1,19 @@
+{
+    "pmid": "41679818",
+    "title": "Structural characterization and hypoglycemic mechanisms of a Hericium coralloides heteropolysaccharide (HCP-2b) via gut microbiota modulation and PI3K/Akt signaling.",
+    "abstract": "This study isolated, purified, and characterized a novel polysaccharide, HCP-2b, from the fruiting bodies of Hericium coralloides, and investigated its hypoglycemic potential and underlying mechanisms. Bioactivity-guided fractionation yielded HCP-2b, which was structurally characterized as an amorphous heteropolysaccharide (9.93\u00a0kDa) with a backbone comprising \u21922,6)-\u03b1-D-Galp-(1\u2192, \u21926)-\u03b2-D-Glcp-(1\u2192, \u21926)-\u03b1-D-Galp-(1\u2192, \u21923)-\u03b2-D-Glcp- (1\u2192 and \u21923,6)-\u03b2-D-Glcp-(1\u2192. In vitro assays demonstrated that HCP-2b significantly inhibited \u03b1-glucosidase and \u03b1-amylase activity and delayed glucose diffusion. Moreover, HCP-2b enhanced glucose uptake, attenuated oxidative stress, and suppressed mitochondrial permeability transition pore opening in insulin-resistant (IR) HepG2 cells. Furthermore, in a T2DM zebrafish model, HCP-2b effectively ameliorated hyperglycemia. In addition, HCP-2b modulated gut microbiota composition, selectively enriching Bacteroides and Parabacteroides while increasing propionic acid production in vitro fecal fermentation. Western blotting analysis revealed that HCP-2b upregulated the expression of key proteins (Akt, P-Akt, IRS-1, PI3K, GLUT4) in the PI3K/Akt pathway. The hypoglycemic effect of HCP-2b was significantly attenuated by treatment with PI3K and Akt inhibitors in zebrafish model, confirming the involvement of the PI3K/Akt signaling pathway. These findings demonstrated that HCP-2b might exert antidiabetic effects through a potential mechanism with gut microbiota modulation, metabolite production, and activation of the PI3K/Akt signaling pathway, positioning it as a promising multifunctional agent for T2DM management.",
+    "publication_year": "2026",
+    "journal": "Carbohydrate polymers",
+    "doi": "10.1016/j.carbpol.2025.124879",
+    "authors": [
+        "Wang, Mengyu",
+        "Fu, Hao",
+        "Lv, Guoying",
+        "Zhao, Ruimeng",
+        "Cai, Weiming",
+        "Pi, Xionge",
+        "Zhang, Zuofa"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

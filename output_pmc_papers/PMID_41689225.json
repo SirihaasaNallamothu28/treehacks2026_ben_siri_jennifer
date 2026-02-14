@@ -1,0 +1,21 @@
+{
+    "pmid": "41689225",
+    "title": "How threshold customisation affects the performance of a multiclass X-ray AI model for primary care triage: a retrospective study.",
+    "abstract": "To describe the structured process of threshold optimisation for a commercially available multiclass chest X-ray (CXR) deep learning model, to evaluate its diagnostic performance across different operating thresholds, and to estimate its potential operational impact within an artificial intelligence (AI)-enabled triage workflow in a primary care setting.\nRetrospective diagnostic performance evaluation with threshold-based analysis.\nPrimary care radiography services in Singapore, using data derived from two primary care clinics and a tertiary hospital.\nA total of 816 adult frontal chest radiographs were included (multiethnic Asian, 464 males, 352 females; mean age 60.8 years). Images were selected to represent the spectrum of findings often encountered in primary care. Exclusion criteria included paediatric studies, lateral or oblique radiographs, and findings not supported by the AI model (eg, bony abnormalities and medical devices).\nPrimary outcome measures were sensitivity, specificity, and negative and positive predictive value (NPV and PPV). Secondary outcomes included estimated potential operational improvement, which is calculated by dividing the number of true negatives by the total number of CXRs.\nAt the default threshold of 0.15, the AI model achieved a sensitivity of 87.3% (95% CI 83.9% to 90.4%) and an NPV of 87.0% (95% CI 83.6% to 90.2%). Lowering the threshold to 0.10 increased sensitivity to 93.2% (95% CI 90.7% to 95.5%) and NPV to 91.3% (95% CI 88.2% to 94.3%), with specificity of 71.7% (95% CI 67.3% to 76.1%). These trade-offs were considered acceptable for a safety-focused co-triage workflow prioritising minimisation of false negatives.\nThreshold optimisation is critical for adapting AI models to context-specific clinical workflows. Our study shows that adjusting the operating threshold enabled prioritisation of sensitivity and NPV, supporting safe AI-assisted triage in primary care. This is a deeply collaborative process that must involve radiology and clinical teams: selecting appropriate thresholds aligned with clinical objectives for safe and effective implementation. Future work will assess real-world operational impact and user acceptance following prospective deployment.",
+    "publication_year": "2026",
+    "journal": "BMJ open",
+    "doi": "10.1136/bmjopen-2025-111127",
+    "authors": [
+        "Sim, Jordan Zheng Ting",
+        "Lin, Jia",
+        "Fong, Qi Wei",
+        "Soon, Alvin Yong Quan",
+        "Khin, Lay Wai",
+        "Balakrishnan, Sreejith",
+        "Lin, Timothy",
+        "Wong, Sabrina",
+        "Tan, Cher Heng"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

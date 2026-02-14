@@ -1,0 +1,22 @@
+{
+    "pmid": "41683804",
+    "title": "miR-195 and miR-549a Are Essential Biomarkers for Early-Onset Colorectal Cancer.",
+    "abstract": "Colorectal cancer (CRC) is one of the leading causes of mortality worldwide, with rising cases in individuals under 50 years old, classified as early-onset CRC (EO-CRC). EO-CRC is characterized by having clinical features related to a worse prognosis and outcome. This underscores the critical need for early detection biomarkers. ncRNAs emerge as potential biomarkers for diagnosis, prognosis, and treatment response in other types of cancers. Sequencing data from the NCBI Bioproject PRJNA787417 were analyzed to identify differentially expressed miRNAs in early- and late-onset colorectal cancer (EO-CRC and LO-CRC). Differential expressions were assessed with a log fold change threshold of 1 and an adjusted p-value of 0.05. Predicted mRNA targets were identified via ENCORI and analyzed for pathway enrichment using the SHINYGO algorithm. RNA-seq analysis identified a 25-ncRNA EO-CRC signature, including hsa-miR-195 (downregulated) and hsa-miR-549a (upregulated), with enrichment analyses suggesting associations with MAPK, PI3K, VEGF, and KRAS pathways commonly linked to angiogenesis, migration, and invasion. This preliminary report highlights a 25-gene deregulated signature in EO-CRC, in which hsa-miR-195 and hsa-miR-549a emerge as biomarkers of clinical relevance, regulating key genes involved in angiogenesis, migration, and invasion. Their dysregulation could contribute to the aggressive clinical features and poor outcomes observed in EO-CRC.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031379",
+    "authors": [
+        "Coronel-Hern\u00e1ndez, Jossimar",
+        "Rodr\u00edguez-Izquierdo, Frida",
+        "Carbajal-L\u00f3pez, Berenice",
+        "Madrigal-Santill\u00e1n, Eduardo O",
+        "Morales-Gonz\u00e1lez, Jos\u00e9 Antonio",
+        "Xicohtencatl-Mu\u00f1oz, Ayel\u00e9n",
+        "Perez-Plasencia, Carlos",
+        "Garc\u00eda-Cuellar, Claudia M",
+        "Calderillo-Ruiz, German",
+        "S\u00e1nchez-P\u00e9rez, Yesennia"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

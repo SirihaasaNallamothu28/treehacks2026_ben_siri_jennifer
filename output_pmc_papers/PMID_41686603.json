@@ -1,0 +1,18 @@
+{
+    "pmid": "41686603",
+    "title": "Geriatric nutritional risk index is associated with erectile dysfunction.",
+    "abstract": "An essential instrument for evaluating older adults' nutritional status is the geriatric nutritional risk index (GNRI). This investigation aimed to examine the connection between the GNRI and erectile dysfunction (ED) risk. Three models were created, and the connection between GNRI and ED was investigated through multiple linear and logistic regressions. The nonlinear relationship between GNRI and ED was evaluated using smooth curve fitting. To further confirm the consistency of GNRI and ED relationships across various populations, subgroup analysis, interaction tests, and sensitivity analyses were employed. The receiver operating characteristic curve was applied to evaluate how well GNRI could forecast the occurrence of ED. Among 1898 participants, GNRI was negatively associated with the risk of ED occurrence. In the fully adjusted model, the risk of ED decreases by 4% (OR\u2005=\u20050.96, 95% CI 0.94-0.99, P\u2005=\u2005.0032) for every 1-unit rise in GNRI. Compared with the low GNRI group (<98), the risk of ED decreased by 35% (OR\u2005=\u20050.65, 95% CI 0.43-0.98, P\u2005=\u2005.0386) for every 1-unit increase in the high GNRI group (\u226598). A negative, nonlinear connection between GNRI and ED was found using smooth curve fitting. The negative relationship between GNRI and ED remained consistent across most subgroups (P for interaction\u2005>\u2005.05). The sensitivity analysis and the receiver operating characteristic curve (with an area under curve of 0.651) demonstrate GNRI's good predictive ability. A higher GNRI was significantly associated with a lower risk of ED occurrence. The GNRI is a reliable, independent predictor of ED occurrence in older adults.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047599",
+    "authors": [
+        "Lu, Youqi",
+        "Cai, Yang",
+        "Zhi, Yuling",
+        "Ma, Jianchao",
+        "Fang, Xu",
+        "Wei, Gaomeng"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

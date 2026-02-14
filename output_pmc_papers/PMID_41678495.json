@@ -1,0 +1,21 @@
+{
+    "pmid": "41678495",
+    "title": "Remdesivir may exacerbate ischemic acute kidney injury through molecular alterations in PGC-1\u03b1 and apoptosis pathways: An in vivo study.",
+    "abstract": "Acute kidney injury (AKI) represents a significant complication in patients with COVID-19. Although Remdesivir (RDV) has been shown to reduce viral loads and improve clinical outcomes, concerns persist regarding its safety in individuals with pre-existing kidney impairment. This study investigated the effects of RDV on a rat model of ischemia/reperfusion (I/R)-induced kidney damage. A total of 24 rats were divided randomly into four groups: (1) control, (2) I/R, (3) I/R\u2009+\u2009RDV by intraperitoneal (ip) injections, and (4) I/R\u2009+\u2009RDV by subcutaneous (sc) injection groups. Rats in groups 3 and 4 received a single dosage of RDV (25\u2009mg/kg) one hour before I/R induction. The effect of RDV on master genes involved in the mitochondrial biogenesis [Peroxisome proliferator-activated receptor gamma coactivator (PGC-1\u03b1)] and dynamics [Dynamin-related protein 1 (Drp-1)], cellular stress [Activating transcription factor 3 (ATF3)], inflammation [Nuclear factor kappa B (NF-\u03baB)], cell death [p53, p21 (a cyclin-dependent kinase inhibitor), and caspase-3], as well as oxidant malondialdehyde (MDA) and antioxidant factors were evaluated. Moreover, renal function, along with histology assessments were studied. Significant reductions in mitochondrial biogenesis marker PGC-1\u03b1 (P\u2009\u2264\u20090.04) and increases in caspase-3 (P\u2009=\u20090.003) expression levels were observed in the I/R\u2009+\u2009RDV\u2009+\u2009sc group compared to the I/R group. Oxidative stress marker was elevated (P\u2009=\u20090.016), while glutathione peroxidase (GPX) activity and total antioxidant capacity (TAC) were significantly decreased in the I/R\u2009+\u2009RDV\u2009+\u2009sc group (0.003 and 0.045, respectively). However, no significant changes were observed in p-p53, p-p21, NF-\u03baB, or Drp-1 levels. Subcutaneous injection of RDV could induce more injury to the kidney compared to the intraperitoneal injection. These findings suggest that RDV may exacerbate AKI by hindering mitochondrial biogenesis and promoting renal cell apoptosis, without significantly affecting overall kidney function or histopathology. Clinically, these results highlight the need for caution when using RDV in patients with impaired renal function, especially during COVID-19 treatment.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0336221",
+    "authors": [
+        "Bagheri, Yasin",
+        "Malekinejad, Zahra",
+        "Hejazian, Seyyedeh Mina",
+        "Abdollahpour, Abdollah",
+        "Khajepour, Fatemeh",
+        "Farahbod, Mohaddeseh",
+        "Ahmadi, Sama",
+        "Matin, Samira",
+        "Zununi Vahed, Sepideh"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

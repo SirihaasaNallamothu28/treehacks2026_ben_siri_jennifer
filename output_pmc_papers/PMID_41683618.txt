@@ -1,7 +1,0 @@
-PMID: 41683618
-Title: Sequence-Based Models for RNA-Protein Interactions Imputation Might Be Insufficient for Novel Signal Prediction in eCLIP Data.
-Journal: International journal of molecular sciences
-Authors: Rybakov, Arsenii K; Khlebnikov, Daniil A; Ovchinnikova, Daria Y; Nikolskaya, Arina I; Zinkevich, Arsenii O; Mironov, Andrey A
-
-Abstract:
-Predicting specific RNA-protein interactions remains a challenging task. Despite the existence of numerous methods, a unified approach has yet to emerge. Additional difficulties emerge from the properties of in vivo IP experiments and their systematic biases, such as the overrepresentation of highly expressed RNAs. Here, we present the PLERIO machine learning framework, which utilizes eCLIP data for a single protein to reconstruct the full spectrum of its potential interactions with the cellular transcriptome (i.e., both highly expressed and lowly expressed RNAs). In an effort to extrapolate our methodology to a multi-protein paradigm for de novo prediction of RNA-protein interactions on proteins lacking available eCLIP data, we extended our approach to 220 cellular proteins. We then demonstrate that this approach might not be well tailored to the limitations of current in vivo immunoprecipitation data, and may only be meaningful for in vitro experiments such as RNAcompete.

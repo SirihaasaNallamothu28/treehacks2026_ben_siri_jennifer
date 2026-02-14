@@ -1,8 +1,0 @@
-PMID: 41678559
-Title: Anthropometric and biochemical nutritional indicators and survival in women with breast cancer: A retrospective cohort study.
-
-Abstract:
-Weight gain has been observed in breast cancer (BC) survivors, and this can affect survival and lead to adverse health effects such as overweight and obesity. It may be associated with an increase in cancer recurrence of between 35 and 40% with worse survival results, especially in those with estrogen receptor-positive breast cancer. Therefore, this study aims to determine the association between nutritional status and survival in women with BC at a Peruvian Specialized Oncology Institute.
-This retrospective cohort involves a sample of 195 breast cancer patients whose medical records were obtained from 2017. Survival differences were measured using Cox proportional hazards models, expressed as hazard ratios (RR) and 95% confidence intervals. Univariate and multivariate analyses were performed previously.
-We show no association between anthropometric variables; however, a relation was found with biochemical variables, including iron [HR: 2.61, CI 95%: 1.23-5.55, p = 0.013], albumin [HR: 10.02, CI 95%: 2.86-35, p = 0.0001], and total lymphocyte count [HR: 2.12, CI 95%: 1.00-4.50, p = 0.045] with overall survival.
-We conclude that while no association was found between anthropometric variables and survival in women with breast cancer, specific biochemical markers. Further research is needed to adapt the recommendations for food quality control included in the diet and assess whether it leads to better outcomes.

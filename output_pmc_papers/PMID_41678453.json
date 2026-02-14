@@ -1,0 +1,21 @@
+{
+    "pmid": "41678453",
+    "title": "Exploration and discovery of treatment targets for primary biliary cholangitis based on plasma and cerebrospinal fluid proteomics: A multicenter mendelian randomization study.",
+    "abstract": "Primary biliary cholangitis (PBC) is a chronic, progressive autoimmune cholestatic liver disease. Current first-line therapy, ursodeoxycholic acid (UDCA), yields suboptimal response rates, leaving many patients at risk of disease progression. Thus, novel therapeutic targets are urgently needed to slow PBC progression.\nWe performed two-sample Mendelian randomization (MR) to identify proteins causally associated with PBC risk, using protein quantitative trait loci (pQTL) as genetic instruments. The discovery stage utilized PBC genome-wide association study (GWAS) summary statistics from Cordell et al., followed by replication in independent GWAS datasets from the IEU Open GWAS project and the FinnGen consortium. pQTL data were drawn from large-scale plasma (N\u2009=\u20092,656) and cerebrospinal fluid (CSF; N\u2009=\u2009184) proteomic studies. We also conducted sensitivity analyses, including Bayesian colocalization, reverse-causality testing, and phenotype scanning. Identified protein targets were further examined via protein-protein interaction (PPI) network analysis.\nThree proteins showed significant associations with PBC risk after Bonferroni correction (p\u2009<\u20096.35\u2009\u00d7\u200910-5). Elevated plasma MANBA (odds ratio [OR] = 1.29, 95% confidence interval [CI] 1.20-1.40, p\u2009=\u20091.22\u2009\u00d7\u200910-10) and CSF TNFSF15 (OR = 6.37, 95% CI 2.94-13.83, p\u2009=\u20092.79\u2009\u00d7\u200910-6) were associated with higher PBC risk, whereas elevated plasma FCRL3 (OR = 0.79, 95% CI 0.73-0.86, p\u2009=\u20092.12\u2009\u00d7\u200910-8) was associated with lower risk. Bayesian colocalization analysis indicated that these protein loci and PBC share the same underlying causal variants.\nElevated plasma MANBA and CSF TNFSF15 levels were linked to increased PBC risk, while higher plasma FCRL3 was protective. Our findings nominate MANBA and TNFSF15 as potential therapeutic targets, while FCRL3 may serve as a protective biomarker for PBC management.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0340166",
+    "authors": [
+        "Xi, Jianxin",
+        "Wang, Shengnan",
+        "Chen, Jie",
+        "Law, Jason Chi Shing",
+        "Wang, Jianglong",
+        "Lee, Guan Huei",
+        "Fan, Zhongqi",
+        "Lv, Guoyue",
+        "Chen, Yuguo"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

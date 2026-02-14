@@ -1,8 +1,0 @@
-PMID: 41674108
-Title: Robot-assisted therapy following stroke: what effects on quality of life, cognitive and psychosocial outcomes? A systematic review.
-
-Abstract:
-Robot-assisted therapy (RAT) has shown promise in post-stroke motor recovery. However, its effects on non-motor outcomes remain unclear. This systematic review evaluated RAT impact on post-stroke quality of life (QoL), cognition, and psychosocial functioning.
-Following PRISMA guidelines, electronic searches were performed from Web of Science, PubMed, Cochrane Library, CINAHL, Embase, and PsycINFO. Risk of bias was assessed using NIH Quality Assessment Tools. Data on study design, participants, intervention characteristics, outcomes, and results were extracted and synthetized descriptively.
-A total of 90 studies met the inclusion criteria. Considerable heterogeneity was found in participants' characteristics, intervention duration (2-52 weeks), and dosage (20-240 min/session). Most studies reported significant RAT effects on QoL (emotional, physical, cognitive, social subdomains), cognition (attention, executive functions, memory, language, visuo-spatial abilities, intelligence), and psychosocial outcomes (anxiety, depression, self-efficacy, fear of falling, motivation, coping). Some studies also showed greater improvements compared with conventional training controls. Longitudinal effects were generally absent, except for QoL variations observed up to 12 months. Cognitive and psychological factors were also identified as moderators/predictors of RAT response.
-Despite variability across studies, findings suggest RAT may have a broad impact beyond motor recovery. Future large-scale, standardized, longitudinal trials are recommended to confirm these results.

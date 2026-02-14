@@ -1,0 +1,20 @@
+{
+    "pmid": "41686015",
+    "title": "Association Between Creation of an Endovascular Aortic Aneurysm Surveillance Program and 1-Year Follow-Up and Mortality in the State of Michigan, United States.",
+    "abstract": "National guidelines recommend long-term surveillance after endovascular abdominal aortic aneurysm repair (EVAR) to monitor for device failure; however, investigations have demonstrated that EVAR surveillance can vary greatly. Recently, the BMC2 (Blue Cross Blue Shield of Michigan Cardiovascular Consortium) implemented a statewide surveillance program, linked with financial reimbursement, designed to improve EVAR postoperative surveillance. The purpose of this study was to evaluate the impact of this statewide program on EVAR surveillance and long-term mortality.\nThe BMC2, a prospective, multicenter registry consisting of 36 hospitals, was queried for patients who underwent EVAR between 2017 and 2023 in the state of Michigan, United States. Patient, hospital, and operative factors were analyzed based on the presence or absence of EVAR surveillance imaging determined by computed tomography imaging. Covariate-adjusted Bayesian logistic models were used to identify the impact of surveillance imaging on reinterventions and 1-year mortality. The primary outcome was completion of EVAR surveillance and the longitudinal change in the percent of EVARs that obtained surveillance imaging following implementation of the EVAR surveillance program.\nA total of 5583 patients with a mean age of 72.6 years and 81% male underwent EVAR between 2017 and 2023. During the implementation of the EVAR surveillance program, there was a steady increase in the percentage of 1-year EVAR surveillance imaging performed (27.8% in 2017 to 77.9% in 2023). On mixed logistic modeling, patients who received EVAR surveillance displayed a decreased odds ratio of 1-year mortality (0.39 [0.23-0.65]) compared with those who did not receive EVAR surveillance.\nIncomplete imaging surveillance following EVAR remains high and predisposes patients to worse outcomes. Utilization of a surveillance program with an associated financial incentive, is a viable strategy that can have a significant impact on increasing EVAR surveillance and decreasing 1-year mortality after EVAR.",
+    "publication_year": "2026",
+    "journal": "Circulation. Population health and outcomes",
+    "doi": "10.1161/CIRCOUTCOMES.125.012472",
+    "authors": [
+        "Davis, Frank M",
+        "Albright, Jeremy",
+        "Callow, Brennan",
+        "Kobbani, Loay",
+        "Thai, Hue",
+        "Boules, Tamer",
+        "Mouawad, Nicolas J",
+        "Harold Osborne, Nicholas"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

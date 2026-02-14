@@ -1,0 +1,24 @@
+{
+    "pmid": "41679728",
+    "title": "Consequences of the perivascular niche remodeling for tumoricidal T-cell trafficking into metastasis of ovarian cancer.",
+    "abstract": "Aberrant angiogenesis in ovarian cancer (OC), driven by excessive vascular endothelial growth factor (VEGF) and other proangiogenic mediators, gives rise to structurally and functionally abnormal tumor vasculature that hinders effective T-cell infiltration. To overcome these barriers, we investigated how modulation of the perivascular niche influences antitumor T-cell trafficking and function in OC. T cells expressing a rearranged TCR transgene specific for SV40 T antigen (TAG) were adoptively transferred into TAG+ MOVCAR 5009 ovarian tumor-bearing SCID mice or syngeneic TgMISIIR-TAg-Low transgenic mice, which express TAG as a self-antigen in the fallopian tube epithelium. Transfers were performed either alone or following treatment with an oncolytic vaccinia virus expressing a CXCR4 antagonist (OV-CXCR4-A) or a control virus (OV-Fc). Compared with OV-Fc, OV-CXCR4-A treatment remodeled the tumor vasculature, inhibited recruitment of VEGF-producing myeloid-derived suppressor cells, and disrupted the proangiogenic microenvironment. These changes enhanced infiltration of adoptively transferred TCRTAG T cells within the perivascular niche, correlating with improved antitumor activity and survival. Collectively, our findings demonstrate that CXCR4 blockade-mediated reprogramming of the perivascular tumor microenvironment promotes effective T-cell trafficking and function, providing a mechanistic rationale for combining oncolytic virotherapy with adoptive cell transfer in OC.",
+    "publication_year": "2026",
+    "journal": "ImmunoHorizons",
+    "doi": "10.1093/immhor/vlaf084",
+    "authors": [
+        "Winkler, Marta",
+        "Malhotra, Nemi",
+        "Mistarz, Anna",
+        "Wang, Sophie",
+        "Hutson, Alan",
+        "Gambotto, Andrea",
+        "Abrams, Scott I",
+        "Singh, Prashant K",
+        "Liu, Song",
+        "Odunsi, Kunle O",
+        "Wang, Jianmin",
+        "Kozbor, Danuta"
+    ],
+    "num_authors": 12,
+    "citations": 0
+}

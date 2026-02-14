@@ -1,9 +1,0 @@
-PMID: 41672689
-Title: Bleeding in Patients With Infarct-Related Cardiogenic Shock: A DanGer Shock Substudy.
-
-Abstract:
-The microaxial flow pump (mAFP) has demonstrated improved outcomes in selected patients with ST-segment elevation acute myocardial infarction and cardiogenic shock (STEMI-CS). However, its use has been associated with bleeding events.
-The authors analyzed bleeding in the international multicenter randomized DanGer Shock (Danish German Shock) trial.
-A total of 355 patients with ST-segment elevation acute myocardial infarction and cardiogenic shock were randomized to either mAFP (n = 179) or standard care alone (n = 176). Bleeding events were classified according to Bleeding Academic Research Consortium (BARC) type 3-5.
-In the mAFP group, 47 patients (26.3% [95% CI: 20.3%-33.2%]) experienced BARC type 3-5 bleeding, compared with 27 (15.3% [95% CI: 10.7%-21.4%]) in the standard care group; P < 0.001. Median follow-up was 121 days (Q1-Q3: 3-180 days). Among the 210 patients treated with any mechanical circulatory support (MCS), 2 of 74 bleeding events (2.7%) occurred in the cath lab, 35 (47.3%) while on MCS, and 37 (50.0%) after the MCS was removed. Bleeding increased with complexity of MCS: OR for BARC 3-5 bleeding with mAFP was 4.94 (95% CI: 2.30-10.65); P < 0.001, with venoarterial extracorporeal membrane oxygenation (VA-ECMO) 8.06 (95% CI: 2.81-23.09); P < 0.001, and with combined mAFP+VA-ECMO 27.40 (95% CI: 9.82-76.43); P < 0.001, no device as reference. Multivariable logistic regression identified use of mAFP, renal replacement therapy, and escalation to VA-ECMO as predictors of BARC type 3-5 bleeding.
-Patients randomized to mAFP experienced more bleeding than the standard care group. Bleeding was associated with the complexity of MCS, with one-half of the bleeding events occurring after device removal. (Danish Cardiogenic Shock Trial [DanShock]; NCT01633502).

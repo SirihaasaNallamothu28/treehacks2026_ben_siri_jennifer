@@ -1,9 +1,0 @@
-PMID: 41680612
-Title: Lipid-lowering medication reduces more target lesion than non-target lesion revascularizations: a cohort study.
-
-Abstract:
-Factors related to the very long-term progression of atherosclerosis after stent implantation remain unclear.
-To define factors predicting disease progression as either target lesion (TL) or a new site target lesion (NTL) coronary stenosis.
-In a tertiary hospital, between June 2006 and March 2008, a prospective cohort registry of consecutive patients assigned to a coronary angiogram (<i>n</i> = 5294) was collected. Patients who underwent percutaneous coronary stenting (<i>n</i> = 1970 patients) were followed for ten years. Of them (1335/67.8%) had acute coronary syndrome (ACS) and (635/32.2%) chronic coronary syndrome (CCS). New ischemic lesions were categorized as TL or NTL.
-During a median of 9.5 years follow-up, 639 (32.4%) patients had a cardiovascular event, including 253 (12.8%) cardiovascular deaths. Repeat percutaneous coronary interventions were more frequent in CCS than in ACS patients (144 (22.7%) vs. 204 (15.3%), <i>p</i> < 0.001). Of all patients, 137 (39.4%) had TL and 211 (60.6%) had NTL (<i>p</i> = 0.209 between TL- vs. NTL-groups). However, TL occurred earlier than NTL (1.2 years, interquartile range [IQR] 0.4-6.2 vs 4.3 IQR, 1.6-7.3 years, <i>p</i> < 0.001). Good adherence to statin medication (>80% of time) during the whole follow-up period lowered the odds of TL revascularization compared to NTL revascularization (odds ratio [OR] 0.45, (95% confidence interval [CI] 0.21-0.95, <i>p</i> = 0.036)). Diabetes [OR 2.07, (CI 1.04-4.15, <i>p</i> = 0.038) and 10 mm increase in stent(s) length (OR 1.26, (CI 1.02-1.55) <i>p</i> = 0.031) increased the odds of TL revascularization compared to NTL.
-Statin medication provided better protection from TL compared to NTL.

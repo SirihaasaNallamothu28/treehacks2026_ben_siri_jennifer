@@ -1,0 +1,14 @@
+{
+    "pmid": "41683863",
+    "title": "A Transcriptome Study on Seed Germination of <i>Nitraria roborowskii</i> Kom.",
+    "abstract": "<i>Nitraria roborowskii</i> Kom. seeds possess pronounced deep dormancy traits. Analyzing changes in gene expression before and after dormancy release is of great significance for elucidating the mechanisms underlying seed dormancy. In this study, transcriptome sequencing and bioinformatics analysis were conducted on <i>N. roborowskii</i> seeds both before and after dormancy release using high-throughput Illumina NovaSeq 6000 sequencing technology. The key findings are as follows: (1) A total of 215,303 transcripts and 84,450 unigenes were obtained through de novo assembly. (2) Comparative analysis revealed 16,130 significantly differentially expressed unigenes during germination, with 10,776 upregulated and 5354 downregulated. Gene Ontology (GO) enrichment analysis indicated that these differentially expressed genes (DEGs) were primarily associated with biological processes and molecular functions, mainly involved in metabolic processes and catalytic activities. (3) Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis showed that the DEGs were predominantly enriched in pathways such as plant hormone signal transduction and starch and sucrose metabolism. Specifically, among the downregulated genes, 126 were linked to plant hormone signal transduction, 110 to phenylpropanoid biosynthesis, 108 to starch and sucrose metabolism, 27 to flavonoid biosynthesis, 20 to plant hormone signal transduction, 6 to phenylpropanoid metabolism, 14 to starch and sucrose metabolism, and none to flavonoid biosynthesis.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031442",
+    "authors": [
+        "Ren, Shangfu",
+        "Lv, Guanghui"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

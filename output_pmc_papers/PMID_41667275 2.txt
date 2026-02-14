@@ -1,5 +1,0 @@
-PMID: 41667275
-Title: CaMKII in the Heart: From Homeostasis to Pathology.
-
-Abstract:
-Calcium (Ca)/calmodulin-dependent protein kinase II (CaMKII) is a signaling molecule with critical roles in diverse cellular functions, particularly in the brain and heart, where it is highly expressed. In the heart, CaMKII regulates key processes such as contractility, pacemaking, and electrical conduction by phosphorylating a broad array of intracellular substrates, including ion channels, Ca-handling proteins, and transcription factors. However, its sensitivity to multiple signaling stimuli-including intracellular Ca, reactive oxygen species, nitric oxide, and glycolytic by-products-has made CaMKII more recognized for its pathological actions, such as promoting arrhythmias, cell death, and inflammatory signaling. In this review, we discuss CaMKII's involvement in less well-characterized physiological processes, along with its established roles in ventricular arrhythmias and cell death.

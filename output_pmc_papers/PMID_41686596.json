@@ -1,0 +1,14 @@
+{
+    "pmid": "41686596",
+    "title": "Machine learning and bioinformatics-based identification of mitophagy-related diagnostic biomarkers in bronchiolitis obliterans.",
+    "abstract": "This study aimed to explore the molecular mechanisms associated with mitophagy in BO and identified mitophagy-associated BO diagnostic genes. Using Gene Expression Omnibus database data, differentially expressed genes in BO patients vs controls were analyzed via Gene Ontology enrichment. Algorithms like Boruta, least absolute shrinkage and selection operator, and Random Forest screened BO-specific genes. Mitophagy genes were sourced from PathCards and correlated with BO-specific genes via single-sample gene set enrichment analysis (ssGSEA). Receiver operating characteristic curves evaluated the diagnostic performance of these genes. Two hundred and six differentially expressed genes were identified, in which immune-related pathways such as the B-cell receptor signaling pathway and lymphocyte differentiation were significantly enriched. Machine learning screening yielded 30 BO signature genes, among which KLRC3 and CD36 were significantly correlated with ssGSEA enrichment score of the mitophagy gene sets. Receiver operating characteristic analysis confirmed their diagnostic value with AUCs of 0.648 and 0.640, respectively. This finding indicated that KLRC3 and CD36 are not only significantly correlated with ssGSEA enrichment score of the mitophagy gene sets but also have diagnostic value for BO.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047672",
+    "authors": [
+        "Wang, Ying",
+        "Peng, Wenbin"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

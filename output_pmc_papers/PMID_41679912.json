@@ -1,0 +1,17 @@
+{
+    "pmid": "41679912",
+    "title": "Predicting Weight Outcomes From Obesity Medications in a Paediatric Population.",
+    "abstract": "There are limited paediatric studies comparing outcomes from different obesity medications (OMs) in real-world settings. The aim of this study is to describe real-world variability in outcomes and develop models to predict outcomes from OMs.\nWe examined electronic health record (EHR) data of patients (12-21\u2009years) with obesity and without diabetes dispensed an OM from 2003 to 2025 in a paediatric healthcare system. We determined percent change in BMI percentile above the 95th percentile (%BMI<sub>p95</sub>) and for patients dispensed the medication \u2265\u20096\u2009months (to allow for a therapeutic dose) used a \u2265\u20095% reduction in %BMI<sub>p95</sub> as the outcome for Catboost gradient-boosting machine learning. We included patient (socio-demographics, baseline %BMI<sub>p95</sub>, comorbidities, medications) and treatment (dose, duration, adherence, specialty visits) factors as predictors.\nA total of 595 patients were included (20% Hispanic, 27% Black, 49% public insurance, 62% with severe obesity). For patients dispensed Liraglutide, Phentermine, Phentermine/Topiramate and Semaglutide >\u200912\u2009months (comparable duration to clinical trials), average percentage change in %BMI<sub>p95</sub> was 8.76, 10.90, 9.34 and 12.87, and 64%-80% had a \u2265\u20095% final %BMI<sub>p95</sub> reduction. Predictive models demonstrated AUROC\u2009\u2265\u20090.75. OM duration, baseline %BMI<sub>p95</sub> and number of specialty visits were associated.\nThe OMs studied had similar outcomes, with Semaglutide demonstrating slightly better outcomes, but not all patients had successful outcomes. Predictive models can inform clinical decision-making about OMs based on individual characteristics. Future studies validating models prospectively are needed.",
+    "publication_year": "2026",
+    "journal": "Pediatric obesity",
+    "doi": "10.1111/ijpo.70089",
+    "authors": [
+        "Mottalib, Md Mozaharul",
+        "Beheshti, Rahmatollah",
+        "Viswanathan, Karthik",
+        "Bunnell, H Timothy",
+        "Phan, Thao-Ly T"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

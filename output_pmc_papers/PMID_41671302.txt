@@ -1,7 +1,0 @@
-PMID: 41671302
-Title: A comparative investigation of catecholamines and glucocorticoids impact on glioblastoma invasive behavior via 2D and 3D cell culture.
-Journal: PloS one
-Authors: Moazen Safaei, Yasaman; Mahdavian, Reza; Soleymani, Hossein; Rahimpour, Negar; Allahverdi, Abdollah; Naderi-Manesh, Hossein
-
-Abstract:
-Prolonged or intense stress can contribute to the progression of various pathological conditions, including cancer. To explore how stress affects glioblastoma invasiveness, U87-MG cells with reduced proliferation were treated for four days with epinephrine or hydrocortisone (low/high doses) in 2D and 3D cultures. Migration, cell stiffness, and vimentin expression were assessed. In 2D scratch assays, the scratch closure rate was 46.4% in the control group. Treatment with epinephrine increased this rate up to 97.0%, while hydrocortisone reduced it to 13.3%. In 3D cultures, both treatments inhibited spheroid elongation; however, only epinephrine significantly enhanced cell dispersion. Compared to the control group (9.00 kPa), mean stiffness decreased down to 1.92 kPa with epinephrine and increased up to 26.28 kPa with hydrocortisone. Vimentin expression was significantly upregulated under all treatment conditions. Overall, epinephrine promotes glioblastoma invasiveness, while hydrocortisone limits migration. Although cell stiffness changes align with migratory results, vimentin is possibly involved in different mechanisms affected by these compounds.

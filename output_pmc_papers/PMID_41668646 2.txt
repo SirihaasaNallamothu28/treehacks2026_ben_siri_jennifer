@@ -1,8 +1,0 @@
-PMID: 41668646
-Title: Expression of intracellular toll-like receptors in leukoplakia and oral squamous cell carcinoma.
-
-Abstract:
-Toll-like receptors (TLRs) are a group of pathogen recognition receptors expressed not only on immune cells but also cancer cells, where TLR activation may lead to tumour progression or suppression. At present, little is known about the role of TLRs and their connection with immune responses in precancerous lesions, such as oral leukoplakia (OL). In the present study, we have explored the immune activation and the expression of the intracellular TLRs - TLR3, TLR7, TLR8, and TLR9 in OL without and with dysplasia, and in oral squamous cell carcinoma (OSCC).
-Immunohistochemistry was performed on 19 OL patients without dysplasia (OL-no) and 13 patients with dysplasia (OL-dys) and 10 OSCC patients. On digitalised images, TLR3-, TLR7-, TLR8- and TLR9-expressing cells were semi-quantitatively assessed, while the number of CD3- and CD8-expressing cells/mm2 was registered.
-Nuclear TLR7 appeared in 31% of OL-dys but was absent in OL-no (p = 0.03). Cytoplasmic TLR8 was higher in OL-no than OL-dys (32% vs. 8%, p = 0.02). Similarly, cytoplasmic TLR9 was also higher OL-no than OL-dys (42% vs. 23%, p = 0.01).
-TLR3, TLR7, TLR8, and TLR9 are all expressed in OL-no, OL-dys, and OSCC. Also, the study provides evidence for possible nucleocytoplasmic shuttling of TLRs.

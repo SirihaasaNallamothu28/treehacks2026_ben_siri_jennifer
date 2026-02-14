@@ -1,8 +1,0 @@
-PMID: 41670131
-Title: Operationalization of serological surveys in Goiânia: an experience report during the COVID-19 pandemic, 2020.
-
-Abstract:
-To present the experience report of the Health Surveillance Department of Goiânia, Goiás, in conducting four seroepidemiological surveys aimed at estimating the seroprevalence of SARS-CoV-2 infection in 2020, describing the operational and methodological stages as well as the challenges encountered.
-This is an experience report on the organization and implementation of four household-based seroepidemiological surveys conducted amid the rising COVID-19 transmission in 2020. The municipal health surveillance team conducted the activities by administering standardized questionnaires and collecting venous blood samples for serological testing.
-In each survey, approximately 300 public health professionals visited around 2,500 households in a single day. In total, 10,147 individuals aged 5 years and older were recruited. The main challenges involved resource and field team organization, methodological design, laboratory support, and community participation. These obstacles were overcome through external partnerships, method standardization, and a systematized organizational structure.
-The experience demonstrated that, despite operational constraints, municipal health surveillance can conduct large-scale seroepidemiological surveys within a short time frame. Intersectoral mobilization and process systematization facilitated the overcoming of challenges, resulting in a replicable strategy for other communicable diseases in emergency contexts.

@@ -1,0 +1,27 @@
+{
+    "pmid": "41686911",
+    "title": "TCR\u03b3 constant usage tunes human \u03b3\u03b4 T cell antigen sensitivity, thymic programming, and peripheral function.",
+    "abstract": "Activation in T cells through their antigen receptors has been closely tied to the strength of recognition of their cognate antigens, dictated by the variable complementarity-determining region loops. We show that, in the human gamma delta (\u03b3\u03b4) T cell receptors (TCRs), the gamma constant domains modulate activation intensity independent of variable region antigen recognition. Using single-cell RNA sequencing data, we demonstrate that C\u03b3 usage in vivo corresponds with distinct phenotypes, with cells using C\u03b31 having a more differentiated cytotoxic effector phenotype in the thymus and higher granzyme expression in peripheral tissues. TCRs with C\u03b31 are also selectively expanded in colorectal tumors. C\u03b32 usage is correlated with na\u00efve phenotypes in development and with inhibition and wound healing in the periphery. We propose that the modulation of activation using C\u03b31 or C\u03b32 translates to differences in \u03b3\u03b4 T cell phenotype and clonal expansion throughout its life span, providing human \u03b3\u03b4 T cells another \"dial\" to modulate their function.",
+    "publication_year": "2026",
+    "journal": "Science immunology",
+    "doi": "10.1126/sciimmunol.adr7167",
+    "authors": [
+        "Viswanathan, Mayuri",
+        "Castro, Caitlin D",
+        "Broughton, Augusta E",
+        "Ramesh, Amrita",
+        "Asby, Nicholas",
+        "Bergquist, Alejandra",
+        "Kaiser, Caroline",
+        "Luna, Alexander",
+        "Huang, Jun",
+        "Bissonnette, Marc",
+        "Koh, Andrew",
+        "Hibino, Narutoshi",
+        "Schoettler, Nathan",
+        "Sperling, Anne",
+        "Adams, Erin J"
+    ],
+    "num_authors": 15,
+    "citations": 0
+}

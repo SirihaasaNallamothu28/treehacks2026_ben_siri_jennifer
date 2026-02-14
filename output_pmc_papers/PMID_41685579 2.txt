@@ -1,5 +1,0 @@
-PMID: 41685579
-Title: <i>Helicobacter pylori</i> and hyperglycemia fuel gastric cancer glycolysis: Mechanisms and targeted intervention (Review).
-
-Abstract:
-<i>Helicobacter pylori</i> (<i>H. pylori</i>) is a Gram‑negative bacterial pathogen, and infection with this pathogen is a primary risk factor for gastric cancer (GC), often inducing chronic gastritis, which further increases the risk of cancer. Glycolysis carries out a key role in GC metabolism, serving as the primary energy pathway for cancer cells, particularly under hypoxic conditions. Enhanced glycolysis allows GC cells to sustain high proliferation rates and produce lactic acid, creating an acidic tumor microenvironment that promotes tumor progression. Understanding the mechanisms of <i>H. pylori</i>‑driven glycolysis may provide new insights into GC pathogenesis and reveal novel therapeutic targets. The present review addresses advances in glycolysis research in GC, summarizing its characteristics, identifying key mediators involved in metabolic reprogramming and exploring potential molecular mechanisms to recommend new targets for therapy.

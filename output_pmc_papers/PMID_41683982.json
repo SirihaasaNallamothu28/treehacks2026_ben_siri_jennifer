@@ -1,0 +1,18 @@
+{
+    "pmid": "41683982",
+    "title": "Cytosine Deaminase-TRAIL Expressing Human Adipose Stem Cells Inhibit Tumor Growth in Castration Resistant Prostate Cancer Bearing Mice with Less Toxicity.",
+    "abstract": "Stem cells can selectively migrate toward cancer cells, and therapeutic genes can be introduced into stem cells. Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) induces apoptosis in cancer cells without harming normal cells. In this study, we evaluated the inhibition of tumor growth in castration-resistant prostate cancer (CRPC) using human adipose-derived stem cells (ADSCs) engineered to express cytosine deaminase (CD) and soluble TRAIL (sTRAIL), combined with the prodrug 5-fluorocytosine (5-FC). An immortalized human ADSC line (hTERT-ADSC) was transduced with a lentiviral vector encoding CD and sTRAIL, generating ADSC.CD.sTRAIL cells. Expression of chemoattractant ligands and receptors was assessed by RT-PCR. The suicide gene effect was evaluated by 5-FC treatment, measuring cell viability and apoptosis markers in vitro. A subcutaneous CRPC mouse model was used for in vivo studies. ADSC.CD.sTRAIL cells showed enhanced migration toward prostate cancer cells. Treatment with 5-FC significantly reduced cell viability, and co-culture with PC3 cells plus 5-FC increased apoptosis marker expression. In vivo, mice treated with ADSC.CD.sTRAIL and 5-FC had significantly smaller tumor volumes than control groups, with no treatment-related toxicity observed. These findings suggest that ADSCs overexpressing CD and sTRAIL, combined with 5-FC, effectively inhibit CRPC tumor growth and represent a promising targeted therapeutic strategy.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031563",
+    "authors": [
+        "Kim, Jae Heon",
+        "Lee, Hyun Young",
+        "Hong, In Seok",
+        "Lee, Jeongkun",
+        "Lee, Sang Hun",
+        "Song, Yun Seob"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

@@ -1,0 +1,18 @@
+{
+    "pmid": "41686897",
+    "title": "Structural basis for domain coupling in heteromeric glycine receptors revealed by an atypical allosteric agonist.",
+    "abstract": "Glycine receptors (GlyRs), pentameric ligand-gated ion channels (pLGICs), mediate sensory and motor functions. GlyR functional states are well characterized; however, structural details of transitions between states remain undefined. Here, we determined cryo-electron microscopy structures of GlyR\u03b11\u03b2 (with gephyrin E-domain) at varying concentrations of ivermectin, a transmembrane domain (TMD) allosteric agonist, and at saturating concentrations of strychnine, a competitive antagonist at the extracellular domain (ECD). Electrophysiology shows that ivermectin activates GlyR even with strychnine present. Structures with both ligands reveal intermediate states featuring a desensitized TMD and an ECD between closed and desensitized conformations, providing insights into domain cooperativity and ligand efficacy. Molecular dynamics simulations show how ivermectin affects strychnine dynamics. These data support a model where ivermectin activates GlyRs through a concerted and near-symmetric TMD mechanism, whereas allosteric ECD motions are graded and spatially heterogeneous. These findings reveal unanticipated features of GlyR gating and establish principles of allosteric modulation applicable to pLGICs.",
+    "publication_year": "2026",
+    "journal": "Science advances",
+    "doi": "10.1126/sciadv.aeb2036",
+    "authors": [
+        "Gibbs, Eric",
+        "Feddersen, Bjarne",
+        "Kindig, Kayla J",
+        "Seiferth, David",
+        "Biggin, Philip C",
+        "Chakrapani, Sudha"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

@@ -1,0 +1,23 @@
+{
+    "pmid": "41685522",
+    "title": "Multiomic single nuclei profiling the mouse hippocampus reveals that ACSS2 confers neuronal resilience to tauopathy.",
+    "abstract": "Epigenomic dysregulation contributes to Alzheimer's disease (AD) and related tauopathies. Acetyl-CoA synthetase 2 (ACSS2), a nuclear-localized metabolic enzyme in neurons, supports histone acetylation and learning-related gene expression. We examined how ACSS2 loss affects molecular and behavioral phenotypes in a mouse model of tauopathy.\nWe induced tauopathy in ACSS2 knockout and control mice via injection of pathological human tau. We assessed transcriptomic, epigenomic, and behavioral changes, and tested long-term acetate supplementation as a rescue strategy.\nACSS2 loss worsened tau-seeding-related phenotypes, particularly in hippocampal pyramidal neurons and Cajal-Retzius cells. Acetate supplementation rescued learning in an ACSS2-dependent manner and restored gene expression linked to cognition.\nACSS2 acts as a neuroprotective metabolic enzyme in vulnerable hippocampal neurons, and targeting this pathway through dietary supplementation may offer therapeutic potential for AD and related tauopathies.\nWe combine tau seeding with deletion of acetyl-CoA synthetase 2 (ACSS2) to test this enzyme in an Alzheimer's disease model. Loss of ACSS2 exacerbates transcriptional and behavioral responses to tau injection. We observe robust transcriptional dysregulation in pyramidal neurons in the hippocampus. We observe reduced numbers of reelin-producing Cajal-Retzius cells in the hippocampus. Acetate supplementation rescues transcriptional and behavioral responses to tau.",
+    "publication_year": "2026",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "doi": "10.1002/alz.70998",
+    "authors": [
+        "Egervari, Gabor",
+        "Alexander, Desi C",
+        "Huang, Hua",
+        "Donahue, Greg",
+        "Hogan, Connor",
+        "Mendoza, Mariel",
+        "Xu, Hong",
+        "Lee, Virginia",
+        "Garcia, Ben",
+        "Bonini, Nancy",
+        "Berger, Shelley"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

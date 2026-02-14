@@ -1,0 +1,20 @@
+{
+    "pmid": "41678311",
+    "title": "High-speed atomic force microscopy reveals a surface-catalyzed elongation mechanism of the fungal functional amyloid hydrophobin RolA.",
+    "abstract": "Hydrophobins are functional amyloids conserved in filamentous fungi. They act as a protective coat in the fibrous form, called rodlet. Rodlets further assemble to form dense films where they are bundled and densely aligned, contributing to the hydrophobicity of the mycelium surface. The mechanism of this dense film formation is completely unknown. Here, we used high-speed atomic force microscopy to directly observe the structural dynamics of rodlet bundling and subsequent film formation by hydrophobin RolA from the industrial fungus <i><i>Aspergillus</i> oryzae</i> at a single-fibril level, and we revealed the film-formation mechanism. Rodlet elongation occurred at both ends and was discontinuous, alternating between periods when rodlets could elongate (growth state) and could not elongate (pause state). This suggests an equilibrium of two distinct structural states at the rodlet ends. We also identified a pathway, termed \"surface-catalyzed elongation,\" in which elongation is promoted by lateral interactions between bundled rodlets. Surface-catalyzed elongation decreased the energy barrier of both structural switching between growth and pause states and elongation at rodlet ends, doubling the elongation rate in bundled rodlets. The rodlet surface could be considered as a catalyst for the elongation of neighboring rodlets. Surface-catalyzed elongation could contribute to rodlet bundling, whereby rodlets tend to form oriented domain structures; our Monte Carlo simulations confirmed this. The concept we propose here provides a clear explanation of the mechanism by which rodlets form a dense coat on the cell surface.",
+    "publication_year": "2026",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "doi": "10.1073/pnas.2523502123",
+    "authors": [
+        "Takahashi, Nao",
+        "Kimura, Tatsuya",
+        "Terauchi, Yuki",
+        "Tanaka, Takumi",
+        "Abe, Natsuki",
+        "Yoshimi, Akira",
+        "Watanabe-Nakayama, Takahiro",
+        "Abe, Keietsu"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

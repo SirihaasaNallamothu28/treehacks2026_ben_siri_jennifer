@@ -1,7 +1,0 @@
-PMID: 41683494
-Title: Antimicrobial Peptide Nanoassemblies: Design, Response Mechanisms, and Biomedical Applications.
-Journal: Molecules (Basel, Switzerland)
-Authors: Wang, Tao; Ji, Linbao; Zhang, Yucheng; Niu, Zhili; Jiang, Xiaoyi; Wang, Xingyao; Zhang, Qingtai; Zhang, Yuting; Tan, Peng; Feng, Yue; Ma, Xi; Sun, Zhihong
-
-Abstract:
-The overuse of antibiotics has accelerated the evolution and mutation of drug-resistant bacteria, creating an urgent need for novel antimicrobial drugs and feed additives. Antimicrobial peptides, with their unique membrane-disrupting mechanism that resists the development of resistance, hold promise as antibiotic alternatives. To overcome the limitations of natural antimicrobial peptides-such as poor stability, susceptibility to protease degradation, and short in vivo half-lives-self-assembling peptide technology has emerged. This approach employs non-covalent interactions to orderly assemble monomeric peptides into stable, structured nanomaterials like nanofibers, nanotubes, and hydrogels. This paper outlines the molecular design principles and smart response mechanisms of antimicrobial peptide nanoassemblies, elucidates their core advantages over monomeric peptides, summarizes their application scenarios in anti-infection fields, and discusses limitations and future directions across various domains. It provides insights for future antimicrobial peptide design.

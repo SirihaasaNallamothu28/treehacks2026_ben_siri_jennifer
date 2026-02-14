@@ -1,0 +1,18 @@
+{
+    "pmid": "41679957",
+    "title": "Feasibility of proton daily QA prototype for pencil beam scanning carbon ion beam therapy.",
+    "abstract": "The complexity of beam delivery and the limited availability of dedicated quality assurance (QA) devices present unique challenges for carbon ion beam therapy. Most existing systems are designed for single-parameter verification and have been adapted from photon or proton workflows, resulting in time-consuming QA procedures. This study aimed to evaluate the feasibility of using a proton QA prototype device (DQA-P) in a pencil beam scanning (PBS) carbon ion facility, with the aim of enabling fast, efficient, multiparameter\u00a0QA.\nThe DQA-P integrates 25 ionization chambers at three water-equivalent depths, enabling the simultaneous measurement of multiple beam parameters, such as dose output, range, spot size, and spot position, in accordance with the recommendations of the AAPM TG-224. Over 60 measurement sessions were performed, including 47 sessions involving intentional deviations in individual beam parameters, in order to assess sensitivity. The measurements were analyzed retrospectively using custom MATLAB scripts to evaluate accuracy, reproducibility, and the impact of setup\u00a0uncertainties.\nThe DQA-P prototype successfully measured all QA parameters within clinically acceptable tolerances. Dose output measurements showed a standard deviation of 0.5% around the mean, with minimal systematic deviation. Spot position measurements exhibited a mean deviation of 0.16 mm, with a standard deviation of 0.32 mm. The device's sensitivity was demonstrated by its reliable detection of intentional positional offsets of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mo>\u00b1</mo> <annotation>$\\pm$</annotation></semantics> </math> 3 mm and spot size changes of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mo>\u00b1</mo> <annotation>$\\pm$</annotation></semantics> </math> 25%. Range validation using the proximal rise of the Bragg peak produced consistent results, albeit with lower accuracy than that achieved with standard multilayer ionization chambers. However, limitations were identified in spot size estimation due to chamber segmentation, and in range verification, as the device only captures three fixed\u00a0depths.\nThe DQA-P prototype demonstrated feasibility for daily QA in PBS carbon ion beam therapy, offering a short overall measurement time of approximately 5 min, efficient data acquisition, and simultaneous multiparameter verification within a single setup. This is a significant improvement on the conventional daily QA procedure, which uses two different detector types for independent dose and spot position measurements. In the standard workflow, both detectors must be positioned individually using the in-room laser system, connected to the readout electronics and irradiated using the daily beam plan. Altogether, this procedure takes around 15-20 min. Although certain limitations remain-particularly in spot size accuracy and range determination-the device showed sufficient sensitivity and stability for daily QA purposes. Its use has the potential to streamline QA procedures, reduce beam time, and enhance workflow efficiency in carbon ion\u00a0therapy.",
+    "publication_year": "2026",
+    "journal": "Journal of applied clinical medical physics",
+    "doi": "10.1002/acm2.70502",
+    "authors": [
+        "Witt, Matthias",
+        "Flatten, Veronika",
+        "Sch\u00f6nfeld, Andreas",
+        "Baumann, Kilian-Simon",
+        "Weber, Uli",
+        "Zink, Klemens"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

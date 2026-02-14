@@ -1,7 +1,0 @@
-PMID: 41671440
-Title: Cervical Cancer, Version 2.2026, NCCN Clinical Practice Guidelines In Oncology.
-Journal: Journal of the National Comprehensive Cancer Network : JNCCN
-Authors: Abu-Rustum, Nadeem R; Campos, Susana M; Amarnath, Sudha; Arend, Rebecca; Barber, Emma; Bradley, Kristin; Brooks, Rebecca; Chino, Junzo; Chon, Hye Sook; Crispens, Marta Ann; Damast, Shari; Fisher, Christine M; Frederick, Peter; Gaffney, David K; Gaillard, Stephanie; Giuntoli, Robert; Glaser, Scott; Howitt, Brooke E; Kendra, Kari; Landrum, Lisa; Lea, Jayanthi; Lee, Nita; Mantia-Smaldone, Gina; Mariani, Andrea; Mutch, David; Nagel, Christa; Nekhlyudov, Larissa; Nieto, Karina; Nwachukwu, Chika; Podoll, Mirna; Rodabaugh, Kerry; Salani, Ritu; Schorge, John; Schuetze, Scott; Siedel, Jean; Sisodia, Rachel; Soliman, Pamela; Ueda, Stefanie; Urban, Renata; Wyse, Emily; McMillian, Nicole; Sambandam, Vaishnavi
-
-Abstract:
-The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Cervical Cancer provide diagnostic workup, staging, and various treatment recommendations for cervical cancer based on clinical and surgical staging. This selection from the NCCN Guidelines for cervical cancer specifically focuses on diagnosis and workup, principles of staging and surgery, and primary treatment recommendations for early-stage and advanced disease and provides a detailed overview of systemic therapy recommendations for cervical cancer.

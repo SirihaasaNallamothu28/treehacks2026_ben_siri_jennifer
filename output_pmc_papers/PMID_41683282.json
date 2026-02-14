@@ -1,0 +1,17 @@
+{
+    "pmid": "41683282",
+    "title": "Predictors and Risk Scoring of Postnatal Growth Failure in Very-Low-Birth-Weight Infants.",
+    "abstract": "<b>Objectives</b>: To identify factors associated with postnatal growth failure (PGF) in very-low-birth-weight (VLBW) infants and to develop a model for the early identification of neonates at risk. <b>Methods</b>: This retrospective cohort study included VLBW infants born between 2014 and 2024. PGF was defined using the 2013 Fenton growth chart. Multivariate logistic regression was used to identify predictors of PGF, and a weighted risk score was derived from their relative contributions. Model performance was evaluated using a receiver operating characteristic (ROC) curve. <b>Results</b>: Among 481 VLBW infants, 334 (69.4%) had PGF. Independent predictors were birth weight < 750 g (adjusted odds ratio [aOR] 8.11; 95% confidence interval [CI], 3.01-21.83), birth weight 750-1000 g (aOR 2.39; 95% CI, 1.35-4.21), multiple births (aOR 2.82; 95% CI, 1.71-4.67), pregnancy-induced hypertension (PIH) (aOR 3.32; 95% CI, 2.02-5.46), oligohydramnios (aOR 4.08; 95% CI, 1.68-9.92), no antenatal corticosteroid exposure (aOR 2.97; 95% CI, 1.65-5.36), and formula or mixed feeding (aOR 1.69; 95% CI, 1.08-2.64). The model showed good discrimination for scores \u22652 (area under the ROC curve, 0.736; sensitivity, 71.6%; specificity, 64.5%). <b>Conclusions</b>: Birth weight < 1000 g, multiple births, PIH, oligohydramnios, no antenatal corticosteroid exposure, and formula or mixed feeding were significant predictors of PGF. The score may support early risk stratification and prompt closer nutritional surveillance.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030460",
+    "authors": [
+        "Singhasem, Nutcha",
+        "Maneenil, Gunlawadee",
+        "Thatrimontrichai, Anucha",
+        "Praditaukrit, Manapat",
+        "Dissaneevate, Supaporn"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

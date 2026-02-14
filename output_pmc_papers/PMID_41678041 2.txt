@@ -1,9 +1,0 @@
-PMID: 41678041
-Title: Risk of influenza and COVID-19 illness and pediatric obstructive sleep apnea: a TriNetX cohort with 5-year follow-up.
-
-Abstract:
-Obstructive sleep apnea (OSA) is associated with impaired immune responses. Prior small-scale investigations suggested that pediatric OSA leads to a more severe clinical course of common childhood viruses. Whether OSA increases the risk of infection remains unknown.
-To examine whether children with OSA are at increased risk of influenza or COVID-19, and to assess the effect of adenotonsillectomy.
-Using TriNetX, we compared children aged 2-18 years with incident OSA and matched controls without OSA. Outcomes were ICD-10-coded influenza and COVID-19 over a five-year follow-up. We estimated risk ratios (RRs) and Kaplan-Meier hazard ratios (HRs).
-Matched cohorts included 539,127 children each (mean age 5.6 ± 3.6 years). Influenza was diagnosed in 5.1% of OSA vs. 2.8% of controls (RR 1.80; 95% CI, 1.765-1.836); five-year influenza-free survival was 90.27% vs. 93.04% (HR 1.45; 95% CI, 1.421-1.479). COVID-19 was diagnosed in 2.5% vs. 1.0% (RR 2.496; 95% CI, 2.418-2.576); five-year COVID-19-free survival was 95.02% vs. 97.49% (HR 1.986; 95% CI, 1.924-2.050). Effects were similar across age groups. In the treatment sub-analysis (n = 96,004 per group), adenotonsillectomy did not reduce risk. In secondary analyses, OSA was also associated with a higher risk of pneumonia due to influenza or COVID-19.
-In a period spanning 5 years after OSA diagnosis, children of all ages have a significantly higher risk of influenza and COVID-19 diagnoses. Although absolute risks are low, adenotonsillectomy does not lessen susceptibility, suggesting persistent immune dysregulation and supporting prioritization of seasonal vaccination in children with OSA.

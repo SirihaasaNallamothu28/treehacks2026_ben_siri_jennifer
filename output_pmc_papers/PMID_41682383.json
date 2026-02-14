@@ -1,0 +1,21 @@
+{
+    "pmid": "41682383",
+    "title": "Generative Models for Medical Image Creation and Translation: A Scoping Review.",
+    "abstract": "Generative models play a pivotal role in the field of medical imaging. This paper provides an extensive and scholarly review of the application of generative models in medical image creation and translation. In the creation aspect, the goal is to generate new images based on potential conditional variables, while in translation, the aim is to map images from one or more modalities to another, preserving semantic and informational content. The review begins with a thorough exploration of a diverse spectrum of generative models, including Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Diffusion Models (DMs), and their respective variants. The paper then delves into an insightful analysis of the merits and demerits inherent to each model type. Subsequently, a comprehensive examination of tasks related to medical image creation and translation is undertaken. For the creation aspect, papers are classified based on downstream tasks such as image classification, segmentation, and others. In the translation facet, papers are classified according to the target modality. A chord diagram depicting medical image translation across modalities, including Magnetic Resonance Imaging (MRI), Computed Tomography (CT), Cone Beam CT (CBCT), X-ray radiography, Positron Emission Tomography (PET), and ultrasound imaging, is presented to illustrate the direction and relative quantity of previous studies. Additionally, the chord diagram of MRI image translation across contrast mechanisms is also provided. The final section offers a forward-looking perspective, outlining prospective avenues and implementation guidelines for future research endeavors.",
+    "publication_year": "2026",
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26030862",
+    "authors": [
+        "Pang, Haowen",
+        "Zhang, Tiande",
+        "Wu, Yanan",
+        "Chen, Shannan",
+        "Qian, Wei",
+        "Yao, Yudong",
+        "Ye, Chuyang",
+        "Monkam, Patrice",
+        "Qi, Shouliang"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

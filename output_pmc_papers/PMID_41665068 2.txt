@@ -1,5 +1,0 @@
-PMID: 41665068
-Title: Clarithromycin for treating sepsis in adults.
-
-Abstract:
-This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of clarithromycin for treating sepsis in adults versus standard care with or without placebo or with an alternative active intervention, or clarithromycin in combination with antibiotic therapy versus standard care.

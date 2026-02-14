@@ -1,0 +1,20 @@
+{
+    "pmid": "41686769",
+    "title": "In-hospital outcomes and associated factors of mortality in thai children with diabetic ketoacidosis: A national data analysis 2015-2023.",
+    "abstract": "Diabetic ketoacidosis (DKA) remains a major cause of pediatric morbidity and death. This study examined national trends in DKA hospitalizations and factors associated with in-hospital mortality among Thai children.\nA nationwide, retrospective cohort study was conducted using data from the National Health Security Office (NHSO) during 2015-2023. Children aged 1 month to under 18 years hospitalized with DKA were identified using International Classification of Diseases, 10th Revision, Thai Modification (ICD-10-TM) codes. Prevalence and mortality were described by year and region. Factors associated with death were assessed with multivariable logistic regression; model discrimination used area under the curve (AUC).\nAmong 10,669 admissions, national DKA prevalence increased from 4.5 to 11.8 per 10,000 pediatric hospitalizations, with Bangkok showing the highest rates. The overall intubation rate was 10.2%, peaking in infants and older adolescents. Although national mortality declined from 2.2% to 0.6%, regional and age-specific fluctuations persisted. Independent associations with mortality included malignancy (Adjusted odds ratio [AOR] 5.25, 95% CI: 1.63-16.92; p=0.005), septic shock (AOR 2.93, 95% CI: 1.71-5.03; p < 0.001), multiorgan dysfunction syndrome (MODS) (AOR 9.46, 95% CI: 5.44-16.46; p < 0.001), and need for intubation (AOR 33.43, 95% CI: 17.14-65.22; p < 0.001). Compared with type 1 diabetes, type 2 (AOR 1.64, 95% CI: 1.00-2.69) and other/unspecified diabetes (AOR 2.34, 95% CI: 1.25-4.38) had higher odds of death. Model performance was excellent (AUC 0.9639; pseudo-R\u00b2 0.5245).\nDKA hospitalizations are increasing in Thailand, with regional variation and persistent mortality risk, particularly among patients with critical complications and vulnerable groups. Although declining mortality trends and lower mortality in recurrent cases suggests improved protocol-based treatment, targeted prevention strategies remain essential for high-risk populations.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0342777",
+    "authors": [
+        "Chaisiwamongkol, Ratikorn",
+        "Uppala, Rattapon",
+        "Sitthikarnkha, Phanthila",
+        "Techasatian, Leelawadee",
+        "Saengnipanthkul, Suchaorn",
+        "Kosalaraksa, Pope",
+        "Thepsuthammarat, Kaewjai",
+        "Niamsanit, Sirapoom"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

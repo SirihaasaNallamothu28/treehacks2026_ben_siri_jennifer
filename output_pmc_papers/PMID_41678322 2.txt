@@ -1,5 +1,0 @@
-PMID: 41678322
-Title: Design, Synthesis, and Biological Evaluation of Pseudo-Natural Products Inspired by Aryloctahydroindole Alkaloids.
-
-Abstract:
-We report the design, synthesis, and biological characterization of a pseudo-NP (PNP) collection inspired by the mesembrine alkaloid scaffold. A scalable, microwave-assisted intramolecular Diels-Alder furan cyclization enabled efficient access to the 3a-aryloctahydroindole (AOHI) core, which served as a versatile intermediate for diversification through NP-fragment fusion. The resulting AOHI-based PNPs explore chemical space bridging properties of NPs and drug-like molecules. Morphological and bioenergetic profiling revealed distinct mitochondrial phenotypes, including altered morphological features and respiration consistent with complex I perturbation. These findings highlight the AOHI scaffold as a versatile and synthetically accessible alkaloid-derived fragment for PNP design and as a valuable source for novel biologically active compound classes.

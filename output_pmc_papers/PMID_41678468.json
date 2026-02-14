@@ -1,0 +1,24 @@
+{
+    "pmid": "41678468",
+    "title": "Omics-aided design genome editing strategy for challenging human immortalized cell models.",
+    "abstract": "CRISPR-Cas9 has become a popular genome editing tool for biomedical research and drug development due to its capability to enable precise correction or integration of genetic mutations in the genome. However, precise genome editing competency varies dramatically between cell types depending on their capabilities for DNA damage. In this proof-of-concept study, we took the example of HepG2 and MCF7 to show that omics profiling identifies bottlenecks that are associated with poor precise knock-in (KI) efficiency in hard-to-engineer cells. These bottlenecks include previously described factors such as the predominance of non-homologous end joining (NHEJ) repair and impaired homologous recombination (HR) capability, but also reveals apoptotic priming status of the cells as a limiting factor. Upon further comparative analysis between HepG2 and MCF7 cells, we pinpointed and validated the proliferating cell nuclear antigen (PCNA) as a target to overexpress to enhance precise KI efficiency in MCF7. Overall, we describe how employing a multi-omics approach to characterize cell models of interest can facilitate an in-depth understanding of their editability molecular signature, empowering us to manipulate the activity of key pathways for precise editing, and therefore increase efficiency of desired editing outcomes.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0341124",
+    "authors": [
+        "Mendoza-Garcia, Patricia",
+        "Keith, Benjamin",
+        "Nordberg, Markus",
+        "Quist, Ella",
+        "Ferr\u00e1s, Cristina",
+        "Hamza, Ghaith M",
+        "Elgendy, Ramy",
+        "Ashenden, Stephanie Kay",
+        "Chi, Jordi",
+        "van Zuydam, Natalie R",
+        "Hattersley, Neil",
+        "Zhang, Xiang"
+    ],
+    "num_authors": 12,
+    "citations": 0
+}

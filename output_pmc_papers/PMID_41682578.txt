@@ -1,7 +1,0 @@
-PMID: 41682578
-Title: A Modified Dot-Pattern Moiré Fringe Topography Technique for Efficient Human Body Surface Analysis.
-Journal: Sensors (Basel, Switzerland)
-Authors: Wasim, Muhammad; Ahsan, Syed Talha; Ahmed, Lubaid; Sagar, Subhash
-
-Abstract:
-Raster-stereography and Moiré Fringe Topography are widely recognized as effective techniques for surface screening. Traditionally, these methods have been applied in various medical and clinical contexts, such as assessing human body symmetry, analyzing spinal deformities, evaluating scapular positioning, and predicting trunk-related abnormalities. Both techniques have proven to be reliable tools for examining the human body surface and identifying health-related issues. However, in these techniques, line grids projected onto non-uniform surfaces often break or distort, complicating curvature detection. Capturing and digitizing these distortions through photographymeans further reducing accuracy due to low contrast between background and projected lines. In this paper, we present a modified, i.e., dotted-based, approach to Moiré Fringe Topography construction, offering a simpler, more accurate, and efficient method for recording human body surface curvatures. The proposed technique significantly reduces the complexity of the data acquisition process while maintaining precision in surface analysis. A Single-Photon Avalanche Diode (SPAD) image sensor was used to capture the Moiré patterns.

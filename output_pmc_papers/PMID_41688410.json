@@ -1,0 +1,15 @@
+{
+    "pmid": "41688410",
+    "title": "Risk-Adjusted Surgical Learning Curve Assessment Using Comparative Probability Metrics.",
+    "abstract": "Surgical learning curves are graphical tools used to evaluate a trainee's progress in the early stages of their career and determine whether they have achieved proficiency after completing a specified number of surgeries. Cumulative sum (CUSUM)-based techniques are commonly used to assess learning curves due to their simplicity, but they face criticism for relying on fixed performance thresholds and lacking interpretability. This paper introduces a risk-adjusted surgical learning curve assessment (SLCA) method that focuses on estimation rather than hypothesis testing (which is characteristic of CUSUM-type methods). The proposed method is specifically designed to accommodate right-skewed outcomes, such as surgery durations, which are well-characterized by the Weibull distribution. To evaluate the learning process, the proposed SLCA approach sequentially estimates comparative probability metrics that assess the likelihood of a clinically important difference between the trainee's performance and a standard performance. Given the expectation that a trainee's performance will improve over time, we employ a weighted estimating equations approach to the estimation framework to assign greater weight to more recent outcomes compared to earlier ones. Compared to CUSUM-based methods, the proposed methodology offers enhanced interpretability and deeper insights. It also avoids reliance on externally defined performance levels, which are often difficult to determine in practice, and it emphasizes assessing clinical equivalence or noninferiority rather than simply identifying a lack of difference. The effectiveness of the proposed method is demonstrated through a case study on a colorectal surgery dataset as well as a numerical study.",
+    "publication_year": "2026",
+    "journal": "Statistics in medicine",
+    "doi": "10.1002/sim.70419",
+    "authors": [
+        "Ahmadi Nadi, Adel",
+        "Steiner, Stefan H",
+        "Stevens, Nathaniel T"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

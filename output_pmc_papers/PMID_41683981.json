@@ -1,0 +1,21 @@
+{
+    "pmid": "41683981",
+    "title": "Expression Patterns of LALBA and Nucleolin and Their Clinical, Prognostic, and Immune Relevance in Breast Cancer Tissues of Mexican Patients.",
+    "abstract": "Breast cancer is the most common and deadliest cancer among women. While overexpression of specific markers guides disease stratification and has enabled the development of targeted therapies, identifying new therapeutic targets remains critical, particularly for aggressive subtypes lacking effective treatments. This study evaluated the expression of \u03b1-Lactalbumin (LALBA) and nucleolin (NCL) in breast cancer tissues from Mexican patients using gene expression analysis and immunohistochemistry. LALBA, a major milk protein normally expressed only during late pregnancy and lactation, was detected in nearly all tumor samples and showed higher levels in aggressive subtypes, with overexpression displaying a slight trend toward poorer overall survival. NCL, a multifunctional nucleolar protein, exhibited predominantly nuclear localization, with moderate expression associated with improved survival. Both proteins correlated with tumor immune features, including increased tumor-infiltrating lymphocytes (TILs) and PD-L1 expression for LALBA, and elevated CD8<sup>+</sup> T cells, PD-L1, and TIM-3 expression for NCL. Overall, these findings suggest that LALBA and NCL are associated with tumor aggressiveness, immune context, and survival trends in breast cancer. Additional studies in larger cohorts are needed to define their clinical relevance.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031561",
+    "authors": [
+        "Navarro-Real, Mariana",
+        "Zavala-L\u00f3pez, Juan Omar",
+        "God\u00ednez-Rub\u00ed, Juliana Marisol",
+        "Quintero-Ramos, Antonio",
+        "Toro-Arreola, Alicia Del",
+        "Franco-Topete, Ramon",
+        "Bola\u00f1os, \u00c1ngel Quiroz",
+        "Topete, Antonio",
+        "Daneri-Navarro, Adri\u00e1n"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

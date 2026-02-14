@@ -1,0 +1,16 @@
+{
+    "pmid": "41689645",
+    "title": "Graphene oxide-reinforced thermosensitive hydrogel co-delivering paclitaxel and dexamethasone for restenosis prevention.",
+    "abstract": "Restenosis remains a significant limitation of vascular intervention procedures, primarily driven by the proliferation and inflammation of human-derived vascular smooth muscle cells (hVSMCs). This study developed a thermosensitive chitosan/\u03b2-glycerophosphate (CS-\u03b2-GP) hydrogel reinforced with graphene oxide (GO) for the localized co-delivery of paclitaxel (PTX) and dexamethasone (DEX). The incorporation of GO increased the storage modulus from approximately 3.95\u2009kPa to 6.96\u2009kPa, enhancing mechanical strength and accelerating gelation near body temperature (~36\u00b0C-37\u00b0C). SEM analysis revealed a porous, interconnected structure that supports drug delivery, while swelling was moderate (~145% at 6\u2009h) and degradation resistance was improved, with the hydrogel retaining 80% of its mass in PBS after 30\u2009days. Drug loading favored PTX (70% at 60\u2009\u03bcg/mL) over DEX (17%) with sustained release profiles. Biologically, the dual-drug hydrogel (CS-\u03b2-GP-GO@PTX-DEX) selectively reduced hVSMC viability, migration, proliferation (~30%, ~20%, and ~30%, respectively), while preserving endothelial cell viability (~60%) and lowering proinflammatory cytokines (IL-1\u03b2 ~100\u2009pg/mL, IL-6 ~110\u2009pg/mL, TNF-\u03b1 ~70\u2009pg/mL). These findings establish the CS-\u03b2-GP-GO@PTX-DEX hydrogel as a mechanically robust, selective, and effective platform for preventing restenosis and enhancing vascular tissue regeneration.",
+    "publication_year": "2026",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "doi": "10.1177/22808000261421276",
+    "authors": [
+        "Sheng, Jinping",
+        "Jiang, Rui",
+        "Wang, Peng",
+        "Li, Jianhao",
+        "Du, Feizhou"
+    ],
+    "num_authors": 5
+}

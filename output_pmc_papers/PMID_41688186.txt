@@ -1,7 +1,0 @@
-PMID: 41688186
-Title: [Extracorporeal membrane oxygenation-assisted radiofrequency ablation for ventricular tachycardia electrical storm in super-elderly patient: a case report].
-Journal: Zhonghua xin xue guan bing za zhi
-Authors: Shang, X N; Sun, M Y; Wang, Z L; Liang, Z Y; Zhang, D H; Liang, M
-
-Abstract:
-

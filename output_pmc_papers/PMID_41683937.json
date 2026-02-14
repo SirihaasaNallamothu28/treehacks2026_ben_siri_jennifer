@@ -1,0 +1,15 @@
+{
+    "pmid": "41683937",
+    "title": "Panobinostat Potentiates the Antitumor Efficacy of 5-Fluorouracil in Gastric Cancer by Suppressing Thymidylate Synthase Expression.",
+    "abstract": "Resistance to 5-fluorouracil (5-FU), a cornerstone chemotherapy for gastric cancer (GC), is a major clinical obstacle, often driven by the upregulation of its target enzyme, thymidylate synthase (TS). In this study, we investigated the potential of the pan-histone deacetylase inhibitor (HDACi) panobinostat to synergize with 5-FU. In GC cell lines, panobinostat treatment alone suppressed cell viability, clonogenicity, and migration, and this was associated with the induction of G1-phase cell cycle arrest and mitochondria-mediated apoptosis. Crucially, Panobinostat acted synergistically with 5-FU, leading to enhanced cytotoxicity. Mechanistically, 5-FU treatment alone induced a compensatory upregulation of TS protein, a known resistance mechanism. Panobinostat not only suppressed basal TS expression but, more importantly, abrogated this 5-FU-induced upregulation. Furthermore, panobinostat downregulated a network of oncogenes and cell cycle regulators, including c-Myc and key cyclins. These findings indicate that panobinostat can enhance 5-FU cytotoxicity by targeting TS expression and reprogramming oncogenic transcriptional networks, supporting its potential as a complementary strategy for overcoming fluoropyrimidine resistance in GC therapy.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031516",
+    "authors": [
+        "Park, Sooyeon",
+        "Kim, Nayeon",
+        "Yang, Changwon"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

@@ -1,0 +1,20 @@
+{
+    "pmid": "41686589",
+    "title": "Can point-of-care ultrasound improve the predictive accuracy of early warning scores in critically ill emergency department patients?: A prospective observational study.",
+    "abstract": "Early risk stratification of critically ill patients is essential for facilitating timely interventions in the emergency department (ED). This study assessed whether point-of-care ultrasound (POCUS) parameters - specifically, left ventricular ejection fraction (EF) and inferior vena cava (IVC) collapsibility - contribute prognostic value to established early warning scores, including the rapid emergency medicine score, Modified Early Warning Score (MEWS), and Hypotension, Oxygen saturation, low Temperature, ECG changes, Loss of independence (HOTEL) score, in predicting 6-month mortality. In this prospective, single-center study, 59 nontraumatic adult patients admitted to the ED critical care unit between October 2022 and October 2023 were enrolled. Demographic characteristics, vital signs, and clinical scores (rapid emergency medicine score, MEWS, HOTEL, glasgow coma scale, and Alert, Voice, Pain, Unresponsive [AVPU]) were documented at admission, alongside single-time bedside ultrasound measurements of EF and IVC collapsibility. The primary outcome was 6-month mortality. Six-month mortality was observed in 27 patients (45.8%). Non-survivors exhibited significantly lower systolic blood pressure (median 110 vs 142\u2009mm Hg; P\u2005=\u2005.021) and elevated respiratory rates (median 22 vs 20 breaths/min; P\u2005=\u2005.021). Additionally, levels of consciousness were reduced (median glasgow coma scale 13 vs 15; P\u2005=\u2005.002; AVPU P\u2005=\u2005.003). The MEWS (median 4 vs 2; P\u2005=\u2005.004) and HOTEL (median 2 vs 1; p<0.001) scores were notably higher in the mortality cohort. Logistic regression analysis identified HOTEL (OR 4.23; 95% confidence interval 1.80-9.95; P\u2005=\u2005.001) and MEWS (OR 1.57; 95% confidence interval 1.17-2.12; P\u2005=\u2005.003) as independent predictors of mortality, whereas EF and IVC collapsibility did not reach statistical significance (P\u2005=\u2005.307 and P\u2005=\u2005.084, respectively). It is evident that traditional physiological scoring systems, such as the MEWS and HOTEL, continue to serve as reliable instruments for predicting long-term mortality in critically ill patients in the ED. Single-time measurements of EF and IVC collapsibility at admission did not provide additional prognostic value beyond these scores. Future larger, multicentre studies may help to further clarify whether integrated or repeated point-of-care ultrasound (POCUS) assessments could have a role in risk stratification.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047663",
+    "authors": [
+        "Fettaho\u011flu, S\u00fcreyya Tuba",
+        "Do\u011fan, Serkan",
+        "Fettaho\u011flu, Salih",
+        "U\u00e7an, Melih",
+        "Yeniyurt, Bilal",
+        "Avcu, Vildan",
+        "Bala, Efe Demir",
+        "Kalafat, Utku Murat"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

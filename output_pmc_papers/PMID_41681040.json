@@ -1,0 +1,19 @@
+{
+    "pmid": "41681040",
+    "title": "A respiratory motion analysis for guiding stereotactic arrhythmia radiotherapy motion management.",
+    "abstract": "Stereotactic arrhythmia radiotherapy (STAR) treats ventricular tachycardia (VT) but requires internal target volume (ITV) expansions to compensate for cardiorespiratory motion. Respiratory 4D CTs (r4DCT) are commonly acquired for STAR patients to assess respiratory motion and determine the ITV expansion margin. Current clinical r4DCT imaging methods are limited, and the reconstructed r4DCTs suffer from unmanaged cardiac motion artifacts that affect the quantitative assessment of respiratory motion of the heart and substructures.\nTo develop a novel image-processing method that accurately quantifies the respiratory motion of the heart and substructures in r4DCTs corrupted by cardiac motion artifacts.\nA groupwise surface-to-surface deformable image registration (DIR) algorithm, named gCGF, was developed by combining the Coherent Point Drift (CPD) algorithm with Gaussian Mixture Models (GMM) and a Finite Element Model (FEM). A novel principal component filtering (PCF) mechanism and a spatial smoothing mechanism were developed and incorporated into gCGF to iteratively register heart contours of ten r4DCT phases while removing random cardiac motion from the cyclic respiratory motion. The performance of the groupwise DIR was quantitatively validated using eight digital phantoms with simulated cardiac artifacts. An ablation study was conducted to compare gCGF to another comparable state-of-the-art groupwise DIR method. gCGF was applied to r4DCTs of 20 STAR patients to analyze the respiratory motion of the heart, which was computed for individual respiratory phases, with the average position of registered heart shapes as the reference position.\nValidation on digital phantoms showed that gCGF achieved target registration errors (TRE) of 0.63\u00a0\u00b1\u00a00.51\u00a0mm for the heart surface while successfully achieving phase smoothness and reducing cardiac motion artifacts. TREs of 0.69 to 0.95\u00a0mm were achieved for the cardiac substructures. For each STAR patient, the heart contours of ten phases of r4DCT were registered with gCGF. Among all STAR patients, the heart's maximum and mean respiratory motion magnitudes ranged from 3.6 to 7.9\u00a0mm and 1.0 to 2.6\u00a0mm. The peak-to-peak motion range was from 6.2 to 14.7\u00a0mm. For VT targets, the max and mean motion magnitude ranges were 3.0 to 6.7\u00a0mm and 0.8 to 2.9\u00a0mm, respectively. The peak-to-peak range was from 4.7 to 11.8\u00a0mm. Significant dominance of the first principal component of the motion direction was observed (p\u00a0=\u00a00). Respiratory motion was found to be patient-specific and predominantly in the first principal component direction.\nThe gCGF surface-to-surface deformable registration algorithm was confirmed to be robust to quantify respiratory motion of the heart in the r4DCTs while mitigating cardiac motion artifacts. The gCGF algorithm and the results of this study can be useful to enable personalized motion management for STAR treatments and patient-specific optimization of the ITV margins.",
+    "publication_year": "2026",
+    "journal": "Medical physics",
+    "doi": "10.1002/mp.70323",
+    "authors": [
+        "Wang, Yuhao",
+        "Hao, Yao",
+        "An, Hongyu",
+        "Gach, H Michael",
+        "Robinson, Clifford G",
+        "Cuculich, Phillip S",
+        "Yang, Deshan"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

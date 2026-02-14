@@ -1,0 +1,17 @@
+{
+    "pmid": "41686581",
+    "title": "Association between conicity index and female infertility: Insights from NHANES.",
+    "abstract": "Obesity is a significant risk factor for female infertility. The conicity index (C-index) is an important measure for assessing body fat distribution, but its relationship with female infertility is not well understood. This study aims to investigate the correlation between the C-index and female infertility. The research data is sourced from the National Health and Nutrition Examination Survey conducted between 2013 and 2018. Female infertility is evaluated using a reproductive health questionnaire, and the C-index is calculated based on waist circumference, body mass index, and height. A multiple factor logistic regression model is utilized to analyze the correlation between the C-index and the incidence of infertility. Additionally, the restricted cubic spline method is applied to examine the dose-response relationship between the C-index, treated as a continuous variable, and female infertility. Subgroup analyses are performed to investigate the consistency of associations across various demographic and health-related factors. A total of 3496 female patients were included in this study, with 412 diagnosed with infertility. The results of the multiple logistic regression analysis indicated that the C-index is associated with female infertility. As the C-index grouping level increased, the odds of female infertility prevalence also increased (odds ratio: 1.80, 95% confidence interval [95% CI]: 1.25-2.59, P\u2005=\u2005.002). This association was consistent across all subgroups. Ultimately, 3 multiple regression models were retained. The results from the linear relationship test and restricted cubic spline analysis demonstrated that as the C-index level continued to rise, the odds of female infertility prevalence increased gradually (P for nonlinear\u2005=\u2005.834, P for overall\u2005<\u2005.001). There is a positive relationship between the C-index and infertility in American women. Utilizing C-index measurements can aid in the early identification of infertile women, and managing obesity based on C-index results may help decrease the incidence of infertility.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047568",
+    "authors": [
+        "Tan, Dong-Mei",
+        "Cai, Ping-Ping",
+        "Shi, Yi-Min",
+        "Kong, Xin-Liang",
+        "Meng, Zhao-Qing"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

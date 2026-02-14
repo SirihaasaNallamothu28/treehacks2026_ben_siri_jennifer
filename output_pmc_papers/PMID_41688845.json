@@ -1,0 +1,25 @@
+{
+    "pmid": "41688845",
+    "title": "TSC-associated microglial hyperactivity: enhanced calcium signaling, metabolism, and phagocytosis.",
+    "abstract": "Tuberous sclerosis complex (TSC) is a multisystem genetic disorder with prominent neurological manifestations, most notably epilepsy, and is frequently accompanied by a wide range of neuropsychiatric comorbidities. Hyperactivation of the mechanistic target of rapamycin (mTOR) pathway plays a central role in TSC pathology, disrupting both general brain development and specific molecular processes such as metabolism. While much attention has focused on neurons and astrocytes in these TSC-related alterations, the contribution of microglia remains relatively underexplored. In this study, we first analysed the transcriptomic profiles from resected TSC brain tissue and identified evidence of calcium (Ca<sup>2+</sup>) dysregulation in TSC microglia. In order to investigate the functional consequences, we then examined induced pluripotent stem cell (iPSC) derived microglia-like (iMGL) cells from TSC patients. Our findings reveal that these iMGL cells displayed markedly altered Ca<sup>2</sup>\u207a signalling, characterized by impaired store-operated calcium entry (SOCE) and an increase in mitochondrial Ca<sup>2</sup>\u207a uptake. These changes are accompanied by elevated mitochondrial respiratory activity, suggesting a shift in metabolic state. In addition, TSC iMGL cells displayed increased phagocytic activity and an altered inflammatory responsiveness, consistent with a dysregulated microglial activation state. Supporting these functional alterations in iMGL cells, transcriptomic analysis of TSC brain tissue revealed upregulation of several genes associated with lipid metabolism, phagocytosis, and innate immune activation, with partial overlap with stage 2 disease-associated microglia (DAM)-like programs. Together these findings suggest that microglial dysfunction may represent a relevant component of TSC pathophysiology.",
+    "publication_year": "2026",
+    "journal": "Acta neuropathologica",
+    "doi": "10.1007/s00401-026-02986-8",
+    "authors": [
+        "Kalf, Rozemarijn S",
+        "Luinenburg, Mark J",
+        "Dematteis, Giulia",
+        "Scheper, Mirte",
+        "Anink, Jasper J",
+        "Cavallo, Giulia",
+        "Mattarei, Andrea",
+        "Van Hecke, Wim",
+        "M\u00fchlebner, Angelika",
+        "Tapella, Laura",
+        "Mills, James D",
+        "Lim, Dmitry",
+        "Aronica, Eleonora"
+    ],
+    "num_authors": 13,
+    "citations": 0
+}

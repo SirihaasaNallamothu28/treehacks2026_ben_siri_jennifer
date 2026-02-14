@@ -1,0 +1,14 @@
+{
+    "pmid": "41685499",
+    "title": "Scaling Responsible Medical Text Retrieval Across Silos: Evaluating Small Language Models with Retrieval-Augmented Generation.",
+    "abstract": "This study evaluates small language models with FAISS and Dynamic Top-k for diabetes-focused medical text retrieval, with all-mpnet-base-v2 performing best and FAISS (FAISS Facebook AI Similarity Search) maintaining sub-2 ms latency even at tenfold scale. Dynamic Top-k improved precision and nDCG (Normalized Discounted Cumulative Gain), showing that lightweight SLM-RAG (Small Language Model-Retrieval Augmented Generation) pipelines can approach larger-model accuracy while remaining highly scalable for cloud-based EMR (Electronic Medical Record) environments.",
+    "publication_year": "2026",
+    "journal": "Studies in health technology and informatics",
+    "doi": "10.3233/SHTI260043",
+    "authors": [
+        "Shetty, Rahul",
+        "Keshavjee, Karim"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

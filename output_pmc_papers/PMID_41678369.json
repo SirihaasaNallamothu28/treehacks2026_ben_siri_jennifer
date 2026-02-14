@@ -1,0 +1,25 @@
+{
+    "pmid": "41678369",
+    "title": "Sleep, Depressive Symptoms, and Quality of Life Among Women With Newly Diagnosed Breast Cancer: Baseline Results From the AMBER Cohort Study.",
+    "abstract": "Sleep problems are common among breast cancer survivors and are associated with poor quality of life. However, few studies have considered whether depressive symptoms confound or modify this association. This study evaluates whether depressive symptoms attenuate the association between sleep and quality of life in newly diagnosed breast cancer survivors.\nWomen with newly diagnosed early-stage breast cancer were recruited between 2012 and 2019 in Alberta, Canada, and completed the Pittsburg Sleep Quality Index (PSQI) to characterize global sleep quality and subscales. Quality of life was measured using the Short Form Survey (SF-36 version-2) to assess physical and mental well-being. Depressive symptoms were measured using the Patient Health Questionnaire (PHQ-9). Multivariable linear regressions were used to estimate the association of sleep characteristics with physical and mental well-being. Depressive symptoms were evaluated as a potential confounder and effect modifier.\nAmong 1454 breast cancer survivors with available data, 43% reported poor global sleep quality and 10.5% reported clinically meaningful depressive symptoms. Poor sleep quality was associated with lower physical (\u03b2\u2009=\u2009-3.0, 95% CI: -3.8 to -2.3) and mental well-being (\u03b2\u2009=\u2009-5.7, 95% CI: -6.7 to -4.7). These associations were attenuated to (\u03b2\u2009=\u2009-2.3, 95% CI: -3.1 to 1.5) and (\u03b2\u2009=\u2009-1.2, 95% CI: -2.1 to -0.3) after further adjusting for depressive symptoms. Stratified analyses showed slightly stronger associations in women with non-minimal depressive symptoms, though this association was not clinically meaningful.\nThe association between sleep and quality of life was substantially attenuated after accounting for depressive symptoms. Longitudinal data are needed to clarify whether depressive symptoms confound, mediate, or modify this relationship to better guide targeted interventions in breast cancer survivorship.",
+    "publication_year": "2026",
+    "journal": "Cancer medicine",
+    "doi": "10.1002/cam4.71586",
+    "authors": [
+        "Yang, Lin",
+        "Tayyab, Temoor",
+        "Kokts-Porietis, Ren\u00e9e L",
+        "Wang, Qinggang",
+        "McNeil, Jessica",
+        "Matthews, Charles E",
+        "Dickau, Leanne",
+        "Vallance, Jeff K",
+        "McNeely, Margaret L",
+        "Culos-Reed, S Nicole",
+        "Kopciuk, Karen A",
+        "Courneya, Kerry S",
+        "Friedenreich, Christine M"
+    ],
+    "num_authors": 13,
+    "citations": 0
+}

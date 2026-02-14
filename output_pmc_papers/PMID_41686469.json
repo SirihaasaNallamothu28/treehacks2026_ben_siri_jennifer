@@ -1,0 +1,17 @@
+{
+    "pmid": "41686469",
+    "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
+    "abstract": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk. M2 macrophages are major immune cells in the TME. However, the effects and molecular mechanisms by which exosomes secreted by lung cancer (LC) cells regulate macrophage polarization during tumor metastasis remain unclear. Exosomes secreted by LC cells were extracted using ultracentrifugation. Exosomes were identified by transmission electron microscopy (TEM) and nanoparticle tracking analysis (NTA). The proliferation and metastasis capacities of LC cells were detected via CCK-8 and transwell experiments. The interaction between miR-20a-5p and circ_001895 or JAK1 was subsequently confirmed through bioinformatics analysis and a luciferase reporter assay. The effect of circ_001895-induced M2 macrophages in exosomes on the metastatic ability of LC cells <i>in vivo</i> was verified by mouse experiments. First, we discovered that exosomes have a bilayer membrane-encapsulated vesicular structure, and the particle size is approximately 100-200\u2009nm. LC-derived exosomes significantly promoted the growth and metastasis of LC cells. Further studies revealed that LC-derived exosomes promoted strengthened LC progression by increasing M2 macrophage polarization. Subsequently, we disclosed that circ_001895 was increased in LC tissues, cell lines, and exosome-treated macrophages. Circ_001895 stimulated M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 pathway. <i>In vivo</i> experiments confirmed that the LC-derived exosomal circ_001895 promoted LC progression through stimulating M2 macrophage polarization. LC-derived exosomal circ_001895 stimulated M2 macrophage polarization to promote LC metastasis via the miR-20a-5p/JAK1/STAT3 axis. These findings suggest that exosomal circ_001895 may serve as a potential biomarker and therapeutic target in lung cancer.",
+    "publication_year": "2026",
+    "journal": "Autoimmunity",
+    "doi": "10.1080/08916934.2026.2628367",
+    "authors": [
+        "Wang, Zunqiao",
+        "Wang, Bin",
+        "Gao, Yun",
+        "Liu, Jinyuan",
+        "Wang, Keping"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

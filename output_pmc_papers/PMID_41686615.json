@@ -1,0 +1,17 @@
+{
+    "pmid": "41686615",
+    "title": "Association between the serum uric acid-to-HDL-cholesterol ratio and female infertility: The mediating role of BMI.",
+    "abstract": "The uric acid-to-high-density lipoprotein-cholesterol ratio (UHR) reflects systemic oxidative stress and metabolic imbalance, both of which have been implicated in infertility. This study aimed to examine the association between UHR and female infertility and to evaluate the mediating role of body mass index (BMI). In this cross-sectional study, data from 2570 women aged 18 to 45 years were obtained from the National Health and Nutrition Examination Survey (NHANES, 2011-2018). Fertility status was determined from the Reproductive Health Questionnaire. UHR was Box-Cox transformed, and its association with infertility was assessed using logistic regression, spline curve fitting, subgroup analyses, and causal mediation analysis. The prevalence of infertility was 13.54% (348/2570). Logistic regression analysis was used to explore the relationship between the Box-Cox transformation UHR and infertility, with an OR of 1.834 (95% CI: 1.244-2.702). Women in the highest UHR quartile had nearly twice the odds of infertility compared with those in the lowest quartile (OR: 1.989, 95% CI: 1.147-3.452). A linear dose-response relationship was observed. Mediation analysis indicated that BMI partially mediated the association between UHR and infertility, accounting for 38.4% of the total effect; the indirect effect was statistically significant (P\u2005<\u2005.001). Elevated UHR, a biomarker reflecting oxidative and metabolic stress, is associated with an increased risk of female infertility, and this relationship is partially mediated by BMI. Monitoring uric acid and high-density lipoprotein-cholesterol levels, alongside preconception BMI management, may improve reproductive outcomes. Further prospective studies are warranted to confirm causality.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047631",
+    "authors": [
+        "Zhao, Jia-Yi",
+        "Zhang, Lin",
+        "Du, Ming-Xuan",
+        "Yang, Quan",
+        "Hong, Meng-Hui"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

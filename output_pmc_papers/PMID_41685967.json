@@ -1,0 +1,20 @@
+{
+    "pmid": "41685967",
+    "title": "Structural Exploration of Pyrazine-1,2,3-Triazole Hybrids as Selective Acetylcholinesterase Inhibitors for the Treatment of Alzheimer's Disease.",
+    "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder that leads to gradual deterioration of cognitive functions. Cholinesterase enzymes play a critical role in regulating acetylcholine levels in the brain, and their dysfunction leads to impaired cholinergic neurotransmission, which is a primary hallmark of AD and contributes significantly to the cognitive decline and dementia. Here, a series of pyrazine-1,2,3-triazole molecular hybrids incorporating a trifluoromethyl (-CF<sub>3</sub>) group were synthesized (8a-o). Synthesized compounds were then evaluated in vitro for cytotoxicity and cholinesterase inhibitory activities. All synthesized compounds were found to be nontoxic toward BV-2 cells in the cytotoxicity screening. The in vitro inhibition assays revealed that these derivatives exhibited greater inhibitory potency against acetylcholinesterase (AChE) than butyrylcholinesterase (BuChE). Among them, compound 8h demonstrated the most potent AChE inhibition compared to BuChE (AChE, IC<sub>50</sub>\u2009=\u20095.43\u2009\u00b5M; BuChE, IC<sub>50</sub>\u2009=\u2009127.12\u2009\u00b5M). The most active compound 8h was further subjected to molecular docking and dynamic simulation (100\u2009ns) to investigate its binding affinity, thermodynamic behavior, and stability within the active site of cholinesterase enzymes. Overall, the findings suggested that the synthesized compounds represent promising drug candidates as selective acetylcholinesterase inhibitors for the treatment of AD.",
+    "publication_year": "2026",
+    "journal": "Drug development research",
+    "doi": "10.1002/ddr.70249",
+    "authors": [
+        "Ramesh, Madala",
+        "Padmaja, Pannala",
+        "Ugale, Vinod",
+        "Shirkhedkar, Atul",
+        "Pawara, Rahul",
+        "Lokwani, Deepak",
+        "Manda, Srinivas",
+        "Reddy, Pedavenkatagari Narayana"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

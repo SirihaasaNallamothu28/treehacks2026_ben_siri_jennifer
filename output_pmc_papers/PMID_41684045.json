@@ -1,0 +1,27 @@
+{
+    "pmid": "41684045",
+    "title": "Liver Metabolomic Profiling Reveals Distinct Signatures Between Steatosis and Metabolic Dysfunction-Associated Steatohepatitis.",
+    "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD), the most common chronic liver disease worldwide, is closely linked to obesity and metabolic syndrome. The reason some patients with MASLD develop metabolic dysfunction-associated steatohepatitis (MASH) and which metabolic changes in the liver are linked to its progression are unclear.\nA non-targeted metabolomics analysis was performed on liver samples from 106 Finnish patients with severe obesity (71 females, mean age\u2009\u00b1\u2009SD: 48.6\u2009\u00b1\u20098.7\u2009years, body mass index: 41.6\u2009\u00b1\u20095.2\u2009kg/m<sup>2</sup>) selected for laparoscopic gastric bypass surgery. Liver metabolomics and liver RNA sequencing data were used to study metabolic differences between those with steatosis and those with MASH. Validation was performed in a French cohort of 227 patients with obesity and MASLD.\nOverall, 45 metabolites differed between patients with steatosis and those with MASH. Novel MASH-associated metabolites included n-acetylneuraminate (\u03b2\u2009=\u20090.276), pentose acid (\u03b2\u2009=\u2009-0.290), UDP-galactose (\u03b2\u2009=\u2009-0.413), gamma/beta-tocopherol (\u03b2\u2009=\u2009-0.317), and guanidinosuccinate (\u03b2\u2009=\u2009-0.289) (all p\u2009<\u20090.05). In the validation cohort, 8 of 20 metabolites, including n-acetylneuraminate and plasmalogens 1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE(P-16:0/20:4) and 1-(1-enyl-stearoyl)-2-arachidonoyl-GPE(P-18:0/20:4), were linked to MASH (p\u2009<\u20090.05). The 45 significantly altered metabolites formed two clusters with different associations with metabolic parameters, depending on their correlation with liver histological features. Kyoto Encyclopedia of Genes and Genomes analysis revealed that elevated metabolites in MASH were associated with inflammatory pathways; those decreased in MASH were linked to fatty acid degradation and amino acid and pyruvate metabolism.\nTransitioning from simple steatosis to MASH is associated with distinct alterations in liver metabolites and systemic metabolic traits, highlighting disease progression-associated pathways.",
+    "publication_year": "2026",
+    "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+    "doi": "10.1111/liv.70552",
+    "authors": [
+        "Palomurto, Saana",
+        "Flam, Emily",
+        "Kaminska, Dorota",
+        "Virtanen, Kirsi A",
+        "K\u00e4rj\u00e4, Vesa",
+        "K\u00e4kel\u00e4, Pirjo",
+        "Pajukanta, P\u00e4ivi",
+        "Eberl\u00e9, Delphine",
+        "Haas, Joel T",
+        "Raverdy, Violeta",
+        "Caiazzo, Robert",
+        "Pattou, Fran\u00e7ois",
+        "Staels, Bart",
+        "Pihlajam\u00e4ki, Jussi",
+        "M\u00e4nnist\u00f6, Ville"
+    ],
+    "num_authors": 15,
+    "citations": 0
+}

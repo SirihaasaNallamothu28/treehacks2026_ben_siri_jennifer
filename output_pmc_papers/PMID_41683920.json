@@ -1,0 +1,23 @@
+{
+    "pmid": "41683920",
+    "title": "Bioinformatic Analyses of the Ataxin-2 Family Since Algae Emphasize Its Small Isoforms, Large Chimerisms, and the Importance of Human Exon 1B as Target of Therapies to Prevent Neurodegeneration.",
+    "abstract": "Polyglutamine expansion in Ataxin-2 (ATXN2) is responsible for rare, dominantly inherited Spinocerebellar Ataxia type 2 (SCA2). Together with its paralog Ataxin-2-like (ATXN2L), both proteins have received much interest, since the deletion of their yeast and fly orthologs alleviates TDP-43-triggered neurotoxicity in Amyotrophic Lateral Sclerosis models. Their typical structure across evolution combines LSm with LSm-Associated Domains and a PAM2 motif. To understand the physiological regulation and functions of Ataxin-2 homologs, the phylogenesis of sequences was analyzed. Human ATXN2 harbors multiple alternative start codons, e.g., from an intrinsically disordered sequence (IDR) present since armadillo, or from the polyQ sequence that arose since amphibians, or from the LSm domain since primitive eukaryotes. Multiple smaller isoforms also exist across the C-terminus. Therapeutic knockdown of polyQ expansions in human ATXN2 should selectively target exon 1B. PolyQ repeats developed repeatedly, usually framed and often interrupted by (poly)Pro, originally near PAM2. The LSmAD sequence appeared in algae as the characteristic Ataxin-2 feature with strong conservation. Frequently, Ataxin-2 has added domains, likely due to transcriptional readthrough of neighbor genes during cell stress. These chimerisms show enrichment of rRNA processing; nutrient store mobilization; membrane strengthening via lipid, protein, and glycosylated components; and cell protrusions. Thus, any mutation of Ataxin-2 has complex effects, also affecting membrane resilience.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031499",
+    "authors": [
+        "Auburger, Georg W J",
+        "Key, Jana",
+        "Gispert, Suzana",
+        "Lastres-Becker, Isabel",
+        "Almaguer-Mederos, Luis-Enrique",
+        "Bassa, Carole",
+        "Auburger, Antonius",
+        "Auburger, Georg",
+        "Arsovic, Aleksandar",
+        "Deller, Thomas",
+        "Sen, Nesli-Ece"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

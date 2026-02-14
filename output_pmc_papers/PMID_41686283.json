@@ -1,0 +1,18 @@
+{
+    "pmid": "41686283",
+    "title": "Distinguishing task-evoked dynamic brain networks from intrinsic activity with tensor component analysis.",
+    "abstract": "The re-organization of brain networks induced by task performance plays a pivotal role for understanding brain mechanisms of function. Studies have demonstrated that functional magnetic resonance imaging (fMRI) data collected during task performance reflects both stimulus-based responses and ongoing intrinsic brain activity that persists even during task performance. However, the state-of-the-art statistical methods for analyzing fMRI signals are not able to extract pure task-evoked brain network activity that is distinguished from ongoing intrinsic brain activity. In order to fill this gap, we propose to use Tensor Component Analysis (TCA) to estimate stimulus evoked brain network responses disentangled from ongoing activity of intrinsic brain networks (ICNs). We conducted numerical simulations and used in-vivo task and resting state fMRI data collected by the Human Connectome Project to evaluate the performance of TCA for this purpose. We also used a subset of the HCP data to demonstrate the ability of TCA for evaluating Theory of Mind related brain networks in individuals with cannabis use disorder. Our findings show that TCA is a promising tool to extract task-evoked dynamic brain networks distinct from intrinsic brain network activity. Compared with dynamic connectivity analyses, task-evoked dynamic brain network estimated with TCA provides a more accurate way to study the brain's response to external stimuli and sheds new light on brain and behavior relationships.",
+    "publication_year": "2026",
+    "journal": "Brain imaging and behavior",
+    "doi": "10.1007/s11682-026-01079-0",
+    "authors": [
+        "Hu, Guoqiang",
+        "Li, Huanjie",
+        "Luo, Siwen",
+        "Liu, Hongbo",
+        "Cong, Fengyu",
+        "Nickerson, Lisa D"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

@@ -1,0 +1,17 @@
+{
+    "pmid": "41683672",
+    "title": "Machine Learning-Based Analysis of Large-Scale Transcriptomic Data Identifies Core Genes Associated with Multi-Drug Resistance.",
+    "abstract": "Drug resistance is an important challenge in medical research and clinical practice, posing a serious threat to the effectiveness of current therapeutic strategies. Transcriptomics has played a crucial role in analyzing resistance-related genes and pathways, while the application of machine learning in high-throughput data analysis and prediction has also opened up new avenues in this field. However, existing studies mostly focus on a single drug or specific categories, and their conclusions are limited in applicability across drug categories, while studies on drugs beyond antibacterial and antitumor categories remain limited. In this study, we systematically analyzed the transcriptomic data of resistant cell lines treated with 1738 drugs spanning 82 categories and identified core genes through an integrated analysis of three classical machine learning methods. Using the antibacterial drug salinomycin as an example, we established a resistance prediction model that demonstrated high predictive accuracy, indicating the significant value of the selected core genes in prediction. Meanwhile, some of the core genes identified through the protein-protein interaction (PPI) network overlapped with those derived from machine learning analysis, further supporting the reliability of these core genes. Pathway enrichment analysis of differential genes revealed potential resistance mechanisms. This study provides a new perspective for exploring resistance mechanisms across drug categories and highlights potential directions for resistance intervention strategies and novel drug development.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031245",
+    "authors": [
+        "Wang, Yanwen",
+        "Si, Fa",
+        "Huang, Lei",
+        "Li, Zhengtai",
+        "Yu, Changyuan"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

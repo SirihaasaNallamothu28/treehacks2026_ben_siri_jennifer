@@ -1,8 +1,0 @@
-PMID: 41666291
-Title: Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.
-
-Abstract:
-Secondary acute myeloid leukemia (sAML) and AML with myelodysplasia-related changes (AML-MRC) are associated with poor prognosis, but the impact relative to de novo AML remains controversial. We investigated clinical and genetic features in a multicenter Japanese cohort before CPX-351 approval.
-We retrospectively analyzed 294 patients with newly diagnosed AML registered in the Hokkaido Leukemia Net between 2022 and 2023. Propensity score matching was used to adjust baseline variables. Genetic profiles were assessed in 160 matched patients.
-In the matched cohort, sAML/AML-MRC did not show inferior overall survival compared with non-sAML/non-AML-MRC (<i>P</i> = 0.90). Adverse karyotypes were the predominant determinant among sAML/AML-MRC. Among sAML/AML-MRC patients, adverse karyotypes were associated with poorer survival than those without adverse karyotypes (<i>P</i> = 0.0075). In contrast, non-sAML/non-AML-MRC groups did not affect survival regardless of adverse karyotypes (<i>P</i> = 0.51). Among 65 patients with ELN 2017 adverse-risk, those with TP53 mutations had markedly shorter survival than those with TP53 wild-type (<i>P</i> = 0.018).
-sAML/AML-MRC with an adverse karyotype had a dismal outcome. These findings provide a benchmark for risk stratification in the pre- CPX-351 era.

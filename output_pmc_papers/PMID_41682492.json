@@ -1,0 +1,17 @@
+{
+    "pmid": "41682492",
+    "title": "Robust Dual-Stream Diagnosis Network for Ultrasound Breast Tumor Classification with Cross-Domain Segmentation Priors.",
+    "abstract": "Ultrasound imaging is widely used for early breast cancer screening to enhance patient survival. However, interpreting these images is inherently challenging due to speckle noise, low lesion-to-tissue contrast, and highly variable tumor morphology within complex anatomical structures. Additionally, variations in image characteristics across institutions and devices further impede the development of robust and generalizable computer-aided diagnostic systems. To alleviate these issues, this paper presents a cross-domain segmentation prior guided classification strategy for robust breast tumor diagnosis in ultrasound imaging, implemented through a novel Dual-Stream Diagnosis Network (DSDNet). DSDNet adopts a decoupled dual-stream architecture, where a frozen segmentation branch supplies spatial priors to guide the classification backbone. This design enables stable and accurate performance across diverse imaging conditions and clinical settings. To realize the proposed DSDNet framework, three novel modules are created. The Dual-Stream Mask Attention (DSMA) module enhances lesion priors by jointly modeling foreground and background cues. The Segmentation Prior Guidance Fusion (SPGF) module integrates multi-scale priors into the classification backbone using cross-domain spatial cues, improving tumor morphology representation. The Mamba-Inspired Linear Transformer (MILT) block, built upon the Mamba-Inspired Linear Attention (MILA) mechanism, serves as an efficient attention-based feature extractor. On the BUSI, BUS, and GDPH_SYSUCC datasets, DSDNet achieves ACC values of 0.878, 0.836, and 0.882, and Recall scores of 0.866, 0.789, and 0.878, respectively. These results highlight the effectiveness and strong classification performance of our method in ultrasound breast cancer diagnosis.",
+    "publication_year": "2026",
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26030974",
+    "authors": [
+        "Jiang, Xiaokai",
+        "Ding, Xuewen",
+        "Ma, Jinying",
+        "Liu, Chunyu",
+        "Li, Xinyi"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

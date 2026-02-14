@@ -1,5 +1,0 @@
-PMID: 41665066
-Title: Interventions for childhood apraxia of speech.
-
-Abstract:
-This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To examine the effectiveness of speech and language interventions for children and adolescents with Childhood Apraxia of Speech (CAS) as delivered by speech and language pathologists/therapists or by other personnel under the direction of a speech and language pathologist/therapist.

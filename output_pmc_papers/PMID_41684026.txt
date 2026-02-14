@@ -1,7 +1,0 @@
-PMID: 41684026
-Title: Host Glycan-Lectin Interplay in SARS-CoV-2 Infection.
-Journal: International journal of molecular sciences
-Authors: Oh, Hyeseong; Thi Thuy Tien, Vu; Ahmed, Showkot; Choi, Jisoo; Ryu, Ki-Jun; Yang, Jinsung
-
-Abstract:
-Glycan-mediated processes can be critical determinants of viral attachment and entry, yet for enveloped RNA viruses, including SARS-CoV-2, their mechanistic roles remain incompletely defined. This review synthesizes current structural and functional evidence for glycan engagement during SARS-CoV-2 attachment and entry. We describe the general viral entry pathways and their reliance on glycan recognition, followed by the interactions of the SARS-CoV-2 spike glycoprotein with host glycans, including ABO(H) blood group antigens, sialylated glycans, and endogenous lectins. Based on structural biology, glycobiology, and virology, we focus on how the spike protein exploits both glycan motifs and lectin receptors to enhance attachment, promote cellular uptake, or modulate host tropism. We contextualize these mechanisms by comparing glycan dependencies across other human viruses, including the influenza virus, HIV, and norovirus. Finally, we provide a comparative virological perspective to derive broad evolutionary insights into how enveloped viruses exploit the host glycans.

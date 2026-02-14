@@ -1,5 +1,0 @@
-PMID: 41671464
-Title: Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology.
-
-Abstract:
-The treatment landscape for multiple myeloma (MM) is evolving rapidly and includes several new options. The management must be tailored to the individual. The NCCN Guidelines for MM provide a framework to base decisions regarding diagnosis, workup, treatment, and follow-up of both newly diagnosed and previously treated relapsed/refractory MM. This manuscript outlines the recommendations from NCCN Guidelines for MM specific to newly diagnosed MM (NDMM).

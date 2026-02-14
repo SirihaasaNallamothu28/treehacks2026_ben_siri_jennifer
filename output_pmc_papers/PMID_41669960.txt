@@ -1,8 +1,0 @@
-PMID: 41669960
-Title: Significant Correlation Between White Matter Hyperintensity Volume and Rare NOTCH3 Variants in the General Japanese Population.
-
-Abstract:
-Cerebral small vessel disease (CSVD)-related MRI findings, including white matter hyperintensities (WMHs), are not rare in general elderly populations. The aim of this study was to elucidate the contribution of hereditary CSVD-related genes to CSVD-related MRI findings in a general Japanese population.
-We analyzed datasets from 324 individuals aged ≥ 50 years in Tohoku Medical Megabank (TMM), focusing on MRI markers and variants of NOTCH3, ABCC6, COL4A1, COL4A2, GLA, HTRA1, and TREX1 genes. Background factors included age, sex, hypertension, diabetes, dyslipidemia, hyperuricemia, alcohol drinking, and smoking.
-Pathogenic variant carriers were identified within ABCC6 (n = 20), but not other genes. To compare with previous studies including rare NOTCH3 variants regardless of pathogenicity, we included 24 rare functional variants of NOTCH3. We performed a gene-based analysis using the burden test and sequence kernel association test (SKAT) adjusted for background factors, between WMH/lacune and ABCC6/NOTCH3. The only significant finding was the correlation between WMH volume and rare NOTCH3 variants by SKAT, both with the basic model, adjusted for age, sex, and hypertension (p = 0.045), and full model, adjusted for all background factors (p = 0.027). We also analyzed the association between intracranial major artery stenosis/occlusion (ICASO) and RNF213 p.Arg4810Lys, the East Asian-specific variant susceptible to ICASO; however, we failed to identify a significant correlation.
-This study suggests that NOTCH3 may contribute to WMH volume in a general Japanese population.

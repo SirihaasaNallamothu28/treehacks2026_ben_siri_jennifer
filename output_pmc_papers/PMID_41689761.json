@@ -1,0 +1,16 @@
+{
+    "pmid": "41689761",
+    "title": "Acceptance testing of a 0.35 T MR-Linac: procedures, QA baseline, and system limitations.",
+    "abstract": "This study describes and evaluates the acceptance procedure for a ViewRay (VR) MRIdian 0.35T MR-Linac, emphasizing key challenges, limitations, and recommendations to enhance clinical performance and accuracy.\nA comprehensive acceptance test was conducted at a single institution, following the manufacturer's protocols and aligned with established acceptance guidelines. Specific tools and phantoms were used to assess three primary components: mechanical, dosimetric, and Magnetic Resonance Imaging (MRI).\nOverall, the test outcomes satisfied the manufacturer's specifications. However, certain issues were identified: high couch attenuation at specific gantry angles (leading to their exclusion from treatment), variations in magnetic field homogeneity at different gantry angles, and discrepancies between TPS calculations and measurements for field output factors smaller than 0.83\u00a0cm \u00d7 0.83\u00a0cm.\nThis work provides a detailed account of the acceptance testing procedure and establishes a QA baseline for 0.35T MR-Linac systems. In doing so, it also identifies key system limitations, such as couch attenuation, magnetic field inhomogeneity, and small-field output discrepancies, underscoring the need for careful gantry angle selection, field homogeneity optimization, and meticulous validation of very small fields.",
+    "publication_year": "2026",
+    "journal": "Journal of applied clinical medical physics",
+    "doi": "10.1002/acm2.70488",
+    "authors": [
+        "Khalifa, Mateb Al",
+        "Ma, Tianjun",
+        "Aljuaid, Haya",
+        "Kim, Siyong",
+        "Song, William Y"
+    ],
+    "num_authors": 5
+}

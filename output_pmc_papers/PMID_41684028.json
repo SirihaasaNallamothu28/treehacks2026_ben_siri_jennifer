@@ -1,0 +1,22 @@
+{
+    "pmid": "41684028",
+    "title": "A New Complexity Layer: DNA Methylation and the Predictive Impact of Epigenetic Tests.",
+    "abstract": "The increasing complexity of disease mechanisms challenges accurate diagnosis, prevention, and early risk stratification. Beyond genetic predisposition, epigenetic regulation-particularly DNA methylation-represents a dynamic molecular interface linking environmental exposures, metabolic imbalance, inflammation, and disease development. DNA methylation is the most extensively studied epigenetic mechanism and plays a central role in controlling gene expression across physiological and pathological conditions. In this review, we provide an integrated overview of DNA methylation biology and its involvement in inflammatory, metabolic, and oncological diseases, with a specific focus on pathways related to chronic inflammation and oxidative stress. We summarize evidence demonstrating how aberrant methylation patterns contribute to disease initiation and progression, highlighting recurrent epigenetic signatures affecting key regulatory genes. In parallel, we discuss current and emerging technologies for DNA methylation analysis, ranging from targeted methylation-specific assays to next-generation sequencing-based approaches, including nanopore adaptive sampling. Finally, we explore the translational potential of DNA methylation-based tests as predictive and preventive tools, emphasizing their ability to identify disease-associated molecular alterations before clinical onset. Overall, this evidence supports the integration of epigenetic profiling into future precision medicine strategies aimed at early risk assessment, prognosis refinement, and personalized prevention.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031611",
+    "authors": [
+        "Ladisa, Giorgio",
+        "Montenegro, Francesca",
+        "Picerno, Angela",
+        "Nigro, Alessio",
+        "Cicirelli, Antonella",
+        "Stasi, Alessandra",
+        "Fiorentino, Marco",
+        "Pontrelli, Paola",
+        "Gesualdo, Loreto",
+        "Sallustio, Fabio"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

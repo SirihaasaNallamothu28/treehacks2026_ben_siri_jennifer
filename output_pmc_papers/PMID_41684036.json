@@ -1,0 +1,15 @@
+{
+    "pmid": "41684036",
+    "title": "Unraveling the Cross-Tissue Neuroimmune-Vascular Genetic Architecture of Migraine Using Integrated Multi-Omics, Single-Cell, and Spatial Transcriptomics: Prioritizing T-Cell Regulatory Networks and Peripheral Targets.",
+    "abstract": "Migraine is a complex neurovascular disorder in which immune signaling intersects with vascular and neural circuits, yet the tissue and cell-type context of common genetic risk remains incompletely defined. We integrated large-scale migraine genome-wide association study (GWAS) summary statistics with Genotype-Tissue Expression (GTEx) v8 expression and splicing quantitative trait loci (eQTLs and sQTLs), Bayesian co-localization, single-cell RNA sequencing of peripheral blood mononuclear cells (PBMCs) from migraine cases and controls, a healthy single-cell multi-omics atlas (assay for transposase-accessible chromatin (ATAC) plus RNA), high-dimensional weighted gene co-expression network analysis (hdWGCNA), and embryo-level spatial transcriptomics. Genetic signals were enriched in peripheral arteries, heart, and blood, and gene-level enrichment highlighted mucosal-smooth muscle organs including the bladder and the cervix endocervix. Cell-type prioritization consistently implicated endothelial and vascular smooth muscle lineages, with additional support for inhibitory interneurons and bladder epithelium. In PBMC T cells, co-expression modules capturing cytotoxic/activation and T-cell receptor signaling programs contained migraine-prioritized genes, including PTK2B, nominating immune activation circuitry as a component of genetic susceptibility. Spatial projection further localized risk concordance to craniofacial/meningeal interfaces and visceral smooth muscle-mucosal structures. Together, these analyses delineate a systemic neuroimmune-vascular architecture for migraine and provide genetically anchored candidate pathways and targets for mechanistic and therapeutic follow-up.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031615",
+    "authors": [
+        "Liao, Chung-Chih",
+        "Liao, Ke-Ru",
+        "Li, Jung-Miao"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

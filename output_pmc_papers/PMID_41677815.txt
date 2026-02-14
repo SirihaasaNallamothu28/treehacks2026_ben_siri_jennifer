@@ -1,7 +1,0 @@
-PMID: 41677815
-Title: Selective cytotoxicity of microcin H47 against MDA-MB-231 breast cancer cells: an antimicrobial peptide with therapeutic potential.
-Journal: Archives of microbiology
-Authors: Mohammadzadeh Rostami, Farzaneh; Shalibeik, Saman
-
-Abstract:
-Triple-negative breast cancer represents a significant therapeutic challenge due to its aggressive behavior and limited treatment options. This study investigates the anticancer potential of microcin H47 (MccH47), a bacteriocin derived from clinical Escherichia coli isolates, against this malignancy. Among 120 screened Enterobacteriaceae isolates, 25 exhibited antimicrobial activity, with isolate 58 confirming MccH47 gene expression through molecular analysis. Cell viability assessment revealed a concentration-dependent reduction in cancer cell survival, while cell death analysis demonstrated approximately 86% apoptosis following 48 h of treatment. Gene expression studies identified significant downregulation of BCL2 and STAT3, indicating involvement of the STAT3/BCL-2 pathway in the observed effects. The extract exhibited biocompatibility toward normal fibroblasts, emphasizing MccH47's dual antimicrobial and antitumor properties with notable therapeutic selectivity. These findings support further development of MccH47 as a novel therapeutic agent for breast cancer treatment.

@@ -1,7 +1,0 @@
-PMID: 41673304
-Title: Pan-cancer inference and validation of hypermorphic, hypomorphic and neomorphic mutations.
-Journal: Nature genetics
-Authors: Tagore, Somnath; Tsang, Samuel; Tangermann, Carla; Hu, Lucas ZhongMing; Diederichs, Sven; Mills, Gordon B; Califano, Andrea
-
-Abstract:
-Although the functional effects of many recurrent cancer mutations have been characterized, The Cancer Genome Atlas contains more than 10 million functionally uncharacterized, nonrecurrent events. It is proposed that the context-specific activity of transcription factors assessed through the expression of their transcriptional targets serves as a sensitive and accurate reporter assay for evaluating the functional roles of oncogene mutations. Analysis of transcription factor activity in samples with mutations of unknown significance, compared to established gain-of-function (hypermorph) or loss-of-function (hypomorph) mutations in the same gene, enabled functional characterization of 583,089 individual mutational events across TCGA. This approach facilitated the identification of neomorphic mutations (gain of new function) or mutations that phenocopy mutations in other genes (mutational mimicry). Validation using exogenous mutation expression assays confirmed the majority of predicted loss-of-function, gain-of-function, neomorphic and neutral (no predicted functional effect) mutations in PIK3CA and FGFR2. These findings may inform targeted therapy decisions for patients with mutations of unknown significance in established oncogenes.

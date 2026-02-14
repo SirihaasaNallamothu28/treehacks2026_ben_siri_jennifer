@@ -1,7 +1,0 @@
-PMID: 41683900
-Title: Special Issue "Adipose Tissue and Gene Expression".
-Journal: International journal of molecular sciences
-Authors: Maffei, Margherita; Scabia, Gaia
-
-Abstract:
-Since the recognition of white adipose tissue (WAT) as an endocrine organ rather than merely an energy reservoir, interest in this complex ensemble of cell types, characterized by extraordinary and, in many respects, unique plasticity, has steadily increased [...].

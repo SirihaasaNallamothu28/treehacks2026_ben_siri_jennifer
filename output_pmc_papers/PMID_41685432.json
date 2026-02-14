@@ -1,0 +1,21 @@
+{
+    "pmid": "41685432",
+    "title": "Same Day Discharge After Prostatectomy for Prostate Cancer and Readmissions.",
+    "abstract": "Same-day discharge following radical prostatectomy has become increasingly common, with single-institution series suggesting it reduces healthcare costs without increasing adverse events. However, this practice has not been studied nationally, outside of specialized centers. This study assesses 30-day readmissions, observation stays, and emergency department visits among men with prostate cancer undergoing prostatectomy.\nWe used national Medicare data to identify men undergoing prostatectomy for prostate cancer between 2016 and 2021. We focused on patients discharged either the same day or the day after surgery to include only those with an uneventful postoperative course presumably eligible for same-day discharge. We used multivariable logistic regression to measure relationships between discharge day (same-day vs. next-day) and 30-day readmissions, adjusted for patient factors. We also assessed the association between the day of discharge and a secondary outcome, a composite of readmission, observation stay, or emergency department visits within 30\u2009days.\nOur cohort included 528 men discharged the same day and 11,513 discharged the next day. By 2021, same-day discharges rose to 9.2%. Same-day discharge was associated with an almost two-fold increase in the odds of a readmission within 30\u2009days (adjusted OR: 1.93; 95% CI 1.35-2.76; p\u2009<\u20090.01). However, the odds of an acute care event, measured by a composite of any readmission, observation stay, or emergency department visit, were similar in both groups (adjusted OR: 1.16; 95% CI 0.90-1.50; p\u2009=\u20090.27).\nSame-day discharges after prostatectomy have increased substantially but were associated with a two-fold increase in odds of a readmission within 30\u2009days. However, global adverse events, as measured by our composite outcome, were similar.",
+    "publication_year": "2026",
+    "journal": "Cancer medicine",
+    "doi": "10.1002/cam4.71564",
+    "authors": [
+        "Dall, Christopher P",
+        "Liu, Xiu",
+        "Leick, Sarah J",
+        "Chachlani, Preeti",
+        "Faraj, Kassem S",
+        "Srivastava, Arnav",
+        "Kaufman, Samuel R",
+        "Shahinian, Vahakn B",
+        "Hollenbeck, Brent K"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

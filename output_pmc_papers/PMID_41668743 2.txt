@@ -1,8 +1,0 @@
-PMID: 41668743
-Title: Avidity-optimized TCR-T cells target KRAS neoantigens for potent cancer clearance and tumor microenvironment remodeling.
-
-Abstract:
-Neoantigens from the Kirsten rat sarcoma viral oncogene homolog (KRAS) are specific cancer therapeutic targets. However, to date, no immune product targeting KRAS neoantigens has been approved for clinical use, and key challenges regarding efficacy and generalizability remain.
-In this study, we isolated a natural human T-cell antigen receptor (TCR) 0 that specifically recognized human leukocyte antigen (HLA)-A*11:01+ T2 cells pulsed with KRAS G12V<sub>8-16</sub> peptides. However, TCR0 gene-transduced T cells demonstrated inadequate response to tumor cell lines. We generated T cells expressing a TCR0 mutant, being designated as TCR3.
-TCR3-T cells showed significantly optimized avidity and response to tumor cell lines, retained specificity for the KRAS G12V8-16 peptide with no response to normal cells, killed tumor cells that highly expressed programmed cell death-ligand 1 <i>in vitro</i> and <i>in vivo</i>, proliferated without being seriously affected by indoleamine 2,3-dioxygenase, resisted transforming growth factor β, and infiltrated and recruited other immune cells to the tumor site through chemokines.
-TCR3 may be useful for KRAS neoantigen-targeted clinical immunotherapy, help resolve cancer immune escape, and enhance clinical effectiveness and safety.

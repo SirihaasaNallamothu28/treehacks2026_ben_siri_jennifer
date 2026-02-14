@@ -1,0 +1,23 @@
+{
+    "pmid": "41683777",
+    "title": "NX210c Demonstrates Therapeutic Potential to Restore Blood-Brain Barrier in a QSP Model of Relapsing-Remitting Multiple Sclerosis.",
+    "abstract": "Blood-brain barrier (BBB) breakdown is a hallmark of several neurological disorders, including multiple sclerosis (MS). NX210c, a novel therapeutic peptide, has shown promise in restoring BBB integrity, in both preclinical and clinical settings, offering potential for use in MS populations and across various central nervous system conditions with overlapping mechanisms. In this study, we evaluated the therapeutic potential of NX210c in patients with relapsing-remitting MS (RRMS) using a previous quantitative systems pharmacology (QSP) model currently redesigned to capture the dynamic interplay between BBB integrity and immune system activity. We validated the QSP model using both preclinical and clinical datasets, and generated virtual populations representing healthy individuals and RRMS patients for in silico testing. NX210c was assessed as both a monotherapy and in combination with established MS treatments. Simulations predicted time course changes in key BBB integrity markers, including tight junction protein (TJP) expression and transendothelial electrical resistance (TEER), under various dosing regimens. NX210c treatment was associated with a significant attenuation of BBB degradation compared to untreated controls (~7-8% higher TJP expression and BBB electrical resistance). Furthermore, we investigated the long-term impact of NX210c on clinical outcomes such as relapse rates. Both 5 and 10 mg/kg doses (single cycle [thrice-weekly for 4 weeks]) induced improvement in disease activity in RRMS patients, as well as a 10 mg/kg dose (single or repeated 4-week cycles every 6 months) in highly active patients. Particularly when administered alongside one of five commonly used MS therapies (interferon \u03b2-1a, teriflunomide, cladribine, natalizumab, ocrelizumab), in the highly active subpopulation, the model on average predicted a reduction in relapse frequency in the 10 mg NX210c-treated group versus untreated group from four to no relapses over two years. These findings suggest that NX210c may enhance therapeutic efficacy in RRMS by promoting BBB restoration and modulating immune responses, offering a promising avenue for combination treatment strategies.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031349",
+    "authors": [
+        "Russo, Giulia",
+        "Sips, Fianne",
+        "Catozzi, Simona",
+        "Bambury, Pauline",
+        "Janus, Annette",
+        "Torchia, Mario",
+        "Di Salvatore, Valentina",
+        "Emili, Luca",
+        "R\u00f6shammar, Daniel",
+        "Pappalardo, Francesco",
+        "Godfrin, Yann"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

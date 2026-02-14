@@ -1,9 +1,0 @@
-PMID: 41679805
-Title: Undergraduate nursing students' knowledge and attitudes toward dementia by country income level: A systematic review and meta-analysis.
-
-Abstract:
-It is essential for nursing students to possess a thorough understanding of dementia care and to maintain a positive attitude toward this area of healthcare.
-The purpose of this meta-analysis is to examine the knowledge and attitudes of undergraduate nursing students regarding dementia.
-A comprehensive search was performed in the PubMed, Web of Science, Embase, CINAHL, and ProQuest databases, covering the period from their inception until March 18, 2025. The primary outcome measures included the Alzheimer's Disease Knowledge Scale (ADKS) and the Dementia Attitudes Scale (DAS). Two independent researchers conducted literature searches, screened the studies, extracted relevant data, and performed critical appraisals. The pooled mean sores for knowledge and attitudes toward dementia were analyzed across all studies and subgroups.
-A total of 23 studies from 14 countries were included in the analysis. The findings indicate that nursing students demonstrated moderate knowledge (mean score: 19.13, 95 % CI: 17.85-20.42) and moderate positive attitudes (mean score: 95.18, 95 % CI: 94.19-96.17) toward dementia. Subgroup analyses showed that both pooled knowledge and attitudes were significantly higher among students from high-income countries compared to their counterparts from other countries. Sensitivity analyses yielded robust results.
-There is considerable opportunity for improving nursing students' knowledge and attitudes toward dementia care, particularly in developing countries.

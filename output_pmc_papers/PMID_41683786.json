@@ -1,0 +1,18 @@
+{
+    "pmid": "41683786",
+    "title": "Identification of Key Bioactive Compounds of Medicine-Food Homologous Substances and Their Multi-Target Intervention Effects in Osteosarcoma Treatment.",
+    "abstract": "Osteosarcoma (OS), a highly aggressive bone malignancy, is hard to treat due to complex molecular mechanisms. This study aimed to identify key bioactive compounds from medicine-food homologous (MFH) substances for OS intervention. We analyzed GEO transcriptomic data to get 317 differentially expressed genes (DEGs), screened bioactive compounds from 106 MFH via dual databases, predicted compound-DEG protein interactions with GraphBAN, and filtered 11 core compounds through drug-likeness/toxicity evaluations. Regulatory networks identified 5 key target genes (SOST, ACACB, TACR1, GRIN2B, MPO), 10 key compounds (e.g., ellagic acid dihydrate) and 8 MFHs (e.g., Daidaihua). Molecular docking/MD confirmed stable complexes. GSEA/GSVA revealed pathway dysregulation (e.g., upregulated WNT signaling), and immune analysis showed altered infiltration of 5 cell subsets. 143B cell experiments and qRT-PCR validated findings. MFH-derived compounds, especially ellagic acid dihydrate, have multi-target anti-OS potential, laying a foundation for novel OS therapeutics.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031360",
+    "authors": [
+        "Ren, Jie",
+        "Zhang, Xue",
+        "Chen, Siyu",
+        "Liu, Ruiming",
+        "Yi, Pengcheng",
+        "Liu, Shuang"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

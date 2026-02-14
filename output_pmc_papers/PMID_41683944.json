@@ -1,0 +1,17 @@
+{
+    "pmid": "41683944",
+    "title": "Bioinformatic Prediction of Activation States in Molecular Network Pathways of Eukaryotic Initiation Factor 2 (EIF2) Signaling and Coronavirus Pathogenesis.",
+    "abstract": "Eukaryotic initiation factor 2 (EIF2) signaling plays a crucial role in regulating mRNA translation and initiating eukaryotic protein synthesis. Computational molecular network pathway analysis of the canonical pathways of the coronaviral infection revealed that EIF2 signaling is inactivated when the coronavirus pathogenesis pathway is activated and vice versa. Our computational analyses indicated that the coronavirus pathogenesis pathway and EIF2 signaling had inverse activation states. Computational investigation of upstream or downstream microRNA (miRNA) revealed that EIF2 signaling directly interacted with miRNAs, including let-7, miR-1292-3p (miRNAs with the seed CGCGCCC), miR-15, miR-34, miR-378, miR-493, miR-497, miR-7, miR-8, and MIRLET7. A total of 36 nodes, including 8 molecules (ATF4, BCL2, CCND1, DDIT3, EIF2A, EIF2AK3, EIF4E, and ERK1/2), 1 complex (the ribosomal 40s subunit), and 1 function (apoptosis) in the coronavirus pathogenesis pathway, overlapped with EIF2 signaling. Alterations in EIF2 signaling may play a role in the pathogenesis of coronavirus.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031525",
+    "authors": [
+        "Tanabe, Shihori",
+        "Quader, Sabina",
+        "Ono, Ryuichi",
+        "Tanaka, Hiroyoshi Y",
+        "Cabral, Horacio"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

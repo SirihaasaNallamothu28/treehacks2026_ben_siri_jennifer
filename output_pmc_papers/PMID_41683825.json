@@ -1,0 +1,22 @@
+{
+    "pmid": "41683825",
+    "title": "<i>Poria cocos</i> Attenuates LPS/D-Galactosamine-Induced Acute Liver Failure in Rats: An Integrative Exploratory Study Combining Network Pharmacology and In Vivo Validation.",
+    "abstract": "Acute liver failure (ALF) is a rapidly progressive and life-threatening condition with limited pharmacological interventions. <i>Poria cocos</i>, a medicinal fungus widely used in traditional Chinese medicine, has been reported to exhibit anti-inflammatory and hepatoprotective activities; however, its potential involvement in ALF remains incompletely understood. In this study, an integrative exploratory strategy combining network pharmacology, molecular docking, and in vivo experiments was employed to investigate the protective effects of <i>Poria cocos</i> against lipopolysaccharide/D-galactosamine (LPS/D-GalN)-induced ALF in rats. Rats were pretreated with <i>Poria cocos</i> extract (50 or 200 mg/kg), and hepatoprotective effects were assessed by survival analysis, serum biochemical indicators(alanine aminotransferase [ALT], aspartate aminotransferase [AST], total bilirubin [TBil], and international normalized ratio [INR]), histopathology, and expression of inflammation- and PI3K/AKT-related markers. Network pharmacology analysis identified fifteen putative bioactive components of <i>Poria cocos</i> and 178 ALF-related overlapping targets, with enrichment analyses highlighting multiple inflammation-, apoptosis-, and PI3K/AKT-related signaling pathways. Molecular docking suggested potential interactions between major components and predicted core targets. In vivo, <i>Poria cocos</i> pretreatment was associated with improved survival, alleviated liver injury, and reduced the expression of inflammatory and apoptosis-associated markers, including PI3K, AKT1, NF-\u03baB, TNF-\u03b1, MAPK14(p38), Caspase-3, and MMP2. Taken together, network pharmacology analysis identified PI3K/AKT-associated signaling as a candidate pathway, and the in vivo findings were generally consistent with this prediction, suggesting that the hepatoprotective effects of <i>Poria cocos</i> may involve multi-target regulation of inflammation- and apoptosis-related pathways.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031403",
+    "authors": [
+        "Wen, Peihua",
+        "Jian, Xinru",
+        "Ren, Xiaoyu",
+        "Zhao, Shusen",
+        "Yang, Yuhan",
+        "Ge, Haotian",
+        "Li, Longjie",
+        "Wang, Hongxun",
+        "Li, Maoteng",
+        "Wang, Limei"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

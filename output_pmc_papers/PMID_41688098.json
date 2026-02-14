@@ -1,0 +1,16 @@
+{
+    "pmid": "41688098",
+    "title": "Early detection of female-specific cancers using longitudinal healthcare records with a multichannel convolutional neural network.",
+    "abstract": "Female-specific cancers, including breast, ovarian, cervical and uterine malignancies, lack comprehensive early detection approaches, particularly for ovarian and endometrial cancers where effective population-level screening remains limited. This study aimed to develop and validate a computational method for early detection of female-specific cancers using longitudinal healthcare records.\nWe developed a multichannel convolutional neural network (MCNN) to analyse 36-month pre-diagnostic healthcare records from Taiwan's National Health Insurance Research Database. The study included 19\u2009954 female patients (596 cancer cases, 19\u2009358 controls) from 1999 to 2013. Log-likelihood ratio feature selection identified top 10 features across three data modalities (diagnostic codes, medications, medical orders). The six-channel architecture processed temporal patterns through stratified 10-fold cross-validation, with performance compared against nine baseline algorithms.\nMCNN achieved superior balanced performance with Macro-F\u2081 score of 0.8443, precision of 0.9135 and recall of 0.7978, outperforming traditional machine learning and deep learning approaches. Feature analysis revealed clinically relevant patterns including tamoxifen therapy, immunohistochemical procedures and cancer-specific diagnostic codes. SHapley Additive exPlanations (SHAP) interpretability analysis demonstrated the model's ability to identify pre-diagnostic phases through temporal healthcare utilisation patterns. Systematic feature selection reduced computational requirements by over 99%, enabling validation on Taiwan's population-scale National Health Insurance Research Database (NHIRD).\nThe multichannel deep learning approach enables unified early detection across four female cancer types using routine administrative data, addressing detection gaps for ovarian and endometrial cancers while providing complementary risk stratification for existing screening programmes.\nClinical implementation through electronic health record (EHR) integration offers practical pathways for accessible cancer risk assessment during routine healthcare encounters.",
+    "publication_year": "2026",
+    "journal": "BMJ health & care informatics",
+    "doi": "10.1136/bmjhci-2025-101874",
+    "authors": [
+        "Chien, Chia-Hui",
+        "Chang, Shih-Chuan",
+        "Chang, Yung-Chun",
+        "Li, Yu-Chuan"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

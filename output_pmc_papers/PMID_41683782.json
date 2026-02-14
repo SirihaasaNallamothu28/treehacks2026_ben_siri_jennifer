@@ -1,0 +1,22 @@
+{
+    "pmid": "41683782",
+    "title": "Atorvastatin Protects Against Deleterious Carfilzomib-Induced Transcriptional Changes in Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes.",
+    "abstract": "The mechanisms underlying carfilzomib (CFZ)-induced cardiotoxicity remain incompletely elucidated. In this study, we used human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) to characterize the transcriptional impact of CFZ and to evaluate whether atorvastatin could prevent these deleterious transcriptional changes. hiPSC-CMs were treated with 1 \u00b5M CFZ, CFZ + atorvastatin, atorvastatin, or vehicle control, followed by RNA sequencing, differential expression analyses, and pathway analyses. Transcriptomic profiling revealed a marked upregulation of genes in multiple proteasome subunits, including ATPase components (<i>PSMC1</i>, <i>PSMC4</i>, <i>PSMC5</i>, <i>PSMC6</i>) and non-ATPase regulatory subunits (<i>PSMD1</i>, <i>PSMD2</i>, <i>PSMD12</i>), suggesting a strong compensatory activation of proteostasis and protein quality-control pathways in response to CFZ exposure. In addition, several of the most significantly altered genes were those implicated in cardiomyopathy and heart failure, such as <i>BAG3</i> and <i>FLNC</i>, and many heat-shock proteins, indicating the activation of cardiac stress-response pathways relevant to CFZ-associated cardiotoxicity. Atorvastatin co-treatment partially reversed a subset of CFZ-induced transcriptional changes, particularly within cholesterol biosynthesis and lipid-regulatory pathways (e.g., <i>ACAT2</i> and <i>ACTA1</i>) but did not restore the CFZ-mediated downregulation of sarcomeric genes. Together, these findings define a multifactorial signature of deleterious CFZ-induced transcriptional changes and suggest that atorvastatin may provide partial metabolic, but not structural, cardio protection.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031358",
+    "authors": [
+        "Tantawy, Marwa",
+        "Wang, Danxin",
+        "Gbadamosi, Mohammed",
+        "Yu, Fahong",
+        "Zhang, Yanping",
+        "Alomar, Mohammed E",
+        "Shain, Kenneth H",
+        "Baz, Rachid C",
+        "Bruno, Katelyn A",
+        "Gong, Yan"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

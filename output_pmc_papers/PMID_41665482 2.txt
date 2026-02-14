@@ -1,9 +1,0 @@
-PMID: 41665482
-Title: Unmet Psychosocial Needs of Young Children With Cancer and Their Caregivers: Comparing Perspectives of Multidisciplinary Healthcare Providers and Caregivers.
-
-Abstract:
-Young children with cancer (YCC; diagnosed ≤ 7 years) are at greatest risk for developmental late effects, yet research has mostly focused on school-aged youth.
-To characterize psychosocial needs for YCC by comparing the perspectives of their women caregivers (WC), men caregivers (MC), and healthcare providers (HCP).
-Thirty-four caregivers (22 women, 12 men) and 25 multidisciplinary HCP of YCC at a midwestern children's hospital completed surveys and interviews or focus groups to assess unmet needs and preferences for timing, format, and components of a caregiver intervention. Descriptive statistics compared unmet needs and intervention preferences across informants. Rapid analysis with three coders yielded qualitative themes, which were confirmed with member checking.
-Five major domains of unmet needs for caregivers of YCC related to: (1) anticipatory guidance about the developmental impact of treatment, (2) working with the school, (3) psychosocial needs of young survivors, (4) family impact, and (5) caregiver self-care. WC and HCP were aligned in their rank ordering of needs, while MC expressed different priorities. All participants reported that developmental activity ideas would help and were receptive to a virtual format for accessibility. HCP suggested intervention during transition off-treatment, while caregivers reported preference for more support during treatment.
-Findings indicate better alignment between HCP and WC regarding unmet needs among caregivers of YCC, suggesting tailored approaches are needed to address the unique needs of MC. Future work should engage HCP and caregivers in co-designing tailored interventions to improve psychosocial outcomes for YCC and their families.

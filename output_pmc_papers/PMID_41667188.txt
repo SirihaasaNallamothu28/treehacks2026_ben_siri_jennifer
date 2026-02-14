@@ -1,8 +1,0 @@
-PMID: 41667188
-Title: Factors associated with the development of severe mitral regurgitation in patients with heart failure.
-
-Abstract:
-Patients with heart failure (HF) and severe mitral regurgitation (MR) have poor outcomes. Early identification could allow physicians to consider interventions that may improve outcomes. We identified factors associated with progression to severe MR in patients with HF.
-A total of 11 521 patients with HF and MR were screened, out of which we identified 7391 patients with a clinical diagnosis of HF and at least two echocardiograms at least 6 months apart. We excluded patients without a documented severity of MR at initial (n=1840) or follow-up (n=960) echocardiogram and those with severe MR at initial echocardiogram (n=450). We evaluated factors associated with the development of either moderate to severe or severe MR using multivariable logistic regression analysis.
-A total of 7391 patients were included in the study, 4173 (56.5%) male, and median age 75 (IQR (IQR) 64-83). In total, 357 (4.8%) patients developed severe MR on the follow-up echocardiogram at a median of 1.4 years (IQR 0.9-2.4). In addition to baseline MR severity, atrial fibrillation (adjusted OR (aOR)1.52), ischaemic heart disease (aOR 1.44), hypertension (aOR 1.35) and higher left ventricular end-diastolic dimension (aOR 1.36 per 1 cm) were associated with increased progression to severe MR. Beta-blocker prescription was associated with reduced progression to severe MR (aOR 0.74).
-We identified several factors associated with the progression to severe MR in patients with HF. This information could be used by clinicians to identify patients who require closer echocardiographic follow-up and access to appropriate early interventions.

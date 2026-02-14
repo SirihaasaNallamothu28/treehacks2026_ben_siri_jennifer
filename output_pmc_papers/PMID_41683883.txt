@@ -1,7 +1,0 @@
-PMID: 41683883
-Title: Developmental Biology: Computational and Experimental Approaches-2nd Edition.
-Journal: International journal of molecular sciences
-Authors: Ponomarenko, Mikhail
-
-Abstract:
-Developmental biology is focused on the study of all phenotypic traits responsible for the timely and adequate progression of all molecular genetic, biochemical, and morphogenetic processes as the norm of the corresponding biological species in an individual living organism (ontogenesis) from either fertilization during sexual reproduction or separation from the maternal organism during asexual reproduction to the end of its life [...].

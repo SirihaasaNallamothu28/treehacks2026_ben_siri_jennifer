@@ -1,0 +1,17 @@
+{
+    "pmid": "41686243",
+    "title": "Integrating genomic predictions into an applied Central European wheat breeding program.",
+    "abstract": "Genomic prediction is most effective when balancing heritability and population size; advanced breeding stages suit complex traits, broader training sets improve predictions in simple traits-enabling efficient, earlier selection. Genomic selection can reduce generation intervals and costs, thereby increasing genetic gain in plant breeding. The study aimed to assess the impact of phenotypic data quality, sample size, and diversity across different breeding stages on the accuracy of genomic predictions. We used phenotypic data of the Central European winter bread wheat breeding company W. von Borries-Eckendorf GmbH & Co. KG, comprising 13,773 genotypes evaluated in up to 95 environments in nearly 57,000 plots for grain yield, plant height, protein content and yellow rust resistance. Genotypic data for 6,228 genotypes were generated using a 7,000\u00a0SNP Illumina Infinium assay. We implemented genomic best linear unbiased prediction and tested prediction ability within and across breeding stages. Three prediction scenarios were evaluated to examine the prediction ability: (1) within individual breeding stages, (2) across breeding stages, and (3) for most advanced genotypes. Results indicate more accurate models trained on mid- or late-stage phenotypic data for most traits compared to early-stage data. Combining mid- and late-stage data further improved predictions for complex traits like grain yield and yellow rust resistance. These findings highlight the importance of balancing high heritability and appropriate training sets for optimizing genomic predictions, demonstrating the potential of genomic selection as a cornerstone for wheat breeding programs.",
+    "publication_year": "2026",
+    "journal": "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+    "doi": "10.1007/s00122-026-05175-z",
+    "authors": [
+        "Thomsen, Lars Erik",
+        "Zhao, Yusheng",
+        "Avenhaus, Ulrike",
+        "Reif, Jochen Christoph",
+        "Gundala, Ravindra Reddy"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

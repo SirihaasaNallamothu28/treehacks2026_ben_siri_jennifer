@@ -1,9 +1,0 @@
-PMID: 41678399
-Title: Emotion Regulation Interventions for Cancer Patients and Their Relatives: A Systematic Review.
-
-Abstract:
-Emotional regulation (ER) is crucial for the psychological well-being of patients with cancer and their relatives. Various ER interventions exist but often suffer from poor adherence and high attrition rates.
-This systematic review aims to identify ER interventions for patients with cancer and their relatives, describe their content, development, and evaluation methods, and assess their efficacy on ER and psychological health outcomes.
-Cochrane, Embase, PsycArticles, PsycINFO, and Web of Science databases were searched. Eligible studies examined individual interventions targeting ER (Intervention) in adult patients with cancer and their relatives (Population), included a control group or a pre-post assessment (Comparator), and reported outcomes related to ER or psychological health outcomes using quantitative or mixed-method results (Study type).
-Eight studies were included. Most interventions were theoretically grounded in cognitive behavioral therapy (CBT) and followed a similar structure: informational sessions, skill-building modules using targeted therapeutic techniques, and consolidation via homework and relapse-prevention exercises. Despite high attrition rates, most interventions significantly improved ER and psychological outcomes. Some trials lacked statistical significance, mainly due to methodological limitations. Although acceptability was rarely assessed, evidence suggests patient-relatives dyadic approaches may better meet participant needs.
-ER interventions share common features and show effectiveness but sometimes lack alignment between objectives and evaluated outcomes. Retention remains a major challenge, emphasizing the need to redesign interventions and their implementation. Future research should explore attrition causes and develop strategies to enhance engagement.

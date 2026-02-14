@@ -1,7 +1,0 @@
-PMID: 41683421
-Title: Red Blood Cells in Normal and Pathological States: Redox Reactions of Hemoglobin.
-Journal: Molecules (Basel, Switzerland)
-Authors: Gwozdzinski, Krzysztof; Pieniazek, Anna; Gwozdzinski, Lukasz
-
-Abstract:
-Red blood cells (RBCs) play a key role in vascular origin pathologies such as nephropathy, retinopathy, and neuropathy. Altered RBCs also occur in the case of hereditary spherocytosis, hemoglobinopathies, sickle cell disease, thalassemia and hemolytic anemia. The consequence of damage to the cell membrane and cytoskeleton are changes in RBC deformability, which play an important role in microcirculation. In turn, oxidative changes in hemoglobin lead to impaired oxygen transport to cells and tissues and, consequently, to ischemia and hypoxia. In this review, we discuss the structure of normal and pathological RBCs, including, more broadly, red blood cells occurring in type 2 diabetes. We present factors that play a major role in RBC damage in this pathology. Finally, we characterize the participation of hemoglobin and heme in the induction of oxidative damage to biological material, including RBCs.

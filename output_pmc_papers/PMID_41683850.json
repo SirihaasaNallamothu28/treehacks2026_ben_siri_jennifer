@@ -1,0 +1,17 @@
+{
+    "pmid": "41683850",
+    "title": "In Silico Prediction and Validation of the Permeability of Small Molecules Across the Blood-Brain Barrier.",
+    "abstract": "Understanding and predicting the ability of small-molecule drugs to cross the blood-brain barrier (BBB) is essential for developing treatments for neurodegenerative disorders such as Alzheimer's disease. In this study, we aim to computationally estimate BBB permeability for pharmacologically relevant molecules using an all-atom, unbiased molecular dynamics (MD) framework accelerated by elevated-temperature simulations. Our approach infers physiological permeabilities via elevated temperature passive diffusion trajectories, enabling quantitative ranking across a chemically diverse compound set. The computed permeabilities are compared with available in vitro and in silico data for control molecules. We further explore the molecular mechanisms underlying permeability differences through their free energy profiles and lipid contact analyses, revealing molecule-specific interactions with individual lipid species in the BBB membrane. This work introduces a novel combination of elevated-temperature MD and mechanistic decomposition to assess BBB permeability and applies it to candidate molecules with therapeutic potential in neurodegeneration.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031427",
+    "authors": [
+        "Ajao, Favour",
+        "de Jong-Hoogland, Dominique",
+        "Ulmschneider, Jakob P",
+        "Ulmschneider, Martin B",
+        "Lambden, Edward"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

@@ -1,0 +1,20 @@
+{
+    "pmid": "41685593",
+    "title": "ULK1 activates NCOA4\u2011mediated ferritinophagy via the Beclin1/VPS34 complex in cardiomyocyte hypertrophy.",
+    "abstract": "Cardiac hypertrophy is associated with ferroptosis. Serine/threonine protein kinase ULK1 (ULK1) acts as a key activator of autophagy; however, its exact function in the non\u2011autophagy pathway remains to be fully elucidated. The present study aimed to decipher the role and mechanisms of ULK1 in ferroptosis and cardiomyocyte hypertrophy. Cell survival, lipid peroxidation, iron metabolism and prostaglandin endoperoxide synthase 2 (<i>Ptgs2</i>) mRNA expression were analyzed to investigate the role of ferroptosis in ULK1\u2011silenced or ULK1\u2011overexpressing HL\u20111 cells. Immunofluorescence staining, western blot analysis and monomeric red fluorescent protein\u2011green fluorescent protein\u2011microtubule\u2011associated protein 1 light chain 3 puncta formation assays were performed to demonstrate the regulatory effect of ULK1 on autophagy and ferritinophagy\u2011related proteins. Ferritinophagy activation was assessed in cardiomyocytes using immunofluorescence of nuclear receptor coactivator 4 (NCOA4) and microtubule\u2011associated protein 1 light chain 3\u2011II colocalization. ULK1 expression was found to be elevated in both transverse aortic constriction\u2011induced hypertrophic cardiac tissues and angiotensin II\u2011treated cardiomyocytes. ULK1 knockdown markedly suppressed cardiomyocyte ferroptosis, whereas ULK1 overexpression facilitated ferroptosis in HL\u20111 cells. Meanwhile, the ferroptosis inhibitor ferrostatin\u20111 reduced iron accumulation, lipid peroxidation and <i>Ptgs2</i> mRNA expression. Notably, the autophagy inhibitor 3\u2011methyladenine mitigated ULK1\u2011induced ferroptosis. Mechanistically, ULK1\u2011activated NCOA4\u2011mediated ferritinophagy was found to be dependent on the Beclin1/PI3K catalytic subunit type 3 complex. Finally, the ULK1 inhibitor SBI\u20110206965 ameliorated ferroptosis in cardiomyocytes <i>in vitro</i>. For the first time, to the best of our knowledge, the present study demonstrated that ULK1 modulates NCOA4\u2011mediated ferritinophagy and ferroptosis in HL\u20111 cells. The findings of the present study provide a novel insight into the progression of cardiomyocyte hypertrophy.",
+    "publication_year": "2026",
+    "journal": "Molecular medicine reports",
+    "doi": "10.3892/mmr.2026.13826",
+    "authors": [
+        "Zhang, Qianhui",
+        "Zhang, Meitian",
+        "Liu, Yongsheng",
+        "Shi, Pilong",
+        "Qi, Hanping",
+        "Jiang, Man",
+        "Cao, Yonggang",
+        "Sun, Hongli"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

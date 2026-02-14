@@ -1,0 +1,18 @@
+{
+    "pmid": "41683205",
+    "title": "Study on Association Between Gut Microbiota, Serum Metabolism and Gestational Diabetes Mellitus Based on Metagenomic and Metabolomics Analysis.",
+    "abstract": "<b>Background/Objectives:</b> This study aimed to explore the association between maternal gut microbiota and metabolic profiles in the first trimester and the subsequent risk of gestational diabetes mellitus (GDM), as well as to characterize association patterns linking gut microbiota, serum metabolites, and metabolic traits. <b>Methods:</b> A nested case-control study was conducted among women with GDM (<i>n</i> = 47) and those without GDM (<i>n</i> = 94). Metagenomic sequencing was applied to analyze fecal microbiota, and liquid chromatography-mass spectrometry (LC-MS) was used for non-targeted plasma metabolomics. Differential microbiota and metabolites between groups were identified, and correlation analyses were conducted to assess their associations with clinical indicators. <b>Results:</b> Women who later developed GDM showed lower alpha diversity and higher beta diversity. Eleven differential species were identified, with <i>Collinsella aerofaciens</i> and <i>Clostridium bartlettii</i> enriched in GDM, while nine species such as <i>Alistipes putredinis</i> and <i>Bacteroidales bacterium ph8</i> were enriched in controls. Sixty-four plasma metabolites differed between groups, including increased glycerol-3-phosphate, aromatic amino acids, and glycerophosphocholine, and decreased cysteine, tryptophan, niacinamide, and stearic acid. Correlation analyses revealed significant relationships between <i>Alistipes putredinis</i>, <i>Eubacterium eligens</i>, and <i>Bacteroidales bacterium ph8</i> with metabolic and clinical indicators (e.g., TG, TC, LDL). <b>Conclusions:</b> In this nested case-control study, women who later developed GDM exhibited reduced gut microbial diversity and altered metabolic profiles during the first trimester of pregnancy. Several microbial taxa and microbiota-metabolite associations were observed in relation to subsequent GDM status, highlighting early-pregnancy microbial and metabolic features that may be relevant to GDM-related metabolic changes.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030381",
+    "authors": [
+        "Yu, Wenduo",
+        "Tang, Kun",
+        "An, Rongjing",
+        "Ma, Sujuan",
+        "Tan, Hongzhuan",
+        "Chen, Mengshi"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

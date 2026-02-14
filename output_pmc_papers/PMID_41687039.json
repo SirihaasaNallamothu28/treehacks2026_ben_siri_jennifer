@@ -1,0 +1,29 @@
+{
+    "pmid": "41687039",
+    "title": "Clinical Features and Biomarkers Associated With Intensive Care-Dependent Refractory NMDAR Encephalitis: A Retrospective Cohort Study.",
+    "abstract": "A subset of patients with NMDAR encephalitis is resistant to first-line and second-line immunotherapy and requires prolonged intensive care. The clinical definition of refractory, intensive care-dependent NMDARE (RI-NMDARE) is lacking, and its frequency, risk factors, and outcomes are unknown. The aim of this study was to define RI-NMDARE and compare its clinical and biomarker characteristics with those of severe NMDARE.\nThis was a retrospective cohort study including patients with nonherpetic NMDARE admitted to intensive care units (ICUs) and diagnosed at the French National Reference Center, from 2005 to 2023. Favorable outcome was defined as a modified Rankin Scale (mRS) score < 2 at 24 months from onset.\nThe study included 216 ICU-admitted patients with NMDARE (81% female, median age 21 years). Nearly 90% of patients were discharged from ICU within 3 months after initiation of second-line therapy; the remainder were defined as patients with RI-NMDARE (26/216 patients, 12%; 92% female; median age, 24 years-none younger than 15 years; median ICU stay, 5.7 months). Compared with the rest of the cohort, patients with RI-NMDARE were more frequently of non-White ethnicity (14/25, 56%, vs 55/156, 35%; <i>p</i> = 0.047) and had more frequent mechanical ventilation (26/26, 100%, vs 116/183, 63%; <i>p</i> < 0.001); ovarian teratoma (62% vs 22%, <i>p</i> < 0.001); and combination of seizures, hyperkinetic movement disorders, and dysautonomia (85% vs 33%, <i>p</i> < 0.001). They also had shorter times from onset to ICU admission (median 7 vs 14 days; <i>p</i> = 0.002) and significantly higher median CSF cell counts (72 vs 25/mm<sup>3</sup>, <i>p</i> < 0.001), CSF antibody titers (1,280 vs 60, <i>p</i> < 0.001), and serum neurofilament levels (230 vs 144 pg/mL, <i>p</i> = 0.028). Despite increased use of the cyclophosphamide-rituximab combination (85% vs 17%, <i>p</i> < 0.001) and earlier immunotherapy (median 10 days, range 1-82 vs 19 days, range 1-304; <i>p</i> = 0.001), patients with RI-NMDARE had poorer outcomes (mRS score \u2265 2 at 24 months, 72% vs 39%; <i>p</i> = 0.004) and higher mortality (19% vs 6.7%, <i>p</i> = 0.046) compared with non-RI-NMDARE patients.\nRI-NMDARE represents a distinct, high-risk subgroup with a severe clinical profile marked by rapid disease progression; the triad of seizures, movement disorders, and dysautonomia; and elevated biomarkers. RI-NMDARE is associated with poorer outcomes, underscoring the need for early recognition and tailored therapeutic strategies.",
+    "publication_year": "2026",
+    "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+    "doi": "10.1212/NXI.0000000000200552",
+    "authors": [
+        "Elosua-Bayes, Iker",
+        "Dumez, Pauline",
+        "Benaiteau, Marie",
+        "Ciano-Petersen, Nicol\u00e1s Lundahl",
+        "Farina, Antonio",
+        "Villagr\u00e1n-Garc\u00eda, Macarena",
+        "Peter, Elise",
+        "Birzu, Cristina",
+        "Fourier, Anthony",
+        "Aubart, M\u00e9lodie",
+        "Picard, Geraldine",
+        "Do, Le Duy",
+        "Rogemond, V\u00e9ronique",
+        "Goncalves, David",
+        "Psimaras, Dimitri",
+        "Honnorat, Jerome",
+        "Joubert, Bastien"
+    ],
+    "num_authors": 17,
+    "citations": 0
+}

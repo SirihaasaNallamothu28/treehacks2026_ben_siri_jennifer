@@ -1,0 +1,21 @@
+{
+    "pmid": "41683815",
+    "title": "Identification of Basement Membrane-Related Biomarkers in the Progression of Cutaneous Squamous Cell Carcinoma.",
+    "abstract": "Basement membrane (BM) breaching is a critical hallmark of cutaneous squamous cell carcinoma (cSCC) invasion. This study aimed to identify novel BM-related genes (BMRGs) to effectively distinguish invasive cSCC from actinic keratosis (AK) and Bowen's disease (BD), and to identify potential therapeutic targets. Single-cell RNA sequencing was used for BMRGs identification within keratinocytes and fibroblasts clusters. Protein-protein interaction network analysis and Lasso regression were performed for hub BMRGs screening, together with nomogram model construction and validation. In this study, 6-9 central hub BMRGs were identified for each stage during cSCC progression with a good AUC value (>0.8). In keratinocytes, BMRGs such as integrins (<i>ITGB1</i>, <i>ITGA3</i>, <i>ITGA6</i>), laminins (<i>LAMA3</i>, <i>LAMC1</i>), <i>CD44</i>, and <i>FN1</i> were upregulated in cSCC compared to AK or BD (adjusted <i>p</i> < 0.05); in fibroblasts, BMRGs including <i>ITGB1</i>, <i>ITGAV</i>, <i>LUM</i>, <i>BGN</i>, <i>SDC1</i>, and <i>FN1</i> were upregulated in cSCC (adjusted <i>p</i> < 0.05), suggesting their collective role in BM breaching and invasion, as well as a higher risk of BD. This study provides novel biological insights into the differentiation of progression pathways from AK or BD to cSCC, as well as potential targets for therapeutic intervention.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031394",
+    "authors": [
+        "Zou, Shuaijun",
+        "Huang, Sijia",
+        "Liu, Jun",
+        "Yao, Ruiqian",
+        "Yang, Xiaoyan",
+        "Zhao, Haixia",
+        "Du, Lin",
+        "Wang, Liangzhe",
+        "Zhu, Yuanjie"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

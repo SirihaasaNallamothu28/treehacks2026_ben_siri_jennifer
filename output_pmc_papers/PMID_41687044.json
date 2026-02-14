@@ -1,0 +1,26 @@
+{
+    "pmid": "41687044",
+    "title": "Multi-Institutional Study Evaluating the Role of Early Circulating Tumor DNA Dynamics During Treatment With Immune Checkpoint Inhibitors in Patients With Advanced-Stage Melanoma.",
+    "abstract": "The role of circulating tumor DNA (ctDNA) monitoring in predicting treatment response and survival outcomes in early-stage and metastatic solid tumors has shown promising results. The value of early ctDNA dynamics in solid tumors treated with immune checkpoint inhibitors (ICIs) merits further investigation. Our study aims to assess the role of early ctDNA changes, measured 3-4 weeks after initiating ICI therapy, in predicting clinical outcomes in patients with advanced-stage melanoma.\nWe performed a multi-institutional analysis of real-world data from testing patients with unresectable stage III/IV melanoma using a personalized, tumor-informed ctDNA assay (Signatera) during the course of treatment with anti-PD-1-based therapy. ctDNA levels were assessed before the start of treatment and at 3-4 weeks before the second treatment dose. The change in ctDNA (decrease <i>v</i> increase) between the two points was assessed to evaluate the odds of objective response and disease control and to evaluate the risk of progression-free survival (PFS) and overall survival (OS).\nOne hundred seventeen patients were evaluated. Regression analysis revealed that a decrease in ctDNA was associated with increased odds of disease control (odds ratio [OR], 30.56 [95% CI, 10.64 to 87.84], <i>P</i> < .001) and objective response (OR, 23.54 [95% CI, 8.58 to 64.57], <i>P</i> < .001). Patients with a decrease in ctDNA had an increased PFS (hazard ratio [HR], 0.18 [95% CI, 0.11 to 0.31], <i>P</i> < .001) and OS (HR, 0.28 [95% CI, 0.13 to 0.56], <i>P</i> < .001) probability.\nWe found that early ctDNA dynamics after only 3-4 weeks of ICI initiation in patients with advanced-stage melanoma appears to be a candidate strategy to predict overall treatment response, risk of progression, and long-term survival. Larger prospective studies are warranted to validate the utility of early ctDNA changes in treatment monitoring.",
+    "publication_year": "2026",
+    "journal": "JCO precision oncology",
+    "doi": "10.1200/PO-25-00254",
+    "authors": [
+        "Ma, Vincent T",
+        "Zhou, Alice Y",
+        "Forati, Amir",
+        "Hollnagel, Fauzia",
+        "Patel, Janmesh D",
+        "Burkey, Caroline",
+        "Steimle, Alyssa",
+        "Sahasrabudhe, Deepak M",
+        "Mannino, Matthew C",
+        "Schehr, Jennifer L",
+        "Birbrair, Alexander",
+        "Zhao, Shuang G",
+        "Lang, Joshua M",
+        "Victor, Adrienne I"
+    ],
+    "num_authors": 14,
+    "citations": 0
+}

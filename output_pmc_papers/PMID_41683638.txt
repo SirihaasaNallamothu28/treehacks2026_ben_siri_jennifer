@@ -1,7 +1,0 @@
-PMID: 41683638
-Title: Special Issue "Serotonin in Health and Diseases".
-Journal: International journal of molecular sciences
-Authors: Voronezhskaya, Elena E
-
-Abstract:
-Serotonin is most often mentioned in association with the brain, neuronal circuits, and behavior [...].

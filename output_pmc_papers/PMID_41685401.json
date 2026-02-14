@@ -1,0 +1,21 @@
+{
+    "pmid": "41685401",
+    "title": "A Mixed-Reality Navigation Simulator for Training Infiltration Procedures of the Spine: Evaluation in Kambin Triangle Location.",
+    "abstract": "During minimally invasive surgeries, the Kambin Triangle infiltration procedure is primarily used as a safe anatomical access route to critical spine structures. Inadequate location of final infiltrations can be critical for inexperienced residents.\nA mixed reality (MR) navigator simulator for spine infiltration was developed. It combines virtual fluoroscopy simulation (FS) and augmented reality views with 3D-printed lumbar spine patient models. Ten residents of orthopaedics tested the system.\nResidents showed more infiltration success under MR than FS but with higher risky contacts at the nerve roots. Residents reported an improved understanding of the anatomy and clinical case during MRI guidance and greater ease in locating target points in this condition.\nThe results demonstrate the advantages of combining MR with FS for training minimally invasive spinal procedures to progressively train in a scenario close to reality once the anatomical and safety aspects of the approach have been understood.",
+    "publication_year": "2026",
+    "journal": "The international journal of medical robotics + computer assisted surgery : MRCAS",
+    "doi": "10.1002/rcs.70139",
+    "authors": [
+        "Dom\u00ednguez-Velasco, C\u00e9sar F",
+        "Alatorre-Flores, Jessica",
+        "P\u00e9rez-Terrazas, Jorge A",
+        "Albor-Ram\u00edrez, Efrain",
+        "Camarillo-Ju\u00e1rez, Felipe",
+        "Capurso-Garc\u00eda, Marino A",
+        "Cutolo, Fabrizio",
+        "Ferrari, Vincenzo",
+        "Padilla-Casta\u00f1eda, Miguel A"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

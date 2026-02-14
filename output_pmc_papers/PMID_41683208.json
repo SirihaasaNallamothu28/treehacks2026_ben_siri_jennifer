@@ -1,0 +1,16 @@
+{
+    "pmid": "41683208",
+    "title": "Anthocyanin-Rich Dark Sweet Cherry Phenolics Drive Context-Dependent Modulation of the Nrf2-Keap1-p62 Pathway in Drug-Resistant Triple Negative Breast Cancer Cells: An In Vitro Study.",
+    "abstract": "Triple negative breast cancer (TNBC) is an aggressive subtype treated primarily with chemotherapy, which often leads to drug resistance (DR) and reduced effectiveness. Phytochemicals, including anthocyanins from dark sweet cherry (ACN), have emerged as potential adjuvants to overcome DR, though mechanisms remain unclear. This study examines ACN effects on canonical and non-canonical antioxidant pathways (Nrf2-Keap1 and p62) as a mechanism to overcome DR in 4T1 TNBC cells with acquired DR.\nTwo conditions were tested: ACN with basal doxorubicin (DOX) as resistance-maintaining conditions and ACN with DOX at IC<sub>50</sub> to induce oxidative stress (OS).\nUnder resistance-maintaining conditions, ACNs activated the canonical Nrf2-Keap1 pathway at high doses, which can potentially contribute to DR development due to its cellular protection effects. However, at a low dose, ACN did not trigger an antioxidant response linked to GST and GGT enzyme activities and instead impaired autophagy, increasing OS. Under OS, ACN activated the non-canonical antioxidant pathway mediated by p62 while deactivating Nrf2, leading to autophagy-induced cell death and further impairing autophagy at a low dose. Notably, inflammation persisted at both treatment levels without being relieved, keeping stress signaling active. At both conditions, ACN at doses likely attainable under physiological conditions effectively impaired autophagy and elevated OS, resulting in cell death.\nThese results underscore the context-dependent dual function of polyphenols in cancer therapy, demonstrating their potential to enhance cellular sensitivity to chemotherapy and providing guidance for their strategic use as adjuvants in treating TNBC and overcoming DR. However, this study was limited to a single cell line derived from a murine model. Future research should include comparative studies using human TNBC cell lines to validate these findings and better assess their translational relevance.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030384",
+    "authors": [
+        "Nava-Ochoa, Ana",
+        "San-Cristobal, Rodrigo",
+        "Mertens-Talcott, Susanne U",
+        "Noratto, Giuliana D"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

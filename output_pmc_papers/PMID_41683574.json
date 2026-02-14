@@ -1,0 +1,22 @@
+{
+    "pmid": "41683574",
+    "title": "Pmel17 Deficiency Affects Melanogenesis and Promotes Tumor Vascularization.",
+    "abstract": "Premelanosomal protein (Pmel, also known as Pmel17) is the major component of melanosomal fibrils and plays a key role in melanin polymerization, making it an important factor in melanogenesis. We investigated how the absence of Pmel affects the properties of B16F10 melanoma cells. Pmel-knockout B16F10 cells were generated using CRISPR/Cas9-mediated genome editing. A viability assay revealed no significant differences between wild-type (WT) and Pmel-knockout (KO) sublines; however, melanosome maturation was impaired. In Pmel KO cells, the cell cycle was disrupted, and higher levels of reactive oxygen species (ROS) were observed compared with WT cells. Moreover, the migration capacity and tube formation of melanoma cells were increased. Tumors derived from Pmel KO cells exhibited unchanged growth kinetics but reduced melanin content, along with enhanced vascularization and oxygenation. Thus, knockout of the Pmel17 gene in melanoma cells alters pigmentation, vascularization, and oxygenation of tumors. These parameters are crucial for both tumor progression and therapeutic response.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031147",
+    "authors": [
+        "Sopel, Justyna",
+        "Sarad, Katarzyna",
+        "Kozinska, Anna",
+        "Mokrzy\u0144ski, Krystian",
+        "Szczygie\u0142, Dariusz",
+        "Murzyn, Aleksandra",
+        "Drza\u0142, Agnieszka",
+        "S\u0142omi\u0144ski, Andrzej",
+        "Szczygie\u0142, Ma\u0142gorzata",
+        "Elas, Martyna"
+    ],
+    "num_authors": 10,
+    "citations": 0
+}

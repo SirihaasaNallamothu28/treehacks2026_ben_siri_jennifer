@@ -1,0 +1,20 @@
+{
+    "pmid": "41678189",
+    "title": "Medical Costs and Productivity Losses of Atrial Fibrillation Among US Privately Insured Employees.",
+    "abstract": "Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and a major factor underlying US health care costs. While its clinical burden is well documented, the full economic impact of AF-particularly among working-age adults with productivity losses-remains underexplored.\nTo estimate medical costs and productivity losses associated with AF among privately insured US employees and assess whether this burden varies by sex and rurality.\nThis cross-sectional study used 2021 Merative MarketScan Commercial Claims and Health and Productivity Management Databases. The sample included adults aged 18 to 64 years with continuous enrollment in noncapitated, employer-sponsored insurance and no pregnancy-related diagnoses. Analyses were conducted during January to July 2025.\nDiagnosis of AF, defined by 1 or more inpatient or emergency department claims or 2 or more outpatient claims with International Classification of Disease, Tenth Revision, Clinical Modification code I48.\nPrimary outcomes were total all-cause annual medical costs and productivity losses. Medical costs were disaggregated into emergency department, inpatient, outpatient, and prescription costs. Productivity losses included sick leave, short-term disability, and long-term disability; days were observed directly, and dollar-valued costs were estimated by applying national average wages. All outcomes were prespecified. Propensity score overlap weighting was applied to balance covariates.\nAmong 1\u202f612\u202f398 individuals (mean [SD] age, 44.00 [11.11] years; 623\u202f335 female [38.66%]; 1\u202f489\u202f709 [92.39%] living in an urban area), 10\u202f190 (0.63%) were diagnosed with AF. AF was associated with $11\u202f392.55 (95% CI, $10\u202f649.70-$12\u202f135.38) in incremental annual medical costs, primarily from outpatient care ($7058.81 [95% CI, $6563.89-$7553.72] for services and $1874.58 [95% CI, $1600.61-$2148.56] for prescriptions). Compared with those without AF, those with AF had 0.97 (95% CI, 0.02-1.93) excess sick leave days and 2.93 (95% CI, 2.14-3.72) excess short-term disability days, translating to productivity-related costs of $269.81 (95% CI, $144.65-$397.77) for sick leave and $570.51 (95% CI, $471.21-$669.81) for short-term disability. Long-term disability outcomes did not differ significantly. Females incurred higher AF-related emergency (mean difference, $422.61; 95% CI, $178.32-$666.89) and inpatient care costs (mean difference, $1588.67; 95% CI, $466.23-$2711.12) than males.\nIn this cross-sectional study of privately insured employees, AF was associated with $11\u202f393 in higher medical costs per person, with outpatient care accounting for the largest share, and $840 in higher productivity losses per person. These findings underscore the need to improve outpatient treatment and reduce AF-related workplace disruptions for working-age adults.",
+    "publication_year": "2026",
+    "journal": "JAMA network open",
+    "doi": "10.1001/jamanetworkopen.2025.59227",
+    "authors": [
+        "Zhang, Han",
+        "Lee, Jun Soo",
+        "Kim, Sein",
+        "Kumar, Ashutosh",
+        "Wang, Yu",
+        "Imoisili, Omoye",
+        "Luo, Feijun",
+        "Essien, Utibe R"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

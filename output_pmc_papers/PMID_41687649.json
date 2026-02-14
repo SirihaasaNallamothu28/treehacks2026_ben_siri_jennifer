@@ -1,0 +1,27 @@
+{
+    "pmid": "41687649",
+    "title": "GLOBAL RESEARCH TRENDS IN MRI SAFETY AND PATIENT AWARENESS: A BIBLIOMETRIC ANALYSIS (2000-2025).",
+    "abstract": "Magnetic Resonance Imaging (MRI) is a cornerstone of modern diagnostic imaging, offering high-resolution, non-ionizing visualization across diverse clinical specialties. Despite its advantages, MRI raises safety concerns, including projectile risks, radiofrequency burns, and adverse reactions to contrast agents, as well as challenges in patient awareness and compliance. While multiple studies have addressed MRI safety and education, a structured bibliometric analysis of global research trends in this area remains limited.\nThis study aimed to conduct a bibliometric analysis of global research on MRI safety and patient awareness published between 2000 and 2025. Specific objectives included examining publication trends, identifying leading contributors, mapping research themes, and highlighting gaps for future investigation.\nData were retrieved from the OpenAlex database in August 2025 using controlled vocabulary and Boolean search strategies. Eligible documents included peer-reviewed original and review articles published in English between 2000 and 2025. Bibliometric indicators were extracted and analyzed using VOSviewer, Bibliometrix R, and Microsoft Excel. Analyses included co-authorship networks, citation impact, keyword co-occurrence, and country-level contributions.\nA total of 4,342 records were retrieved, with the United States leading global output (979 publications, 19,976 citations), followed by Germany (188 publications, 4,547 citations) and the United Kingdom (147 publications, 2,461 citations). Case Western Reserve University (46 publications, 1,371 citations) and Johns Hopkins University (41 publications, 1,181 citations) ranked among the top institutions. Influential researchers included Joseph W. Boggs (28 publications, 1,140 citations) and Frank G. Shellock (27 publications, 1,069 citations). Keyword analysis revealed research clusters focused on \"MRI safety,\" \"patient awareness,\" \"contrast agents,\" and \"screening protocols.\" Recent trends emphasized digital health applications and workflow optimization in MRI safety practices.\nGlobal research on MRI safety and patient awareness has expanded significantly over the past 25 years, shifting from technical risks to patient-centered approaches and digital health integration. Despite progress, gaps remain in international collaboration and research from low-resource settings. Future work should prioritize standardized safety protocols, educational interventions, and equitable implementation of MRI safety practices worldwide.",
+    "publication_year": "2025",
+    "journal": "Georgian medical news",
+    "doi": "",
+    "authors": [
+        "Alhur, A",
+        "Alqahtani, L",
+        "Faraj, L",
+        "Alqahtani, D",
+        "Fahad, M",
+        "Almoneef, N",
+        "Balobaied, A",
+        "Alamri, R",
+        "Almashal, A",
+        "Alkathiri, F",
+        "Alqahtani, L",
+        "Al-Shahrani, L",
+        "Alasmari, H",
+        "Al Almaie, N",
+        "Alshehri, S"
+    ],
+    "num_authors": 15,
+    "citations": 0
+}

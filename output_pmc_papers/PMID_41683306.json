@@ -1,0 +1,19 @@
+{
+    "pmid": "41683306",
+    "title": "The Relationship Between Trace Elements and Depression.",
+    "abstract": "Trace elements are widely involved in fundamental physiological processes, including enzymatic reactions, neurotransmitter metabolism, and redox homeostasis, and their balanced regulation plays an important role in maintaining normal brain development and neurological function. Depression is a complex psychiatric disorder characterized primarily by mood disturbances, with its onset and progression arising from long-term interactions among genetic susceptibility, neurobiological alterations, and environmental factors. A substantial body of epidemiological and clinical evidence indicates that dysregulation of trace elements-such as zinc, selenium, iron, and magnesium-is closely associated with the risk of depression and the severity of depressive symptoms. Mechanistic studies further demonstrate that trace elements influence depression-related pathophysiology through multi-target and multi-pathway mechanisms, including modulation of monoaminergic neurotransmission, neuroinflammation, oxidative stress, mitochondrial energy metabolism, and hypothalamic-pituitary-adrenal axis function. Network pharmacology analyses have additionally identified systemic hub targets, such as albumin (ALB), insulin (INS), and TP53, as well as key pathways including calcium signaling, neuroactive ligand-receptor interactions, and the HIF-1 signaling pathway. These findings suggest that trace elements may regulate depression-related pathological processes through coordinated network-level effects. Collectively, these integrative insights provide a theoretical basis for the application of trace elements in depression risk assessment, the development of precision intervention strategies, and future mechanistic investigations.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030484",
+    "authors": [
+        "Zhong, Yuanjian",
+        "Nie, Yuxiang",
+        "Mao, Yuanhui",
+        "Liu, Yinting",
+        "Zou, Tong",
+        "Liao, Xiayun",
+        "Zhao, Lichun"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

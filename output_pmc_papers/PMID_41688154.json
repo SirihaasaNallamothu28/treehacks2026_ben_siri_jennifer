@@ -1,0 +1,15 @@
+{
+    "pmid": "41688154",
+    "title": "Assays to examine lymphocyte invasion.",
+    "abstract": "The immune system plays a critical role in a number of pathologic conditions, including infection, autoimmunity, and cancer. The migratory capacity of immune cells is essential to their ability to reach and invade into sites of infection, tissue damage, or solid tumors. Notably, studying the migration and invasion of immune cells has become increasingly important in the treatment of cancer. Immunotherapy has revolutionized the treatment of cancer. One critical barrier to the efficacy of immunotherapy, especially in solid tumors, is the ability of immune cells, specifically T and Natural Killer (NK) cells, to infiltrate into the tumor microenvironment (TME). Because of this, it has become increasingly important to study the invasive and migratory capabilities of immune cells in the context of cancer. Additionally, in vitro models that better recapitulate the TME are necessary in order to examine the invasion of human immune cells. Here, we describe 2D and 3D methods that can be used to examine the migratory and invasive capabilities of immune cells. These techniques have been adapted from previously described techniques.",
+    "publication_year": "2026",
+    "journal": "Methods in cell biology",
+    "doi": "10.1016/bs.mcb.2025.10.008",
+    "authors": [
+        "Lekan, Alexander A",
+        "Maynard, Rachael E",
+        "Weiner, Louis M"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

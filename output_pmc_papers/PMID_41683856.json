@@ -1,0 +1,17 @@
+{
+    "pmid": "41683856",
+    "title": "Conserved Enzymatic Peptides in <i>Bitis arietans</i> Venom Revealed by Comparative Proteomics: Implications for Cross-Reactive Antibody Targeting.",
+    "abstract": "Snakebite envenoming remains a critical public health issue, and the molecular variability of venoms limits the cross-species efficacy of conventional antivenoms. Here, we conducted a comparative proteomic analysis of <i>Bitis arietans</i> venom to identify conserved peptide regions derived from enzymatic toxins and evaluate their potential relevance for complementary immunotherapeutic applications. Enzyme-enriched venom fractions were isolated through sequential affinity and ion-exchange chromatography and were subsequently characterized using fluorogenic FRET substrates and inhibitor assays. LC-MS/MS analysis identified 1099 proteins and revealed 36 conserved peptides within snake venom metalloproteinases (SVMPs), serine proteases (SVSPs), and phospholipase A<sub>2</sub> (PLA<sub>2</sub>), particularly located near catalytic residues and structurally essential motifs such as the HExxHxxGxxH zinc-binding site in SVMPs, the His-Asp-Ser catalytic triad in SVSPs, and the Ca<sup>2+</sup>-binding loop in PLA<sub>2</sub>, across <i>Viperidae</i> venoms. These conserved regions were also observed in homologous toxin isoforms from additional <i>Viperidae</i> genera, supporting the evolutionary conservation of key functional domains. While sequence conservation alone does not guarantee neutralization capacity, the identified regions represent strong candidates for structural epitope mapping and targeted antibody development. This study provides a peptide-level framework for advancing complementary antibody-based therapies designed to broaden cross-species toxin recognition, reduce antivenom dosage requirements, and improve clinical outcomes in snakebite envenoming.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031431",
+    "authors": [
+        "Godoi, Kemily Stephanie de",
+        "Portaro, Fernanda Calheta Vieira",
+        "Spencer, Patrick Jack",
+        "Vigerelli, Hugo",
+        "Silva, Wilmar Dias da"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

@@ -1,7 +1,0 @@
-PMID: 41683202
-Title: Effects of Epigallocatechin Gallate Against Lung Cancer: Mechanisms of Action and Therapeutic Potential.
-Journal: Nutrients
-Authors: Mirbabaei Ghafghazi, Dordaneh; Kwan Sze, Newman Siu; Tsiani, Evangelia
-
-Abstract:
-Epigallocatechin-3-gallate (EGCG), the major bioactive polyphenol in green tea, has garnered significant attention for its potential anticancer properties. This review summarizes the current evidence from in vitro, in vivo, and clinical trials examining the effects of EGCG on lung cancer. EGCG exerts its anticancer effects through various mechanisms, including the inhibition of cell proliferation, induction of apoptosis, suppression of metastasis, and modulation of signalling pathways such as epidermal growth factor receptor (EGFR), phosphoinositide 3-kinase/protein kinase B (PI3K/Akt), mitogen-activated protein kinase (MAPK), and nuclear factor kappa B (NF-κB). Additionally, EGCG has been shown to enhance the efficacy of conventional chemotherapeutic agents and mitigate drug resistance. However, challenges related to its bioavailability and metabolic stability remain. Ultimately, this review aims to provide a comprehensive overview of the effects of EGCG against lung cancer.

@@ -1,8 +1,0 @@
-PMID: 41670140
-Title: Comparison of the effects of direct and remote ischemic post and preconditioning in the kidney of young rats: histological and laboratory evaluation.
-
-Abstract:
-To evaluate the effects of direct and remote ischemic preconditioning and postconditioning on kidney ischemia-reperfusion injury in young rats.
-This study was divided into two experimental phases: preconditioning and postconditioning. In each phase, 78 rats were randomly assigned to four groups: control (CG), ischemia-reperfusion (IRG), direct ischemic pre/postconditioning (DIPG), and remote ischemic pre/postconditioning (RIPG). Animals were euthanized at 0- or 24-hours post-procedure, and samples were collected for histological and biochemical analyses.
-The sum of the histological findings revealed no significant differences among the pre/postconditioning groups. However, serum calcium levels were significantly higher in preconditioning, DIPG compared to the control group (p = 0.002), and in postconditioning, DIPG and RIPG compared to the control group (p = 0.028 and p = 0.005, respectively). In postconditioning, the chlorine levels were higher in IRG compared to the DIPG group (p = 0.029).
-In our findings, ischemic preconditioning and ischemic postconditioning no provided significant protection of renal tissue.

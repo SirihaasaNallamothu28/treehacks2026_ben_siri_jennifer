@@ -1,7 +1,0 @@
-PMID: 41671446
-Title: Locally Advanced Cervical Cancer: What is the Preferred Systemic Treatment?
-Journal: Journal of the National Comprehensive Cancer Network : JNCCN
-Authors: Flint, Matthew L; Byrne, Maureen E; Friedman, Claire F
-
-Abstract:
-Cervical cancer remains the fourth most common malignancy among women globally and is a leading cause of cancer mortality. For patients with locally advanced cervical cancer (LACC), the established standard of care is definitive treatment with concurrent cisplatin therapy and external-beam radiation therapy (chemoradiotherapy [CRT]) followed by brachytherapy. Although treatment with CRT is potentially curative, recent studies have shown the 5-year overall survival rate for patients with LACC is approximately 74%. The role of additional systemic chemotherapy or immunotherapy has been investigated in prospective randomized controlled trials, and recently published results suggest the benefit of alternative regimens. This review discusses the history of treatment with concurrent cisplatin-based CRT and examines data on consolidation chemotherapy, induction chemotherapy, and immunotherapy in LACC.

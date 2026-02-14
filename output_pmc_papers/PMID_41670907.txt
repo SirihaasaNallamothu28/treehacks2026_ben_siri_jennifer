@@ -1,7 +1,0 @@
-PMID: 41670907
-Title: Introduction to the Special Issue: Innovations and Strategies for Addressing COVID-19 Pandemic Related Challenges in Prevention Science Research in Applied Settings.
-Journal: Prevention science : the official journal of the Society for Prevention Research
-Authors: Bradshaw, Catherine P; Morgan-López, Antonio A; Musci, Rashelle J
-
-Abstract:
-This paper serves as an introduction for a special issue of Prevention Science: "Innovations and Strategies for Addressing COVID-19 Pandemic Related Challenges in Prevention Science Research in Applied Settings." This collection of original papers came together through an open call for original submissions to address emerging issues following the COVID-19 pandemic and related impacts on prevention science research. These papers are organized into four broad themes related to COVID-related impacts on (a) data collection, (b) measurement and missingness, (c) implementation supports and delivery considerations, and (d) broader pandemic impacts. The special issue concludes with a commentary focused on measurement and methodological considerations in analyzing data impacted by COVID-related disruptions. This set of papers provides insights for prevention science scholars and practitioners, illustrates lessons learned for managing pandemic-related data collection and design challenges, and highlights innovations in online data collection.

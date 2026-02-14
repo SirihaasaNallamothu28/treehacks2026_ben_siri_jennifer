@@ -1,0 +1,30 @@
+{
+    "pmid": "41679976",
+    "title": "Prognostic impact of clinico-genetic characteristics and donor types in <i>NPM1</i>-mutated AML undergoing allogeneic hematopoietic stem cell transplantation.",
+    "abstract": "<i>NPM1</i>-mutated acute myeloid leukemia (AML) is a distinct entity with specific biological and clinicopathological features. Prognosis varies depending on the associated mutations and clinical characteristics. This study evaluated the prognostic factors of <i>NPM1</i>-mutated AML in patients who underwent allogeneic hematopoietic stem cell transplantation (allo-HSCT). We enrolled 139 patients with <i>NPM1</i>-mutated AML who underwent allo-HSCT. The median age at allo-HSCT was 47 years with a median follow-up of 1,134 days. The 3-year cumulative incidence of relapse (CIR), leukemia-free survival (LFS), and overall survival (OS) rates were 15.1%, 78.4%, and 78.0%, respectively. <i>FLT3-ITD</i> mutations showed higher CIR (22.6% vs 5.3%, <i>P</i> = 0.006), lower LFS (70.9% vs 88.1%, <i>P</i> = 0.019), and reduced OS (70.8% vs 87.5%, <i>P</i> = 0.036). <i>FLT3-ITD</i> and DTA mutations indicated adverse prognosis, while <i>IDH1/2</i> mutations showed improved outcomes. Matched sibling donor (MSD) allo-HSCT patients had higher CIR and lower LFS and OS than unrelated donor (URD) or haploidentical-related donor (HRD) recipients. Pre-HSCT MRD status affected the outcomes, with MRD+ and nCR patients showing worse outcomes. Multivariable analysis identified <i>FLT3-ITD</i>, MSD, and pre-MRD status as significant predictors. In conclusion, <i>FLT3-ITD</i> and DTA mutations are associated with an adverse prognosis, whereas HRD or URD transplants may offer better outcomes than MSD allo-HSCT.",
+    "publication_year": "2026",
+    "journal": "Cell transplantation",
+    "doi": "10.1177/09636897251414205",
+    "authors": [
+        "Yuan, Xiaolin",
+        "Wu, Yibo",
+        "Yang, Tingting",
+        "Zhu, Panpan",
+        "Lai, Xiaoyu",
+        "Liu, Lizhen",
+        "Yang, Luxin",
+        "Shi, Jimin",
+        "Yu, Jian",
+        "Zhao, Yanmin",
+        "Zheng, Weiyan",
+        "Sun, Jie",
+        "Wu, Wenjun",
+        "Zhao, Yi",
+        "Cai, Zhen",
+        "Huang, He",
+        "Pei, Shanshan",
+        "Luo, Yi"
+    ],
+    "num_authors": 18,
+    "citations": 0
+}

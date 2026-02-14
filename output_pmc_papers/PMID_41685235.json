@@ -1,0 +1,27 @@
+{
+    "pmid": "41685235",
+    "title": "Glucolipid metabolic disorders and ferroptosis in diabetic ulcers: pathogenic crossroads and therapeutic opportunities.",
+    "abstract": "Ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation, has emerged as a key player in the pathogenesis of Diabetic Ulcers (DUs). Concurrently, Glucolipid Metabolic Disorders (GLMDs), driven by persistent hyperglycemia and lipotoxicity, constitute a core pathological basis for tissue damage and dysfunction of reparative cells. The interplay between ferroptosis and GLMDs represents a promising yet underexplored research area. This review synthesizes recent advances in understanding the molecular mechanisms underlying their interaction, focusing on how GLMDs drive ferroptosis by supplying lipid peroxidation substrates, inducing iron overload, and weakening antioxidant defenses. It also elaborates on how ferroptosis, in turn, exacerbates local metabolic stress and chronic inflammation through the release of Damage-Associated Molecular Patterns (DAMPs), thereby creating a vicious cycle. We propose that the ACSL4/Nrf2/AGEs-RAGE axis acts as a critical molecular hub integrating upstream metabolic insults with downstream ferroptotic execution, representing a novel and targetable pathogenic circuit in DUs. Modulating key molecules within this axis (e.g., ACSL4, GPX4, Nrf2) offers promising therapeutic strategies for breaking this cycle, either by selectively eliminating harmful cells or protecting reparative ones. This review aims to bridge current knowledge gaps and provide a mechanistic foundation for developing innovative therapies that combine metabolic regulation with ferroptosis intervention.",
+    "publication_year": "2026",
+    "journal": "Frontiers in endocrinology",
+    "doi": "10.3389/fendo.2026.1760943",
+    "authors": [
+        "Yeerbao, Zaiying",
+        "Li, Xinxi",
+        "Zhang, Lei",
+        "Du, Guoli",
+        "Tang, Jingdong",
+        "Jiang, Shuai",
+        "Ru, Xiangxiang",
+        "Li, Donglin",
+        "Abulimiti, Dilinuerkezi",
+        "Chen, Li",
+        "Deng, Yuxin",
+        "Aihemaitijiang, Guliteken",
+        "Halimulati, Halizhati",
+        "Li, Yunshan",
+        "Tian, Ye"
+    ],
+    "num_authors": 15,
+    "citations": 0
+}

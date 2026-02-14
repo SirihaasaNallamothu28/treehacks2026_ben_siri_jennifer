@@ -1,0 +1,21 @@
+{
+    "pmid": "41682332",
+    "title": "Scattering Coefficient Estimation Using Thin-Film Phantoms with a Spectral-Domain Dental OCT System.",
+    "abstract": "This study introduces a framework for estimating the optical scattering properties of thin-film phantoms using a custom-built Spectral-Domain Dental Optical Coherence Tomography (DEN-OCT) system operating within the 780-900 nm spectral range. The purpose of this work was to assess the performance of this system. The system exhibited high depth-resolved imaging performance with an axial resolution of approximately 16.30 \u00b5m, a signal-to-noise ratio of about 32.4 dB, and a 6 dB sensitivity roll-off depth near 2 mm, yielding an effective imaging range of 2.5 mm. Thin-film phantoms with controlled optical characteristics were fabricated and analyzed using Beer-Lambert and diffusion approximation models to evaluate attenuation behavior. Samples representing different tissue analogs demonstrated distinct scattering responses: one sample showed strong scattering similar to hard tissues, while the others exhibited lower scattering and higher transmission, resembling soft-tissue properties. Spectrophotometric measurements at 840 nm supported these trends through characteristic transmittance and reflectance profiles. While homogeneous samples conformed to analytical models, the highly scattering sample deviated due to structural non-uniformity, requiring Monte Carlo simulation to accurately describe photon transport. OCT A-scan analyses fitted with exponential decay models produced attenuation coefficients consistent with spectrophotometric data, confirming the dominance of scattering over absorption. The integration of OCT imaging, optical modeling, and Monte Carlo simulation establishes a reliable methodology for quantitative scattering estimation and demonstrates the potential of the developed DEN-OCT system for advanced dental and biomedical imaging applications. The innovation of this work lies in the integration of phantom-based optical calibration, multi-model scattering analysis, and depth-resolved OCT signal modeling, providing a validated pathway for quantitative parameter extraction in dental OCT applications.",
+    "publication_year": "2026",
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26030815",
+    "authors": [
+        "Herath, H M S S",
+        "Madusanka, Nuwan",
+        "Choi, Eun Seo",
+        "Woosub, Song",
+        "Chang, RyungKee",
+        "Lee, GyuHyun",
+        "Yi, Myunggi",
+        "Ahn, Jae Sung",
+        "Lee, Byeong-Il"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

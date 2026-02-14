@@ -1,7 +1,0 @@
-PMID: 41673968
-Title: [Subarachnoid hemorrhage presenting with bilateral sudden hearing loss as the initial symptom: a case report].
-Journal: Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery
-Authors: Zhang, T T; Sun, X P; Li, T; Lin, Y N; Zhou, Y F; Chen, Y Y; Zhang, H
-
-Abstract:
-

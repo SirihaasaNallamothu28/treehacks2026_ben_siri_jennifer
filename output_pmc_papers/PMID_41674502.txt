@@ -1,7 +1,0 @@
-PMID: 41674502
-Title: WHO Building Back Better in the European Region: Framing RCCE-IM Capacity Building Before, During and After the COVID-19 Global Emergency.
-Journal: Health communication
-Authors: Salvi, Cristiana; Duncan, Ben; Borremans, Philippe; Goga, Thanas; Izhyk, Olha; Karakaya, Irem; Palumbo, Leonardo; Voinea, Stefan
-
-Abstract:
-This article describes the central role capacity building of Risk Communication, Community Engagement, and Infodemic Management (RCCE-IM) played in the WHO Regional Office for Europe's response to the COVID-19 pandemic and expolores whether this is best characterized as a case of "building back better", a focusing event or a new form of crisis response. It draws on six semi-structured interviews with practitioners who worked in the WHO Regional Office's RCCE-IM pillar during the COVID-19 pandemic, and one interview with an emergency consultant who joined subsequently. The results describe the RCCE-IM capacity building actions that took place at different stages of the pandemic and how these supported the overall response to the COVID-19 pandemic. The discussion section draws on experiences, examples and opinions from the interviews and peer-reviewed literature to compare the Regional Office's actions and the results achieved against theoretical models. It concludes that, despite some uncertainties as to the extent and duration of results achieved, as at autumn 2023 the Regional Office could be said to have "built back better" both its own RCCE-IM capacity and that of the countries and areas it serves.

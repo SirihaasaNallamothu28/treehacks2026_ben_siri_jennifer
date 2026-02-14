@@ -1,0 +1,20 @@
+{
+    "pmid": "41685247",
+    "title": "Leveraging the transcriptome-phenotype relationship to guide clinical management of papillary thyroid cancer.",
+    "abstract": "Papillary thyroid carcinoma (PTC) is the most common endocrine malignancy, with excellent survival but substantial variation in recurrence risk. Traditional clinicopathologic risk models, while still a cornerstone of current guidelines, overlook the biological differences between patients, resulting in both overtreatment and undertreatment.\nNext-generation sequencing has advanced our molecular understanding of PTC by identifying recurrent driver mutations that shed light on tumor initiation. However, mutations fall short of explaining the full spectrum of clinical behavior. DNA-based mutation profiling offers a fixed snapshot of genetic alterations, while transcriptomics captures the tumor's active biological state, integrating signaling pathways, differentiation status, immune interactions, and metabolism. Large-scale efforts like The Cancer Genome Atlas, along with emerging transcriptomic classifiers, have shown that gene-expression subtypes (\"BRAF-like\" and \"RAS-like\") more accurately predict iodine avidity, tumor aggressiveness, and treatment response than histology or genotype alone. Transcriptome-based tools such as Thyroid GuidePx<sup>\u00ae</sup> now allow for biologically informed risk stratification that goes beyond traditional clinicopathologic and mutation-only approaches.\nIn the preoperative setting, transcriptomic testing can inform whether patients are best suited for active surveillance, lobectomy, or total thyroidectomy. Postoperatively, it sharpens decisions around completion surgery, radioactive iodine use, and the intensity of TSH suppression. Integrating transcriptomic data into clinical decision-making enables more precise selection for treatment escalation or de-escalation. To unlock the full potential of transcriptome-guided management in PTC, prospective validation and adoption into ATA and NCCN guidelines will be critical.",
+    "publication_year": "2026",
+    "journal": "Frontiers in endocrinology",
+    "doi": "10.3389/fendo.2026.1737469",
+    "authors": [
+        "Harvey, Adrian",
+        "Walser, Eric",
+        "Lahamm-Andraos, Rebecca",
+        "Yeo, Caitlin",
+        "Wolfe, Samantha",
+        "Stretch, Cynthia",
+        "Craig, Steven",
+        "Bathe, Oliver F"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

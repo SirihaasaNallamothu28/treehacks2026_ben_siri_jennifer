@@ -1,0 +1,25 @@
+{
+    "pmid": "41689644",
+    "title": "Plasma amino acids in early pregnancy and fetal growth trajectories across pregnancy: findings from a multi-racial U.S. pregnancy cohort.",
+    "abstract": "Amino acids (AA) are crucial for fetal growth, but their associations are not fully understood. We examined the associations of plasma AAs in early pregnancy with fetal growth trajectories across pregnancy.\n321 women from a GDM nested case-control study from the Eunice Kennedy Shriver NICHD Fetal Growth Studies were enrolled at 10-14 gestational weeks. Ultrasound schedules were randomly assigned to estimate weekly fetal growth. Plasma concentrations of aromatic AAs, branched-chain AAs, and AAs involved in one-carbon metabolism were measured using blood samples collected at enrollment. We modeled fetal growth trajectories across AA tertiles with cubic splines using linear mixed models, accounting for major confounders; global differences were tested using log-likelihood ratio tests. Then, we performed weekly comparisons of fetal growth parameters between AA tertiles to evaluate the trajectory of fetal growth parameters.\nIn global tests, AAs were associated with fetal growth trajectories. In weekly comparisons, for instance, women with the highest tertile of methionine had lower estimated fetal weight (EFW) and biparietal diameter (BPD) in mid-pregnancy (EFW at week 27: 992.65 vs. 1050.72\u00a0g, p-value\u2009=\u20090.04, overall linear p-trend\u2009=\u20090.03; BPD at week 22: 51.90 vs. 54.06\u00a0mm, p-value\u2009<\u20090.0001, overall linear p-trend\u2009=\u20090.007), compared to the lowest tertile. The highest tertile of tyrosine was associated with lower BPD in mid-to-late pregnancy (BPD at week 20: 46.38 vs. 48.26\u00a0mm, p-value\u2009=\u20090.005, at week 31: 77.08 vs. 79.52\u00a0mm, p-value\u2009=\u20090.005, overall linear p-trend\u2009=\u20090.02).\nOverall, plasma AAs were inversely related to subsequent fetal growth trajectories, with differences observed by AAs and gestational age.\nNCT00912132.",
+    "publication_year": "2026",
+    "journal": "European journal of nutrition",
+    "doi": "10.1007/s00394-025-03875-8",
+    "authors": [
+        "Guivarch, Claire",
+        "Wu, Jing",
+        "Lu, Ruijin",
+        "Grewal, Jagteshwar",
+        "Yu, Guoqi",
+        "Li, Ling-Jun",
+        "Yang, Jiaxi",
+        "Pang, Wei Wei",
+        "Wang, Dong D",
+        "Weir, Natalie L",
+        "Tsai, Michael Y",
+        "Albert, Paul S",
+        "Chen, Zhen",
+        "Zhang, Cuilin"
+    ],
+    "num_authors": 14
+}

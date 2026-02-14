@@ -1,7 +1,0 @@
-PMID: 41671011
-Title: Disseminated histoplasmosis in an HIV-positive patient mimicking advanced endometrial carcinoma. Case report.
-
-Abstract:
-To present a case of disseminated histoplasmosis with endometrial involvement mimicking advanced endometrial carcinoma in a patient with HIV infection. The endometrial findings are described.
-A woman from Guinea-Bissau presented to a general hospital serving immigrant patients and those with public insurance, complaining of costal pain. Multiple pathological vertebral fractures were identified. During studies performed to clarify the cause of the fractures, a de novo diagnosis of HIV infection was made with a CD4 count of 395 cells/μL. Magnetic resonance imaging revealed images suggestive of vertebral abscesses and suspected endometrial cancer. Study of bone material showed presence of fungal spores and endometrial biopsy revealed non-necrotizing granulomas and histiocytic accumulations, without neoplastic lesion. Serological tests were positive for Histoplasma capsulatum. The patient was treated with liposomal amphotericin B and antiretroviral therapy with favorable clinical evolution on follow-up.
-It is important to consider opportunistic infections in the differential diagnosis of pelvic masses in immunocompromised patients. Additional studies are needed to determine the frequency of endometrial involvement in disseminated histoplasmosis and to establish specific diagnostic protocols.

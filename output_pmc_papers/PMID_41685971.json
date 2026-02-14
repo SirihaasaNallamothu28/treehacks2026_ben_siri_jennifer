@@ -1,0 +1,19 @@
+{
+    "pmid": "41685971",
+    "title": "Rapid Estimation of Myelin for Diagnostic Imaging and Quantification of Therapy Responses in Multiple Sclerosis.",
+    "abstract": "Recent MRI developments have allowed for in vivo myelin imaging in clinically feasible time frames. This retrospective study aimed to evaluate the ability of the Rapid Estimation of Myelin for Diagnostic Imaging (REMyDI) technique in monitoring longitudinal myelin changes and brain atrophy in persons with multiple sclerosis (pwMS) undergoing treatment with rituximab or autologous hematopoietic stem cell transplantation (aHSCT).\nBetween May 2017 and January 2022, 62 pwMS treated with either rituximab (n = 25) or aHSCT (n = 37) underwent brain MRI scans at three time points. A 3 Tesla brain MRI was performed, including 3D T1-weighted imaging, 3D T2-weighted fluid-attenuated inversion recovery imaging, and 2D multi-dynamic multi-echo imaging for REMyDI and brain volumetrics. Longitudinal changes in imaging parameters and associations with the Expanded Disability Status Scale and Symbol Digit Modalities Test were analyzed using mixed-effects models.\nThe rituximab group exhibited increases in whole-brain myelin (+0.25 mL per year), cortical myelin (+0.11 mL per year), and myelin in normal-appearing deep gray matter (NADGM) (+0.02 mL per year). In contrast, these measures were stable or declined in the aHSCT group. Brain parenchymal fraction showed a larger reduction in the rituximab group (-0.68% per year) compared to the aHSCT group (-0.24% per year). Myelin-related imaging measures showed positive but nonsignificant associations with clinical parameters.\nREMyDI enables longitudinal assessment of myelin-related metrics in vivo, which complements conventional brain volumetrics and is suitable for monitoring treatment responses in MS.",
+    "publication_year": "2026",
+    "journal": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+    "doi": "10.1111/jon.70128",
+    "authors": [
+        "Katsarogiannis, Evangelos",
+        "Ouellette, Russell",
+        "Virhammar, Johan",
+        "Landtblom, Anne-Marie",
+        "Burman, Joachim",
+        "Granberg, Tobias",
+        "Berntsson, Shala G"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

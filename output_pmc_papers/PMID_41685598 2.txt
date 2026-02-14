@@ -1,8 +1,0 @@
-PMID: 41685598
-Title: The Fibrillatory Wave Amplitude of ECG Decreases Over Time in Patients With Persistent AF: A Retrospective Cohort Study.
-
-Abstract:
-A prolonged history of atrial fibrillation (AF) is associated with increased recurrence rates, and ablation is not recommended for AF lasting over 10 years. In some developing countries, patients may be unaware of when their AF began. Electrocardiogram (ECG) changes may correlate with AF duration, so this study aims to use ECG to estimate AF duration.
-This retrospective cohort study analyzed 998 patients with persistent AF. AF duration was the exposure variable, F-wave amplitude and number of coarse F waves were outcomes. Correlations were evaluated using multiple linear regression, subgroup analysis, and smooth curve fitting.
-Of the 998 participants, 50.2% were male, with a mean age of 73.0 years. The average F-wave amplitude was 0.1 mV, and the average number of coarse F waves was 6.0. Longer AF duration was significantly associated with lower F-wave amplitude and fewer coarse F waves. The highest quartile had significantly fewer coarse F waves (β = -4.94, 95% CI = -6.24 to -3.65, p < 0.001) and lower amplitude (β = -0.02, 95% CI = -0.03 to -0.02, p < 0.001) compared to the lowest quartile. A nonlinear inverse correlation was observed with cutoffs at 10.184 and 17.238 years. Additionally, left atrial dimension increased with longer AF duration.
-In patients with persistent AF, lower F-wave amplitudes and fewer coarse F waves are associated with a longer history of AF.

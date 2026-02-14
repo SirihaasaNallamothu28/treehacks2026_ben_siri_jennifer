@@ -1,8 +1,0 @@
-PMID: 41685931
-Title: Rapid and Accurate Diagnosis of Breast Cancer by Fine-Needle Aspiration Biopsy Using the "Click-to-Sense" Method.
-
-Abstract:
-We have previously demonstrated the value of the "click-to-sense" (CTS) assay, in which a fluorescent probe targeting acrolein can detect cancer cells and differentiate between malignant and benign lesions in breast tissue. In this study, we assessed the usefulness of the CTS assay for diagnosis of breast tumors by fine-needle aspiration biopsy (FNAB).
-A total of 126 FNABs were performed on live tissue samples obtained by surgery (63 breast cancers, 31 benign breast tumors, and 32 normal breast glands). CTS reagents (CTS probe and Hoechst dye mixed with encapsulating agents) were added to the aspirated cells and placed on slides, which were then cover-slipped and imaged under a fluorescence microscope. Another FNAB slide was prepared for each of the same live tissue samples, fixed in ethanol, and subjected to Papanicolaou (PAP) staining. The diagnostic accuracy of the CTS assay was compared with that of PAP staining by histopathological examination of permanent sections.
-The CTS assay had a sensitivity of 92.1%, a specificity of 96.8%, and an accuracy of 94.4% (119/126 samples); the respective values for PAP staining were 98.4%, 89.8%, and 94.2% (114/121 samples). The insufficiency/inadequacy rate was 0% for the CTS assay and 4% for PAP staining (5/126 samples).
-The CTS assay is as accurate as PAP staining for FNAB of breast lesions. This assay has the potential to establish a new diagnostic method in cytopathology in the future, because it has a lower inadequacy rate and is simpler and less labor-intensive and time-consuming to perform.

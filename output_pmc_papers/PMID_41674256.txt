@@ -1,7 +1,0 @@
-PMID: 41674256
-Title: [Agitation in neuropsychiatric symptoms of dementia : beyond drugs].
-Journal: Revue medicale suisse
-Authors: Noverraz, Jonas; Delehaye, Romain; Lederer, Wendy; Drezet-Munch, Nathalie; Eshmawey, Mohamed
-
-Abstract:
-Behavioral and psychological symptoms of dementia are present in a wide spectrum of psychological and physical manifestations and can sometimes be difficult to identify. Because agitation is the most visible and disturbing symptom, it leads to the most hospitalizations and institutionalizations. Identifying it early allows for the initiation of a multidisciplinary approach based on both pharmacological and non-pharmacological treatments, thereby reducing the negative impact on patients, their relatives, or their caregivers. The main goal is to improve the quality of life of patients and their relatives by minimizing the impact on caregivers' health and financial costs.

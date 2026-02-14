@@ -1,7 +1,0 @@
-PMID: 41674237
-Title: [Thoracocentesis and pleural catheter insertion].
-Journal: Lakartidningen
-Authors: Hellström Vogel, Åslög; Borgquist, Ola; Näslund, Anders; Dryver, Eric
-
-Abstract:
-In patients with pleural fluid, thoracocentesis is indicated for diagnostic and/or therapeutic reasons. Pleural fluid analysis allows for the identification of infected effusions whereby fluid drainage improves patient outcome. Pleural fluid analysis is also indicated in the setting of suspected malignancy and unilateral effusions of unclear etiology. Drainage of large fluid collections reduces dyspnea. Use of ultrasound is mandatory when selecting the site of thoracocentesis. Real-time ultrasound confirms catheter placement in the pleural space and allows for its positioning in the posterocaudal recess. An 8F catheter is sufficiently large for drainage in most settings. The rate of complications from catheter insertion is very low, and coagulopathy is rarely a contraindication.

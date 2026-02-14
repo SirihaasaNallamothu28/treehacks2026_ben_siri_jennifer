@@ -1,8 +1,0 @@
-PMID: 41670798
-Title: Saying good-bye or final conversations between terminally ill inpatients and family members in the last weeks of life: a nationwide survey of bereaved families.
-
-Abstract:
-In the last days of life, saying good-bye between terminally ill patients and their family members-sharing meaningful final conversations-is considered a core element of a good death. However, the role of healthcare professionals in facilitating this process remains insufficiently examined. This study aimed to assess bereaved family members' perceptions of (1) the achievement of saying good-bye and (2) the appropriateness of support timing.
-This nationwide cross-sectional survey included bereaved family members of cancer patients who died in inpatient hospices or palliative care units in Japan. Families evaluated two outcomes and ten professional practices. Exploratory factor analysis identified practice domains, and multivariate logistic regression examined their associations with the outcomes.
-Of 954 questionnaires distributed, 683 were returned (71.5%), and 384 were analyzed. Among respondents, 17.5% disagreed that they had been able to say good-bye, and 12.4% felt support was provided too late. Four professional practice domains were identified. "Clarifying the patient's estimated prognosis" was significantly associated with all outcomes. Furthermore, "Encourage families to say good-bye not to miss the moment to talk" was associated with family-perceived achievement of saying good-bye with marginal statistical significance (p = 0.054).
-Clear and timely prognostic communication may help patients convey meaningful last words to their families.

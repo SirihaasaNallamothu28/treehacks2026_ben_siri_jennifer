@@ -1,0 +1,24 @@
+{
+    "pmid": "41688211",
+    "title": "[Prognostic value of lymph node dissection in radical nephrectomy for cN0M0 renal cell carcinoma].",
+    "abstract": "<b>Objective:</b> To investigate the impact of lymph node dissection (LND) and its extent on long-term survival outcomes in patients with cN0M0 renal cell carcinoma (RCC) undergoing radical nephrectomy<b>.</b> <b>Methods:</b> A total of 1 109 patients with RCC who underwent radical nephrectomy at Sun Yat-sen University Cancer Center between March 1999 and January 2022 were retrospectively analyzed. Clinical and pathological data as well as follow-up information were collected. Patients were grouped according to whether LND was performed: the LND group (<i>n</i>=512) and the NLND group (<i>n</i>=597). Propensity score matching (PSM) was applied at a 1\u22361 ratio, yielding 340 matched pairs. Cox proportional hazards models were used to evaluate the associations between LND and overall survival (OS), cancer-specific survival (CSS), and progression-free survival (PFS). Among patients who underwent LND, the relationships of the number of removed lymph nodes, extended LND, and lymph-node status with OS, CSS, and PFS were also assessed. <b>Results:</b> Among the 1 109 patients, 512 received LND, with a median of 4 lymph nodes removed. Fifty-eight patients underwent extended LND, and 35 patients (6.8%) were pathologically lymph-node positive (pN+). After a median follow-up of 77.8 months, 234 of the 1 109 patients developed recurrence or metastasis, and 201 died. After PSM, the 5-year OS, CSS, and PFS rates in the LND group were 90.8%, 91.7%, and 82.4%, respectively, compared with 89.9%, 91.2%, and 83.7% in the NLND group, with no statistically significant differences between the two groups (<i>P</i>=0.89, 0.56, and 0.16, respectively). Multivariable Cox analyses showed that LND was not associated with OS, CSS, or PFS in patients with cN0M0 RCC undergoing radical nephrectomy (OS: <i>HR</i>=0.97, 95% <i>CI</i>: 0.66-1.41; CSS: <i>HR</i>=1.03, 95% <i>CI</i>: 0.67-1.59; PFS: <i>HR</i>=1.16, 95% <i>CI</i>: 0.82-1.63). Subgroup multivariable analyses indicated that LND was not an independent prognostic factor for OS, CSS, or PFS among patients with pT3-4 disease, grade G3-4 tumors, non-clear cell RCC, or adverse pathological prognostic features (all <i>P</i>\uff1e0.05). Pathological lymph-node positivity was an independent predictor of OS, CSS, and PFS among patients who underwent LND (OS: <i>HR</i>=3.16, 95% <i>CI</i>: 1.68-5.96; CSS: <i>HR</i>=3.27, 95% <i>CI</i>: 1.67-6.39; PFS: <i>HR</i>=2.23, 95% <i>CI</i>: 1.30-3.83). <b>Conclusions:</b> LND and its extent do not confer survival benefits in patients with cN0M0 RCC undergoing radical nephrectomy. However, LND provides accurate pathological staging, which is valuable for prognostic assessment and for guiding decisions regarding adjuvant therapy.",
+    "publication_year": "2026",
+    "journal": "Zhonghua zhong liu za zhi [Chinese journal of oncology]",
+    "doi": "10.3760/cma.j.cn112152-20250727-00364",
+    "authors": [
+        "Luo, Y H",
+        "Zou, X P",
+        "Zhou, Z H",
+        "Xiong, L B",
+        "Peng, Y L",
+        "Yang, X F",
+        "Luo, X",
+        "Dong, P",
+        "Guo, S J",
+        "Han, H",
+        "Zhang, Z L",
+        "Zhou, F J"
+    ],
+    "num_authors": 12,
+    "citations": 0
+}

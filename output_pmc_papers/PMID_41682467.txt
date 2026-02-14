@@ -1,7 +1,0 @@
-PMID: 41682467
-Title: High-Accuracy Detection of Odor Presence from Olfactory Bulb Local Field Potentials via Deep Neural Networks.
-Journal: Sensors (Basel, Switzerland)
-Authors: Hassanloo, Matin; Zareh, Ali; Özdemir, Mehmet Kemal
-
-Abstract:
-Odor detection underpins food safety, environmental monitoring, medical diagnostics, and many more fields. Current artificial sensors developed for odor detection struggle with complex mixtures, while non-invasive recordings lack reliable single-trial fidelity. To develop a general system for odor detection, in this study we present preliminary work where we test two hypotheses: (i) that spectral features of local field potentials (LFPs) are sufficient for robust single-trial odor detection and (ii) that signals from the olfactory bulb alone are adequate. To test these hypotheses, we propose an ensemble of complementary one-dimensional convolutional networks (ResCNN and AttentionCNN) that decodes the presence of odor from multichannel olfactory bulb LFPs. Tested on 2349 trials from seven awake mice, our final ensemble model supports both hypotheses, achieving a mean accuracy of 86.2%, an F1-score of 85.3%, and an AUC of 0.942, substantially outperforming previous benchmarks. The t-SNE visualization confirms that our framework captures biologically significant signatures. These findings establish the feasibility of robust single-trial detection of odor presence from extracellular LFPs and demonstrate the potential of deep learning models to provide deeper understanding of olfactory representations.

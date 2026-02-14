@@ -1,0 +1,16 @@
+{
+    "pmid": "41680292",
+    "title": "Utilization of imaging in the evaluation of pediatric blunt liver and spleen injury: a national trauma data bank analysis.",
+    "abstract": "The spleen and liver are the most injured organs in pediatric blunt abdominal trauma that can lead to life-threatening hemorrhage. Appropriate imaging via ultrasonography (US) and computed tomography (CT) is essential in identifying the need for operative management in the pediatric blunt liver and spleen injury (BLSI) patients to prevent bleeding complications. Studies have shown increased cancer risks associated with repeated CT use in pediatric patients, but the extent to which CT utilization should be reduced is still unclear. This study aimed to compare pediatric patients who received US only and those who received US followed by CT to determine if imaging modality is associated with clinical outcomes.\nThe National Trauma Data Bank (NTDB) was queried for patients\u2009\u2264\u200918\u00a0years admitted between 2019-2023 with BLSI who received US and/or CT imaging. Patients with penetrating injuries; concomitant non-abdominal injuries with AIS score\u2009\u2265\u20093; who received CT imaging only; and/or received CT followed by US were excluded. Included patients received US imaging only (US-only), or US followed by CT (US-CT). Baseline characteristics and clinical outcomes were compared between these groups. Primary outcomes measured were incidences of embolization and laparotomy for hemorrhage control. Secondary outcomes measured were mortality; ICU admission; ICU length of stay (LOS); and hospital LOS. Multivariable regression was performed on clinical outcomes with respect to baseline characteristics.\n2062 patients met inclusion criteria from 2019 to 2023. Of these patients, 815/2062 (40%) received US only, and 1247/2062 (60%) received US followed by CT. Between groups, no significant differences existed in incidences of embolization (1% vs. 2%, p\u2009=\u20090.20) or laparotomy (3% vs. 3%, p\u2009=\u20090.95). Patients who received US only had a higher incidence of mortality (1% vs. 0%, p\u2009<\u20090.001); shorter ICU LOS (median 2\u00a0days vs. 2, p\u2009<\u20090.005); and shorter hospital LOS (3\u00a0days vs. 4, p\u2009<\u20090.001). ICU admission was similar between groups (47% vs. 50%, p\u2009=\u20090.24). On multivariable regression analysis, US-CT had no association with ICU admission (OR 0.99, 95% CI 0.70-1.22). Patients presenting to Level I pediatric trauma centers had a lower likelihood of ICU admission (OR 0.58, 95% CI 0.46-0.74).\nThe addition of CT imaging to US did not appear to affect decision-making for operative management in pediatric BLSI patients. It appears that Level I centers and non-pediatric verified centers have a higher US followed by CT protocol. Further study is needed to determine the use of US and FAST in managing BLSI. Adoption of guidelines emphasizing conservative imaging utilization in pediatric BLSI is necessary to better allocate limited resources.",
+    "publication_year": "2026",
+    "journal": "Pediatric surgery international",
+    "doi": "10.1007/s00383-026-06317-6",
+    "authors": [
+        "Kwak, Lia",
+        "Wang, Theodore",
+        "Hung, George",
+        "Burjonrappa, Sathyaprasad"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

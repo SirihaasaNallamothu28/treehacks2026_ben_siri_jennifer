@@ -1,0 +1,16 @@
+{
+    "pmid": "41686649",
+    "title": "iDLDDG: predicting protein stability changes from missense mutations in DNA-binding proteins using integrated deep learning features.",
+    "abstract": "To understand disease mechanisms and advance therapies, accurately predicting how missense mutations alter protein-DNA binding affinity is critical. Many existing models neglect the unique characteristics of missense mutations in both double-stranded DNA-binding proteins (DSBs) and single-stranded DNA-binding proteins (SSBs). To address this issue, we constructed a comprehensive dataset from diverse sources. By leveraging sequence-based embeddings from pretrained protein language models including ESM2, ProtTrans, and ESM1v, we developed iDLDDG, a deep learning framework that integrates multi-scale structural and evolutionary information via a multi-channel architecture. To balance residue-wise information density against entropy, our entropy-based algorithm determined 181 residues as optimal for modeling biophysical constraints. This approach enhances predictive accuracy and computational efficiency, thereby supporting large-scale assessments of mutation effects in DNA-binding proteins. iDLDDG achieves state-of-the-art performance, with a 10-fold cross-validation PCC of 0.755 on MPD276 and 0.632 on independent test sets encompassing both DSBs and SSBs, significantly surpassing existing methods. By establishing the first computational framework that rigorously differentiates DSB and SSB mutation mechanisms, our work provides a foundation for high-accuracy prediction of pathological mutations in DNA-binding proteins.",
+    "publication_year": "2026",
+    "journal": "Briefings in bioinformatics",
+    "doi": "10.1093/bib/bbag050",
+    "authors": [
+        "Yu, Xuan",
+        "Ge, Fang",
+        "Yu, Dong-Jun",
+        "Deng, Zhaohong"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

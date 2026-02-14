@@ -1,8 +1,0 @@
-PMID: 41685442
-Title: Cerebrovascular regulation dynamics and Alzheimer's neuroimaging phenotypes.
-
-Abstract:
-Cerebrovascular dysfunction may contribute to Alzheimer's disease (AD) pathogenesis. We examined how novel cerebral hemodynamic markers relate to neuroimaging phenotypes associated with AD dementia in cognitively impaired and unimpaired older adults.
-Statistical hemodynamic indices were computed for each participant from stochastic dynamic models relating resting-state spontaneous arterial blood pressure and end-tidal CO<sub>2</sub> fluctuations to transcranial doppler-derived blood velocity and near infrared spectroscopy-derived cortical tissue oxygenation. Linear regressions related these hemodynamic indices to hippocampal volume, WMH volume, cortical thickness in an AD-signature region, and brain amyloid burden measured by PET.
-Higher hemodynamic indices, indicating proximity to normal cerebrovascular function correlated with neuroimaging phenotypes typically associated with better cognitive status: greater hippocampal volume and lower amyloid burden.
-Our findings provide further support for the role of cerebrovascular dysfunction in AD pathogenesis and for the potential clinical utility of model-based indices of cerebral hemodynamics.

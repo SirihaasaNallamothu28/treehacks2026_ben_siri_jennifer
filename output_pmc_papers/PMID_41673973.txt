@@ -1,7 +1,0 @@
-PMID: 41673973
-Title: [Comprehensive rehabilitation management of swallowing dysfunction after radiotherapy and chemotherapy for nasopharyngeal carcinoma].
-Journal: Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery
-Authors: Chen, L; Zhao, M W; Hou, J M
-
-Abstract:
-

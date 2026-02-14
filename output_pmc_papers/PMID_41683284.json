@@ -1,0 +1,24 @@
+{
+    "pmid": "41683284",
+    "title": "Varietal Differences in Kidney Beans Modulate Gut Microbiota and Inflammation During High-Fat Diet-Induced Obesity in Male Mice.",
+    "abstract": "<b>Background:</b> Obesity-associated inflammation arises from adipose dysfunction and intestinal disturbances, including altered microbiota and short-chain fatty acid (SCFA) metabolism. Beans (<i>Phaseolus vulgaris</i>) are rich in non-digestible carbohydrates and polyphenols, but whether kidney bean varieties differing in seed coat colour exert distinct effects on inflammation in obesity remains unclear. <b>Objective:</b> To determine whether supplementation of an obesogenic high-fat (HF) diet with white or dark red kidney beans modulates gut microbiota, SCFAs, and intestinal, systemic, and neuroinflammatory outcomes. <b>Methods:</b> Male C57Bl/6N mice (<i>n</i> = 12/group) were fed a basal diet (BD; modified AIN-93G), an HF diet (60% kcal from fat), or an HF diet supplemented with 15% cooked white (HF + WK) or dark red kidney beans (HF + DK) for nine weeks. Outcomes included cecal microbiota composition, predicted KEGG pathways with taxon contributors mapped with BURRITO (a tool for linking predicted microbial functions to contributing taxa), and SCFA-related pathways; cecal and fecal SCFA concentrations; colon histomorphometry and expression of gut barrier junction and inflammatory genes; serum cytokines and adipose hormones; and hippocampal inflammatory and barrier genes. <b>Results:</b> Mice consuming bean-supplemented HF diets had higher microbial diversity, enrichment of SCFA-producing taxa (<i>Prevotella</i>, <i>Lactobacillus</i>, <i>Muribaculaceae</i>), and lower obesity-associated genera versus HF alone (<i>Mucispirillum</i>, <i>rc4-4</i>). Bean diets elevated cecal acetate and butyrate concentrations, which aligned with increases in predicted acetate kinase in both bean groups versus HF and BD, and butyrate kinase in HF + DK versus BD. Bean supplementation attenuated HF-induced reduction of goblet cells and systemic interleukin (IL)-10. The HF + DK group had lower colonic tumour necrosis factor (TNF)-\u03b1 and partially attenuated hippocampal IL-6. SCFAs were inversely associated with systemic and neuroinflammatory markers in HF + DK mice. <b>Conclusions:</b> Kidney bean supplementation mitigated HF diet-induced intestinal, systemic, and neuroinflammatory disturbances in male mice, with microbiota and SCFA modulation. Further, dark red beans exerted stronger anti-inflammatory effects, highlighting the role of seed coat colour in bean-mediated obesity outcomes.",
+    "publication_year": "2026",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18030461",
+    "authors": [
+        "Rodrigue, Alexane F",
+        "Pereira, Bruna B",
+        "Freije, Giorgio",
+        "Sweet, Allison",
+        "Mahmoudian, Laili",
+        "Aly, Mahmoud",
+        "Mahmoodianfard, Salma",
+        "Kishore, Lalit",
+        "Audet, Marie-Claude",
+        "Minicucci, Marcos F",
+        "Pauls, K Peter",
+        "Power, Krista A"
+    ],
+    "num_authors": 12,
+    "citations": 0
+}

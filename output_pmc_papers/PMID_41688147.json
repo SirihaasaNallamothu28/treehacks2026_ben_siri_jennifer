@@ -1,0 +1,16 @@
+{
+    "pmid": "41688147",
+    "title": "Large-scale CRISPR-Cas9 screens to define regulators of immune checkpoints.",
+    "abstract": "Immune checkpoints, which have emerged as potent target for the treatment of a variety of cancers, are central to tumor immunobiology and deciphering their dynamic regulation will continue to enable therapeutic development. CRISPR-Cas9 screening has recently been leveraged as a powerful tool to systematically interrogate regulators of immune checkpoints. Here, we describe a framework for such screens coupled with fluorescence-activated cell sorting (FACS) as a reliable and direct method of isolating and comparing how specific CRISPR perturbations impact the expression and maintenance of immune checkpoints. This approach has provided critical insights into immune checkpoint regulation and interactions in melanoma models and can feasibly be expanded to other systems.",
+    "publication_year": "2026",
+    "journal": "Methods in cell biology",
+    "doi": "10.1016/bs.mcb.2025.10.011",
+    "authors": [
+        "Mu, Michael",
+        "Melms, Johannes C",
+        "Ho, Patricia",
+        "Izar, Benjamin"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

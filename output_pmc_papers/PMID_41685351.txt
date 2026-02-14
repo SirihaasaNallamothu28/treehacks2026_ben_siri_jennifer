@@ -1,7 +1,0 @@
-PMID: 41685351
-Title: <i>DEprot</i>: a comprehensive R-package for the analysis of label-free quantitation mass spectrometry data.
-Journal: NAR genomics and bioinformatics
-Authors: Eickhoff, Nils; Hoekman, Liesbeth; Bleijerveld, Onno; Bergman, Andries M; Zwart, Wilbert; Gregoricchio, Sebastian
-
-Abstract:
-In recent years, studies investigating protein-protein interactions on a proteome-wide scale have increased exponentially. These developments were achieved through implementation of new techniques, as well as improvements in mass spectrometry hardware. However, issues specific to this type of technique, such as distinct imputation of random and not-at-random missing proteins, have not been completely addressed. Here, we present <i>DEprot</i>, an R-package providing a comprehensive toolset for end-to-end analysis and visualization of proteomics data. Moreover, we implemented a serial imputation strategy for handling non-random missing values, particularly suitable for protein enrichment techniques and knockout conditions.

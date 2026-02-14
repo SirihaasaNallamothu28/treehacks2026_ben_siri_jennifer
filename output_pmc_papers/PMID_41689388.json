@@ -1,0 +1,19 @@
+{
+    "pmid": "41689388",
+    "title": "Efficacy of wound protectors in reducing surgical site infections in patients undergoing open colorectal surgery: A systematic review and meta-analysis.",
+    "abstract": "The incidence of surgical site infections (SSIs) has been reported to be significantly higher in colorectal surgeries compared to other surgical procedures. Wound protectors have been developed to help reduce the incidence of SSIs by creating a barrier between the incisional wound and the contaminated surgical field, but their efficacy remains uncertain.\nTo assess whether the use of wound protectors reduces the incidence of SSIs in patients undergoing open colorectal surgery.\nA comprehensive literature review was conducted using PubMed, Embase, Web of Science and Cochrane databases from inception to January 2025.\nRandomised controlled trials (RCTs) assessing the efficacy of wound protectors for reducing the incidence of SSIs in patients undergoing open colorectal surgery.\nThe intervention consisted of wound protectors (e.g., Alexis O-ring wound retractors, plastic ring drape).\nThe main outcome was SSI. We pooled risk ratios (RRs) with a 95% confidence interval (CI) using a random effects model. Statistical analysis was performed using R software (version 4.4.2).\nWe included 6 RCTs comprising 666 patients, of whom 327 (49 %) were randomised to the wound protectors' group. The mean follow-up duration was 30\u2009days post-operatively. The incidence of SSIs was significantly lower in the intervention group (RR 0.44; 95% CI 0.22-0.88; p\u2009=\u20090.021). Subgroup analysis of four RCTs evaluating Alexis-O ring wound retractors showed a significantly lower incidence of SSIs in the experimental group (RR 0.21; 95% CI 0.09-0.48; p\u2009<\u20090.001).\nWound protectors were associated with a significantly lower incidence of SSIs in patients undergoing open colorectal surgery.",
+    "publication_year": "2026",
+    "journal": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland",
+    "doi": "10.1111/codi.70401",
+    "authors": [
+        "Desai, Arusha",
+        "Bisht, Rahul",
+        "Misra, Sidharth",
+        "Kritya, Mangesh",
+        "Bhardwaj, Anjali",
+        "Chakraborty, Soubhik",
+        "Pisipati, Tejaswini"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

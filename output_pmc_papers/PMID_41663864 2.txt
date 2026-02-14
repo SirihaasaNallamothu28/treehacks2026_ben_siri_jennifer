@@ -1,5 +1,0 @@
-PMID: 41663864
-Title: Gamma knife radiosurgery vs fractionated radiotherapy : gender difference in efficacy and toxicity.
-
-Abstract:
-Although radiation therapy is used less frequently in the treatment of functioning and nonfunctioning pituitary adenomas, it still plays a role to control volume and secretion. Radiation therapy remains to be considered in the therapeutic algorithm for these diseases, as mentioned in all recent national and international guidelines. Recent studies have focused on the use of stereotactic approaches, either given as a single dose or as a fractionated one. However, some patients may still benefit from conformal fractionated radiotherapy. The choice among these procedures is currently based mainly on adenoma's profile in terms of size, quality of the radiological definition, invasiveness, and aggressiveness, as well as local availability. Endocrine efficacy in functioning pituitary adenomas and tumor control in nonfunctioning pituitary adenomas seem equivalent regardless of the technique. This review will try to determine whether gender should also be considered as a predictive factor of efficacy and toxicity.

@@ -1,8 +1,0 @@
-PMID: 41668453
-Title: Hives in autonomic disorders: a cutaneous marker of a distinct symptom phenotype.
-
-Abstract:
-Postural Orthostatic Tachycardia Syndrome (POTS) and Neurally-Mediated Hypotension (NMH) are heterogeneous syndromes characterized by dysautonomia and multisystem symptoms. Mast cell activation, often manifesting as hives, has been proposed as a contributing mechanism, but its prevalence and clinical relevance in POTS and NMH are poorly defined.
-Patients from the Johns Hopkins POTS Clinic completed surveys assessing hives frequency and symptom burden using the Malmö POTS, the Composite Autonomic Symptom Score (COMPASS)-31, and a pain questionnaire. Associations between hives and clinical features were evaluated among patients with confirmed POTS, NMH, or clinically diagnosed orthostatic intolerance.
-Among 188 respondents, 80 (42.6%) reported hives sometimes and 33 (17.6%) reported hives often or always. Increasing hives frequency was associated with higher Malmö POTS scores and greater autonomic symptom burden across multiple COMPASS-31 subdomains, including gastrointestinal, bladder, and vasomotor symptoms (all <i>p</i> < 0.05). Hives was also associated with pain (OR 3.47, 95% CI 1.54-7.77, <i>p</i> = 0.002) and tingling (OR 5.73, CI 2.15-15.26, <i>p</i> < 0.001), but not orthostatic symptoms. These associations persisted after multivariable adjustment.
-Hives are common in orthostatic intolerance syndromes and are associated with increased symptom burden. Future studies are needed to clarify the role of mast cell activation and evaluate mast cell-targeted therapies.

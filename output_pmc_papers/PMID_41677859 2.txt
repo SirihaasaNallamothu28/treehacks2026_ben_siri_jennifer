@@ -1,8 +1,0 @@
-PMID: 41677859
-Title: Rituximab for severe immune checkpoint inhibitor-related adverse events: a multicenter case series.
-
-Abstract:
-Immune checkpoint inhibitors (ICIs) can induce severe immune-related adverse events (irAEs) that are life-threatening and may be refractory to standard immunosuppressive therapy. Rituximab has emerged as a potential treatment option, but evidence is limited.
-We conducted a retrospective multicenter study including patients who received rituximab for severe ICI-related irAEs between 2018 and 2023. Clinical characteristics, type and severity of irAEs, previous immunosuppressive regimens, outcomes after rituximab, and oncologic status were collected. Overall survival was estimated from rituximab initiation.
-Eighteen patients were identified (median age 66 years, 55% male). irAEs were mainly neurological syndromes (n = 7), myositis and myocarditis (n = 6), and interstitial lung disease (n = 3). All events were grade 3-4 according to common terminology criteria for adverse events v5.0 and refractory to corticosteroids, often combined with additional immunosuppressants. Rituximab was administered as second- or third-line therapy. Clinical improvement was observed in 83% of patients, including complete resolution in 39%. After a median follow-up from rituximab initiation of 9.7 months (interquartile range [IQR] 5.1-23.9), seven patients (39%) died, but due to irAE only for three patients (17%).
-Rituximab appears to be an effective therapeutic option for selected severe ICI-related irAEs, particularly when conventional immunosuppressive regimens fail. These real-world data highlight the potential role of B-cell-targeted therapy in the management of complex irAEs and support further evaluation in prospective studies.

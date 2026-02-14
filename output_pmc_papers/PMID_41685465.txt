@@ -1,7 +1,0 @@
-PMID: 41685465
-Title: From Silos to Synergy in Preventive Care: The Personalized Assessment Tool (PAT) as a Bridge for Standardized, Shareable Prevention Data.
-Journal: Studies in health technology and informatics
-Authors: Zavar, Abbas; Farzanegan, Roya
-
-Abstract:
-Canada's health system focuses mainly on acute care, leaving primary care without a standardized, self-administered intake for capturing prevention-related risks like background, lifestyle factors, environmental exposures and social determinants of health. The Personalized Assessment Tool (PAT) project aims to create a standardized intake that collects patient-generated risk information and reuses it across different healthcare settings. PAT Phase 1 examined 43,011 records and narrowed them down through screenings to identify 31 appropriate self-administered instruments across 15 health-related domains for universal intake and targeted follow-up. A dual-index framework evaluated the readiness and suitability of these tools, leading to three outcomes: some instruments were ready for immediate use, others needed to be adapted, and a few required Canadian validation before implementation. By establishing standardized processes for risk assessment, PAT aligns with Canada Health Infoway's vision and operationalizes the FHLIP 2026 theme, promoting personalized prevention in primary care.

@@ -1,9 +1,0 @@
-PMID: 41671019
-Title: The Value of Rhythm Control in Atrial Functional Mitral Regurgitation Among Patients With Preserved Left Ventricular Ejection Fraction.
-
-Abstract:
-To assess the incidence, severity, and predictors of functional atrial mitral regurgitation (FAMR) and its impact on outcomes in patients with heart failure with preserved ejection fraction (HFpEF) depending on the presence of atrial fibrillation (AF).
-Data from 218 patients with HFpEF and FAMR hospitalized between 2020 and 2023 were analyzed retrospectively. The median follow-up period was 589 days.
-rehospitalization for heart failure (HF), cardiovascular death (CVD), and the composite endpoint (CE).
-Moderate FAMR was detected in 53.3% of patients with AF, and severe FAMR in 15.3%, which was significantly higher than the incidence in patients with sinus rhythm (SR) (24.5% and 8.0%, respectively, p&lt;0.001). In the subgroup with AF, severe FAMR was associated with a 4.1-fold increased risk of rehospitalization for HF (95% confidence interval (CI): 1.7-10.2, p=0.002) and a 2.6-fold increased risk of CE (95% CI: 1.4-4.9, p=0.002). In patients with SR, no statistically significant association between FAMR and clinical outcomes was found.
-FAMR in AF is an independent predictor of poor prognosis in patients with HFpEF. This highlights the importance of rhythm control as a pathogenetic strategy for this patient category.

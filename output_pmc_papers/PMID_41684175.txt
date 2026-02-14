@@ -1,7 +1,0 @@
-PMID: 41684175
-Title: Optimized enzymatic cell lysis protocols for single-cell genomic analysis.
-Journal: Cellular and molecular biology (Noisy-le-Grand, France)
-Authors: Raad, Houssam; Bou Saab, Hamid; Al Saabi, Ahmad; Ayoub, Hassan; Mouawia, Hussein
-
-Abstract:
-Optimizing cell lysis is essential for reliable single-cell genomic analysis. This study sought to refine enzymatic lysis conditions to minimize incubation time while maintaining DNA integrity. Microdissected human leukocytes were digested with proteinase K under various incubation durations (2-16 h) and temperatures (37-60 °C), and genomic DNA recovery was assessed through Y-chromosome-specific PCR amplification. Shorter incubation periods combined with elevated temperatures, particularly at 60 °C, achieved amplification efficiencies comparable to or greater than those obtained with the conventional overnight digestion at 37 °C. Statistical analysis revealed no significant differences between the optimized and standard conditions. These results indicate that enzymatic lysis duration can be substantially reduced without compromising DNA yield or quality. The proposed approach enables same-day genomic preamplification and enhances the throughput of single-cell workflows, offering practical advantages for clinical diagnostics and forensic genetics.

@@ -1,5 +1,0 @@
-PMID: 41685496
-Title: Empowering Alzheimer's and Related Dementia Prevention Through Primary Care Using Responsible AI: A Pilot Walk-in Memory Sync Booth.
-
-Abstract:
-Alzheimer's disease and related dementias (ADRD) remain underdiagnosed early due to reliance on costly, invasive, and time-intensive assessments, prompting development of the Memory Sync Booth, an AI-assisted walk-in screening tool for older adults. The booth delivers accessible, automated, and secure tablet-based evaluations which include orientation, attention, naming, picture description, voice analysis, and clock drawing, then processed using NLP, speech recognition, and computer vision for consistent scoring. Grounded in Responsible AI and Digital Health Innovation, it enables equitable deployment across senior community spaces and long-term care settings, with optional direct result-sharing to family doctors and automated alerts for cognitive decline. Tested with 20 volunteers aged 60+, the pilot demonstrated feasibility and potential for earlier MCI detection, reduced clinical wait times, and more proactive dementia management.

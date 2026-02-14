@@ -1,0 +1,20 @@
+{
+    "pmid": "41682506",
+    "title": "Trends in Vibrational Spectroscopy: NIRS and Raman Techniques for Health and Food Safety Control.",
+    "abstract": "There is an increasing need to establish reliable safety controls in the food industry and to protect public health. Consequently, there are numerous efforts to develop sensitive, robust, and selective analytical strategies. As regulatory requirements for food and the concentration for target biomarkers in clinical analysis evolve, the food and health sectors are showing a growing interest in developing non-destructive, rapid, on-site, and environmentally safe methodologies. One alternative that meets the conditions is non-destructive spectroscopic sensors, such as those based on vibrational spectroscopy (Raman, surface-enhanced Raman-SERS, mid- and near-infrared spectroscopy, and hyperspectral imaging built on those techniques). The use of vibrational spectroscopy in food safety and health applications is expanding rapidly, moving beyond the laboratory bench to include on-the-go and in-line deployment. The dominant trends include the following: (1) the miniaturisation and portability of instruments; (2) surface-enhanced Raman spectroscopy (SERS) and nanostructured substrates for the detection of trace contaminants; (3) hyperspectral imaging (HSI) and deep learning for the spatial screening of quality and contamination; (4) the stronger integration of chemometrics and machine learning for robust classification and quantification; (5) growing attention to calibration transfer, validation, and regulatory readiness. These advances will bring together a variety of tools to create a real-time decision-making system that will address the issue in question. This article review aims to highlight the trends in vibrational spectroscopy tools for health and food safety control, with a particular focus on handheld and miniaturised instruments.",
+    "publication_year": "2026",
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26030989",
+    "authors": [
+        "Melendreras, Candela",
+        "Montero, Jes\u00fas",
+        "Costa-Fern\u00e1ndez, Jos\u00e9 M",
+        "Soldado, Ana",
+        "Ferrero, Francisco",
+        "Linera, Francisco Fern\u00e1ndez",
+        "Valledor, Marta",
+        "Campo, Juan Carlos"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

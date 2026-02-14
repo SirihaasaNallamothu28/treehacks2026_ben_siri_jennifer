@@ -1,7 +1,0 @@
-PMID: 41685600
-Title: Liquid biopsy in malignant primary bone tumors: Clinical applications of circulating tumor DNA and circulating tumor cells for diagnosis, prognosis and treatment monitoring (Review).
-Journal: Oncology reports
-Authors: Tian, Bin; Chen, Xuesong; Zheng, Jiang; Kang, Xin
-
-Abstract:
-Liquid biopsy, which involves the detection of circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs), is revolutionizing the management of osteosarcoma, Ewing sarcoma and chondrosarcoma by enabling noninvasive diagnosis, risk stratification and real‑time treatment monitoring. ctDNA analysis allows for the sensitive detection of tumor‑specific alterations, whereas CTCs provide insights into metastatic potential. Baseline ctDNA burden independently predicts poor survival, while dynamic ctDNA kinetics and CTC counts guide neoadjuvant response assessment and postoperative minimal residual disease surveillance. Notably, the integration of liquid biopsy into adaptive clinical pathways can refine precision oncology for these rare, lethal bone malignancies.

@@ -1,7 +1,0 @@
-PMID: 41677660
-Title: Epithelial Dynamics of Cystogenesis in Genetic Models of Autosomal Dominant Polycystic Kidney Disease.
-Journal: Cells
-Authors: Sun, Mengyan; Wu, Zhaohui; Hu, Mingqiang; Luo, Wei; Chen, Xiaole; Ma, Ming
-
-Abstract:
-Autosomal dominant polycystic kidney disease (ADPKD), caused by mutations in <i>PKD1</i> or <i>PKD2</i>, is characterized by progressive and exponential enlargement of renal and hepatic cysts. However, the epithelial dynamics that generate this growth pattern remain incompletely understood. Using <i>Brainbow/Confetti</i> multicolor clonal lineage tracing in developmental and adult-onset ADPKD mouse models, we show that polycystin-deficient epithelial cells initiate clonal expansion at early stages of tubule dilation and continue to expand throughout cyst progression. Concurrently, cyst-lining cells undergo a progressive transition from columnar to flattened morphology, which amplifies luminal enlargement independent of cell number. Integrating these measures, we developed a mathematical model demonstrating that the combination of this clonal expansion and epithelial cell shape remodeling is sufficient to produce the exponential growth trajectory observed in ADPKD. Together, these findings define the core epithelial mechanisms that drive cyst initiation and expansion, and may provide a mathematical framework for the emergent exponential growth of cysts.

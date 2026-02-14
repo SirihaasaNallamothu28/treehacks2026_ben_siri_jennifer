@@ -1,0 +1,18 @@
+{
+    "pmid": "41683520",
+    "title": "Bacterial Cyclodipeptides Inhibit Invasiveness and Metastasis Progression in the Triple-Negative Breast Cancer MDA-MB-231 Mouse Model.",
+    "abstract": "Triple-negative breast cancer (TNBC) is a highly aggressive subtype linked to a high rate of metastasis and low survival rates worldwide. Bacterial cyclodipeptides (CDPs) demonstrate anticancer properties by targeting multiple signaling pathways. The impact of CDPs on TNBC metastasis was evaluated both in vitro and in advanced-stage tumors in immunosuppressed female mice. CDPs significantly decreased the migratory and invasive capabilities of the MDA-MB-231 cell line, outperforming methotrexate (MTX). This effect was associated with the inhibition of Akt/mTOR/S6K phosphorylation, as well as Gab1, Vimentin, and FOXO1. Mice bearing MDA-MB-231 xenografts treated with CDPs alone or in combination with MTX showed near-complete suppression of primary tumors and metastatic sites in organs; notably, the combined treatment displayed a synergistic effect. Consequently, key proteins involved in tumor progression and metastasis, including p-Akt, p-Gab1, and FOXO1, were markedly inhibited in tumors from CDP-treated mice. Additionally, genes related to EMT, invasiveness, and immune modulation-including PTEN, SNAIL, CXCL1, BRCA1, GADD45A, and PD-L1-were dysregulated in the livers of TNBC-bearing mice; however, CDP treatment restored their expression more effectively than MTX. These findings suggest that the anti-metastatic effects of CDPs in the TNBC xenograft model involve modulation of the Akt/mTOR/S6K pathway, EMT, invasiveness, and immune modulation, highlighting their potential for further preclinical development.",
+    "publication_year": "2026",
+    "journal": "Molecules (Basel, Switzerland)",
+    "doi": "10.3390/molecules31030543",
+    "authors": [
+        "Dur\u00e1n-Maldonado, Mayra Xochitl",
+        "Hern\u00e1ndez-Ramos, Ximena",
+        "Campos-Morales, Marlene Estefania",
+        "Mart\u00ednez-Alcantar, Lorena",
+        "Hern\u00e1ndez-Padilla, Laura",
+        "Campos-Garc\u00eda, Jes\u00fas"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

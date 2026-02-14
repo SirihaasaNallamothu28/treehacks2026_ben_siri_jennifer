@@ -1,0 +1,16 @@
+{
+    "pmid": "41689141",
+    "title": "Mitochondrial DNA: a molecular switch driving sterile neuroinflammation.",
+    "abstract": "Mitochondrial DNA (mtDNA) plays a pivotal role in the regulation of neuroinflammation, acting as a potent trigger of innate immune responses when released into the cytoplasm or extracellular space. mtDNA is structurally similar to bacterial DNA, containing unmethylated CpG motifs that are readily recognized by immune sensors. Under conditions of cellular stress, injury, or mitochondrial dysfunction, mtDNA can escape into the cytoplasm, where it activates the cGAS (cyclic GMP-AMP synthase)-STING (stimulator of interferon genes) signaling pathway, or it can be detected extracellularly by Toll-like receptors on immune cells. These signaling events lead to the production of pro-inflammatory cytokines and type I interferons, amplifying neuroinflammatory responses. In the central nervous system, this process contributes to the pathogenesis of various neurodegenerative and inflammatory conditions, such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), etc.. The dual role of mtDNA as both a damage-associated molecular pattern and a signaling molecule underscores its importance as a therapeutic target for modulating neuroinflammation and protecting against progressive neuronal damage. In this review, we will discuss the implications of mtDNA-mediated neuroinflammation in neurodegenerative diseases, including AD, PD, and HD, highlighting its potential as a diagnostic biomarker and therapeutic target.",
+    "publication_year": "2026",
+    "journal": "Translational neurodegeneration",
+    "doi": "10.1186/s40035-026-00540-w",
+    "authors": [
+        "Jauhari, Abhishek",
+        "Singh, Tanisha",
+        "Carlisle, Diane L",
+        "Friedlander, Robert M"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

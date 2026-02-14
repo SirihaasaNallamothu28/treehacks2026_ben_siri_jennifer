@@ -1,8 +1,0 @@
-PMID: 41670105
-Title: T-cell exhaustion and antibody response in SARS-CoV-2 vaccine recipients.
-
-Abstract:
-To evaluate the percentage variations of the total lymphocyte population, T cells (TC), and their subpopulations; to characterize the cellular exhaustion profiles in CD4+ and CD8+ T cells; and to quantify anti-spike IgG antibody levels in individuals who received different vaccination schedules.
-We isolated PBMCs (peripheral blood mononuclear cells) from 45 vaccinated and 15 unvaccinated participants to measure TC percentages and MFI (mean fluorescence intensity) by flow cytometry. Additionally, we obtained serum from 42 vaccinated participants, 9 unvaccinated participants, and 20 pre-pandemic controls to measure the concentration of specific IgG antibodies against the SARS-CoV-2 spike protein, respectively.
-Vaccination with 3P+1M+1P induced a lower %CD3+ than 3P+1M; a lower %CD8+ than 3P and 3P+1M, but a higher %CD4+ than 3P+1M. All groups, whether vaccinated or not, presented a negative correlation in which a higher %CD8+ corresponded to a lower %CD4+. Cellular exhaustion in CD4+PD1+ of the 3P+1M group was higher than in all CD8+PD1+ of all vaccination platforms including the unvaccinated, except for 3P and the vaccinated or unvaccinated platforms in CD4+PD1+. No significant differences were found in IgG (anti-spike) production across vaccination platforms.
-Homologous or heterologous vaccination platforms from three doses onwards do not modify IgG (anti-spike) antibody production; however, they improve CD8+ T cell values, which constitute the most important subpopulation for the antiviral response against SARS-CoV-2.

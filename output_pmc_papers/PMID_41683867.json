@@ -1,0 +1,18 @@
+{
+    "pmid": "41683867",
+    "title": "Quantitative Measurement of Hexoses by Betaine Aldehyde Derivatisation.",
+    "abstract": "Hexoses, particularly glucose, are one of the most essential molecules for sustaining life; therefore, reliable methods for their analysis are very important. In our study, we present a qualitative and quantitative approach for analysing hexoses using MALDI IMS (Matrix-Assisted Laser Desorption/Ionization Mass Spectrometry Imaging) with betaine aldehyde derivatisation and a CHCA (\u03b1-Cyano-4-hydroxycinnamic acid) matrix in positive ionisation mode. In this study, we demonstrated betaine aldehyde derivatisation of glucose from dried droplets and explored the analysis of hexoses in brain and liver tissue slices. We assessed whether our method could distinguish between mannose, galactose, glucose, and fructose and optimised the preparation of a biomimetic calibration curve using stable-isotope labelled glucose for hexose analysis. For this purpose, we investigated the number of betaine aldehyde layers required to obtain a proper calibration curve; examined whether changes in the spray nozzle position during CHCA matrix deposition could facilitate analysis and investigated how storage conditions influenced the calibration curve analysis. Finally, we optimised the technique for liver and brain analysis and assessed variations in hexose levels between brain, liver, kidney, and spinal cord tissues from control and morphine-addicted animals. We hope that our biomimetic approach to creating the calibration curve will be helpful for quantitative analysis and aid in developing various quantitative methods for assessing endogenous substances.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031446",
+    "authors": [
+        "Kret-Bu\u0142at, Paulina",
+        "Mielczarek, Przemys\u0142aw",
+        "Link-Lenczowski, Pawe\u0142",
+        "Grasso, Giuseppe",
+        "Suder, Piotr",
+        "Bodzon-Kulakowska, Anna"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

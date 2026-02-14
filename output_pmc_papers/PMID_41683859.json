@@ -1,0 +1,29 @@
+{
+    "pmid": "41683859",
+    "title": "Human Fecal Transplantation Modifies the Gut Microbiota but Not Metabolites in Colon Cancer Patient-Derived Xenografts.",
+    "abstract": "Gut microbiota influences colorectal cancer (CRC) development, tumor progression, and response to therapy. Fecal microbiota transplantation (FMT) has been proposed as a strategy to restore microbial balance and modulate treatment outcomes. We evaluated the effects of human fecal transplantation on gut microbiota composition, metabolites, tumor growth, and the efficacy of folinic acid, fluorouracil and oxaliplatin (FOLFOX) chemotherapy in four CRC patient-derived xenograft (CRC PDX) models in NSG mice. Gut microbiota was profiled by 16S rRNA sequencing; short-chain fatty acids (SCFAs) and amino acids (AAs) were analyzed by mass spectrometry. Prolonged FMT significantly altered gut microbiota structure, increasing \u03b1-diversity and modifying \u03b2-diversity, and induced distinct changes in bacterial genera. FMT alone did not affect tumor growth. FOLFOX inhibited tumor progression in all CRC PDXs, with FMT enhancing therapeutic efficacy in two models. Despite substantial microbiota shifts, FMT exerted minimal or no effect on fecal SCFAs and AAs. FMT induced robust microbiota remodeling but did not modify selected stool metabolites or intrinsic tumor growth. However, FMT enhanced FOLFOX responsiveness in selected CRC PDXs, supporting a microbiota-mediated modulation of chemotherapy outcomes.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031438",
+    "authors": [
+        "Unrug-Bielawska, Katarzyna",
+        "Sandowska-Markiewicz, Zuzanna",
+        "Kaniuga, Ewelina",
+        "Cybulska-Lubak, Magdalena",
+        "Borowa-Chmielak, Monika",
+        "Czarnowski, Pawe\u0142",
+        "Pi\u0105tkowska, Magdalena",
+        "Ba\u0142abas, Aneta",
+        "Goryca, Krzysztof",
+        "Zeber-Lubecka, Natalia",
+        "Kulecka, Maria",
+        "D\u0105browska, Michalina",
+        "Surynt, Piotr",
+        "Statkiewicz, Ma\u0142gorzata",
+        "Rumie\u0144czyk, Izabela",
+        "Mikula, Micha\u0142",
+        "Ostrowski, Jerzy"
+    ],
+    "num_authors": 17,
+    "citations": 0
+}

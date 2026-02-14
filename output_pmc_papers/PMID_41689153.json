@@ -1,0 +1,18 @@
+{
+    "pmid": "41689153",
+    "title": "SATB1 Exhibits a Protective Role in HAmylin-Oligomer-Induced Neuronal Damage and Cognition Decline.",
+    "abstract": "Amylin is a hormone secreted by pancreatic \u03b2 cells, and oligomerized human amylin (hAmylin) has shown neurotoxicity in mice. However, the effect of hAmylin oligomers on cognitive ability and the underlying mechanisms remains unexplored.\nIn this study, hAmylin oligomers were bilaterally injected into the hippocampus of mice.\nInspiringly, hAmylin-mice displayed obvious cognition decline and neuronal damages in the hippocampal dentate gyrus (DG) area. Thus, hippocampal tissues were collected for mRNA-seq analysis, which identified the upregulation of transcription factor SATB Homeobox\u00a01 (SATB1) in the hippocampus of hAmylin mice. Using behavioral experiments and histopathological analyses, the promoting effect of SATB1 knockdown on cognition decline and neuronal damage in hAmylin mice was determined. In\u00a0vitro, SATB1 expression was reduced in primary hippocampus neurons after hAmylin oligomer incubation. SATB1 overexpression inhibited hAmylin-induced mitochondrial dysfunction and neuronal apoptotic deaths, while SATB1 knockdown exhibited opposite effects. SATB1 transcriptionally activated AKT serine/threonine kinase 3 (AKT3) by binding to its promoter region, and AKT3 accounted for SATB1-mediated protection against hAmylin-induced mitochondrial dysfunction and neuronal injury.\nIn summary, this study highlights the novel role of SATB1 in hAmylin oligomer-induced neuronal damage and cognition decline via AKT3.",
+    "publication_year": "2026",
+    "journal": "CNS neuroscience & therapeutics",
+    "doi": "10.1002/cns.70781",
+    "authors": [
+        "Xing, Yuan",
+        "Zhang, Wei",
+        "Yang, Zuxiao",
+        "Qin, Xia",
+        "Zhou, Ting",
+        "Zhang, Nan"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

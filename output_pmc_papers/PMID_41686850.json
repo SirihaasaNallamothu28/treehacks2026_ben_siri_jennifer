@@ -1,0 +1,18 @@
+{
+    "pmid": "41686850",
+    "title": "Precision screening identifies mitoxantrone as a multitarget inhibitor in ageing-associated cancers with extensive computational validation and doxorubicin comparison.",
+    "abstract": "Ageing-associated cancers are characterised by the dual hallmarks of persistent DNA damage and the ability of tumour cells to escape senescence checkpoints, which drive genomic instability and uncontrolled proliferation. In this study, we identified crucial proteins with PDB IDs-2YEX (Chk1 kinase), 4HG7 (MDM2 E3 ubiquitin ligase), 4JSX (mTOR kinase domain), and 5DS3 (PARP-1 DNA repair enzyme)-involved in ageing-related cancers and performed docking studies with Extra Precision (XP) followed by MM-GBSA-based pose processing against the FDA-approved DrugBank library (LigPrep: 10907 compounds). The extensive docking computations identified many good candidates; however, Mitoxantrone emerges as the topmost candidate with docking scores of -6.23 to -16.044 Kcal/mol and MM-GBSA score of -49.19 to -85.14 Kcal/mol, which currently is being used to treat advanced prostate cancer and acute nonlymphocytic leukaemia (ANLL) and would be easier to repurpose to other ageing-related cancers. Mitoxantrone also emerges as a better candidate compared to the control drug Doxorubicin. Further, the complex of all 4 proteins with Mitoxantrone was taken for interaction fingerprints and found that the most interacting residues with counts were 6GLY, 6VAL, 5GLU, 5LEU, 4ALA, 3ASP, and 3TYR, among others. The pharmacokinetics and Density Functional Theory computations further support Mitoxantrone as a potential candidate. We also performed a 5-nanoseconds (ns) WaterMap for hydration site identification and the role of water in stabilisation of the complex, followed by a 100 ns MD Simulation that resulted in stable deviation and fluctuations mostly under <2\u00c5 and a web of simulation interactions making the complex stable. Furthermore, the same trajectories were used for the Binding Free and Total Complex Energies computations, revealing that the complexes were stable. All the studies, from protein energies to docking to simulation and binding free energy, supported the stable complexes; however, experimental studies are necessary before their use.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0341446",
+    "authors": [
+        "Al-Qahtani, Mohammed H",
+        "Assidi, Mourad",
+        "Buhmeida, Abdelbaset",
+        "Almuhammadi, Asma",
+        "Pushparaj, Peter Natesan",
+        "Alganmi, Nofe Ateq"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

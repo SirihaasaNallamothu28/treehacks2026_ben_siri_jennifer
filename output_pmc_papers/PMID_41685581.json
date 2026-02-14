@@ -1,0 +1,24 @@
+{
+    "pmid": "41685581",
+    "title": "Chorus line in oral squamous cell carcinoma: How stromal and immune players orchestrate tumor progression (Review).",
+    "abstract": "The tumor microenvironment (TME) in oral squamous cell carcinoma (OSCC) represents a dynamic and heterogeneous ecosystem in which non-immune stromal cells play important roles in tumor progression, invasion and therapeutic resistance. Among these, cancer-associated fibroblasts (CAFs), derived mainly from normal oral fibroblasts under the influence of tumor-derived cytokines such as transforming growth factor \u03b2 (TGF-\u03b2), angiopoietin-like 3 and platelet-derived growth factor-BB, are the most abundant. CAFs exhibit a myofibroblastic phenotype characterized by \u03b1-smooth muscle actin, fibroblast activation protein and integrin \u03b16 expression and their presence correlates with aggressive tumor behavior and poor prognosis. Functionally, CAFs contribute to the 'reverse Warburg effect', remodeling of the extracellular matrix via matrix metalloproteinases and lysyl oxidase, promotion of angiogenesis and immunosuppression through cytokines such as TGF-\u03b2, interleukin (IL) 6 and IL-10. Programmed death-ligand 1 (PD-L1), a key immune checkpoint molecule, suppresses T-cell activation by binding programmed death-1 (PD-1) on lymphocytes while also exerting intrinsic oncogenic functions, including enhancement of epithelial-mesenchymal transition, proliferation and resistance to radiotherapy and chemotherapy. PD-L1-enriched extracellular vesicles released by CAFs and tumor cells further propagate immune evasion and metastasis. Although PD-1/PD-L1 blockade with pembrolizumab or nivolumab has improved outcomes in advanced OSCC, variability in PD-L1 expression and intratumoral heterogeneity challenge predictive accuracy. The present review integrated stromal and immune perspectives, emphasizing the dual oncogenic and immunomodulatory roles of CAFs and PD-L1 in shaping the OSCC TME and identifying future therapeutic opportunities targeting both compartments.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular medicine",
+    "doi": "10.3892/ijmm.2026.5761",
+    "authors": [
+        "Cascardi, Eliano",
+        "Della Mura, Mario",
+        "Sgarro, Nicoletta",
+        "Minei, Silvia",
+        "Cazzato, Gerardo",
+        "Maiorano, Eugenio",
+        "Lo Muzio, Lorenzo",
+        "Bizzoca, Maria Eleonora",
+        "Vieira E Silva, F\u00e1bio Fran\u00e7a",
+        "Lo Muzio, Eleonora",
+        "Dioguardi, Mario",
+        "Ballini, Andrea"
+    ],
+    "num_authors": 12,
+    "citations": 0
+}

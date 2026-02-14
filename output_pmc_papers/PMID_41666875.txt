@@ -1,5 +1,0 @@
-PMID: 41666875
-Title: Ubiquitin control of cytosolic DNA sets immune responses to DNA damage.
-
-Abstract:
-In this issue of Cancer Cell, Li et al. uncover a novel SPOP-USP7-TREX1 axis that controls cytosolic DNA clearance after DNA damage, thereby gating tumor-cell-intrinsic cyclic GMP-AMP synthase (cGAS)-STING activation and response to radioimmunotherapy. Compellingly, targeting USP7 and TREX1 might sharpen patient selection and combination strategies.

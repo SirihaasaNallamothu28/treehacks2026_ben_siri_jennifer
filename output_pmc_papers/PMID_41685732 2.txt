@@ -1,5 +1,0 @@
-PMID: 41685732
-Title: Robotic-assisted versus conventional total knee arthroplasty for treating osteoarthritis.
-
-Abstract:
-This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of robotic-assisted versus conventional total knee arthroplasty for the treatment of osteoarthritis.

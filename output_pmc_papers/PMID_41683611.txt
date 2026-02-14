@@ -1,7 +1,0 @@
-PMID: 41683611
-Title: Special Issue "Molecular Progression in Genome-Related Diseases".
-Journal: International journal of molecular sciences
-Authors: Saccone, Salvatore; Calì, Francesco
-
-Abstract:
-The landscape of molecular research into genome-related diseases has evolved rapidly in recent years, driven by advances in next-generation sequencing (NGS), multi-omics integration, and computational approaches [...].

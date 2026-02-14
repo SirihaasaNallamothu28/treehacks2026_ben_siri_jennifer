@@ -1,0 +1,23 @@
+{
+    "pmid": "41683984",
+    "title": "Combined Approach of Chromatographic Fractionation and Raman Spectroscopy for Metabolite Profiling of <i>Enterobacter</i> spp. Supernatant.",
+    "abstract": "The secretome of ESKAPE pathogens contains numerous bioactive molecules that play a key role in pathogenesis and the formation of an immunosuppressive microenvironment. However, analyzing this complex chemical composition presents significant methodological challenges. In this study, we propose a combined approach integrating chromatographic fractionation of cell-free supernatants with Raman spectroscopy to deconstruct the secretome of the clinically relevant Gram-negative pathogen-<i>Enterobacter</i> spp. Chromatographic separation of the <i>Enterobacter</i> spp. supernatant into seven fractions reduced spectral congestion and enabled identification of fraction 3 as having a unique metabolite profile, enriched in peptides (including tryptophan- and tyrosine-containing structures), nucleic acids, polysaccharides, and putative glutathione-like compounds. Notably, fraction 3 lacked markers of phenylalanine and sterol-like lipids, highlighting its distinct composition. Compared to conventional mass spectrometry and nuclear magnetic resonance, our hybrid strategy offers minimal sample preparation, preserves sample integrity for repeated analysis, avoids ionization bias, and is fully compatible with aqueous biological matrices-critical advantages for profiling labile or low-abundance metabolites in native secretomes. These findings demonstrate that the combination of preparative chromatography and Raman spectroscopy effectively resolves complex bacterial secretomes and identifies fractions potentially carrying key virulence or signaling functions.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031564",
+    "authors": [
+        "Denisova, Elizaveta",
+        "Avdyusheva, Anastasia",
+        "Vasilieva, Vera",
+        "Tyshchuk, Elizaveta",
+        "Grebenkina, Polina",
+        "Korenevsky, Andrey",
+        "Chelibanov, Ivan",
+        "Chelibanov, Vladimir",
+        "Totolian, Areg",
+        "Kraeva, Lyudmila",
+        "Sokolov, Dmitry"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

@@ -1,0 +1,17 @@
+{
+    "pmid": "41689318",
+    "title": "Expression of the Necroptosis-Related Gene MLKL Correlated with Small Cell Lung Cancer Prognosis and the Immune Checkpoint.",
+    "abstract": "To identify biomarkers capable of specifically diagnosing small cell lung cancer (SCLC).\nA descriptive study. Place and Duration of the Study: The Eighth Medical Centre of Chinese PLA General Hospital, Beijing, China, from January 2024 to December 2024.\nThis study included 196 lung cancer (LC) patients (70 with lung adenocarcinoma [LUAD], 56 with lung squamous cell carcinoma [LUSC], and 70 with SCLC), along with 33 patients with inflammatory pseudotumours, who served as healthy controls (HCs). Tissue samples from the included subjects underwent qRT-PCR and immunohistochemistry. Diagnostic performance was assessed using receiver operating characteristic (ROC) curves, while the Kaplan-Meier analysis was used to generate overall survival (OS) curves.\nMixed Lineage Kinase Domain-Like Protein (MLKL) and Receptor-Interacting Protein Kinase 1 (RIPK1) genes exhibited significantly lower expression in SCLC cases compared to both the LUAD and LUSC groups. ROC curve analysis revealed that MLKL, but not RIPK1, effectively distinguished SCLC from both LUAD and LUSC. Furthermore, SCLC patients with high MLKL expression had a poorer prognosis, whereas no significant correlation between MLKL levels and prognosis was observed in the LUAD or LUSC groups. Additionally, MLKL expression showed specific correlations with SCLC-Y subtypes.\nMLKL, associated with necroptosis, plays a crucial role in SCLC progression and may serve as a potential prognostic biomarker.\nNecroptosis, SCLC, Prognosis, Immune checkpoint.",
+    "publication_year": "2026",
+    "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+    "doi": "10.29271/jcpsp.2026.02.186",
+    "authors": [
+        "Hao, Yujia",
+        "Si, Guangqian",
+        "Guo, Ying",
+        "Lu, Ruichun",
+        "Bao, Pengtao"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

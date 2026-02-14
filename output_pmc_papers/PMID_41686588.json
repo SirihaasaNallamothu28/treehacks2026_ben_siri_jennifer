@@ -1,0 +1,18 @@
+{
+    "pmid": "41686588",
+    "title": "Development and validation of a nomogram for predicting the risk of preoperative deep vein thrombosis in patients with Pilon fractures: A retrospective cohort study.",
+    "abstract": "This study aimed to identify risk factors for preoperative deep vein thrombosis (DVT) in Pilon fracture patients and develop a nomogram model. This study retrospectively analyzed hospitalized patients with Pilon fractures from January 2017 to December 2022 in a tertiary referral and university-affiliated hospital. Multivariate logistic regression analysis was used to identify risk factors for preoperative DVT, and a nomogram model was developed. Besides internal validation, patient data from January 2023 to December 2024 served as an external validation set to assess the model's performance. A total of 1994 eligible patients were included, with 1432 in the training set and the others in the validation set. Multivariate analysis revealed 6 independent factors associated with preoperative DVT in patients with Pilon fractures. Risk factors (odds ratio [OR]\u2005>\u20051) included age >60 years (OR\u2005=\u20051.77, 95% confidence interval [CI]: 1.02-3.08, P\u2005=\u2005.044), delay from injury to duplex ultrasonography (days) (OR\u2005=\u20051.19, 95% CI: 1.13-1.26, P\u2005<\u2005.001), neutrophil-to-lymphocyte ratio\u2005>\u20053.17 (OR\u2005=\u20055.19, 95% CI: 2.70-9.98, P\u2005<\u2005.001), fasting blood glucose\u2005>\u20056.1 mmol/L (OR\u2005=\u20052.31, 95% CI: 1.08-4.95, P\u2005=\u2005.031), and D-dimer\u2005>\u20051.34\u2009mg/L (OR\u2005=\u20053.96, 95% CI: 1.81-8.66, P\u2005=\u2005.001). Albumin was identified as a protective factor (OR\u2005=\u20050.87, 95% CI: 0.83-0.92, P\u2005<\u2005.001), indicating that low albumin levels correlate with increased DVT risk. The concordance index and Brier score of the nomogram were 0.829 and 0.033 in the training set, and the corrected values after internal validation were 0.796 and 0.035, respectively. The receiver operating characteristic curve, the calibration curve, the Hosmer-Lemeshow test, and the decision curve analysis performed well in both the training and validation cohorts. This study developed a personalized nomogram model with 6 predictors, which allows surgeons to stratify the risk of preoperative DVT in patients with Pilon fractures.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047618",
+    "authors": [
+        "Kang, Yongxuan",
+        "Zhang, Yang",
+        "Kang, Kai",
+        "Li, Tong",
+        "Zhang, Xuebin",
+        "Ji, Chenni"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

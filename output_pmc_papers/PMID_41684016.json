@@ -1,0 +1,15 @@
+{
+    "pmid": "41684016",
+    "title": "Rare, Yet Targetable: New Perspectives on Ampullary Carcinomas.",
+    "abstract": "Ampullary carcinoma (AC) is a rare gastrointestinal malignancy with dual intestinal and pancreatobiliary differentiation, complicating diagnosis, staging, and treatment. This review synthesizes current epidemiology, pathology, and multi-omic data to outline a pragmatic care pathway: lineage-first at presentation, mutation-fast at progression. Histology remains the primary classifier: the intestinal subtype generally aligns with colorectal regimens, whereas pancreatobiliary and mixed subtypes favor pancreaticobiliary therapy. In selected fit patients, modified FOLFIRINOX may address mixed phenotypes. Next-generation sequencing adds precision by identifying therapeutically relevant alterations, including <i>ERBB2</i>/<i>HER2</i> amplifications, MSI-high/dMMR, <i>BRAF</i> V600E, and rare <i>NTRK</i> or <i>RET</i> fusions, while <i>KRAS</i> mutations are enriched in pancreatobiliary tumors. We recommend early application of a rapid-core panel (<i>KRAS</i>/<i>BRAF</i>, MSI/dMMR, <i>ERBB2</i>/<i>HER2</i>, RNA-based fusions) to capture high-impact targets, followed by comprehensive profiling at first progression. Liquid biopsy, plasma circulating tumor DNA (ctDNA), or bile-derived DNA may complement tissue and help identify the dominant lineage. Research priorities include ampulla-enriched umbrella trials, explicit AC subcohorts in tissue-agnostic studies, and ctDNA-informed endpoints. This lineage-first, mutation-fast paradigm supports precision care and evidence generation in AC.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031597",
+    "authors": [
+        "Gutmans, James",
+        "Friedlaender, Alex",
+        "Mechahougui, Hiba"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

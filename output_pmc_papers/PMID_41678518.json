@@ -1,0 +1,16 @@
+{
+    "pmid": "41678518",
+    "title": "Global burden and trends of tracheal, bronchus, and lung cancer attributed to occupational exposure to polycyclic aromatic hydrocarbons in regions with different sociodemographic index, 1990-2021.",
+    "abstract": "Occupational exposure to polycyclic aromatic hydrocarbons (PAHs) is a known risk factor for tracheal, bronchus, and lung (TBL) cancer. However, evidence of its global burden particularly across different socio-demographic index (SDI) regions has been limited.\nBased on results from the global burden of disease (GBD) study, we conducted a comprehensive analysis of age-standardized death rates (ASDR) and age-standardized disability-adjusted life-years (DALYs) rates due to TBL cancer attributed to occupational exposure to PAHs. This study examined the trends, sex differences, age-specific burden, and regional disparities in TBL cancer burden attributed to occupational PAH exposure from 1990 to 2021 globally and across different SDI regions. Age-period-cohort analysis was also performed to evaluate the influence of age, cohort, and period effects.\nGlobally, both ASDR and DALYs rates showed slight increases from 1990 to 2021, with estimated annual percentage changes (EAPCs) of 0.76% and 0.54%, respectively. Low and middle SDI regions experienced more significant increases in death rates and health burden, while high SDI regions exhibited declining trends. Age-specific analyses revealed higher death rates in older populations, particularly those aged 55-74 years, with rising trends observed in low and middle SDI regions. For high SDI regions, younger age groups (<60 years) showed declining trends, while older age groups (>75 years) showed increasing trends. Age-period-cohort analyses indicated that the period effect contributed substantially to rising death rates in low and middle SDI regions, while high SDI regions experienced slower increases in the period effect.\nThe study highlights a widening disparity in the burden of TBL cancer due to occupational exposure to PAHs, with lower SDI regions facing greater increases in death rates and DALYs, especially among older populations. Nevertheless, given the inherent limitations of GBD estimation methods and data scarcity in LMICs, the observed disparities should be interpreted with caution and warrant further primary research.",
+    "publication_year": "2026",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0342250",
+    "authors": [
+        "Lin, Jiansheng",
+        "Xie, Xiaowei",
+        "Zheng, Xinyang",
+        "Shi, Haizhan"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

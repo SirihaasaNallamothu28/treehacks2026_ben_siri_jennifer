@@ -1,8 +1,0 @@
-PMID: 41669130
-Title: Prevalence, predictors and risk perceptions of Hypertension among adults in Bududa Town Council, Eastern Uganda.
-
-Abstract:
-The global prevalence of hypertension has been on the increase in urban areas. Therefore, this study was aimed at establishing the prevalence and predictors of hypertension (HTN) among the adults of Bududa town council in order to inform the way forward on the prevention strategies.
-A mixed methods approach with a convergent parallel design was used. The quantitative arm involved 365 randomly selected participants, while the qualitative arm included 24 hypertensive patients. Quantitative data were analyzed at univariate, bivariate, and multivariate levels (p < 0.05), and thematic analysis was applied to the qualitative data.
-The prevalence of HTN was 33.97% and was associated with age ≥ 40 years (AOR 0.2; 95% CI 0.13-0.36; p=0.000), high salt intake (AOR:0.4; 95%CI:0.24-0.78; P=0.005), sedentary life style (AOR: 0.5; 95% CI: 0.30-0.89; p=0.017), inappropriate source of information about the risk factors to hypertension, knowledge on primary prevention, antihypertensive side effects, stroke and poor adherence to antihypertensive.
-Hypertension remains a major public health issue in Bududa Town Council, closely linked to modifiable behaviors and limited risk awareness, including poor preventive knowledge, treatment non-adherence, and inadequate access to reliable health information.

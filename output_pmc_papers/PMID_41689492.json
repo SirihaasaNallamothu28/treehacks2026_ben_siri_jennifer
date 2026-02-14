@@ -1,0 +1,17 @@
+{
+    "pmid": "41689492",
+    "title": "The Dual Role of DNA Methylation Test Can Optimize the Clinical Application of High-Risk Human Papillomavirus Testing in Detecting Cervical Intraepithelial Neoplasia Grade 3 or Worse.",
+    "abstract": "With the rapid development and maturation of high-risk human papillomavirus (hrHPV) genotyping kits, it is crucial to understand the specific patterns of methylation in different hrHPV statuses, rather than simply categorizing them as hrHPV positive or negative. To achieve this goal, we first assessed the prevalence and CIN3+ risk of specific hrHPV genotypes in 184 cervical scrapings and then evaluated the performance of five host genes methylation to distinguish CIN3+ from <CIN3 not only among hrHPV-positive and hrHPV-negative women, but also among women positive for HPV16, HPV18, HPV52, and HPV58. The results showed that women with HPV16 infections had a higher risk of developing CIN3+ than women with other hrHPV infections. More importantly, we found that hrHPV testing caused a high false-positive rate (43.54%) and leading to over-referral of <CIN3 cases. Triage of patients with HPV 52/58 positive using ZIC1<sup>m</sup> could accurately identify all CIN3+ cases to avoid over-referral of false-positive cases. In addition, implementing primary hrHPV testing resulted in 5.7% of CIN3+ patients being missed in our study. Our exploratory analysis found that DNA methylation of specific genes, including ZIC1<sup>m</sup>, ZNF582<sup>m</sup>, PAX1<sup>m</sup>, and MIR129-2<sup>m</sup>, could lower the high false-positive rate and find 80% (4/5) missed CIN3+ cases caused by hrHPV testing. This study substantiates the dual role of DNA methylation detection in cervical cancer screening. By incorporating methylation detection, the existing HPV-based screening strategy can be further optimized to achieve precise risk stratification and facilitate the shift from cervical cancer screening to personalized and precise management.",
+    "publication_year": "2026",
+    "journal": "Journal of medical virology",
+    "doi": "10.1002/jmv.70836",
+    "authors": [
+        "Jiang, Hao",
+        "Zhu, Peng",
+        "Chen, Yan",
+        "Xiong, Jing",
+        "Chen, Puxiang",
+        "Li, Qing"
+    ],
+    "num_authors": 6
+}

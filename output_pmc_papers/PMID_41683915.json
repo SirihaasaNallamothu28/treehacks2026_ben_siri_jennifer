@@ -1,0 +1,14 @@
+{
+    "pmid": "41683915",
+    "title": "Unlocking the Secrets of Regulated Cell Death in Large B-Cell Lymphoma Beyond Apoptosis: Signaling Pathways and Therapeutic Options.",
+    "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most frequent B-cell type of non-Hodgkin's lymphoma. Recent genomic studies have highlighted the importance of genetic alterations in apoptotic pathways that help malignant DLBCL cells to evade apoptosis. Apoptosis evasion by DLBCL cells is known to mediate resistance to chemotherapy. Advances in the field of regulated cell death (RCD) research have identified novel therapeutic avenues in cancer. In particular, non-apoptotic RCDs can be targeted to overcome resistance to apoptosis in cancer and ensure cell death. In this review, we have highlighted the contribution of multiple RCDs, including apoptosis, necroptosis, ferroptosis, pyroptosis, PANoptosis, NETotic cell death, autophagy-dependent cell death, cuproptosis, methuosis, or mitotic death, to normal development of B lymphocytes and DLBCL pathogenesis. We have summarized molecular mechanisms governing distinct RCDs in DLBCL, differences in cell death pathways in activated B-cell (ABC) and germinal center B-cell (GCB) DLBCL subtypes, prognostic values of RCD-related genes, and discussed the implication of RCD pathways for DLBCL treatment. Notably, the impact of RCDs goes far beyond just killing tumor cells. RCD modalities are important for orchestrating the immune response and modulating the tumor microenvironment. The current review also aims to reveal the effect of different RCDs on the tumor microenvironment in DLBCL. Most RCDs play a dual role in DLBCL, demonstrating both tumor-inducing and tumor-suppressing effects, which suggests that their targeting should be exploited with caution. Our analysis suggests that pharmacological ferroptosis induction may be the most promising RCD-targeting strategy in DLBCL.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031495",
+    "authors": [
+        "Tkachenko, Anton",
+        "Havranek, Ondrej"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

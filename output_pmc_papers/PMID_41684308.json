@@ -1,0 +1,19 @@
+{
+    "pmid": "41684308",
+    "title": "Comparing various bowel preparation regimens in constipated patients undergoing colonoscopy: A systematic review and network meta-analysis of randomised controlled trials.",
+    "abstract": "Colonoscopy effectiveness in detecting colorectal carcinoma depends on adequate bowel preparation (ABP). This network meta-analysis assesses the efficacy and safety of various bowel preparation regimens in patients with constipation.\nPubMed, Cochrane Central and ScienceDirect were searched till April 2025. A frequentist network meta-analysis was performed using the 'meta' and 'netmeta' packages on R version 4.3.3. The ranking was done using P-scores.\nFifteen randomised controlled trials were included. Compared with 4\u2009L polyethylene glycol (PEG), 3\u2009L PEG\u2009+\u20093d-linaclotide (Lin) (risk ratio [RR]\u2009=\u20091.29; 95% confidence intervals [CI]: [1.12, 1.47]), 4\u2009L PEG\u2009+\u20091d-Lin (RR\u2009=\u20091.25; 95% CI: [1.04, 1.51]), sodium phosphate (NaP)\u2009+\u2009bisacodyl (RR\u2009=\u20091.52; 95% CI: [1.09, 2.10]), probiotic 14d\u2009+\u2009NaP (RR\u2009=\u20093.59; 95% CI: [1.83, 7.04]) may show improvements in the rate of ABP. The probiotic 14d\u2009+\u2009NaP regimen was ranked best regarding ABP (P-score\u2009=\u20090.99) and bloating (P-score\u2009=\u20090.84). The 3\u2009L PEG\u2009+\u20093d-Lin showed a reduction (RR\u2009=\u20090.18; 95% CI: [0.04, 0.88]) in abdominal pain and was ranked best regarding abdominal pain (P-score\u2009=\u20090.89) and vomiting (P-score\u2009=\u20090.80). The 4\u2009L PEG\u2009+\u20091d-Lin was ranked best (P-score\u2009=\u20090.77) in terms of nausea.\nThe 14d-probiotics\u2009+\u2009NaP and 3\u2009L PEG\u2009+\u20093d-Lin may be among the more effective and tolerable bowel preparation regimens. While adverse events were similar, the observed reduction in abdominal pain with 3\u2009L PEG\u2009+\u20093d-Lin may suggest improved patient comfort and adherence.",
+    "publication_year": "2026",
+    "journal": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland",
+    "doi": "10.1111/codi.70399",
+    "authors": [
+        "Abideen, Zain Ul",
+        "Waseem, Muhammad Hassan",
+        "Shoaib, Areeba",
+        "Ramzan, Noor-Ul-Huda",
+        "Ch, Muhammad Tayyab Amer",
+        "Thada, Pawan Kumar",
+        "Jalal, Prasun Kumar"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

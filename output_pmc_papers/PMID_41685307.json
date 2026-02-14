@@ -1,0 +1,27 @@
+{
+    "pmid": "41685307",
+    "title": "Prognostic value of lymphatic vessel density in the capsule of early-stage hepatocellular carcinoma: implications for postoperative recurrence risk.",
+    "abstract": "Lymphatic vessels are present in the capsule of hepatocellular carcinoma (HCC) at an early stage, but their value in the prognosis remains unclear. The study aimed to evaluate the prognostic impact of lymphatic vessels in the tumor capsule on patients with HCC at Barcelona Clinic Liver Cancer (BCLC) stages 0-A. This is one of the first studies to investigate the tumor capsule specifically.\nThis retrospective study included HCC patients at BCLC stages 0-A, who underwent radical liver resection between January 2017 and December 2020. Lymphatic vessel density (LVD) in the tumor capsule was determined by immunohistochemistry using anti-D2-40. Patients were stratified into the high and low LVD groups. Their overall survival (OS) and recurrence-free survival (RFS) were analyzed. The potential risk factors affecting survival and for predicting microvascular invasion (MVI) or satellite nodules were analyzed using Cox regression analysis and logistic regression analysis, respectively.\nA total of 212 patients were included (180 male and 142 patients < 60 years old). The 1, 3, and 5-year OS were 76.5%, 52.9%, and 41.2% in the high LVD group, versus 94.4%, 76.4%, and 69.0% in the low LVD group (<i>P</i>\u00a0=\u00a00.013). The 1, 3, and 5-year RFS were 30.6%, 30.6%, and 30.6% in the high LVD group, versus 72.5%, 52.2%, and 38.7% in the low LVD group (<i>P</i>\u00a0=\u00a00.014). High LVD in the tumor capsule was an independent risk factor for worse OS (HR\u00a0=\u00a02.145, 95% CI: 1.096-4.197, <i>P</i>\u00a0=\u00a00.026) and RFS (HR\u00a0=\u00a02.506, 95% CI: 1.197-5.243, <i>P</i>\u00a0=\u00a00.015), and also associated with the onset of MVI (OR\u00a0=\u00a08.493, 95% CI: 2.314-31.174, <i>P</i>\u00a0=\u00a00.001) and satellite nodules (OR\u00a0=\u00a05.755, 95% CI: 1.340-24.718, <i>P</i>\u00a0=\u00a00.019).\nHigh LVD in the tumor capsule was associated with worse OS, RFS, and intrahepatic spread (MVI and satellite nodules) in patients with HCC at BCLC stages 0-A after liver resection. Our findings suggest that assessing LVD in the tumor capsule could serve as a useful tool in predicting postoperative prognosis and guiding personalized treatment strategies for patients with early-stage HCC.",
+    "publication_year": "2026",
+    "journal": "Frontiers in immunology",
+    "doi": "10.3389/fimmu.2026.1714314",
+    "authors": [
+        "Li, Jin",
+        "Liang, Yu-Bo",
+        "Chen, Xing-Ming",
+        "Ou, Zhi-Yan",
+        "Wang, Qing-Bo",
+        "Luo, Wan-Ling",
+        "Lakang, Yawhan",
+        "Yang, Zi-Sheng",
+        "Zuo, Jin-Xiang",
+        "Li, Yu-Kai",
+        "Qin, Hao-Wen",
+        "Lv, Xin-Wu",
+        "Kui, Xiang",
+        "Wang, Yan",
+        "Ke, Yang"
+    ],
+    "num_authors": 15,
+    "citations": 0
+}

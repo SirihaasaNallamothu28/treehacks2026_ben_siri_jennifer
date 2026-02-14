@@ -1,0 +1,19 @@
+{
+    "pmid": "41686627",
+    "title": "Trajectory and predictive factors of cancer-related fatigue in hospitalized elderly patients with non-small cell lung cancer undergoing chemotherapy.",
+    "abstract": "This study examines the demographic and clinical characteristics of elderly non-small cell lung cancer patients undergoing chemotherapy, focusing on levels of cancer-related fatigue (CRF), anxiety, depression, sleep, and social support. The goal is to explore the trajectory and predictive factors of CRF development to aid in patient coping. Conducted from October 2022 to October 2023 in a tertiary hospital in Weifang, the longitudinal study assessed CRF, anxiety, depression, sleep quality, and social support at 4 time points during chemotherapy. Repeated measures ANOVA, t-tests, one-way ANOVA, and Pearson correlation analysis were used to evaluate data. Mplus 8.3 software established a latent class growth model (LCGM) to track CRF trajectories, and multinomial logistic regression identified predictive factors for CRF classes. Cancer-related fatigue scores: mean CRF scores at T1, T2, T3, and T4 were 19.33, 28.40, 32.06, and 26.12, respectively. CRF peaked at T3 and then gradually declined, with significant differences in CRF, anxiety, depression, sleep quality, and social support across T1-T4 (P\u2005<\u2005.05). Significant factors affecting CRF included disease stage, treatment regimen, recurrence, anxiety and depression levels, sleep quality, and social support. Three CRF trajectory classes were identified with the best data fit: low-level slow increase (20 patients), high-level gradual relief (35 patients), and low-level rapid increase (53 patients). Predictors for the high-level gradual relief group included disease stage, anxiety score, and sleep quality score (P\u2005<\u2005.05). For the low-level rapid increase group, predictors were disease stage, anxiety score, sleep quality score, and social support (P\u2005<\u2005.05). CRF in elderly non-small cell lung cancer patients undergoing chemotherapy is influenced by disease characteristics, psychological status, sleep quality, and social support. Three distinct CRF trajectories were identified, with disease stage, anxiety, depression, and sleep quality serving as key predictive factors.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000045277",
+    "authors": [
+        "Liu, Chen",
+        "Wang, Hao",
+        "Wen, Jiaxuan",
+        "Xu, Taotao",
+        "Wang, Han",
+        "Wei, Xiuhong",
+        "Zhai, Yan"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

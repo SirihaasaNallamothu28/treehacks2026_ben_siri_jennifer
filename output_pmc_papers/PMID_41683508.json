@@ -1,0 +1,21 @@
+{
+    "pmid": "41683508",
+    "title": "The Anti-SLAMF7 Antibody, Elotuzumab, Induces Antibody-Dependent Cellular Cytotoxicity Against CLL Cell Lines.",
+    "abstract": "SLAMF7, also known as CD319, a SLAM (signaling lymphocytic activation molecule) family receptor, is relatively weakly expressed on chronic lymphocytic leukemia (CLL) B cells. This study evaluated the ability of elotuzumab (E), an anti-SLAMF7/CD319 antibody, to induce antibody-dependent cellular cytotoxicity (ADCC) against CLL cell lines (MEC-1, MEC-2, CI, HG-3, PGA-1, WA-OSEL). ADCC was assessed by flow cytometry using E (100 \u03bcg/mL), rituximab (R, 100 \u03bcg/mL), and their combination (E + R). CLL lines served as targets (T), while peripheral blood mononuclear cells (PBMCs) or NK cells from healthy donors served as effectors (E) at an 8:1 E:T ratio for 4 h. With PBMCs, E-induced ADCC ranged from 1.3 \u00b1 1.2% (PGA-1) to 14.6 \u00b1 8.1% (MEC-1); R-induced ADCC ranged from 9.2 \u00b1 4.6% (PGA-1) to 16.6 \u00b1 9.4% (WA-OSEL). With NK cells, E-induced ADCC ranged from 1.8 \u00b1 3.7% (PGA-1) to 27.3 \u00b1 4.7% (MEC-1); R-induced ADCC ranged from 5.1 \u00b1 4.3% (PGA-1) to 27.5 \u00b1 13.6% (CI). E outperformed R in MEC-1, while R was superior elsewhere. Cell lines with higher SLAMF7/CD319 expression displayed increased sensitivity to E. Cell lines with del17p showed higher SLAMF7/CD319 expression. The combination of E + R showed no significant synergy over monotherapies. In conclusion, elotuzumab induced significant ADCC in CLL cells, warranting further therapeutic evaluation.",
+    "publication_year": "2026",
+    "journal": "Molecules (Basel, Switzerland)",
+    "doi": "10.3390/molecules31030531",
+    "authors": [
+        "K\u013eoc, Dominik",
+        "Dubikov\u00e1, Bianca",
+        "\u017dil\u00e1kov\u00e1, Simona",
+        "Sykora, J\u00e1n",
+        "\u0160ulikov\u00e1, Michaela",
+        "Kurhajec, Slavom\u00edr",
+        "Sabo, J\u00e1n",
+        "Guman, Tom\u00e1\u0161",
+        "\u0160ari\u0161sk\u00fd, Marek"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

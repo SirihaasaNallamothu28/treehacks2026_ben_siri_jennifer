@@ -1,7 +1,0 @@
-PMID: 41686909
-Title: De novo identification of the specificities of recurrently identified human T cell receptors.
-Journal: Science advances
-Authors: Kasbe, Mithila; Yahsi, Berkay; Whitehead, Kalyn; Oh, Jiwon; Mosharraf, Mashwiyat; Sohn, Kayla; Phan, Trinh; Lee, Mark N
-
-Abstract:
-T cell repertoires of different individuals occasionally converge on the same T cell receptor (TCR) sequence as a solution to target immunodominant epitopes. A complete mapping of these "public" TCR specificities may enable a global understanding of population-level immune histories. Here, we sought to determine the antigen specificities of public TCRs with unknown target identity. We developed a functional screening workflow in which we screen panels of TCRs for reactivity to individual viral genomes or to ~1000 viral reference strains and then sort out the immunogenic peptides by labeling antigen-presenting cells that are in proximity to activated T cells. Using this workflow, we identified the target specificities of T cells that are circulating in up to 14% of individuals, including a pre-COVID-19 seasonal coronavirus-reactive TCR that cross-reacts with peptides within pandemic coronaviruses; an influenza B-reactive TCR that targets a highly conserved epitope; and TCRs targeting Herpesviridae family viruses that cause long-term latent infections. Our results demonstrate an efficient strategy to reveal public T cell memories de novo, offering a window into shared immune exposures.

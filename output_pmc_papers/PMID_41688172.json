@@ -1,0 +1,19 @@
+{
+    "pmid": "41688172",
+    "title": "[Association between childhood trauma and the number of disorders of gut-brain interaction diagnosed in adults, as well as the mediating role of personality disorder traits and anxiety].",
+    "abstract": "<b>Objective:</b> To investigate the association between childhood trauma and the number of disorders of gut-brain interaction (DGBI) diagnosed in adults, and to explore the mediating role of personality disorder (PD) traits and anxiety in this relationship. <b>Methods:</b> A retrospective study was conducted on adult patients with DGBI who visited the Department of Gastroenterology Outpatient of Beijing Tsinghua Changgung Hospital from November 2023 to October 2024. The Rome \u2163 questionnaire was used to measure the number of DGBI diagnoses, which was categorized into G1 group (1-2 types), G2 group (3-4 types) and G3 group (\u22655 types). The childhood trauma questionnaire-short form (CTQ-SF) was used to measure childhood trauma, the personality disorder questionnaire-4+(PDQ-4+) was used to assess PD traits, and the Zung self-rated anxiety scale (SAS) were used to measure anxiety levels. Poisson regression analysis was employed to evaluate variable associations between childhood trauma, PD traits, anxiety, and the number of DGBI diagnoses [expressed as incidence rate ratio (<i>IRR</i>) and 95%<i>CI</i>]. The chained mediation model was used to calculate the mediating role of PD traits and anxiety among them (95%<i>CI</i> of <i>IRR</i> did not exceed 1, the mediating effect was statistically significant). <b>Results:</b> A total of 182 DGBI patients were included, including 85 males and 97 females, with an age[<i>M</i> (<i>Q</i><sub>1</sub>, <i>Q</i><sub>3</sub>)] of 42 (34, 58) years. There were 107, 56, and 19 patients in the G1, G2, and G3 groups, respectively. There were significant differences in age, number of births, PDQ-4+total score, SAS total score and CTQ-SF total score among G1, G2 and G3 groups (all <i>P</i><0.05). The total CTQ-SF score in G3 group was higher than that in G1 group [39.0 (32.0, 45.0) vs 29.0 (25.0, 34.0) score, <i>P</i>=0.003]. The PDQ-4+total score in G3 group was higher than that in G1 group. The SAS total score in G3 group was higher than that in both G1 and G2 groups, and the SAS total score in G2 group was higher than that in G1 group. After adjusting for age, sex, and number of births, the total CTQ-SF score had a positive predictive effect on the number of DGBI diagnoses (<i>IRR</i>=1.013, 95%<i>CI</i>: 1.006-1.020). In addition, both the total PDQ-4+score (<i>IRR</i>=1.006, 95%<i>CI</i>: 1.002-1.010) and the total SAS score (<i>IRR</i>=1.020, 95%<i>CI</i>: 1.013-1.026) had a positive predictive effect on the number of DGBI diagnoses. The chain mediation effect analysis indicated that childhood trauma indirectly influenced the number of DGBI diagnoses through a chain pathway from PD traits to anxiety, and the indirect effect was statistically significant (<i>IRR</i>=1.004, 95%<i>CI</i>: 1.002-1.007), whereas the direct effect was not statistically significant (<i>IRR</i>=1.007, 95%<i>CI</i>: 0.998-1.015). <b>Conclusion:</b> The severity of childhood trauma is associated with multiple DGBI diagnoses, and PD traits and anxiety play a chain mediating role between childhood trauma experience and DGBI diagnosis.",
+    "publication_year": "2026",
+    "journal": "Zhonghua yi xue za zhi",
+    "doi": "10.3760/cma.j.cn112137-20250707-01643",
+    "authors": [
+        "Ren, Y T",
+        "Xiao, X",
+        "Zhang, K",
+        "Chen, X W",
+        "Yu, G P",
+        "Fu, W",
+        "Wang, R F"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

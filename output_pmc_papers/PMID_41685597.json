@@ -1,0 +1,26 @@
+{
+    "pmid": "41685597",
+    "title": "Tumor visualization and evaluation of glioblastoma in mice using small animal 9.4T MRI and PET\u2011CT with high resolution.",
+    "abstract": "Glioblastoma (GBM) is the most prevalent type of malignant primary brain tumor. Preclinical research serves a key role in investigating the development and mechanism of GBM tumor. However, the dynamic and non\u2011invasive evaluation of tumors in animals faces challenges, such as the limited sensitivity of clinical instruments and insufficient spatial resolution for mouse brain tumors. The present study aimed to establish an <i>in vivo</i> mouse GBM model and evaluate the model using high resolution small animal positron emission tomography\u2011computed tomography (PET\u2011CT) and magnetic resonance imaging (MRI). Metabolism was compared between the normal brain and tumor tissue by using <sup>1</sup>H\u2011magnetic resonance spectroscopy (<sup>1</sup>H\u2011MRS). T2\u2011weighted imaging (T2WI) MRI detected the tumor in the brain 7 days after injection of GL261 cells, with tumor sizes of 1.263, 4.917 and 13.85 mm<sup>3</sup> on days 7, 14 and 21, respectively. <sup>1</sup>H\u2011MRS demonstrated that the levels of tissue metabolites such as lactate and total choline increased, while those representing neurological function of the brain such as total N\u2011acetylaspartate decreased in tumor compared with the normal brain tissues. PET\u2011CT imaging confirmed the tumor detected by MRI. At 6\u2011120 min post <sup>18</sup>F\u2011fluorodeoxyglucose (FDG) administration, the standard uptake value (SUV) in tumor tissue gradually increased, while the SUV value in normal brain tissue gradually decreased. SUV in the liver and kidneys decreased, while SUV in the bladder increased in a time\u2011dependent manner. Pharmacokinetic analysis showed that the distribution of FDG in brain and tumor tissue conformed to a two\u2011tissue compartment model. This model consists of a plasma compartment and two tissue compartments representing free FDG and phosphorylated FDG within brain or tumor tissue. The model parameters are defined as follows: Fractional blood volume (vB)=3.6%, k1 (forward transport rate)=1.844, k2 (reverse transport rate)=3.844 and k3 (phosphorylation rate)=0.280 in brain and vB=2.3%, k1=0.797, k2=2.722 and k3=0.319 in tumor tissue, respectively. The tumors observed by MRI and PET\u2011CT imaging were ultimately confirmed through morphological and pathological analysis. Compared with normal brain tissue, glioma tissue exhibited significantly elevated glucose transporter type 1 protein levels. In conclusion, the model was confirmed by high\u2011resolution small animal PET\u2011CT and MRI, as well as morphological and pathological approaches.",
+    "publication_year": "2026",
+    "journal": "Oncology reports",
+    "doi": "10.3892/or.2026.9076",
+    "authors": [
+        "Li, Shuangyi",
+        "Gu, Wenjiao",
+        "Jiang, Ying",
+        "Liu, Ting",
+        "Shuai, Limei",
+        "Wei, Yujie",
+        "Shi, Youming",
+        "Juvenal, Havyarimana",
+        "Wang, Zhimin",
+        "Wei, Yucai",
+        "Wu, Bofan",
+        "Zhou, Xiaochun",
+        "Li, Yumin",
+        "Tang, Futian"
+    ],
+    "num_authors": 14,
+    "citations": 0
+}

@@ -1,7 +1,0 @@
-PMID: 41685459
-Title: Scientific Histories of Hippocampal Research: Introduction to the Special Issue Part 2.
-Journal: Hippocampus
-Authors: Hasselmo, Michael E; Nadel, Lynn
-
-Abstract:
-This introduction is for the second installment of the special issue on Scientific Histories of Hippocampal Research, with 13 new articles. Part 2 adds to the 24 articles in Part 1, and we expect a third installment in the future. The different parts of this special issue contain articles from authors directly involved in pioneering research on the hippocampus ranging from electrophysiological recordings of neuronal activity to analyses of cellular mechanisms for synaptic plasticity, to behavioral studies of the effects of hippocampal lesions. The authors were specifically invited to provide first person historical descriptions of important research and discoveries concerning hippocampal function, and were encouraged to include information about how their background and training influenced their research. In this introduction to Part 2, we will briefly review some of the main themes discussed in Part 2, which builds on many of the same themes as the articles in Part 1.

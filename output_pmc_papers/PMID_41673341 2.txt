@@ -1,9 +1,0 @@
-PMID: 41673341
-Title: Resting-state motor network connectivity as a biomarker of Levodopa response in Parkinson's disease.
-
-Abstract:
-Parkinson's disease (PD), the second most common neurodegenerative disorder, affects over 10 million people and leads to progressive motor and non-motor decline. Levodopa (L-DOPA) remains the primary treatment, yet long-term use causes motor fluctuations and dyskinesias, and tools to optimize therapy remain limited.
-This review systematically evaluates studies assessing how L-DOPA affects functional connectivity within the motor network, to inform more precise and personalized treatment strategies.
-A systematic search of PubMed and Web of Science was performed using terms related to PD, L-DOPA, and resting-state connectivity. Included studies examined L-DOPA-induced changes in resting-state functional connectivity within motor network-related regions in humans.
-L-DOPA broadly modulates connectivity within motor and cognitive resting-state networks. In 28/32 comparisons, L-DOPA increased striatal connectivity with cortical motor regions, basal ganglia nuclei, the cerebellum, and the brainstem. In 21/26 comparisons, connectivity increased between motor cortical areas, the basal ganglia, thalamus, and cerebellum. In 9/16 comparisons, intracerebral connectivity decreased. In all 9 comparisons, L-DOPA increased cerebellar connectivity with the globus pallidus, midbrain, and brainstem. In all 6 comparisons, connectivity increased within the midbrain and between the midbrain, thalamus, and brainstem.
-This review consolidates ON/OFF L-DOPA findings to characterize how L-DOPA modulates motor network connectivity. These insights may advance precision therapies, guide individualized dose titration, and support the development of treatments with improved side-effect profiles.

@@ -1,7 +1,0 @@
-PMID: 41680184
-Title: The redox driven Na<sup>+</sup>-pumping mechanism in Vibrio cholerae NADH-quinone oxidoreductase relies on dynamic conformational changes.
-Journal: Nature communications
-Authors: Ishikawa-Fukuda, Moe; Seki, Takehito; Kishikawa, Jun-Ichi; Masuya, Takahiro; Okazaki, Kei-Ichi; Kato, Takayuki; Barquera, Blanca; Miyoshi, Hideto; Murai, Masatoshi
-
-Abstract:
-The Na<sup>+</sup>-pumping NADH-quinone oxidoreductase (Na<sup>+</sup>-NQR) is a key respiratory enzyme in many marine and pathogenic bacteria that couples electron transfer to Na<sup>+</sup>-pumping across the membrane. Earlier X-ray and cryo-electron microscopy structures of Na<sup>+</sup>-NQR from Vibrio cholerae suggested that the subunits harboring redox cofactors undergo conformational changes during catalytic turnover. However, these proposed rearrangements have not yet been confirmed. Here, we have identified at least five distinct conformational states of Na<sup>+</sup>-NQR using: mutants that lack specific cofactors, specific inhibitors or low-sodium conditions. Molecular dynamics simulations based on these structural insights indicate that 2Fe-2S reduction in NqrD/E plays a crucial role in triggering Na<sup>+</sup> translocation by driving structural rearrangements in the NqrD/E subunits, which subsequently influence NqrC and NqrF positioning. This study provides structural insights into the mechanism of Na<sup>+</sup> translocation coupled to electron transfer in Na⁺-NQR.

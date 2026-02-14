@@ -1,9 +1,0 @@
-PMID: 41686539
-Title: Exploring the unmet needs of older people living with lung cancer: a qualitative study.
-
-Abstract:
-Research into unmet needs in older populations with cancer is crucial, as existing studies often overlook these groups and fail to capture their unique experiences. Addressing these gaps is essential to improve quality of life and reduce psychological distress, particularly in those diagnosed with lung cancer, who face a higher burden of unmet needs than other cancer diagnoses.
-To explore the needs of older people with lung cancer and their perceptions and experiences of healthcare, social support and daily living in one of Australia's most culturally diverse communities.
-A descriptive qualitative study was conducted from January 2023 to May 2024. Eligible participants were aged 70+ with lung cancer. Data collection occurred through face-to-face interviews, which were audio recorded and transcribed. Recruitment concluded after no new themes were identified. Data were analysed thematically and reported using the COREQ checklist.
-Seventeen participants (mean age, 80.4), including 10 from culturally and linguistically diverse backgrounds, were interviewed. Four themes, including seven subthemes, were identified. Main themes included: (i) the complexity of ageing, frailty and chronicity in cancer care; (ii) navigating uncertainty: emotional response and adaptive coping; (iii) family as a pillar of functional and emotional support in cancer care and (iv) how health literacy needs shape decision-making and engagement with health services.
-Older people with lung cancer face multiple unmet needs shaped by ageing, multimorbidity, poor health literacy and psychological distress. While geriatric screening and assessment can identify unmet needs, addressing these requires personalised supportive care interventions.

@@ -1,7 +1,0 @@
-PMID: 41683894
-Title: Combined Transcriptomic and Metabolomic Analyses of Low-Temperature Adaptation in <i>Bursaphelenchus xylophilus</i>.
-Journal: International journal of molecular sciences
-Authors: Xiong, Xiong; Li, Jie; Sun, Shuaibin; Yu, Chengming; Tian, Yehan; Li, Chuanrong; Liu, Huixiang
-
-Abstract:
-<i>Bursaphelenchus xylophilus</i> (PWN), a highly destructive invasive forest pest, has expanded northward in China, even colonizing cold regions, implying evolved low-temperature tolerance. To explore its cold adaptation mechanisms, we selected PWN isolates from diverse origins, screened cold-tolerant strains via low-temperature stress assays, and conducted integrative transcriptomic and metabolomic analyses. We also compared invasive and native populations to clarify adaptive pattern differentiation. The results showed that northern Chinese isolates had significantly higher survival rates, with cold tolerance closely linked to lysophosphatidylethanolamine (LysoPE). Silencing the LysoPE-related gene BX02G0260 markedly elevated nematode mortality under low temperatures. Unlike native populations, invasive PWN may have developed a cold adaptation strategy centered on genetic material protection, with xanthosine as a key metabolite. These findings provide critical molecular insights into invasive species' rapid cold adaptation in novel environments.

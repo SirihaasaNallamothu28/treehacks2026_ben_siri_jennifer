@@ -1,9 +1,0 @@
-PMID: 41663848
-Title: NMR metabolomic profiling of cerebrospinal fluid from dogs with meningoencephalitis of unknown origin demonstrates metabolic similarities to multiple sclerosis.
-
-Abstract:
-Meningoencephalitis of unknown origin (MUO) in dogs is a debilitating and often fatal disease that shows similarities to multiple sclerosis (MS) in humans. The metabolomic profile of MUO has not been previously reported.
-To compare the metabolomic profile of cerebrospinal fluid (CSF) of dogs with MUO with two other diseases affecting the central nervous system in dogs, steroid responsive meningitis-arteritis (SRMA) and idiopathic epilepsy (IE), and to determine if the metabolic profile of MUO shows similarities with that of MS.
-Untargeted and semi-targeted metabolomics using <sup>1</sup>H nuclear magnetic resonance (NMR) was performed on surplus CSF of dogs diagnosed with MUO, SRMA and IE. Data were examined by multivariate and univariate statistical analysis and pathway analysis.
-Fifty-six metabolites were identified in 56 dogs. The multivariate analysis of the canine data highlighted significant differences between the different disease groups. Most metabolites were increased in SRMA and decreased in IE when compared to MUO. Most affected metabolites included those involved in energy metabolism. Pathway analysis revealed that these metabolites were mainly involved in pyruvate metabolism, glycolysis or gluconeogenesis, glycine, serine and threonine metabolism and alanine, aspartate and glutamate metabolism.
-These results suggest that there is an increased energy demand in MUO. Our findings provide a first-time overview of CSF metabolic changes in MUO and offer potential insights for possible underlying pathogenesis and treatment strategies. Altered energy metabolism pathways are also reported in MS, further supporting the use of MUO as a spontaneous animal model for this disease.

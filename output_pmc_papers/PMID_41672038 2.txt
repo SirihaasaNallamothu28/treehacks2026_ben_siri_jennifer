@@ -1,5 +1,0 @@
-PMID: 41672038
-Title: Microglia makeover: On-demand control panel revamp.
-
-Abstract:
-Microglia display remarkable plasticity, with their cellular states evolving in response to developmental stage, regional context, and environmental or pathological stimuli. In this issue of Immunity, Hamagami et al. demonstrate that adaptive reconfiguration of regulatory networks, particularly the dynamics of enhancers, underlies these state transitions. Conserved enhancers link developmental and Alzheimer's-related microglial states, suggesting shared epigenetic frameworks that influence neurodegenerative susceptibility.

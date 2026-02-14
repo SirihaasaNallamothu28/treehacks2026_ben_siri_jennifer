@@ -1,0 +1,19 @@
+{
+    "pmid": "41685569",
+    "title": "The impact of membranectomy on chronic subdural hematoma outcomes: a meta-analysis and systematic review.",
+    "abstract": "Chronic subdural hematoma (CSDH) is a common neurosurgical condition, yet the role of membranectomy in reducing recurrence remains controversial. This meta-analysis evaluates whether membranectomy improves outcomes compared to non-membranectomy techniques.\nWe systematically searched PubMed, Embase, and Cochrane for studies comparing membranectomy vs. non-membranectomy approaches (burr-hole, craniotomy, or drainage alone). Primary outcome was recurrence rate; secondary outcomes included functional recovery (GOS/mRS), complications, and operative time. Random-effects models were used for pooled estimates.\nFifteen studies (N.=1, 593 patients) were included. Membranectomy reduced recurrence by 54.2% (pooled OR: 0.45, 95% CI: 0.33-0.62, P<0.001), with moderate heterogeneity (I<sup>2</sup>=38%). Functional outcomes improved (GOS 4-5: OR 1.42; 1.18-1.71), but seizure risk increased (OR=1.89; 1.32-2.71). Craniotomy with complete membranectomy was most effective for organized hematomas. While subdural drains were most beneficial for partial membranectomy in reducing hematoma recurrence, it demonstrated no benefit with complete membranectomy.\nMembranectomy significantly reduces recurrence but increases seizure risk. Burr-hole drainage remains first-line for uncomplicated CSDH, while craniotomy with membranectomy may benefit organized/recurrent cases.",
+    "publication_year": "2026",
+    "journal": "Journal of neurosurgical sciences",
+    "doi": "10.23736/S0390-5616.25.06599-3",
+    "authors": [
+        "Ogolo, Donald E",
+        "Okwuoma, Okwunodulu",
+        "Ndukuba, Kelechi",
+        "Akwada, Obioma",
+        "Achebe, Sunday",
+        "Nnama, Sunday",
+        "Ohaegbulam, Samuel"
+    ],
+    "num_authors": 7,
+    "citations": 0
+}

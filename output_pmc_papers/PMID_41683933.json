@@ -1,0 +1,21 @@
+{
+    "pmid": "41683933",
+    "title": "Prostate Cancer: Dissecting Novel Immunosuppressive Mechanisms Through Context-Specific Transcriptomic Programs and MDSC Cells.",
+    "abstract": "Prostate cancer remains largely refractory to immunotherapy, implying the existence of context-specific immune landscape programs that diverge between circulation and tumor. Here, we integrate bulk RNA sequencing from three cohorts (patient peripheral mononuclear cells, primary prostate tissue, and biochemical-recurrence tumors) with multiparameter flow cytometry, unsupervised UMAP/T-REX (Tracking Responders Expanding) mapping, and de novo discovery of long non-coding RNAs (lncRNAs) to characterize context-specific immunoregulation. Patient PBMCs revealed a coherent <i>IL-1</i>/<i>TNF</i>/<i>IL-17</i> inflammatory architecture with strong chemotactic programs and an unexpected neutrophil-like signal despite density-gradient isolation, consistent with low-density PMN-MDSCs. In contrast, tumors broadly repressed chemokines and innate immune mediators, yet upregulated prostate cancer-associated lncRNAs, indicating local immune quiescence coupled with non-coding regulatory programs. Recurrent tumors acquired epithelial-mesenchymal transition and metabolic remodeling, accompanied by relapse-associated lncRNA signatures, whereas long-term nonrecurrent tumors preserved epithelial and stress-response networks. High-dimensional cytometry confirmed discrete, cancer-enriched myeloid clusters expressing CD47, SIRP\u03b1, PD-L1, CD73, and Galectin-9. Network analysis highlighted inflammatory hubs (<i>CXCL2</i>, <i>PTGS2</i>) in PBMCs and loss of mechanotransduction modules in tumors. Structural modeling uncovered a three-way junction and 3' triple helix in lncRNA. Collectively, these data suggest that circulating inflammatory rewiring is associated with checkpoint-rich suppressor expansion and tumor immune quiescence, outlining integrated myeloid- and RNA-directed strategies for cancer research.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031511",
+    "authors": [
+        "Reyes Martinez, Pedro",
+        "Sierra Diaz, Erick",
+        "Solorzano Ibarra, Fabiola",
+        "Vazquez Urrutia, Jorge Raul",
+        "Guerrero Garc\u00eda, Jos\u00e9 de Jes\u00fas",
+        "T\u00e9llez Ba\u00f1uelos, Martha Cecilia",
+        "Casta\u00f1eda Delgado, Julio Enrique",
+        "Sanchez Reyes, Karina",
+        "Ortiz Lazareno, Pablo Cesar"
+    ],
+    "num_authors": 9,
+    "citations": 0
+}

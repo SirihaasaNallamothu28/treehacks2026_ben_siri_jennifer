@@ -1,0 +1,18 @@
+{
+    "pmid": "41683542",
+    "title": "Small Particles, Big Impact: Inorganic Nanotechnology for Glioblastoma.",
+    "abstract": "Glioblastoma Multiforme (GBM) is one of the most aggressive primary brain tumors, with a median survival of only 15-17 months. Treatment failure is largely driven by the Blood-Brain Barrier (BBB), which restricts the delivery of most conventional therapeutics and shields invasive tumor regions from systemic drugs.\nThis review highlights recent advances in inorganic nanoparticles designed to cross the BBB and target GBM. These platforms, including silica-, metal-, and carbon-based nanomaterials, enable multimodal applications such as tumor imaging, localized hyperthermia, and selective induction of cancer cell death. Functionalization with targeting ligands or surface modifications further enhances tumor penetration and therapeutic efficacy.\nDespite promising preclinical results, clinical translation requires careful optimization of nanoparticle properties to minimize toxicity and immune clearance. Understanding these challenges provides a roadmap for the development of more effective nanomedicine strategies aimed at improving outcomes for GBM patients.",
+    "publication_year": "2026",
+    "journal": "Molecules (Basel, Switzerland)",
+    "doi": "10.3390/molecules31030565",
+    "authors": [
+        "Dynarowicz, Klaudia",
+        "Aebisher, David",
+        "Tylutki, Jakub",
+        "Kozak, Nazarii",
+        "Kawczyk-Krupka, Aleksandra",
+        "Bartusik-Aebisher, Dorota"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

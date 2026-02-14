@@ -1,7 +1,0 @@
-PMID: 41672627
-Title: [Challenges and Countermeasures for Investigator-Initiated Trial Using Unlisted Medical Devices by Chinese Researchers].
-Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
-Authors: Liu, Shuo; Zhou, Jiyin
-
-Abstract:
-As an important part of clinical diagnosis and treatment, the safety and effectiveness of medical devices are directly related to patients' lives and health. With the continuous development of science and technology in China, a growing number of investigator-initiated trials (IIT) involve unlisted medical devices, which poses significant risks and challenges. In accordance with China's existing laws and regulations, unlisted medical devices shall not be used in investigator-initiated trials in principle. This paper proposes that by means of policy guidance and technical support provided by regulatory authorities, risk assessment and hierarchical management conducted by clinical research management departments, capacity improvement of medical and health institutions, ethics committees and investigators, and the joint establishment and improvement of a rights and interests protection system for research participants by all parties, the development of investigator-initiated trials using unlisted medical devices in China can be promoted towards a more scientific and standardized direction.

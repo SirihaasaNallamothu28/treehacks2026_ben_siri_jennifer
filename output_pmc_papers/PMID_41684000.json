@@ -1,0 +1,16 @@
+{
+    "pmid": "41684000",
+    "title": "The Heart's Hidden Neural Network: Interplay Between Intracardiac Ganglia, Fibrosis and Cardiac Remodeling.",
+    "abstract": "The heart's performance relies on its contractile and rhythmic properties, which are modulated not only by extrinsic autonomic inputs but also by the intrinsic cardiac nervous system (ICNS), a distributed network of intracardiac ganglia and neurons that integrates local sensory, autonomic, and inflammatory signals. Growing evidence indicates that cardiac fibrosis and neuronal remodeling are intertwined processes within this network. This review synthesizes current knowledge on molecular, structural, and functional remodeling of the ICNS to drive neurofibrosis, autonomic imbalance, and arrhythmogenesis. We outline ICNS anatomy and neurochemical diversity, then summarize core fibrotic mechanisms, fibroblast activation, extracellular matrix dynamics, and inflammatory signaling, and map these onto intracardiac ganglia. Across diabetes, myocardial infarction, heart failure, and neuroinflammatory states, shared pathways (e.g., IL-6/STAT3, TGF-\u03b2/SMAD, PI3K/AKT, MAPK/ERK, oxidative stress) suppress neuronal excitability, promote neuron-glia-fibroblast coupling, and culminate in neurofibrotic remodeling. We integrate functional data linking these changes to autonomic dysregulation and arrhythmia vulnerability. Future priorities involve constructing detailed human ICNS atlases and applying single-cell and spatial multi-omics to better characterize intracardiac neurons, their circuitry, and their interactions with fibroblasts and immune cells. These insights will be essential to inform targeted neuromodulation and anti-fibrotic interventions. The ICNS is a dynamic regulatory hub whose cells and circuits participate directly in cardiac fibrosis and electrical instability. Recognizing neurofibrosis as a companion process to myocardial fibrosis reframes therapeutic strategy toward preserving both neural and myocardial integrity.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031582",
+    "authors": [
+        "Gemayel, Jacques-Antoine",
+        "Chatelier, Aurelien",
+        "Bois, Patrick",
+        "Fares, Nassim"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

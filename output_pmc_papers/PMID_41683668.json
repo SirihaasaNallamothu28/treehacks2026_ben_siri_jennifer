@@ -1,0 +1,14 @@
+{
+    "pmid": "41683668",
+    "title": "Network-Driven Insights into Plant Immunity: Integrating Transcriptomic and Proteomic Approaches in Plant-Pathogen Interactions.",
+    "abstract": "Plant immunity research is being reshaped by integrative multi-omics approaches that connect transcriptomic, proteomic, and interactomic data to build systems-level views of plant-pathogen interactions. This review outlines the scope and methodological landscape of these approaches, with particular emphasis on how transcriptomic and proteomic insights converge through network-based analyses to elucidate defense regulation. Transcriptomics captures infection-induced transcriptional reprogramming, while proteomics reveals protein abundance changes, post-translational modifications, and signaling dynamics essential for immune activation. Network-driven computational frameworks including iOmicsPASS, WGCNA, and DIABLO enable the identification of regulatory modules, hub genes, and concordant or discordant molecular patterns that structure plant defense responses. Interactomic techniques such as yeast two-hybrid screening and affinity purification-mass spectrometry further map host-pathogen protein-protein interactions, highlighting key immune nodes such as receptor-like kinases, R proteins, and effector-targeted complexes. Recent advances in machine learning and gene regulatory network modeling enhance the predictive interpretation of transcription-translation relationships, especially under combined or fluctuating stress conditions. By synthesizing these developments, this review clarifies how integrative multi-omics and network-based frameworks deepen understanding of the architecture and coordination of plant immune networks and support the identification of molecular targets for engineering durable pathogen resistance.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031242",
+    "authors": [
+        "Lv, Yujie",
+        "Fan, Guoqiang"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

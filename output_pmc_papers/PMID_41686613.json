@@ -1,0 +1,20 @@
+{
+    "pmid": "41686613",
+    "title": "Medication patterns and therapeutic strategies in Traditional Chinese Medicine for coronary heart disease: A text mining analysis of clinical literature.",
+    "abstract": "The incidence of coronary heart disease (CHD) has increased. This study employed scientific statistical methods to explore the medication rules of Chinese herbal medicines (CHMs) to treat CHD and provide a scientific and reliable theoretical basis for the improvement of patient symptoms. We systematically retrieved relevant studies related to CHMs used to treat CHD from the VIP, CNKI, Wanfang. We used Microsoft Excel 2019 to establish a database and the Ancient and Modern Medical Case Cloud Platform to conduct frequency, association rule, cluster analyses and complex network analysis. Summarize the prescribed medication rules of Chinese medicine for the internal treatment of CHD and visualize the graphic representation. We obtained 144 papers with 362 experimental cases and 149 herbs based on the screening criteria. These records, which include the medical expertise of well-known provincial and local Traditional Chinese Medicine practitioners spanning over 2 decades, hold significant value in directing the clinical use of medications and the creation of novel drugs. The three most frequently used herbs were Radix et Rhizoma Salviae Miltiorrhizae (Danshen), Rhizoma Chuanxiong (Chuanxiong), and Radix Astragali (Huangqi). Fifteen of the 20 flavors of high-frequency herbs appear in the Shen Nong's Classic of the Materia Medica (Sh\u00e9n N\u00f3ng B\u0115n C\u0103o J\u012bng). These medications are crucial for the flow of Qi and the management of a number of cardiac disorders. The properties and taste of herbs were mainly warm and sweet, respectively. We obtained 25 association rules and 5 new clusters. The Chuanxiong Rhizoma (Chuanxiong) and Radix et Rhizoma Salviae Miltiorrhizae (Danshen) herb pair had the strongest correlation. We found that famous Chinese medicine practitioners who have been treating CHD for many years utilize Blood-invigorating and supplementing medicines. At the same time, they collaborated with Bulbus Allii Macrostemi (Xiebai) and Ramulus Cinnamomi (Guizhi) to diffuse B\u00ec and unblock Yang. The Buyang Huanwu Decoction (BYHWD) and Shengmai San (SMS) were the primary CHM prescription for CHD. In addition, we further verified the experience of not using Radix Paeoniae Alba (Baishao) for chest oppression, not using Rhizoma Pinelliae (Banxia) for dry mouth, and not using Rhizoma Atractylodis Macrocephalae (Baizhu) for constipation.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047570",
+    "authors": [
+        "Qu, Shuxian",
+        "Pan, Liping",
+        "Liang, Hanpeng",
+        "Zhu, Lanxin",
+        "Chen, Yaxin",
+        "Cai, Siya",
+        "Zhao, Xuejing",
+        "Zhao, Huihui"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

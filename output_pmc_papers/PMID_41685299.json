@@ -1,0 +1,23 @@
+{
+    "pmid": "41685299",
+    "title": "The predictive value of modified-Naples prognostic score for patients with locally advanced non-small cell lung cancer undergoing surgery after neoadjuvant chemotherapy.",
+    "abstract": "To evaluate the prognostic significance of the modified Naples Prognostic Score (mNPS) in patients with locally advanced non-small cell lung cancer (NSCLC) after neoadjuvant chemotherapy and surgery.\nWe conducted 126 patients with locally advanced NSCLC who were surgically treated at the Affiliated Hospital of Shandong Second Medical University from September 2012 to April 2019. According to the albumin, cholesterol, neutrophil-to-lymphocyte ratio (NLR), and lymphocyte-to-monocyte ratio (LMR) before neoadjuvant chemotherapy, mNPS was divided into separate Groups: Group 0, Group 1, and Group 2. The Kaplan-Meier method was used to analyze survival curves according to mNPS. Univariate and multivariate Cox analyses of overall survival (OS) and progression-free survival (PFS) were then conducted.\nBased on the mNPS system, the three Groups were defined as follows: Group 0, 20(15.9%) patients; Group 1, 85(67.5%) patients; and Group 2, 21(16.7%) patients. MNPS had a higher predictive value for OS (AUC = 0.640, P = 0.007) and PFS (AUC = 0.623, P = 0.024). Univariate analysis showed that clinical stage (P = 0.004), KPS score (P = 0.003), and surgical method (P = 0.042) were significantly correlated with OS. Clinical stage (P = 0.005), KPS score (P = 0.002), and mNPS (Group 2 vs Group 0, P = 0.002; Group 1 vs Group 0, P = 0.010) were significantly associated with PFS. Based on the positive results of univariate analyses, we performed multivariate analysis. Multivariate Cox Regression showed that clinical stage (P = 0.022), KPS score (P = 0.017), and mNPS (Group 2 vs Group 0, P = 0.008; Group 1 vs Group 0, P = 0.038) were independent prognostic factors for PFS.\nMNPS was an independent prognostic factor for PFS in patients with locally advanced non-small cell lung cancer undergoing surgery after neoadjuvant chemotherapy, but it was not an independent prognostic factor for OS. Comparatively, NPS had a higher significance in predicting the prognosis of resected locally advanced NSCLC patients receiving neoadjuvant chemotherapy and surgery.",
+    "publication_year": "2026",
+    "journal": "Frontiers in immunology",
+    "doi": "10.3389/fimmu.2026.1748521",
+    "authors": [
+        "Wang, Yang",
+        "Tang, Chunyan",
+        "Bing, Junyuan",
+        "Dejenie, Rebeka",
+        "Zhang, Yanfei",
+        "Li, Fangchao",
+        "Fang, Xiaolong",
+        "Chen, Xiaotong",
+        "Yang, Min",
+        "Zang, Yunxia",
+        "Li, Jingjing"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}

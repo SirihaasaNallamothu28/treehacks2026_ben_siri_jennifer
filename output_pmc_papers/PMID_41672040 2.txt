@@ -1,5 +1,0 @@
-PMID: 41672040
-Title: Shedding light on interventions for brain aging.
-
-Abstract:
-Immunotherapeutic approaches to brain aging remain largely preclinical and in early translational stages, and they have focused mostly on modulating innate immunity. In this issue of Immunity, Negredo et al. identify T cells bearing exhaustion-like signatures as a hallmark of brain aging and reveal the beneficial effects of an engineered IL-10 variant that functionally uncouples pro- and anti-inflammatory signaling in microglia.

@@ -1,0 +1,18 @@
+{
+    "pmid": "41685310",
+    "title": "LAG-3-associated CD8<sup>+</sup> T-cell dysfunction in the cervical cancer tumor microenvironment.",
+    "abstract": "Cytotoxic T lymphocytes (CTLs, mainly CD8<sup>+</sup> T cells) are the primary killer cells in the tumor microenvironment (TME). This study investigates the expression of LAG-3 in the TME of cervical cancer and its regulatory role in CD8<sup>+</sup> T cell function.\nCervical tissue pathological sections and fresh cervical tissues were collected from patients with cervical cancer, patients with high-grade squamous intraepithelial lesion (HSIL), and patients who underwent hysterectomy for non-cervical diseases (without a history of other tumors). Immunohistochemistry, Western blotting, quantitative real-time PCR, and fluorescence imaging techniques were used to analyze the expression of LAG-3 in the cervical cancer TME and its correlation with clinical tumor stage, differentiation grade, lymph node metastasis status, and lymphovascular space invasion. A cell co-culture system and a cervical cancer mouse model were established to evaluate the effects of lag-3 on tumor growth and changes in CD8<sup>+</sup> T cell function.\nLAG-3 is highly expressed in the tumor microenvironment (TME) of cervical cancer, with its expression level increasing as the tumor stage progresses: the lower the degree of differentiation, the higher the LAG-3 expression; LAG-3 expression is also elevated in cases with lymph node metastasis and lymphovascular space invasion. <i>In vivo</i> mouse models confirmed that lag-3 inhibits CD8<sup>+</sup> T cells from expressing Ki67, T-bet, TNF-\u03b1, IFN-\u03b3, and IL-2. Furthermore, we found that lag-3 not only suppresses the differentiation of naive CD8<sup>+</sup> T cells into central memory T cells (TCM) but also inhibits the differentiation of TCM into effector memory T cells (TEM), a subset with stronger anti-tumor effector functions. A similar phenomenon was observed in cell co-culture experiments.\nWe confirmed that LAG-3 is highly expressed in cervical cancer tissues and is closely correlated with clinical stage, differentiation grade, lymph node metastasis, and lymphovascular space invasion. LAG-3 may inhibit the function of CD8<sup>+</sup> T cells in the cervical cancer TME, thereby promoting the progression of cervical cancer.",
+    "publication_year": "2026",
+    "journal": "Frontiers in immunology",
+    "doi": "10.3389/fimmu.2026.1750726",
+    "authors": [
+        "Zhang, Guang",
+        "Wang, Lei",
+        "Chen, Jianhuan",
+        "Wang, Jing",
+        "Ainiwaer, Abidan",
+        "Ma, Cailing"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

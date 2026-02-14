@@ -1,8 +1,0 @@
-PMID: 41680899
-Title: Inference of SARS-CoV-2 exposure biomarkers using large-scale T-cell repertoire profiling.
-
-Abstract:
-The COVID-19 pandemic offers a powerful opportunity to develop methods for monitoring the spread of infectious diseases based on their signatures in population immunity. Adaptive immune receptor repertoire sequencing (AIRR-seq) has become the method of choice for identifying T cell receptor (TCR) biomarkers encoding pathogen specificity and immunological memory. AIRR-seq can detect imprints of past and ongoing infections and facilitate the study of individual responses to SARS-CoV-2, as shown in many recent studies.
-The new batch effect correction method allowed us to use data from different batches together, as well as combine the analysis for data obtained using different protocols. Proper standardization of AIRR-seq batches, access to human leukocyte antigen (HLA) typing, and the use of both α- and β-chain sequences of TCRs resulted in a high-quality biomarker database and a robust and highly accurate classifier for COVID-19 exposure.
-Here, we have applied a machine learning approach to two large AIRR-seq datasets with more than 1,200 high-quality repertoires from healthy and COVID-19-convalescent donors to infer TCR repertoire features that were induced by SARS-CoV-2 exposure.
-This developed classifier is applicable to individual TCR repertoires obtained using various protocols, paving the way to AIRR-seq-based immune status assessment in large cohorts of donors.

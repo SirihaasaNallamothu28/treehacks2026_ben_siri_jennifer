@@ -1,5 +1,0 @@
-PMID: 41665459
-Title: Immunofitness in the elderly: The role of vaccination in promoting healthy aging.
-
-Abstract:
-Aging reshapes immunity through immunosenescence and inflammaging, increasing susceptibility to infection, exacerbating chronic conditions, and blunting vaccine responses. This review frames "immunofitness" as a practical goal of healthy aging and examines how adult vaccination builds immune resilience. Vaccination strengthens adaptive memory, leverages adjuvants to optimize antigen presentation, and can reprogramme innate cells (trained immunity), yielding heterologous benefits beyond target pathogens. We integrate evidence in older adults for influenza, respiratory syncytial virus, pneumococcal, COVID-19, and recombinant zoster vaccines, including reductions in respiratory events, cardiovascular outcomes, hospitalization, and mortality. We highlight emerging platforms and precision vaccinology to tailor schedules by immune age, comorbidity, and frailty. Integrating routine, age-appropriate vaccination with lifestyle measures is a feasible, high-impact strategy to promote immunofitness.

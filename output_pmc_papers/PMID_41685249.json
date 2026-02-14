@@ -1,0 +1,18 @@
+{
+    "pmid": "41685249",
+    "title": "A dose-response relationship between low-density lipoprotein cholesterol levels within the normal range and the incidence of diabetes mellitus: a retrospective cohort study.",
+    "abstract": "Despite the established link between elevated Low-density lipoprotein cholesterol (LDL-C) and diabetes, the association of LDL-C levels within the normal range with diabetes is poorly characterized. This study aimed to investigate the relationship between normal-range LDL-C levels and the incidence of new-onset diabetes.\nIn this retrospective cohort study, a total of 98,857 individuals with normal LDL-C levels (\u22643.4 mmol/L) were enrolled between 2010 and 2016. The association was assessed using Cox proportional hazards regression models. Restricted cubic splines were utilized to examine dose-response relationships and potential nonlinearity. Subgroup analyses were pre-specified by age, sex, and Body mass index (BMI).\nDuring a median follow-up of 3.1 years, 2,107 incident diabetes cases were documented. After multivariable adjustment, participants in the highest level of LDL-C (G4: 2.6-3.4 mmol/L) had a significantly increased risk of diabetes compared to those in the lowest level (G1: 0-1.4 mmol/L), with an adjusted hazard ratios (HR) of 2.11 [95% confidence interval (CI): 1.32-3.38, P = 0.002]. A clear dose-response relationship was observed. Notably, the risk of incident diabetes increased significantly once LDL-C levels exceeded approximately 1.8 mmol/L (Adjusted HR = 1.93, 95% CI: 1.64-2.28, P<0.001). This association remained consistent across all pre-specified subgroups.\nAmong individuals with normal LDL-C levels, higher LDL-C is an independent, dose-dependent risk factor for new-onset diabetes. Maintaining LDL-C below a threshold of approximately 1.8 mmol/L may be associated with a lower diabetes risk, suggesting its potential role in refining primary prevention strategies.",
+    "publication_year": "2026",
+    "journal": "Frontiers in endocrinology",
+    "doi": "10.3389/fendo.2026.1765884",
+    "authors": [
+        "Tian, Yuanshu",
+        "Tong, Jingjing",
+        "Xue, Zhe",
+        "Lou, Xiaolin",
+        "Guo, Rubing",
+        "Zhao, Wei"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

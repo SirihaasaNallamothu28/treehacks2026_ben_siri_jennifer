@@ -1,9 +1,0 @@
-PMID: 41663896
-Title: Utility of Computed Tomography-Based Intraoperative Surgical Margin Evaluation in Wedge-Resected Lung Specimens.
-
-Abstract:
-Adequate surgical margin is essential when performing a sublobar resection. We have previously demonstrated the feasibility of surgical margin evaluation on resected lung specimens using computed tomography (CT). We aim to evaluate the reliability and impact of intraoperative CT image feedback for surgical decision-making.
-Patients scheduled for therapeutic wedge resections for lung malignancies were enrolled. The wedge-resected specimen was inflated with air and scanned by CT. The CT images were shared with the attending surgeons to determine whether additional management was required. The surgeon's estimated margins (estiMargins) were also surveyed before and after resection.
-Seventy specimens (27 lung cancers and 43 metastatic lung tumours, including suspected cases) from 61 patients underwent CT. Computed tomography-measured margins were successfully evaluated except in 4 cases due to poor tumour identification. Computed tomography-measured margins closely agreed with pathological margins (pathMargins), as indicated by Bland-Altman analysis (bias 0.6 mm, limits of agreement -8.1 to 9.4 mm). A strong correlation between them was observed using Pearson's correlation analysis (r = 0.75). Pre- and post-resection estiMargin were significantly longer than pathMargin (11.0 ± 5.0 vs 11.5 ± 7.0 vs 8.3 ± 6.5 mm, P < .01). The reference CT images impacted the surgical decision-making in 7.4% of lung cancer cases (1 case: additional cytology; 2 cases: considered additional resection).
-CT-based margin evaluation method can provide an intraoperative timely and more reliable estimate of the pathMargin compared to surgeon's estimates and could be a novel approach to ensure more sufficient surgical margins during wedge resection.
-NCT07242053.

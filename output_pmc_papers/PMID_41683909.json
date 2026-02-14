@@ -1,0 +1,26 @@
+{
+    "pmid": "41683909",
+    "title": "Dynamic microRNA Signatures as Biomarkers for Cardiac Ischemia and Remodeling.",
+    "abstract": "Myocardial infarction (MI) triggers complex pathological processes, including inflammation, hypoxia, and fibrotic remodeling. MicroRNAs (miRNAs) have emerged as promising biomarkers for cardiovascular injury; however, their expression dynamics along processes remain underexplored. We used an in vivo rat model of permanent coronary occlusion to study the molecular alterations associated with MI and its resolution in a temporal mode, including five experimental groups with five animals in each: sham, PO 24 h, PO 72 h, PO 7 d, PO 1 month. Histological analysis, serum biomarkers, and miRNA/gene expression profiles were analyzed in a time-dependent manner post-occlusion. Subsequent analysis revealed early depletion of selected circulating miRNAs (PO 24 h). Transient upregulation in cardiac tissue miRNAs, inflammatory and fibrotic gene expression (Fibronectin, Collagen, Vimentin, E-Cadherin) were observed at PO 72 h. These molecular alterations correlated with histological evidence of myocardial injury and repair. Taken together, our findings delineate the molecular timeline of MI progression and resolution and identify candidate miRNAs as sensitive and time-dependent indicators of myocardial stress, including miR-107, miR-122-5p and miR-221-3p. This integrative approach supports the use of miRNA signatures for noninvasive monitoring of cardiac injury and resolution and unveils potential therapeutic targets to reduce pathological remodeling.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031488",
+    "authors": [
+        "Rodr\u00edguez-Serrano, Macarena",
+        "Mart\u00edn-Garc\u00eda, Elena",
+        "Alonso-Andr\u00e9s, Patricia",
+        "Conde-Moreno, Elisa",
+        "Pian, H\u00e9ctor",
+        "Del Moral-Salmoral, Javier",
+        "Alcharani, Nunzio",
+        "Menacho-Rom\u00e1n, Miriam",
+        "Crespo-Toro, Lorena",
+        "Ramos-Mu\u00f1oz, Miren Edurne",
+        "Zaragoza, Carlos",
+        "Rinc\u00f3n, Luis Miguel",
+        "Barderas, Mar\u00eda G",
+        "Garc\u00eda-Bermejo, Mar\u00eda Laura"
+    ],
+    "num_authors": 14,
+    "citations": 0
+}

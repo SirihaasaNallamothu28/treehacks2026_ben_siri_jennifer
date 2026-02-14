@@ -1,0 +1,15 @@
+{
+    "pmid": "41686547",
+    "title": "Exploration of pathogenesis and targeted drugs of postmenopausal osteoporosis by means of analysis based on reverse network pharmacology.",
+    "abstract": "This study aims to explore pathogenesis of postmenopausal osteoporosis and study of active compounds of traditional Chinese medicine (TCM) based on reverse network pharmacology and molecular docking. Targets of \"osteoporosis\" and \"postmenopausal\" were obtained from GeneCards, and common targets of both were displayed through Venny Diagram. Extracted list of common targets was input into Metascape for gene ontology analysis to identify pathogenesis and pathway. Protein-protein interaction network was carried out by the String, and Degree was calculated by Cytoscape software to determine key target. Key target of acquisition site was converted from UniProt to TCMSP to collect active compounds of TCM. Target with high Degree was selected for molecular docking with active compound, then corresponding TCM was found from active compound, and finally, key target-active compound-TCM network was constructed to determine active compound and TCM with high Degree. Total 182 common targets of \"osteoporosis\" and \"menopause\" were obtained and 17 key targets with high Degree were matched to TCM compounds in TCMSP. Among them, 3 target proteins with highest Degree and 6 TCM compounds with Degree\u2005\u2265\u20055, oral bioavailability\u2005\u2265\u200530%, and drug-likeness\u2005\u2265\u20050.18 were validated for 18 molecular docking tests, and results were stable. Gene ontology analysis mainly shows response to hormone, ossification, and regulation of mitogen-activated protein kinases cascade. Three hundred kinds of TCM were collected from TCMSP, based on effective compounds of TCM. Among them, Chinese herbs with Degree\u2005\u2265\u20054 were Suberect Spatholobus Stem, Ginkgo Seed, Wild Buckwheat Rhizome, Sea Buckthorn Fruit, and Ginkgo Leaf. Reverse network pharmacological thinking were used to predict target, pathway, composition, and TCM of postmenopausal osteoporosis, providing new ideas for finding new targeted drugs.",
+    "publication_year": "2026",
+    "journal": "Medicine",
+    "doi": "10.1097/MD.0000000000047740",
+    "authors": [
+        "Wu, Daidai",
+        "Zhao, Wanghuan",
+        "Ni, Yuehan"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

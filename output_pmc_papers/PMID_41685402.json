@@ -1,0 +1,17 @@
+{
+    "pmid": "41685402",
+    "title": "Chronotype and sleep duration in relation to leukaemia subtypes: a two-sample Mendelian randomization analysis.",
+    "abstract": "Several observational studies have suggested an association between sleep traits and leukaemia. This study aimed to determine the causal association between sleep traits and leukaemia using two-sample Mendelian Randomization (MR) analysis.\nPublicly available databases were used to retrieve summary statistics from genome-wide association studies (GWAS) related to sleep traits (UK BioBank) and leukaemia (FinnGen database). Inverse Variance Weighted (IVW) method was utilized for the primary MR analysis. Subsequently, we conducted a reverse MR analysis. Sensitivity analyses and statistical power calculation validated the robustness of the research findings. The Steiger directionality test was employed to ascertain the direction of causality.\nUnivariable MR identified nominal associations between chronotype and higher risk of acute lymphoblastic leukaemia (OR\u2009=\u20092.15, <i>P</i>\u2009=\u20090.014) and chronic myeloid leukaemia (OR\u2009=\u20091.27, <i>P</i>\u2009=\u20090.016), as well as between short sleep duration and lower lymphoid leukaemia risk (OR\u2009=\u20090.06, <i>P</i>\u2009=\u20090.035). However, none remained significant after FDR correction. Sensitivity analyses revealed no evidence of heterogeneity or horizontal pleiotropy. Adjusting for smoking and BMI in multivariable MR abolished all associations. Colocalization suggested shared genetic variants, but reverse MR indicated a significant effect only from acute lymphoblastic leukaemia to chronotype (P<sub>FDR</sub>\u2009=\u20090.0017).\nOur MR study found several nominal associations that sleep traits causally influence leukaemia subtypes. Nominal associations were not significant after multiple testing correction, attenuated by adjustment for smoking and BMI, and potentially affected by pleiotropy or reverse causation.",
+    "publication_year": "2026",
+    "journal": "Hematology (Amsterdam, Netherlands)",
+    "doi": "10.1080/16078454.2026.2626211",
+    "authors": [
+        "Wang, Lina",
+        "Liu, Jiang",
+        "Liu, Jiahui",
+        "Zhang, Ling",
+        "Zhang, Ruijuan"
+    ],
+    "num_authors": 5,
+    "citations": 0
+}

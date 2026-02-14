@@ -1,7 +1,0 @@
-PMID: 41682320
-Title: Action-Aware Multimodal Wavelet Fusion Network for Quantitative Elbow Motor Function Assessment Using sEMG and Robotic Kinematics.
-Journal: Sensors (Basel, Switzerland)
-Authors: Song, Zilong; Zhu, Pei; Yang, Cuiwei; Wang, Daomiao; Song, Jialiang; Wang, Daoyu; Fang, Fanfu; Wang, Yixi
-
-Abstract:
-Accurate upper-limb motor assessment is critical for post-stroke rehabilitation but relies on subjective clinical scales. This study proposes the Action-Aware Multimodal Wavelet Fusion Network (AMWFNet), integrating surface electromyography (sEMG) and robotic kinematics for automated Fugl-Meyer Assessment (FMA-UE)-aligned quantification. Continuous Wavelet Transform (CWT) converts heterogeneous signals into unified time-frequency scalograms. A learnable modality gating mechanism dynamically weights physiological and kinematic features, while action embeddings encode task contexts across 18 standardized reaching tasks. Validated on 40 participants (20 post-stroke, 20 healthy), AMWFNet achieved 94.68% accuracy in six-class classification, outperforming baselines by 9.17% (Random Forest: 85.51%, SVM: 85.30%, 1D-CNN: 91.21%). The lightweight architecture (1.27 M parameters, 922 ms inference) enables real-time assessment-training integration in rehabilitation robots, providing an objective, efficient solution.

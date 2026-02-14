@@ -1,0 +1,15 @@
+{
+    "pmid": "41685416",
+    "title": "Beyond Chemotherapy: Network Meta-Analysis Reveals Optimal Neoadjuvant Strategies for Luminal Breast Cancer.",
+    "abstract": "Hormone receptor-positive (HR+), HER2-negative (HER2-) breast cancer represents the most common subtype. Given its distinct biology, neoadjuvant endocrine therapy (NET) offers comparable efficacy to neoadjuvant chemotherapy (NCT) with less toxicity. This systematic review and network meta-analysis evaluates the evidence to guide clinical decision-making for locally advanced or inoperable HR+/HER2- breast cancer.\nWe analyzed phase II/III neoadjuvant clinical trials in HR+/HER2- breast cancer. Primary endpoints were overall response rate (ORR) by palpation and imaging. Secondary endpoints included breast-conserving surgery (BCS) rates, pathological complete response (pCR), and safety. Treatment efficacy was ranked using surface under the cumulative ranking curve (SUCRA).\nA total of 5181 patients across 21 trials were included in the study. CDK4/6 inhibitor + ET ranked highest for ORR by palpation (90.9%), and BCS (77.1%), followed by aromatase inhibitors (76.1% and 74.4%, respectively). For ORR by radiography, chemotherapy ranked first (87.6%) followed by the tyrosine kinase inhibitor (TKI) plus ET (76.7%). TKI\u2009+\u2009ET ranked first in pCR (79.6%), followed by chemotherapy (76.1%). Selective estrogen receptor degraders were the most tolerable, with the highest ranking in completion rate (84.1%) and fewer \u2265\u2009grade 3 adverse events (90.4%).\nNET is a viable alternative to NCT in HR+/HER2- patients. CDK4/6\u2009+\u2009ET demonstrates superior tumor reduction and safety, potentially enabling postoperative therapy de-escalation. These findings support NET as a strategic option for optimizing outcomes while minimizing toxicity.",
+    "publication_year": "2026",
+    "journal": "Cancer medicine",
+    "doi": "10.1002/cam4.71648",
+    "authors": [
+        "Li, Xinyu",
+        "Du, Peijing",
+        "Huang, Tao"
+    ],
+    "num_authors": 3,
+    "citations": 0
+}

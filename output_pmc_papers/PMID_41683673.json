@@ -1,0 +1,18 @@
+{
+    "pmid": "41683673",
+    "title": "UHPLC-QTOF-MS Profiling of Chemical Constituents in POW9<sup>TM</sup> Cocktail with Antioxidant and Anti-Proliferative Potentials Against Vero, MCF-7 and MDA-MB-231 Cells.",
+    "abstract": "Breast cancer remains one of the most prevalent and lethal malignancies affecting women worldwide, underscoring the need for safer and more effective therapeutic strategies. This study investigated the phytochemical composition, antioxidant activity, and antiproliferative potential of POW9\u2122, a proprietary botanical blend formulated from nine medicinal plant extracts. Comprehensive phytochemical profiling was performed using ultrahigh-performance liquid chromatography coupled with electrospray ionization quadrupole time-of-flight mass spectrometry (UHPLC-ESI-QTOF-MS) in both positive and negative ionization modes. A total of 34 compounds were identified in negative mode and 27 compounds in positive mode, comprising flavonoids, terpenoids, steroids, organic acids, peptides, glycosides, and lipids. POW9\u2122 exhibited high total phenolic content (190.3 \u00b1 3.5 mg gallic acid equivalents/g) and total flavonoid content (115.2 \u00b1 1.5 mg quercetin equivalents/g), along with strong antioxidant activity, demonstrated by a 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging with a half-maximal inhibitory concentration (IC<sub>50</sub>) of 1.66 mg/mL (33.73 mg Trolox equivalents/g). Cytotoxicity assessment revealed minimal toxicity toward normal Vero cells. In contrast, POW9\u2122 significantly inhibited the proliferation of human breast cancer cell lines in a concentration- and time-dependent manner. The IC<sub>50</sub> values were 6.75 mg/mL for MCF-7 cells and 18.08 mg/mL for MDA-MB-231 cells after 72 h of treatment, while prolonged exposure (96 h) further enhanced antiproliferative efficacy, reducing the IC<sub>50</sub> to 2.34 mg/mL. These findings demonstrate that POW9\u2122 is a chemically diverse herbal formulation with potent antioxidant and selective anti-breast cancer activities, supporting its potential development as a complementary therapeutic or nutraceutical agent for breast cancer management.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031246",
+    "authors": [
+        "Taworntawat, Chirra",
+        "Tonkittirattanakul, Pisit",
+        "Koonyosying, Pongpisid",
+        "Perrodin, David D",
+        "Srichairatanakool, Somdet",
+        "Tipsuwan, Wachiraporn"
+    ],
+    "num_authors": 6,
+    "citations": 0
+}

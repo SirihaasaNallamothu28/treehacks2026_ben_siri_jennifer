@@ -1,0 +1,13 @@
+{
+    "pmid": "41689620",
+    "title": "New Approaches for Measurable Residual Disease Assessment in Multiple Myeloma: Integrating NGS, Mass Spectrometry, and Next-Generation Flow Cytometry to Monitor Treatment Response.",
+    "abstract": "Measurable residual disease (MRD) has emerged as the strongest prognostic biomarker in multiple myeloma (MM), providing a deeper assessment of treatment response than conventional serological tests. Sensitive MRD detection is helpful in risk stratification, prognostication, and early relapse prediction and is increasingly being used as an important clinical trial endpoint in MM. Moreover, MRD has emerged as a useful tool in guiding treatment intensity and duration.\nMRD can be assessed using bone marrow-based, peripheral blood-based, or imaging-based techniques. Bone marrow-based next-generation flow cytometry and next-generation sequencing, with a minimum sensitivity of 10<sup>-\u20095</sup>, remain the current standard for MRD testing in MM. However, limitations like the need for frequent bone marrow aspirations and false negative results in patchy marrow involvement or isolated extramedullary disease have accelerated the interest in peripheral blood-based MRD tools. Mass spectrometry-based approaches, including intact protein mass spectrometry (MALDI-TOF assays like 'MASS-FIX' and 'EXENT') and clonotypic peptide mass spectrometry (such as 'EasyM' and 'M-Insight'), have evolved as highly sensitive peripheral blood-based MRD detection tools for relatively non-invasive dynamic MRD monitoring. Newer technologies like droplet digital PCR, circulating tumor cell analysis using enriched flow cytometry, cell-free DNA sequencing, and emerging epigenetic and fragmentomic profiling are in various phases of research and have the potential to revolutionize the way we monitor and treat MM. Finally, numerous active clinical trials worldwide are exploring the role of MRD in guiding treatment and are expected to shed light on the optimal approach to MRD assessments in routine clinical practice.",
+    "publication_year": "2026",
+    "journal": "Current hematologic malignancy reports",
+    "doi": "10.1007/s11899-026-00771-8",
+    "authors": [
+        "Mohan Lal, Bhavesh",
+        "Kumar, Shaji K"
+    ],
+    "num_authors": 2
+}

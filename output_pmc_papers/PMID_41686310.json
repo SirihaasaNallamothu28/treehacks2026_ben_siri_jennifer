@@ -1,0 +1,14 @@
+{
+    "pmid": "41686310",
+    "title": "Investigation of transcription factor NF\u03baB-mediated autophagy regulation mechanisms in non-small cell lung cancer.",
+    "abstract": "Autophagy is a conserved intracellular degradation and recycling process in eukaryotic cells. Autophagy dysfunction is linked to several diseases, including cancer. Depending on cancer type and context, autophagy may act as a tumor suppressor or promote tumor progression. Various cellular pathways regulate autophagy, among which the NF\u03baB signaling pathway plays a dual role, either promoting or inhibiting autophagy. Since many cancer therapies affect both autophagy and NF\u03baB, understanding their interaction can help develop more effective combination treatments. However, the specific mechanisms by which NF\u03baB regulates autophagy in Non-Small Cell Lung Cancer (NSCLC) remain unclear. In this study, we aimed to elucidate this regulatory relationship and identify key genes involved.\nWe established NSCLC cell groups with NF\u03baB overexpression or suppression, and with or without autophagy induction. Autophagy levels were assessed via western blot. RNA-seq analysis was performed to identify differentially expressed genes among these groups, and candidate regulators were selected based on expression patterns and in silico analysis. Selected genes were validated with qRT-PCR. Our results show that NF\u03baB positively regulates autophagy-related processes in NSCLC cells, as reflected by altered LC3B-II levels. Genes with expression which decreased upon NF\u03baB suppression but increased with NF\u03baB overexpression under autophagy-induced conditions were identified as candidate regulators. Among these, the putative NF\u03baB-NLRP3 regulatory relationship appears to play a particularly important role in the upregulation of autophagy.\nThis study provides an NSCLC-specific transcriptional framework linking NF\u03baB activity to autophagy- and inflammation-associated gene networks. By integrating expression profiling and in silico analyses, we identify candidate NF\u03baB-responsive genes, including NLRP3, that may contribute to autophagy-related cellular responses in NSCLC.",
+    "publication_year": "2026",
+    "journal": "Molecular biology reports",
+    "doi": "10.1007/s11033-026-11552-0",
+    "authors": [
+        "Alvur, Ozge",
+        "Akca, Hakan"
+    ],
+    "num_authors": 2,
+    "citations": 0
+}

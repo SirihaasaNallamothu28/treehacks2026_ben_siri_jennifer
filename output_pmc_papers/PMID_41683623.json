@@ -1,0 +1,20 @@
+{
+    "pmid": "41683623",
+    "title": "FOXA1 in Ovarian Cancer: A Potential Therapeutic Target to Enhance Immunotherapy Efficacy.",
+    "abstract": "This study aimed to elucidate the oncogenic role of FOXA1(forkhead box A1) in ovarian cancer and to evaluate its potential as both a therapeutic target and a diagnostic biomarker. We further investigated whether FOXA1 inhibition could enhance responsiveness to immune checkpoint blockade and overcome chemoresistance. A total of seventy-six ovarian tissue samples were analyzed, including nine normal, thirty-four benign, and thirty-three malignant specimens. IHC (immunohistochemistry) staining was performed to assess FOXA1 expression and its correlation with tumor stage. Functional studies were conducted using FOXA1 siRNA in SK-OV3 and HEYA8 cell lines. Changes in cell proliferation, migration, invasion, and wound-healing ability were evaluated following FOXA1 silencing. Quantitative RT-PCR was used to measure the expression of FOXA1 and EMT (epithelial-mesenchymal transition)-related genes. The effects of FOXA1 inhibition on sensitivity to carboplatin and the immune checkpoint inhibitor atezolizumab were also examined. IHC analysis revealed significant differences in FOXA1 expression among normal, benign, and malignant tissues, with levels correlating with tumor stage. FOXA1 silencing significantly reduced proliferation and decreased migration and invasion by 60-80%, accompanied by marked downregulation of EMT-related genes. Moreover, FOXA1 inhibition enhanced atezolizumab responsiveness and reduced carboplatin resistance in ovarian cancer cells. In summary, FOXA1 acts as an oncogenic driver in ovarian cancer, promoting proliferation, invasion, and EMT activation. Its overexpression correlates with disease progression, supporting its potential as a biomarker and therapeutic target. Targeting FOXA1 could enhance immunotherapy efficacy and help overcome chemoresistance in ovarian cancer.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031194",
+    "authors": [
+        "Kim, Taewan",
+        "Ryu, Jaesung",
+        "Kong, Hyejeong",
+        "Park, Beamjun",
+        "Kim, Kwangseock",
+        "Yang, Eunjung",
+        "Ahn, Taesung",
+        "Jeon, Seob"
+    ],
+    "num_authors": 8,
+    "citations": 0
+}

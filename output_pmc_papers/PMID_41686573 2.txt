@@ -1,8 +1,0 @@
-PMID: 41686573
-Title: Global research status of the impact of neutrophil extracellular traps on tumor from 2004 to 2023: A bibliometric and visualized analysis.
-
-Abstract:
-Tumors are a major threat to human life and health. Neutrophil extracellular traps (NETs) have become a research focus in this context, especially regarding their role in tumor progression. Since the concept of NETs was introduced in 2004, its implications for tumor research have attracted significant scholarly attention. This study aims to explore research trends and cutting-edge hotspots in NETs and tumors through bibliometric analysis and provide new ideas for clinical applications.
-We searched for literature on NETs and tumors published between 2004 and 2023 using the Web of Science database. Microsoft Excel 2019 was used for statistical analysis of influential articles, journals, authors, organizations, countries, and co-cited references. VOSviewer (version 1.6.16) and CiteSpace (V.5.8.R3) were employed for visualizing research data.
-The analysis covered 790 articles authored by 4768 individuals from 1134 organizations in 56 countries. China and the United States are the leading contributors. The mechanism of NETs in tumor occurrence and development is likely linked to coagulation, inflammation, and infection. Hot topics in research include dendritic cells and thrombosis, with a shift from laboratory studies to clinical applications, suggesting a growing focus on treatment over etiology.
-This study offers the most comprehensive bibliometric analysis of NETs and tumors to date. Future research may focus on developing targeted therapies that block the interaction between NETs and tumors, offering a new direction for cancer treatment.

@@ -1,0 +1,16 @@
+{
+    "pmid": "41684033",
+    "title": "Predicting Pathogenicity of <i>TSHR</i> Missense Variants of Uncertain Significance: An Integrative Computational Study.",
+    "abstract": "Pathogenic variants in the thyroid-stimulating hormone receptor gene (<i>TSHR</i>) contribute to a wide spectrum of thyroid dysfunctions, ranging from congenital hypothyroidism to thyrotropin resistance. With the advancement of bioinformatics algorithms for variant effect prediction, assessing the pathogenic potential of variants has become increasingly important. This study aimed to investigate the pathogenic effects of <i>TSHR</i> variants classified as variants of uncertain significance (VUSs) in the gnomAD v4.1.0 database. <i>TSHR</i> variants listed in gnomAD v4.1.0 were retrieved and filtered to select missense VUSs based on ClinVar classifications. Multiple bioinformatics tools were used to assess the secondary and three-dimensional structures of the <i>TSHR</i>, as well as protein stability, evolutionary conservation, and molecular dynamics simulations. A total of 2760 <i>TSHR</i> variants were found in gnomAD v4.1.0, including 75 frameshifts, 80 splice-sites, 265 in the 3' and 5' untranslated regions, 422 synonymous, 892 others, and 1026 missense variants. Among these, 68 missense VUSs were identified and selected for bioinformatics analysis. Three variants (p.Cys29Trp, p.Leu57Pro, and p.Phe97Ser) were consistently predicted to be pathogenic by all the bioinformatics tools used. All three variants were located within the leucin-rich repeat domain extracellular region of the <i>TSHR</i> and within a highly conserved region across species. Molecular dynamics simulations for mutant proteins (p.Cys29Trp, p.Leu57Pro, and p.Phe97Ser) reveal structural instability in comparison to the wild protein. Comprehensive bioinformatics analysis revealed that three <i>TSHR</i> missense VUSs exhibited pathogenic potential. These variants may contribute to thyroid dysfunction by affecting the receptor's structural and signalling integrity.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031614",
+    "authors": [
+        "Hajali, Tassneem Awad",
+        "Ahmed Omer, Islamia Ibrahim",
+        "Rezk, Mohamad Y",
+        "Hamdan, Hamdan Z"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

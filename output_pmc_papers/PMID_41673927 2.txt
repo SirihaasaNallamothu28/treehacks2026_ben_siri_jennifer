@@ -1,5 +1,0 @@
-PMID: 41673927
-Title: The neutrophil-to-lymphocyte ratio as a marker of immunosenescence and COVID-19 outcomes in the elderly: A narrative review.
-
-Abstract:
-Older adults are highly vulnerable to severe COVID-19. Unlike our previous work on broad immunosenescence, this review focuses on peripheral hematological markers as practical indicators of risk. To examine lymphopenia, neutrophilia, and the neutrophil-to-lymphocyte ratio (NLR) as clinically accessible markers of immune aging and COVID-19 severity in older adults. Literature search of PubMed, Scopus, and Web of Science (up to 2025) for studies on aging, immunosenescence, lymphopenia, neutrophilia, NLR, and COVID-19. These markers consistently correlate with worse COVID-19 outcomes; NLR is a simple, reliable indicator of immune dysregulation, systemic inflammation, and mortality risk. Lymphopenia, neutrophilia, and elevated NLR are low-cost, readily measurable markers associated with COVID-19 severity, highlighting their prognostic value and complementing prior immunosenescence research.

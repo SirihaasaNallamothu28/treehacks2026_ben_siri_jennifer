@@ -1,0 +1,16 @@
+{
+    "pmid": "41678737",
+    "title": "Enhancing protein structure prediction: evaluating the role of amino acid physicochemical features in homology search.",
+    "abstract": "Computational models like AlphaFold2 have achieved high accuracy in protein structure prediction, but their homology search step-key to generating multiple sequence alignments (MSAs)-remains computationally expensive and prone to introducing alignment noise. We propose DIAFold, which incorporates amino acid physicochemical properties as a cost-free prefiltering strategy to improve homolog detection by prioritizing biologically meaningful MSAs over exhaustive high-sensitivity searches, using DIAMOND in a fast, single-pass setting. This yields a 5.91\u00d7 speedup and reduces false positives by up to 37.7\u00d7 while producing smaller yet higher-quality MSAs and preserving or improving structure prediction accuracy, particularly in low-homology regimes. These gains translate to higher TM-scores in full-chain and domain-level predictions, using fewer computational resources, highlighting the benefits of integrating physicochemical knowledge early in protein structure prediction pipelines.",
+    "publication_year": "2026",
+    "journal": "Briefings in bioinformatics",
+    "doi": "10.1093/bib/bbag040",
+    "authors": [
+        "Akbari Roknabadi, Saeedeh",
+        "Ahmadiyan, Hadis",
+        "Wong, Limsoon",
+        "Koohi, Somayyeh"
+    ],
+    "num_authors": 4,
+    "citations": 0
+}

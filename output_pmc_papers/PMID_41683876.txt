@@ -1,7 +1,0 @@
-PMID: 41683876
-Title: Special Issue "New Agents and Novel Drugs Use for the Oncological Diseases Treatment".
-Journal: International journal of molecular sciences
-Authors: Zakharenko, Alexandra; Dyrkheeva, Nadezhda
-
-Abstract:
-Cancer is the second leading cause of death in the world after cardiovascular disease [...].

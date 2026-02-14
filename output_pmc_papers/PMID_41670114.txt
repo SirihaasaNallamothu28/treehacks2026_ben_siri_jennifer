@@ -1,5 +1,0 @@
-PMID: 41670114
-Title: Fulminant myocarditis associated with severe dengue in a young patient from the Peruvian Amazon: case report and literature review.
-
-Abstract:
-Dengue is an endemic viral infection of tropical regions that can present with clinical presentations ranging from mild forms to severe complications. Dengue-associated myocarditis, although uncommon, is a potentially fatal complication that should be suspected in febrile patients from endemic areas presenting with signs of cardiovascular dysfunction. We present the case of a 21-year-old male, resident in the Peruvian Amazon, who developed acute heart failure and refractory cardiogenic shock secondary to dengue myocarditis, with a fatal outcome on the third day of hospitalization. This case highlights the importance of early recognition of myocardial involvement and timely cardiovascular monitoring to reduce mortality associated with this infection.

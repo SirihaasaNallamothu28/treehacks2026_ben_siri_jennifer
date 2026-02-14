@@ -1,0 +1,23 @@
+{
+    "pmid": "41683869",
+    "title": "Chronic Stress Leads to Time-Dependent Bone Loss Through HPA Axis Dysregulation and GR Nuclear Translocation Disorder.",
+    "abstract": "Chronic stress and sustained hypothalamic-pituitary-adrenal (HPA) axis activation are major contributors to metabolic bone diseases, including osteoporosis. However, the precise molecular mechanisms by which chronic stress-induced HPA axis dysregulation drives bone deterioration remain unclear. A Chronic Unpredictable Mild Stress (CUMS) model was established in male rats to simulate prolonged stress exposure. Animals were randomly allocated into three groups: control, 10-week CUMS, and 20-week CUMS (<i>n</i> = 10/group). Model validity was confirmed via behavioral assessments. Bone mineral density (BMD) and trabecular microarchitecture were quantified using micro-computed tomography (micro-CT). Serum corticosterone (CORT) levels, HPA axis negative feedback function, and the expression of pro-inflammatory cytokines (IL-1\u03b2, TNF-\u03b1) in HPA-regulatory brain regions (hippocampus, prefrontal cortex, hypothalamus) were assessed. Critically, glucocorticoid receptor (GR) expression and nuclear translocation in these brain regions and bone tissue were examined by immunofluorescence and Western blot analysis. CUMS exposure induced progressive, time-dependent bone loss, with the 20-week group exhibiting significantly greater reductions in BMD and trabecular quality compared to the 10-week and control groups. While the HPA axis showed initial hyperactivation, the 20-week group displayed adrenal exhaustion (reduced serum CORT) alongside elevated ACTH, indicating feedback failure. Mechanistically, stress significantly impaired GR nuclear translocation in both brain and bone tissues, coinciding with the upregulation of FKBP5 and pro-inflammatory cytokines. Notably, despite low systemic CORT at late stages, skeletal 11\u03b2-HSD1 expression was significantly upregulated, creating a local microenvironment of glucocorticoid toxicity that aggravated osteoblast apoptosis. Our findings demonstrate that chronic stress induces progressive, time-dependent bone loss through a cascade of HPA axis dysregulation and impaired GR signaling. The FKBP5-mediated impairment of GR nuclear translocation in both central and peripheral tissues fosters glucocorticoid resistance, perpetuating hypercortisolemia and a pro-inflammatory milieu that directly accelerates osteoblast apoptosis and bone deterioration. These findings identify the HPA-GR axis as a critical pathway linking chronic stress to osteoporosis and suggest that restoring GR signaling offers a potential therapeutic strategy.",
+    "publication_year": "2026",
+    "journal": "International journal of molecular sciences",
+    "doi": "10.3390/ijms27031449",
+    "authors": [
+        "Yan, Yupeng",
+        "Li, Jiaxin",
+        "Lu, Zhengmin",
+        "Zhang, Zhiguo",
+        "Hao, Gaimei",
+        "Zhao, Yukun",
+        "Liu, Haixia",
+        "Liu, Yanjun",
+        "Bao, Xiangxin",
+        "Duan, Mengya",
+        "Li, Yubo"
+    ],
+    "num_authors": 11,
+    "citations": 0
+}
