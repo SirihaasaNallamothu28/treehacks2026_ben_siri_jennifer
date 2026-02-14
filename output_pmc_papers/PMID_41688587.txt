@@ -1,5 +1,7 @@
 PMID: 41688587
 Title: The mediating role of resourcefulness in the relationship between perceived stress and benefit finding among non-small cell lung cancer patients: a cross-sectional study.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Teng, Yanhua; Jia, Ruirui; Ma, Ning; Han, Jing; Liu, Chang
 
 Abstract:
 While perceived stress in non-small cell lung cancer (NSCLC) is typically associated with psychological distress, it can also co-occur with positive adaptation, such as benefit finding. It is unclear whether resourcefulness may mediate this association.

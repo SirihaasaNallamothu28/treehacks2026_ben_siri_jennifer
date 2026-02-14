@@ -1,5 +1,7 @@
 PMID: 41672613
 Title: Time to diagnosis for breast, cervical and colorectal cancer in Zimbabwe and South Africa: a cross-sectional study.
+Journal: BMJ global health
+Authors: Moodley, Jennifer; Scott, Suzanne E; Day, Sarah; Guzha, Bothwell T; Chirenje, Zvavahera M; Ataguba, John E; Parmar, Dharmishta; Pazukhina, Ekaterina; Myles, Jonathan; Sills, Valerie A; Govender, Sudarshan; Walter, Fiona M
 
 Abstract:
 Shorter time to diagnosis may lead to better cancer outcomes in Southern Africa. This study measured the time from symptoms to first healthcare visit (patient interval; PI) and diagnosis (diagnostic interval; DI) and associated factors for breast, cervical and colorectal cancer in Zimbabwe and South Africa (SA).

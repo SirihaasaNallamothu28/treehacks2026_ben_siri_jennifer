@@ -1,5 +1,7 @@
 PMID: 41685311
 Title: Prognostic gene screening and experimental validation in renal clear cell carcinoma based on spatial transcriptomics and single-cell sequencing.
+Journal: Frontiers in immunology
+Authors: Fu, Cong; Sun, Lin; Zhou, Tong; Bi, Yanzhi
 
 Abstract:
 Clear cell renal cell carcinoma (ccRCC) is characterized by high recurrence and metastatic potential, leading to poor clinical outcomes. There is a critical need to identify reliable prognostic biomarkers and therapeutic targets to improve patient stratification and personalized treatment.

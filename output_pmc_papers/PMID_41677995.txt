@@ -1,5 +1,7 @@
 PMID: 41677995
 Title: Comparing widefield and ultra-widefield optical coherence tomography angiography with fluorescein angiography in diabetic retinopathy: a review.
+Journal: International ophthalmology
+Authors: Pourbagherkhah, Parva; Jaldian, Hemn Baghban
 
 Abstract:
 Diabetic retinopathy (DR) is a major cause of vision impairment worldwide. Widefield optical coherence tomography angiography (WF-OCTA) is a non-invasive alternative to widefield fluorescein angiography (WF-FA) that provides high-resolution imaging of retinal vasculature. This systematic review evaluates the diagnostic performance of WF-FA and ultra-widefield (UWF)-FA vs. WF-OCTA and UWF-OCTA in detecting DR-related retinal vascular changes.

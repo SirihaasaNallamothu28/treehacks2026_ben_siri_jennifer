@@ -1,0 +1,8 @@
+PMID: 41668739
+Title: Trivalent coronavirus vaccines elicit broad-spectrum immunity in mice and attenuate respiratory viral load in golden hamsters.
+
+Abstract:
+Coronaviruses frequently undergo genomic mutation and recombination in nature. Through cross-species infection and sporadic spillover events, novel coronaviruses may periodically emerge in humans. SARS-CoV-1, MERS-CoV, and SARS-CoV-2 all cause severe, predominantly respiratory diseases with moderate to high pathogenicity, posing a substantial threat to public health. To prepare for potential future coronavirus outbreaks, there is a need for universal vaccines capable of eliciting broad-spectrum humoral and cellular immunity.
+In this study, we constructed DNA- and replicating Vaccinia virus TianTan (VTT)-vectored monovalent and trivalent vaccines, using the spike (S) proteins of the aforementioned wild-type viruses as immunogens in a heterologous DNA-prime/VTT-boost regimen.
+Compared with monovalent vaccines, the trivalent candidate induced robust, broad-spectrum humoral and cellular immune responses against the S proteins of SARS-CoV-1, MERS-CoV, and SARS-CoV-2 in mice. Notably, it also conferred protection against challenge with the SARS-CoV-2 XBB variant.
+These findings offer important insights for developing practical multivalent coronavirus vaccines that could help mitigate transmission and mortality early in future coronavirus outbreaks. Such an initial countermeasure could buy critical time for the development of variant-specific vaccines and further inform the design of universal coronavirus vaccines.

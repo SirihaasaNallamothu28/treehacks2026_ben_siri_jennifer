@@ -1,5 +1,7 @@
 PMID: 41673341
 Title: Resting-state motor network connectivity as a biomarker of Levodopa response in Parkinson's disease.
+Journal: Brain imaging and behavior
+Authors: Russo, Emma E; Simmatis, Leif E R; Kadak, Kevin; Ehsan, Zoyeb; Sieber, Selma; Seo, Hannah; Xie, Christina; Pancholi, Aditya; Abray, Emma; Harmsen, Irene E; Samuel, Nardin
 
 Abstract:
 Parkinson's disease (PD), the second most common neurodegenerative disorder, affects over 10 million people and leads to progressive motor and non-motor decline. Levodopa (L-DOPA) remains the primary treatment, yet long-term use causes motor fluctuations and dyskinesias, and tools to optimize therapy remain limited.

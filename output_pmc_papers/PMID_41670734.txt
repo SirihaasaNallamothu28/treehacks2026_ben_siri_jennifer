@@ -1,5 +1,7 @@
 PMID: 41670734
 Title: Disrupted and reorganized connectivity of brain networks in multiple sclerosis: a systematic review and meta-analysis of resting-state functional MRI.
+Journal: Journal of neurology
+Authors: Qu, Bingyi; Li, Siyi; Chen, Hongxi; Zhang, Ying; Lui, Su; Lv, Peilin; Yao, Li
 
 Abstract:
 Abnormalities in large-scale brain functional networks are implicated in multiple sclerosis (MS) and linked to clinical impairments, but reported findings remain heterogeneous due to methodological and sample variations.

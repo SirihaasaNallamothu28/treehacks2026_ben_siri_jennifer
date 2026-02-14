@@ -1,5 +1,7 @@
 PMID: 41684362
 Title: Analysis on the hospitalization expenses structure and correlation degree of lung cancer: evidence from Shanxi Province, China.
+Journal: Frontiers in public health
+Authors: Wu, Bin; Jin, Mingxue; Liu, Jing
 
 Abstract:
 Lung cancer is associated with a heavy economic burden in China. In this study, we analyzed the hospitalization expenses of patients with different types of lung cancer and investigated how the expense structure has changed from 2017 to 2021.

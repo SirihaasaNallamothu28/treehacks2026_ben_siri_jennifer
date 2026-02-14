@@ -1,5 +1,7 @@
 PMID: 41686797
 Title: Mapping disparities in diabetic eye exam adherence using geographic information systems.
+Journal: PloS one
+Authors: Dogra, Neil Sai; Geiss, Michael Patrick; Gearinger, Talia; Delmerico, Alan; Ramchandran, Rajeev S
 
 Abstract:
 Diabetic retinopathy is a leading cause of preventable vision loss in adults, and timely retinal screening is essential for early detection and intervention. However, adherence to diabetic eye exam guidelines remains suboptimal, particularly in underserved populations. Geographic Information Systems (GIS) offer a novel approach to visualizing disparities in eye care access and adherence.

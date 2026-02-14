@@ -1,5 +1,7 @@
 PMID: 41674522
 Title: From awareness to action: exploring health information seeking behavior in coronary heart disease patients: a cross-sectional study.
+Journal: Frontiers in public health
+Authors: Guo, Yunyu; Tang, Panpan; Lan, Meijuan; Zhang, Yuping; Wang, Xueqing; Jiang, Yueying; Zhao, Yue; Maitikuerban, Maidiniguli; Wang, Manjun; Shao, Jing; Chen, Dandan; Ye, Zhihong; Tang, Leiwen
 
 Abstract:
 Coronary heart disease (CHD) is a major global health burden requiring long-term management. Despite the essential role of health information seeking behavior (HISB) in disease self-management, current levels among CHD patients remain low, and research on its influencing factors is limited.

@@ -1,0 +1,11 @@
+PMID: 41679894
+Title: Outcomes of a population-based flash glucose monitoring program in adults with type 2 diabetes mellitus on intensive insulin therapy in Andalusia.
+Journal: Endocrinologia, diabetes y nutricion
+Authors: Peinado Ruíz, Mercedes; Rodríguez Jiménez, Beatriz; Rodríguez de Vera Gómez, Pablo; Lafuente Robles, Nieves; Palomares Ortega, Rafael; Sánchez-Laguna, Francisco José; Vázquez Cruz, Inmaculada; Mayoral Sánchez, Eduardo; Sanchez-Alvarez, María Jesús; Fernandez-Delgado, Celia; Muñoz Martínez, Ismael; Martínez-Brocca, María Asunción
+
+Abstract:
+The implementation of flash glucose monitoring (FGM) in people with type 2 diabetes mellitus (T2DM) undergoing intensive insulin therapy represents an organizational challenge for health care systems.
+To evaluate the outcomes of the FGM system rollout in adults with T2DM within the Andalusian Public Health System.
+We conducted a cross-sectional, population-based descriptive study in Andalusia (Spain), analyzing the shared care model between Primary Care (PC) and Hospital Care (HC) for the implementation of FGM systems in adult patients with T2DM on intensive basal-bolus insulin therapy, 34 months after starting the program (program duration: from April 2022 to February 2025).
+A total of 25,052 active FGM users were identified (48.6% women; mean age, 69.0±12.8 years) out of an estimated target population of 29,979 patients. The main indications for FGM use were functional disability or dependency (n=4283; 17%), severe hypoglycemia (n=1899; 7.4%), pregestational T2DM (n=266; 1%), and frequent non-severe hypoglycemia (n=9104; 36.2%). The remaining cohort (n=9683; 38.4%) included individuals without prioritization criteria. The main indication setting was PC, where 23,669 devices (80.2%) were initiated. The permanent discontinuation rate was 15%, with no serious adverse events being reported. A total of 9185 active users (36.4%) had their glucose monitoring data integrated into the electronic health record (EHR) of the Andalusian Public Health System.
+Coordinated action across health care levels is an effective strategy for equitable access to technologies such as FGM among Andalusian patients with T2DM on intensive insulin therapy. Integration of glucose data into the EHR is a key tool for ensuring continuity of care.

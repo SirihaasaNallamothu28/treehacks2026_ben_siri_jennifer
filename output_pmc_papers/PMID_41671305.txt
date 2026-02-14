@@ -1,0 +1,10 @@
+PMID: 41671305
+Title: Noncatechin flavonoid-rich extract from Camellia sinensis (L.) Kuntze seed residues ameliorates diabetes and vascular complications in SHRs.
+Journal: The Journal of pharmacy and pharmacology
+Authors: Shen, Kuo-Ping; Lin, Shun-Yuan; Hao, Chi-Long; Chen, Fu-Chih; Su, Huey-Jen; Chen, Ya-Mei; Lin, Hui-Li
+
+Abstract:
+This study examined the effects of the noncatechin flavonoids (NCFs), a mixture of a range of flavonoids obtained from Camellia sinensis (L.) Kuntze seeds on Type 2 diabetes mellitus (T2DM).
+Thirty-two 10-week-old SHR rats were randomly assigned to four groups. The RD group was fed a regular diet. The DM group was injected with 'streptozotocin (STZ, 50 mg/kg)' and nicotinamide '(NA, 100 mg/kg)' and fed a high-fat diet (HFD). The NCF0.5 group or NCF5 group was injected with 'STZ/NA' and fed HFD plus oral gavage NCF 0.5 or 5 mg/kg/day for four weeks, respectively.
+T2DM was successfully induced as evidenced by lower body weight and higher blood pressure, blood glucose, HbA1c; lower insulin, GLP-1; and higher IL-6, TNF-α, and MDA and deterioration of proteins regulating vasocontraction and vasodilation (AGTR1, AGTR2, ETB, eNOS), regulating glucose metabolism (AMPK, IRB, IRS-1, PI3K, Akt/PKB, PPAR-γ, GLUT-4, HKase, PKase, GSK-3α, PEPCK, G6Pase) and free radical scavengers (catalase, GPx). These biochemical parameters were improved dose dependently by NCFs, suggesting that association with NCFs had anti-T2DM, antiperoxidation, and anti-inflammatory effects.
+NCFs possessing total flavonoids (42.5 ± 3.4 μg/mg), not saponins and catechins, could efficiently control T2DM. Thus, NCF could potentially develop into an agent for controlling T2DM and related complications.

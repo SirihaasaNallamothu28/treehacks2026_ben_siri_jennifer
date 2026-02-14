@@ -1,5 +1,7 @@
 PMID: 41689313
 Title: Artificial Intelligence-Based Digital Image Analysis for Assessing Ki67, P53, and PHH3 Expression in Glioblastoma Multiforme.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Devrim, Tuba; Erkilinc, Gamze; Tuncer, Saniye Sevim
 
 Abstract:
 To compare artificial intelligence (AI)-based analysis of Ki67, PHH3, and p53 immunohistochemical (IHC) biomarkers in glioblastoma multiforme (GBM) with conventional evaluations performed by experienced pathologists, and to assess the consistency and statistical significance of both approaches across different sampling areas.

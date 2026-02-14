@@ -1,5 +1,7 @@
 PMID: 41681060
 Title: Impact of Monacolin K-Containing Supplements on Lipid Profile: A Meta-Analysis of Randomised Controlled Trials.
+Journal: Endocrinology, diabetes & metabolism
+Authors: Jamialahmadi, Tannaz; Mirhadi, Elaheh; Karav, Sercan; Kesharwani, Prashant; Sahebkar, Amirhossein
 
 Abstract:
 Natural products have gained attention as alternative strategies for managing dyslipidemia, particularly in individuals who are resistant or unwilling to use conventional pharmacotherapies. Monacolin K, a compound derived from natural sources, has demonstrated potential benefits in improving lipid profile indices across various doses and supplementation durations. This study aimed to quantitatively evaluate the effects of monacolin K-containing products on plasma lipid levels through a meta-analysis of clinical trials.

@@ -1,5 +1,7 @@
 PMID: 41676926
 Title: Training health professionals in smoking cessation.
+Journal: The Cochrane database of systematic reviews
+Authors: Sharrad, Kelsey J; Carson-Chahhoud, Kristin V; Verbiest, Marjolein Ea; Greenslade, Sarah; Parkhouse, Thomas; Assendelft, Willem Jj; Crone, Mathilde R; Livingstone-Banks, Jonathan
 
 Abstract:
 Cigarette smoking is one of the leading causes of preventable death worldwide. There is good evidence that brief interventions by health professionals can increase smoking cessation attempts. However, as new studies become available, the effectiveness of these training programmes needs to be re-assessed to inform public policy, clinical care, and guideline recommendations. This is an update of a Cochrane review first published in 2000, and previously updated in 2012.

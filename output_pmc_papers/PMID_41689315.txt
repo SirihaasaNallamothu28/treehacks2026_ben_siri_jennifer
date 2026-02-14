@@ -1,5 +1,7 @@
 PMID: 41689315
 Title: Impact of Types of Cytoreductive Surgery on Survival and Morbidity in Recurrent Epithelial Ovarian Cancer.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Ibrahimov, Akbar
 
 Abstract:
 To evaluate the survival benefits and procedural morbidity associated with iterative cytoreductive interventions in recurrent epithelial ovarian cancer (EOC), comparing outcomes across secondary, tertiary, and quaternary surgical procedures.

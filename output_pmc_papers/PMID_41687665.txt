@@ -1,5 +1,7 @@
 PMID: 41687665
 Title: OMEGA-3 POLYUNSATURATED FATTY ACIDS AND HYPERTENSION: A REVIEW OF VASOACTIVE MECHANISMS AND IMPLICATIONS FOR CARDIOVASCULAR DISEASE.
+Journal: Georgian medical news
+Authors: Jawhar, M; Zainal, H; Harun, S; Saeed, B
 
 Abstract:
 Hypertension is an unparalleled risk factor among cardiovascular diseases (CVD) and has been reported to target over 1.4 billion people globally. The Omega-3 polyunsaturated fatty acids (PUFAs), especially the eicosapentaenoic acid (EPA) and the docosahexaenoic acid (DHA) have been put forward as possible non-pharmacological interventions to control blood pressure because they are known to be vasoactive. The purpose of the systematic review was to summarize available evidence on the vasoactive properties of omega-3 PUFAs, and how these properties apply in managing hypertension and reduction of cardiovascular risk.

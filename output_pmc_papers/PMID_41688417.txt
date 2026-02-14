@@ -1,5 +1,7 @@
 PMID: 41688417
 Title: Family Caregiver Burden and Neuropsychiatric Symptoms in Japanese Community-Dwelling People With Alzheimer's Disease: A Cross-Sectional Study Using a Web-Based Questionnaire.
+Journal: Psychogeriatrics : the official journal of the Japanese Psychogeriatric Society
+Authors: Nagata, Tomoyuki; Shinagawa, Shunichiro; Noto, Shinichi; Yamato, Kentaro; Mori, Naoki; Onuki, Keisuke
 
 Abstract:
 Previous studies of community-dwelling people with Alzheimer's disease (AD) have reported an association between the severe neuropsychiatric symptoms (NPS) of dementia and caregiver burden. We explored the current status of family caregiver burden, NPS of dementia, and care service usage in Japanese community-dwelling people with AD.

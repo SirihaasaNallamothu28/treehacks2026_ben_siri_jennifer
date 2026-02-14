@@ -1,5 +1,7 @@
 PMID: 41673350
 Title: A pilot randomized controlled trial comparing the feasibility and preliminary effects of different forms of exercise-related social support for older adult survivors of cancer.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Smith-Turchyn, Jenna; Sinclair, Susanne; O'Loughlin, Erin; Innes, Anthea; Richardson, Julie; Pillips, Stuart; Beauchamp, Marla; Thabane, Lehana; Wrosch, Carsten; Sabiston, Catherine M
 
 Abstract:
 To determine the feasibility and effectiveness of two forms of social support (peer and peer plus virtual professional support) on quality of life, feelings of support, and exercise levels in older adult survivors of cancer.

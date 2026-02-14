@@ -1,5 +1,7 @@
 PMID: 41685307
 Title: Prognostic value of lymphatic vessel density in the capsule of early-stage hepatocellular carcinoma: implications for postoperative recurrence risk.
+Journal: Frontiers in immunology
+Authors: Li, Jin; Liang, Yu-Bo; Chen, Xing-Ming; Ou, Zhi-Yan; Wang, Qing-Bo; Luo, Wan-Ling; Lakang, Yawhan; Yang, Zi-Sheng; Zuo, Jin-Xiang; Li, Yu-Kai; Qin, Hao-Wen; Lv, Xin-Wu; Kui, Xiang; Wang, Yan; Ke, Yang
 
 Abstract:
 Lymphatic vessels are present in the capsule of hepatocellular carcinoma (HCC) at an early stage, but their value in the prognosis remains unclear. The study aimed to evaluate the prognostic impact of lymphatic vessels in the tumor capsule on patients with HCC at Barcelona Clinic Liver Cancer (BCLC) stages 0-A. This is one of the first studies to investigate the tumor capsule specifically.

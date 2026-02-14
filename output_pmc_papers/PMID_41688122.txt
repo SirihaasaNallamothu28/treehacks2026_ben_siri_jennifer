@@ -1,5 +1,7 @@
 PMID: 41688122
 Title: Effect of Cervical Epidural STimulation After Neurological Damage: protocol for phase I/II open label controlled CE-STAND trial.
+Journal: BMJ open
+Authors: Mansour, Nadine; Keller-Ross, Manda; Low, Walter; Balser, David Young; Parr, Ann
 
 Abstract:
 Spinal cord injury (SCI) affects over 18 000 individuals annually, leading to significant motor and autonomic dysfunctions that reduce quality of life (QoL). Epidural spinal cord stimulation (eSCS) has shown potential in restoring function in chronic individuals with SCI. However, research on cervical and autonomic dysfunction-related SCI remains limited. This study will assess the safety and efficacy of eSCS in improving autonomic and volitional functions, as well as truncal stability, bowel, bladder and sexual function, and overall QoL.

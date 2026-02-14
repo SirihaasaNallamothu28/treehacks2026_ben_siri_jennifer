@@ -1,0 +1,9 @@
+PMID: 41663852
+Title: Individualized gamma knife radiosurgery prescription dosing for pituitary adenomas: development and internal validation of a feedforward neural network model.
+
+Abstract:
+Gamma Knife radiosurgery (GKRS) is an established treatment for pituitary adenomas yet prescription dose selection is often guided by clinician experience. Data-driven models may help standardize dose selection using routinely available clinical and imaging features.
+To develop and internally validate a feedforward neural network (FNN) to predict GKRS prescription dose for pituitary adenomas.
+We retrospectively analyzed 102 pituitary adenomas treated with GKRS at a single center. Model inputs included age at treatment, sex, race, pre-treatment Karnofsky Performance Status (KPS), functional or secretory status, histology, prior tumor resection, prior stereotactic radiosurgery, tumor volume, and cavernous sinus invasion. The target outcome was GKRS prescription dose (Gy). Data were randomly split into training and test sets (80:20). Features were standardized and one-hot encoded. A multivariable FNN with two hidden layers was trained, and test performance was evaluated using mean absolute error (MAE), root mean squared error (RMSE), and coefficient of determination (R²). Permutation importance was used to assess predictor contribution.
+On the test set, the FNN achieved an MAE of 1.61 Gy, RMSE of 2.31 Gy, and R² of 0.51. Age at treatment showed the greatest contribution (ΔMAE +0.89 Gy with permutation), followed by functional or secretory status, tumor volume, cavernous sinus invasion, and pre-treatment KPS. Demographic variables and biopsy-related factors had minimal impact.
+This proof-of-concept FNN generated individualized GKRS prescription dose estimates for pituitary adenomaswith acceptable prediction error, supporting the feasibility of data-driven dose recommendation tools and motivating external validation in larger, multi-institutional cohorts.

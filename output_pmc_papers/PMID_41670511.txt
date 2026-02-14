@@ -1,5 +1,7 @@
 PMID: 41670511
 Title: A Case of Pseudoreduction of IgA.
+Journal: Clinical laboratory
+Authors: Li, Gangfeng; Xiao, Yin; Zhou, Yue; Jiang, Fangfang
 
 Abstract:
 Immunoglobulin A (IgA) is an important biomarker for clinical evaluation of immune system function and multiple myeloma. The hook effect may lead to a false decrease in IgA test results, especially at extremely high IgA concentrations, which may mask the true disease state and result in misdiagnosis or missed diagnosis.

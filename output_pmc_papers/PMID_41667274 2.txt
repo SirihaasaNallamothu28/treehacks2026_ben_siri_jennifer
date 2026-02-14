@@ -1,0 +1,5 @@
+PMID: 41667274
+Title: Cerebrospinal Fluid-Mediated Brain Clearance: Insights from Human Studies.
+
+Abstract:
+Clearance of waste products from brain metabolism and by-products of brain injury is a fundamental aspect of normal brain function. Impaired clearance may cause accumulation of proteins and other substances that are harmful to the brain. Abnormal protein aggregation due to clearance failure is a hallmark of neurodegenerative and dementia diseases. Cerebral clearance processes rely on multiple mechanisms; in recent years, it has become increasingly evident that brain fluids, primarily by the exchange of cerebrospinal fluid (CSF) and interstitial fluid, are essential for removing cerebral waste products. These fluids are integral to the glymphatic clearance system operating along perivascular pathways and clearance via meningeal lymphatic pathways. Translational human imaging research has bridged observations from animals to humans but also revealed species differences. CSF influx to the brain is enhanced by a compartmentalized subarachnoid space, and solute efflux from brain is highly dependent on CSF efflux, mainly to meningeal lymphatic vessels.

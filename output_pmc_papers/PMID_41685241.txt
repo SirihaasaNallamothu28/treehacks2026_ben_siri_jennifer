@@ -1,5 +1,7 @@
 PMID: 41685241
 Title: Long-term clinical outcomes of differentiated thyroid cancer patients with biochemical incomplete response after initial radioiodine therapy, a single-center, retrospective analysis.
+Journal: Frontiers in endocrinology
+Authors: Wang, Congcong; Han, Peihang; Qin, Guohua; Li, Yutian; Wang, Xufu
 
 Abstract:
 Little is known regarding parameters predicting progressive disease (PD) for differentiated thyroid cancer (DTC) patients exhibiting biochemical incomplete response (BIR) after initial radioiodine (RAI) therapy. The aim of this study was to evaluate the long-term clinical outcomes of BIR patients and to establish the determinants of PD.

@@ -1,0 +1,10 @@
+PMID: 41672742
+Title: The Effects of Concurrent Training Under Hypoxia on Physical Function and Metabolic Syndrome in Obese Elderly Women in Korea.
+Journal: Geriatrics & gerontology international
+Authors: Jang, Jiwoong; Park, Hun-Young
+
+Abstract:
+In Korea, obesity is nearly twice as high in older women as in men, and it plays a central role in the prevalence of metabolic syndrome (MetS). Obesity acts as a direct risk factor for increased mortality and decreased quality of life by inducing a decline in physical function. However, exercise in normobaric hypoxia can induce improvements in physical function and risk factors for MetS. Therefore, we investigated whether concurrent strength and aerobic exercise training (CT) in normobaric hypoxia induce improvements in the risk of MetS and physical function in elderly Korean women.
+Subjects were randomly divided into two groups (normoxia (NMX; n = 12) and hypoxia (HPX; n = 12)), and both groups performed CT program three times a week for 12 weeks. HPX performed an exercise program in a hypoxic chamber. Muscle strength and aerobic function (VO<sub>2max</sub>) were measured by isokinetic device and respiratory gas analyzer respectively. Lipid profiles, glucose, and insulin were measured by isolating plasma after 10 h of fasting.
+CT showed significant changes in all variables in the HPX compared to the NMX. The HPX showed significant improvements in physical function (muscle strength, p < 0.001; aerobic function, p < 0.01), lipid profile (TG, p < 0.01; HDL-C, p < 0.0001; LDL-C, p < 0.001; FFA, p < 0.001), glucose metabolism (glucose, p < 0.0001; insulin, p < 0.0001; HOMA-IR, p < 0.0001; HOMA-β, p < 0.0001), and MetS variables (p = 0.0011).
+This study suggests that CT under normobaric hypoxic conditions may help improve physical function and reduce the risk of MetS in obese elderly Korean women.

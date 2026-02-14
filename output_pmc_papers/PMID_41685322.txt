@@ -1,5 +1,7 @@
 PMID: 41685322
 Title: The metastasis landscape of <i>Clonorchis sinensis</i>-associated hepatocellular carcinoma: an integrated multi-omics and clinical study.
+Journal: Frontiers in immunology
+Authors: Zhou, Lingling; Sun, Lin; Huang, Xuhang; Chen, Junxian; Huang, Taijun; Xu, Yulong; Luo, Xiaorong; Wei, Caibiao; Liu, Fengfei; Pan, Xiaolan; Dong, Madanni; Su, Jingyu; Yang, Weilong; Fang, Min
 
 Abstract:
 Hepatocellular carcinoma (HCC) patients with <i>Clonorchis sinensis</i> (<i>Cs</i>) infection tend to exhibit a poorer prognosis compared to those without infection. Nevertheless, the molecular mechanisms underlying <i>Cs</i>-associated HCC, particularly those linked to metastatic progression, remain poorly understood. This study therefore seeks to elucidate the role of <i>C. sinensis</i> infection in promoting metastasis.

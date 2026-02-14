@@ -1,5 +1,7 @@
 PMID: 41685389
 Title: Using Quality Improvement and Workflow Analysis to Successfully Implement Evidence-Based Interventions to Increase Colorectal Cancer Screening Rates.
+Journal: Cancer medicine
+Authors: Macauda, Mark M; Scott, Lisa A; Eaddy, Rebecca P; Fadic Quijano, Ljubitca S; Lewis, Tracie R; Monalisa, Nazratun N; Thibault, Annie
 
 Abstract:
 Colorectal cancer (CRC) is the third leading cause of cancer deaths in the United States for men and women combined but is preventable with timely screening. Evidence-based interventions (EBIs) provide promising opportunities to increase screening. There are few descriptive examples of the processes used to assess and implement EBIs to increase CRC screening.

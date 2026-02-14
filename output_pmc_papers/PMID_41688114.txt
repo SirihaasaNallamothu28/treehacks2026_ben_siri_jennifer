@@ -1,5 +1,7 @@
 PMID: 41688114
 Title: Support for Transgender and Nonbinary Individuals Seeking Vaginoplasty (STRIVE) study: protocol for a national randomised pragmatic trial.
+Journal: BMJ open
+Authors: Sage, Liz; Hart, Elijah; Meyer, Nolan; Hnilicka, Olivia; Penkin, Amy; Poteat, Tonia C; Aguayo-Romero, Rodrigo; Comstock, Bryan A; Dy, Geolani W
 
 Abstract:
 Transgender and gender-diverse individuals often face significant barriers to accessing gender-affirming care, such as hormones and/or surgery, leading to poorer mental health, lower quality of life, and higher rates of substance use and suicidal ideation. Vaginoplasty, the most commonly sought genital gender-affirming surgery (GGAS), is desired by over half of all trans women but has been performed in only a minority. This is due largely to limited surgeon availability and long wait times. Peer support has been shown to improve health outcomes and reduce stigma in marginalised populations, including trans communities, but has never been studied for efficacy during the perioperative period of GGAS. Building on priorities identified by multi-stakeholder engagement from the Transgender & Non-Binary Surgery Allied Research Collective, the Support for Transgender and Nonbinary Individuals Seeking Vaginoplasty (STRIVE) study aims to evaluate the efficacy of a centralised peer support and education intervention for patients seeking vaginoplasty, addressing a critical gap in perioperative care.

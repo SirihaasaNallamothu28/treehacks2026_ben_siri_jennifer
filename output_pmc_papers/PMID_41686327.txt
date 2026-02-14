@@ -1,5 +1,7 @@
 PMID: 41686327
 Title: Demographics, methods of use, and perceived benefits among patients with cancer who use cannabis.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Behl, Deepti; D'Andre, Stacy; Hankins, Andrea; Tiet, Kara; Portugal, Jose; Parise, Carol
 
 Abstract:
 The purpose of this study was to assess the demographics, reasons, methods, perceived benefits, and costs associated with the use of cannabis among patients with cancer.

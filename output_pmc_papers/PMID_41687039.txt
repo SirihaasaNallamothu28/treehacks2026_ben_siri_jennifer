@@ -1,5 +1,7 @@
 PMID: 41687039
 Title: Clinical Features and Biomarkers Associated With Intensive Care-Dependent Refractory NMDAR Encephalitis: A Retrospective Cohort Study.
+Journal: Neurology(R) neuroimmunology & neuroinflammation
+Authors: Elosua-Bayes, Iker; Dumez, Pauline; Benaiteau, Marie; Ciano-Petersen, Nicolás Lundahl; Farina, Antonio; Villagrán-García, Macarena; Peter, Elise; Birzu, Cristina; Fourier, Anthony; Aubart, Mélodie; Picard, Geraldine; Do, Le Duy; Rogemond, Véronique; Goncalves, David; Psimaras, Dimitri; Honnorat, Jerome; Joubert, Bastien
 
 Abstract:
 A subset of patients with NMDAR encephalitis is resistant to first-line and second-line immunotherapy and requires prolonged intensive care. The clinical definition of refractory, intensive care-dependent NMDARE (RI-NMDARE) is lacking, and its frequency, risk factors, and outcomes are unknown. The aim of this study was to define RI-NMDARE and compare its clinical and biomarker characteristics with those of severe NMDARE.

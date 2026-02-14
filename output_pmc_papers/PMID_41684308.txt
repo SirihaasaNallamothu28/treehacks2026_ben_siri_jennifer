@@ -1,5 +1,7 @@
 PMID: 41684308
 Title: Comparing various bowel preparation regimens in constipated patients undergoing colonoscopy: A systematic review and network meta-analysis of randomised controlled trials.
+Journal: Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland
+Authors: Abideen, Zain Ul; Waseem, Muhammad Hassan; Shoaib, Areeba; Ramzan, Noor-Ul-Huda; Ch, Muhammad Tayyab Amer; Thada, Pawan Kumar; Jalal, Prasun Kumar
 
 Abstract:
 Colonoscopy effectiveness in detecting colorectal carcinoma depends on adequate bowel preparation (ABP). This network meta-analysis assesses the efficacy and safety of various bowel preparation regimens in patients with constipation.

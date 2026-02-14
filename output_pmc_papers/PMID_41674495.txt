@@ -1,5 +1,7 @@
 PMID: 41674495
 Title: Introduction to the Special Issue: WHO Risk Communication and Community Engagement Lessons Learned from COVID 19.
+Journal: Health communication
+Authors: Seeger, Matthew W
 
 Abstract:
 Exchanges between the research and practice communities can generate important lessons for both. This effort to generate lessons learned from the risk communication and community engagement practitioners at the WHO provides insights from the lived experiences of those on the front lines of the global COVID-19 response. Learning from the practice community is positioned as an important process to understanding the decisions about communication strategy, adaptation and impact.

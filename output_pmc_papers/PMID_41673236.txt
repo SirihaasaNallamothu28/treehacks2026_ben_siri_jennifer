@@ -1,5 +1,7 @@
 PMID: 41673236
 Title: Social determinants of health in studies using PROMs to assess toxicities associated with immune checkpoint inhibitor treatment: a systematic review.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Georgopoulou, Sofia; Droney, Joanne; Jaganathan, Poorni Priya; Howell, Paul; Macklin-Doherty, Aislinn; Young, Kate; Cruickshank, Susanne
 
 Abstract:
 Social determinants of health (SDOH) are associated with disparities not only in risk factors, screening, diagnosis, and treatment outcomes for cancer but also in access to immunotherapy treatment, particularly with immune checkpoint inhibitors (ICIs). The purpose of this systematic review was to describe the extent of inclusion of indicators of SDOH in studies using PROMs to assess toxicities associated with ICI treatment.

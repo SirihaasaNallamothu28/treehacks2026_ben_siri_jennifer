@@ -1,5 +1,7 @@
 PMID: 41686371
 Title: Investigation of the effects of radiotherapy and chemotherapy on brain volume in cancer patients: brain tumor study.
+Journal: Journal of neuro-oncology
+Authors: Deniz, Birgül; Arpaci, Muhammed Furkan; Pekmez, Hıdır; Uzun, Gökçe Bağci; İnceoğlu, Feyza; Harputluoğlu, Hakan
 
 Abstract:
 Brain tumors, characterized by the uncontrolled proliferation of abnormal cells within cerebral tissue, remain clinically challenging entities. Radiotherapy and chemotherapy constitute fundamental therapeutic modalities; however, their effects on healthy brain structures are not fully understood. This study aimed to evaluate the impact of these treatments on volumetric changes in brain structures and tumor size in patients with primary or metastatic brain tumors.

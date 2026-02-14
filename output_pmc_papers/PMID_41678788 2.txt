@@ -1,0 +1,9 @@
+PMID: 41678788
+Title: Machine Learning for Predicting Venous Thromboembolism After Joint Arthroplasty: Systematic Review of Clinical Applicability and Model Performance.
+
+Abstract:
+There is increasing research on machine learning in predicting venous thromboembolism after joint arthroplasty, but the quality and clinical applicability of these models remain uncertain.
+This systematic review aims to evaluate the predictive performance and methodological quality of machine learning models for venous thromboembolism risk after joint replacement surgery.
+Web of Science, Embase, Scopus, CNKI, Wanfang, Vipro, and PubMed were searched until December 15, 2024. The risk of bias and applicability were evaluated using the PROBAST (Prediction Model Risk of Bias Assessment Tool) checklist. A qualitative comprehensive analysis was conducted to extract and describe the data related to the model's characteristics and performance.
+This review encompassed 34 prediction models from 9 studies. The most frequently used machine learning models were extreme gradient boosting and logistic regression. The results showed that all studies had significant heterogeneity and high risk of bias. Although some models reported nearly flawless area under the curve (>0.9), they lacked external validation and may have overfitted. The models tested on large external datasets demonstrated more conservative performance.
+The predictive performance of machine learning models varied greatly. Although the reported area under the curve values indicated that some models have good discriminative ability, this performance varied greatly and was inconsistent among the included studies. These models have a high risk of bias, and it is necessary to take this into account when they are used in clinical practice. Future studies should adopt a prospective study design, ensure appropriate data handling, and use external validation to improve model robustness and applicability.

@@ -1,5 +1,7 @@
 PMID: 41679805
 Title: Undergraduate nursing students' knowledge and attitudes toward dementia by country income level: A systematic review and meta-analysis.
+Journal: Journal of professional nursing : official journal of the American Association of Colleges of Nursing
+Authors: Hsu, Hsin-Tien; Hsieh, Hsiu-Fen; Chou, Pi-Ling; Wung, Shu-Fen; Lin, Pei-Chao
 
 Abstract:
 It is essential for nursing students to possess a thorough understanding of dementia care and to maintain a positive attitude toward this area of healthcare.

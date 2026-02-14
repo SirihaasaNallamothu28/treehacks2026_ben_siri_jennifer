@@ -1,5 +1,7 @@
 PMID: 41678707
 Title: Pain Perception During Transperineal and Transrectal Prostate Biopsy Under Local An-esthesia: a Prospective Analysis of a Multi-ethnic and Diverse Cohort.
+Journal: International braz j urol : official journal of the Brazilian Society of Urology
+Authors: Chua, Kevin Joseph; Ramacciotti, Lorenzo Storino; Kaneko, Masatomo; Inoue, Yuta; Navarro, Luis Medina; Cai, Jie; Aron, Manju; Halteh, Pierre; Kau, Eric; Schuckman, Anne; Hemal, Sij; Desai, Mihir; Djaladat, Hooman; Gill, Inderbir S; Aron, Monish; Abreu, Andre Luis
 
 Abstract:
 To assess factors associated with patients' self-assessed pain scores during prostate biopsy (PBx) performed exclusively under local anesthesia (LA).

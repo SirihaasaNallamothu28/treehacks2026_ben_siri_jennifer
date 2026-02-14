@@ -1,0 +1,7 @@
+PMID: 41668580
+Title: [Facial neuropathy in early postoperative period after resection of cerebellopontine angle tumor using various modalities of intraoperative neurophysiological monitoring: a systematic review and meta-analysis].
+
+Abstract:
+To analyze the incidence of facial neuropathy after microsurgical resection of cerebellopontine angle (CPA) tumors using various intraoperative neurophysiological monitoring (IONM) scenarios.
+We analyzed 792 articles from PubMed, Google Scholar, Web of Science, and e-library databases and selected 35 eligible studies. There were 4.657 patients including 1.173 ones with facial neuropathy after CPA tumor resection. Statistical analysis was performed using OpenMeta Analyst software. Differences were significant at <i>p</i>< 0.05.
+The pooled incidence of postoperative facial neuropathy after CPA tumor resection was 28.9% (95% CI: 23.3% - 34.6%). In case of multimodal IONM, this value decreased to 23.5% (95% CI: 17.9% - 29.2%). This demonstrates significant effectiveness of this approach compared to direct facial nerve stimulation and resting EMG monitoring.

@@ -1,5 +1,7 @@
 PMID: 41670993
 Title: Angiotensin II-Stimulating Antihypertensive Medications and Dementia-Related Neuropathology.
+Journal: JAMA network open
+Authors: Gray, Shelly L; Yu, Onchee; Gatto, Nicole M; Marcum, Zachary A; Latimer, Caitlin S; Postupna, Nadia; Su, Yu-Ru; Barthold, Douglas; van Dalen, Jan Willem; Richard, Edo; Keene, C Dirk; Shaw, Pamela A; McEvoy, Linda K; Larson, Eric B; Crane, Paul K
 
 Abstract:
 Antihypertensive medications that stimulate angiotensin II type 2 or 4 receptors (angiotensin II-stimulating medications) may be associated with lower risk of dementia.

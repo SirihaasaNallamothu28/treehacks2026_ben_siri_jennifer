@@ -1,5 +1,7 @@
 PMID: 41685556
 Title: Soluble SORL1 in cerebrospinal fluid as a marker for functional impact of rare SORL1 variants.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: de Waal, Matthijs W J; van der Lee, Sven J; Lunding, Melanie; Boonkamp, Lynn; Barrett, Nolan; Monti, Giulia; Jensen, Anne Mette G; Vaegter, Christian B; Raska, Jan; Cesnarikova, Sona; Sedmik, Jiri; Trieu, Calvin; Weiss, Marjan M; van Spaendonk, Rosalina; Vermunt, Lisa; Ozhegov, Georgii; Tesi, Niccolo; Hulsman, Marc; Januliene, Dovile; Moller, Arne; Bohaciakova, Dasa; van der Flier, Wiesje M; Andersen, Olav M; Teunissen, Charlotte E; Holstege, Henne
 
 Abstract:
 The sortilin-related receptor (SORL1) directs APP and Aβ trafficking within the retromer pathway. Cleavage at the cell surface releases soluble SORL1 (sSORL1) into cerebrospinal fluid (CSF). We examined whether CSF-sSORL1 can serve as an in vivo marker of genetically impaired SORL1.

@@ -1,5 +1,7 @@
 PMID: 41687047
 Title: Association of Systemic Inflammatory Markers With Cerebral Small Vessel Disease Progression: A Community-Based Prospective Study.
+Journal: Neurology
+Authors: Zhang, Ziyan; Zhang, Dingwen; Cai, Xueli; Yang, Yingying; Sun, Jingping; Niu, Guanyu; Xu, Ziqian; Jing, Jing; Wang, Yongjun; Wang, Yilong; Pan, Yuesong
 
 Abstract:
 Inflammation is an established risk factor in the development of cerebral small vessel disease (CSVD). This study aimed to investigate the associations between neutrophil-to-lymphocyte ratio (NLR), monocyte-to-lymphocyte ratio (MLR), and systemic immune-inflammation index (SII) with progression of CSVD.

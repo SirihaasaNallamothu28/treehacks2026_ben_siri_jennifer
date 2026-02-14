@@ -1,5 +1,7 @@
 PMID: 41670527
 Title: Serum miRNA-210 Expression at Different Stages of Spontaneous Intracerebral Hemorrhage.
+Journal: Clinical laboratory
+Authors: Chen, Si-Yuan; Wang, He
 
 Abstract:
 This study investigates the changes in serum miRNA-210 expression at different stages of spontaneous intracerebral hemorrhage (sICH) and their clinical significance.

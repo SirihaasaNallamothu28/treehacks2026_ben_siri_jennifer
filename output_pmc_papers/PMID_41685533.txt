@@ -1,5 +1,7 @@
 PMID: 41685533
 Title: ReCOGnAIze app to detect vascular cognitive impairment and mild cognitive impairment.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Mohammed, Adnan Azam; Vipin, Ashwati; Leow, Yi Jin; Setiabudi, Eliana; Tan, Farid; Agarwal, Hitesh; Liau, Kai Xin; Tanoto, Pricilia; Liew, Shan Yao; Qiu, Bocheng; Sandhu, Gurveen Kaur; Wang, Jia Dong James; Aravindhan, Kiirtaara; Kandiah, Nagaendran
 
 Abstract:
 Vascular cognitive impairment (VCI), a major cause of cognitive impairment, remains underdiagnosed due to varying non-amnestic manifestations. It is important to detect VCI at the mild cognitive impairment (MCI) stage or earlier. We aimed to develop and validate ReCOGnAIze, a tablet-based, gamified, and interpretable app to detect VCI and MCI.

@@ -1,5 +1,7 @@
 PMID: 41674043
 Title: YTHDF3 at the crossroads of the Epitranscriptome: Structure, networks, and disease roles.
+Journal: Cellular signalling
+Authors: Yu, Kai; Sun, Jiazhu; Shi, Yuchen; Zhang, Jiawei; Liu, Ben
 
 Abstract:
 N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) is the predominant internal RNA modification that programs RNA splicing, stability, translation, and decay through writer, eraser, and reader proteins. Among readers, YTHDF3 has emerged as a pleiotropic and context-dependent effector. It enhances translation, promotes decay, or stabilizes transcripts-often in concert with YTHDF1/2-and its activities are further tuned by liquid-liquid phase separation and post-translational modifications. Physiologically, YTHDF3 regulates stem-cell fate, neuronal plasticity, and antiviral immunity. In cancer, it exerts dual actions by reinforcing oncogenic and metabolic pathways in many settings, yet restraining tumor growth or immune evasion in others. YTHDF3 also shapes responses to targeted therapy, chemotherapy, and immunotherapy. This review synthesizes the biochemical underpinnings, network positioning, and functional spectrum of YTHDF3, and outlines opportunities for context-specific therapeutic intervention within the epitranscriptomic landscape.

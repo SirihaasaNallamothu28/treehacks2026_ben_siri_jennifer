@@ -1,0 +1,11 @@
+PMID: 41671225
+Title: Pathogenic KRAS variants disrupt structure and dynamics: Insights from integrated computational analyses.
+Journal: PloS one
+Authors: Ishaq, Saqib; Ali, Aizaz; Habib, Obaid; Usmani, Shabir Ahmad; Rehman, Irshad Ur; Aziz, Abdul; Ali, Yasir; Ahmad, Ajaz; Ullah, Amin
+
+Abstract:
+KRAS is among the most frequently mutated oncogenes in pancreatic, colorectal, and lung cancers, yet the structural and dynamic mechanisms by which specific coding variants alter its function remain poorly understood. This study employs an extensive in-silico protocol to identify the most detrimental non-synonymous single nucleotide polymorphisms (nsSNPs) within the KRAS gene.
+To identify and describe pathogenic non-synonymous single nucleotide polymorphisms (nsSNPs) in KRAS and elucidate their atomistic effects on structure, stability, and potential oncogenic initiation.
+A total of 173 nsSNPs were screened operating an integrated computational workflow combining pathogenicity prediction, evolutionary conservation assay, high-resolution structural modeling, molecular docking, atomistic molecular dynamics simulations, post-translational modification mapping, and protein-protein interaction assessment.
+Four high-impact variants (L79P, A130P, G138E, and F141L) were determined as the most deleterious. Simulations revealed distinct perturbations in conformational stability (RMSD), residue flexibility (RMSF), hydrogen bonding patterns, and binding energetics compared with the wild type, signifying mutation-induced destabilization and potential impairment of KRAS regulatory function. Notably, these variants are primarily associated with colorectal, pancreatic, and lung cancers, underscoring their clinical significance.
+This integrative examination provides mechanistic insightinto how specific KRAS variations may prompt oncogenic activation. The identified alterations represent high-priority targets for experimental confirmation, illuminating the power of computational techniquesin linking sequence variationand functional consequence in cancer biology.

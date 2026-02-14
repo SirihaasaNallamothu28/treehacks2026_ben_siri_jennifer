@@ -1,5 +1,7 @@
 PMID: 41681036
 Title: Loss of Myofilaments in Gastrointestinal Smooth Muscle: A Novel Pathological Finding in MELAS-Associated Chronic Intestinal Pseudo-Obstruction.
+Journal: Neurogastroenterology and motility
+Authors: Nagao, Satoaki; Aoki, Mikiko; Yatsuga, Shuichi; Takeshita, Sho; Tsuboi, Yoshio; Uesugi, Noriko
 
 Abstract:
 Chronic intestinal pseudo-obstruction (CIPO) occurs in up to 40% of patients with mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS). While enteric nervous system abnormalities have been documented, 15%-38% of CIPO cases show normal histology, suggesting alternative pathogenic mechanisms. We aimed to investigate smooth muscle pathology in MELAS-associated CIPO.

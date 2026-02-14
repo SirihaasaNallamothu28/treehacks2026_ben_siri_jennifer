@@ -1,5 +1,7 @@
 PMID: 41677421
 Title: Apical Left Ventricular Pseudoaneurysm With Left-to-Right Shunt: A Rare Mechanical Complication of Myocardial Infarction Involving Both Ventricles.
+Journal: Echocardiography (Mount Kisco, N.Y.)
+Authors: Lu, Haoyu; Zhang, Ding; Fu, Huaying; Chen, Tienan; Li, Feixue; Liu, Tong; Liu, Changle
 
 Abstract:
 The pseudoaneurysm involving both ventricles is an infrequent complication following myocardial infarction. The diagnosis is complex and the condition carries a high risk of rupture. Transthoracic echocardiogram (TTE) and cardiac magnetic resonance (CMR) are crucial for diagnosis. We present the case of a 79-year-old man who underwent percutaneous coronary intervention (PCI) for acute myocardial infarction (AMI). Subsequent TTE revealed an apical pseudoaneurysm. To confirm the diagnosis and observe the progression, follow-up TTE and CMR were performed, confirming the pseudoaneurysm involving both ventricles with secondary left-to-right shunt. Surgical repair was performed, with postoperative TTE demonstrating the complete resolution of this shunt.

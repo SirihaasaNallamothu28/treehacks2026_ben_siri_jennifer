@@ -1,5 +1,7 @@
 PMID: 41684244
 Title: Risk of hypertension in people with HIV in the USA initiating modern antiretroviral regimens: pooled analysis of blood pressure data from five clinical trials.
+Journal: The Journal of antimicrobial chemotherapy
+Authors: Hsue, Priscilla Y; Waters, Laura; Orkin, Chloe; Tiraboschi, Juan Manuel; Avihingsanon, Anchalee; Marongiu, Andrea; Whiteman, Andrew S; Tian, Yuan; Nielson, Carrie M; Aizen, Keith; Cohen, Calvin; Hindman, Jason T; Rockstroh, Jürgen K
 
 Abstract:
 People with HIV have a greater risk of cardiovascular disease than the general population. Current literature suggests that some ARTs may exacerbate this risk.

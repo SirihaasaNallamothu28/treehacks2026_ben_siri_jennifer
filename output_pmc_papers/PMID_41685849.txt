@@ -1,0 +1,10 @@
+PMID: 41685849
+Title: Comparison of the Canal Transportation and Centering Ability of TruNatomy, WaveOne Gold and Protaper Ultimate: An Ex Vivo Study in Human Maxillary Molars.
+Journal: European endodontic journal
+Authors: Ribeiro, Gilberto; Martin, Victor; Rodrigues, Cl Udia; Gomes, Pedro
+
+Abstract:
+Effective disinfection and preservation of the root canal anatomy are critical goals in modern endodontics. Nickel-titanium (NiTi) instruments have enhanced canal shaping by offering flexibility and improved performance, particularly in complex anatomies. WaveOne Gold (WOG), TruNatomy (TN), and ProTaper Ultimate (PU) are widely used NiTi systems with distinct designs, properties, and kinematics, but limited data exist comparing their canal transportation and centering ability, especially for PU. The objective of this study was to assess and compare the shaping performance of WOG, TN, and PU in the mesiobuccal (MB) canals of maxillary molars. The null hypothesis was that no significant differences would be found in canal transportation or centering ability.
+Forty-two extracted human maxillary molars with curved MB canals (25�����40��) were allocated into three groups (n=14) and instrumented using WOG, TN, or PU systems. Microcomputed tomography (��CT) scans were acquired before and after instrumentation to assess both centering ability and canal transportation at distances of 3 mm, 5 mm, and 7 mm from the apical foramen. A one-way ANOVA and Tukey's post hoc test were used for data analysis (p<0.05).
+No significant differences were observed among the three systems regarding the overall mean transportation or at any specific level; however, distinct transportation tendencies were identified. Furthermore, the tested file systems showed no statistically significant differences in centering ability.
+WOG, TN, and PU demonstrated comparable shaping abilities, with no significant differences found in their capacity to preserve canal anatomy within clinical standards. (eej-2025-07-108).

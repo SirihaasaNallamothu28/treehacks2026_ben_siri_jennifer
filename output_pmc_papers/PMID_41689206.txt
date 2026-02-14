@@ -1,5 +1,7 @@
 PMID: 41689206
 Title: KCC2 Dysfunction Mediated by Microglial BDNF/TrkB Signaling Exacerbates Early Post-Stroke Seizure Susceptibility.
+Journal: CNS neuroscience & therapeutics
+Authors: Zhou, Jing; Wang, Benjamin H; Yu, Jiangning; Wang, Guoxiang; Cai, Jingyi; Yu, Mohan; Chen, Kehua; Wan, Li; Liu, Xu; Yang, Zhigang; Wang, Yulong; Wang, Yun
 
 Abstract:
 Post-stroke seizures are a common and debilitating complication with limited therapeutic options, underscoring the need to identify novel molecular targets. Disruption of chloride homeostasis via impaired potassium chloride cotransporter 2 (KCC2) activity is a key driver of neuronal hyperexcitability. While microglia are a predominant source of brain-derived neurotrophic factor (BDNF) in the acute phase after brain injury, the role of microglial BDNF and its signaling in KCC2 dysregulation and early post-stroke seizure susceptibility remain poorly defined.

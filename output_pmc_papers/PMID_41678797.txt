@@ -1,5 +1,7 @@
 PMID: 41678797
 Title: Evaluating an AI-Enabled Mobile Mental Health Monitoring Tool Among Family Caregivers of Adults Living With Cancer: Single-Arm Feasibility and Acceptability Trial Protocol.
+Journal: JMIR research protocols
+Authors: Acquati, Chiara; Aratow, Michael; Nazreen, Tahmida; Bhattacharjee, Arunima; Marra, Isabella K; Alexander, Ashley S
 
 Abstract:
 Psychological distress, particularly symptoms of depression and anxiety (D&A), is highly prevalent among family caregivers of individuals living with cancer, who often assume central roles in care coordination, treatment adherence, symptom monitoring, and emotional support. Rates of distress among caregivers frequently equal or exceed those observed in patients themselves. Despite increased attention to caregivers' mental health needs, routine distress screening remains limited in oncology care settings. Advances in mobile health technology and artificial intelligence (AI) offer opportunities to address these needs by providing accessible and user-driven tools. The Ellipsis Caregiver Assessment Enhancement (eCARE; Ellipsis Health, Inc) is a speech-based, AI-enabled mobile app designed to screen and monitor symptoms of depression and anxiety. By collecting brief voice recordings and in-app survey data, eCARE offers a scalable approach for integrating caregiver distress monitoring into cancer care.

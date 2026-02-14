@@ -1,5 +1,7 @@
 PMID: 41676150
 Title: CyTOF profiling identifies location-specific peripheral immune checkpoint and immune cell subset in mild ischemic stroke.
+Journal: Frontiers in immunology
+Authors: Hang, Hang; Yao, Yang; Wang, Likun; Liu, Cuiying; Zhao, Jing; Xu, Baohui; Zhao, Heng; Wu, Guofeng
 
 Abstract:
 Mild ischemic stroke accounts for over half of all stroke cases, yet how peripheral immune responses evolve over time-and how they differ by infarct location-remains poorly defined.

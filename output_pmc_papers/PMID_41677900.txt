@@ -1,5 +1,7 @@
 PMID: 41677900
 Title: Anatomical refinement matters: ureteropelvic junction location confers survival benefit for patients with upper tract urothelial carcinoma after radical nephroureterectomy.
+Journal: World journal of urology
+Authors: Guan, Bao; Peng, Kun; Cao, Chao; Du, Yicong; Zuo, Wei; Han, Wencong; Xu, Chunru; Zhou, Liqun; Li, Xuesong; Hao, Han
 
 Abstract:
 Whether primary tumor location influences prognosis in upper tract urothelial carcinoma (UTUC) remains contentious. We aim to clarify the prognostic impact of tumor location in upper tract urothelial carcinoma (UTUC) by anatomically subsegmenting ureteral tumors, with specific focus on ureteropelvic junction (UPJ) carcinomas.

@@ -1,5 +1,7 @@
 PMID: 41675569
 Title: Correlations between iodine status and the risk of thyroid nodules, a systematic review and dose-response meta-analysis.
+Journal: Frontiers in endocrinology
+Authors: Lu, Changbo; Dong, He; Shi, Peishen; Dong, Weichen; Wen, Xinxin; Gao, Qiuming
 
 Abstract:
 The global incidence of thyroid nodules is rising substantially. The correlation between excessive iodine intake and an elevated risk of thyroid nodules remains a subject of debate.

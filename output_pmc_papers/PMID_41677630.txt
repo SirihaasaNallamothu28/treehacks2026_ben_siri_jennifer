@@ -1,5 +1,7 @@
 PMID: 41677630
 Title: Identification and Experimental Validation of Triosephosphate Isomerase 1 as a Functional Biomarker of SHetA2 Sensitivity in Ovarian Cancer.
+Journal: Cells
+Authors: Mortan, Laura F; Isingizwe, Zitha Redempta; Benbrook, Doris Mangiaracina
 
 Abstract:
 Our objective was to identify and validate proteins that predict which patients with ovarian cancer will respond to SHetA2, an investigational drug in a phase 1 trial for patients with advanced or recurrent solid tumors (clinicaltrials.gov: NCT04928508).

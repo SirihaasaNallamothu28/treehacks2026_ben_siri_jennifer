@@ -1,5 +1,7 @@
 PMID: 41670994
 Title: Prevalence of Colorectal Cancer Screening Among Latino Adults Following the Medicaid Eligibility Amendment Expansion.
+Journal: JAMA network open
+Authors: Huguet, Nathalie; Kaufmann, Jorge; Holderness, Heather; Erroba, Jeremy; Mertes, Gretchen; Schmidt, Teresa; Marino, Miguel; Heintzman, John
 
 Abstract:
 Cancer is the leading cause of death for Latino and Latina individuals in the US. Lack of insurance is one of the leading contributing factors to low prevalence of colorectal cancer screening. In 2021, the state Medicaid coverage programs in California and Oregon were amended to expand income-based eligibility for Medicaid to adults aged 50 years or older regardless of immigration status.

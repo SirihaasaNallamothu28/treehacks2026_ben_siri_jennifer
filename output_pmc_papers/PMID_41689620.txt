@@ -1,5 +1,7 @@
 PMID: 41689620
 Title: New Approaches for Measurable Residual Disease Assessment in Multiple Myeloma: Integrating NGS, Mass Spectrometry, and Next-Generation Flow Cytometry to Monitor Treatment Response.
+Journal: Current hematologic malignancy reports
+Authors: Mohan Lal, Bhavesh; Kumar, Shaji K
 
 Abstract:
 Measurable residual disease (MRD) has emerged as the strongest prognostic biomarker in multiple myeloma (MM), providing a deeper assessment of treatment response than conventional serological tests. Sensitive MRD detection is helpful in risk stratification, prognostication, and early relapse prediction and is increasingly being used as an important clinical trial endpoint in MM. Moreover, MRD has emerged as a useful tool in guiding treatment intensity and duration.

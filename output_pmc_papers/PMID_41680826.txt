@@ -1,5 +1,7 @@
 PMID: 41680826
 Title: Timing-dependent anti-inflammatory effects of empagliflozin in monocyte-derived macrophages from post-myocardial infarct patients with type 2 diabetes.
+Journal: Cardiovascular diabetology
+Authors: Cliff, Chelsy L; Shah, Muhammad U; Ward, Joanna K; Inghels, Maxime; Lee, Kelvin; Squires, Paul E; Hills, Claire E
 
 Abstract:
 Inflammation drives early recurrent cardiovascular risk in type 2 diabetes mellitus (T2DM) patients following acute myocardial infarction (AMI), particularly within 30-90 days post-discharge. Sodium-glucose co-transporter 2 (SGLT2) inhibitors such as empagliflozin (EMPA) provide cardiometabolic benefits, but their anti-inflammatory effects and optimal timing after AMI remain unclear. Given the prognostic role of systemic markers like the neutrophil-to-lymphocyte ratio, we investigated whether early initiation of EMPA modulates NOD-like receptor protein-3 (NLRP3) inflammasome activity and inflammatory responses in monocyte-derived macrophages (MDMs) from T2DM-AMI patients.

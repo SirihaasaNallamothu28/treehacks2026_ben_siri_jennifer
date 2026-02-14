@@ -1,5 +1,7 @@
 PMID: 41675637
 Title: Efficacy and safety of sodium-glucose cotransporter 2 inhibitors in the treatment of diabetic kidney disease: a meta-analysis.
+Journal: Frontiers in endocrinology
+Authors: Guo, Yingbo; Gao, Wenfeng; Li, Shichao; An, Xiaona; Liu, Zhongjie
 
 Abstract:
 Diabetic kidney disease is a major cause of end-stage renal disease. Herein, we aimed to assess the efficacy and safety of sodium-glucose cotransporter 2 (SGLT2) inhibitors in patients with diabetic kidney disease.

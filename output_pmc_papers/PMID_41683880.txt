@@ -1,5 +1,7 @@
 PMID: 41683880
 Title: The Role of miRNAs in Regulating Neurovascular Unit Homeostasis: Bidirectional Communication and Therapeutic Insights in Ischemic Stroke.
+Journal: International journal of molecular sciences
+Authors: Chen, Hongyang; Gao, Tianyou; Ma, Fengli; Jia, Zhuangzhuang
 
 Abstract:
 The neurovascular unit (NVU) is an essential, dynamic multicellular unit that maintains the homeostasis and function of the brain, with the integrity of the NVU having a tremendous impact on the pathogenic progression of ischemic stroke (IS). MicroRNAs (miRNAs) are essential regulators of gene expression and promote intercellular communication and functional unity in the NVU. This narrative review assesses the regulatory process mediated by miRNAs that help maintain homeostasis of the NVU, particularly during IS, with particular emphasis on their modulation of tight-junction (TJ) proteins, basement membrane (BM) and glial-vascular. These regulatory actions are essential for blood-brain barrier (BBB) integrity and neuronal survival. The analysis also exposes the intercommunication networks established by key miRNAs between various cells of the NVU, highlighting their complex and dynamic regulatory properties. Moreover, it investigates therapeutic strategies predicated on miRNA regulatory mechanisms, highlighting the optimistic prospects as well as the present limitations pertaining to effective IS intervention.

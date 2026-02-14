@@ -1,5 +1,7 @@
 PMID: 41671458
 Title: Efficacy and Safety of Continuing Next-Generation ALK TKIs With Chemotherapy for Advanced ALK-Positive NSCLC: A Multicenter Retrospective Study.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Waliany, Sarah; Roy, Shambo Guha; Pecci, Federica; Weber, Urs M; Sun, Fangdi; Arter, Zhaohui; Lomibao, Meghanne; Alessi, Joao V; Nishino, Mizuki; Luo, Faustine; Repetto, Matteo; Falcon, Christina; Do, Andrew; Peterson, Jennifer; Liang, Joyce; Liu, Audrey; Nagasaka, Misako; Ricciuti, Biagio; Drilon, Alexander; Ou, S Ignatius; Neal, Joel W; Patil, Tejas; Awad, Mark; Yeap, Beow Y; Digumarthy, Subba R; Lin, Jessica J
 
 Abstract:
 Next-generation ALK tyrosine kinase inhibitors (TKIs; eg, alectinib, brigatinib, ceritinib, ensartinib, lorlatinib) are established first-line therapies for patients with ALK fusion-positive (ALK+) advanced/metastatic non-small cell lung cancer (NSCLC). Chemotherapy-with platinum/pemetrexed (PT/Pem) as the preferred regimen-is considered standard next-line therapy. However, limited data exist on outcomes of continuing next-generation ALK TKIs with subsequent PT/Pem after progression on TKI monotherapy.

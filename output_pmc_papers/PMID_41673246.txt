@@ -1,5 +1,7 @@
 PMID: 41673246
 Title: Social Determinants of Diabetes-Related Foot Ulcer Healing and Amputation in Australia: A Systematic Review.
+Journal: Journal of foot and ankle research
+Authors: Chan, Tsz Long; Sadler, Sean; Searle, Angela; Hennessy, Kym; Lanting, Sean; Chuter, Vivienne
 
 Abstract:
 In Australia, approximately 50,000 people suffer from diabetes-related foot ulcers (DFU) with another 300,000 people at risk each year. Evidence suggests that social determinants of health may impact DFU outcomes; however, systematic evaluation of studies is lacking. The aim of this systematic review was to evaluate studies investigating the impact of social determinants of health on DFU outcomes.

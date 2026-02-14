@@ -1,5 +1,7 @@
 PMID: 41673518
 Title: Influence of biological sex and age on alcohol modulation of synaptic gating in nucleus accumbens core medium spiny neurons.
+Journal: Alcohol, clinical & experimental research
+Authors: Lê, Timmy; Gimenez-Gomez, Pablo; Martin, Gilles E
 
 Abstract:
 In the nucleus accumbens (NAc), a brain region known for its role in reward, medium spiny neurons (MSNs) receive glutamatergic inputs from the medial prefrontal cortex (mPFC) and the basolateral amygdala (BLA), two brain regions implicated in mediating alcohol's effects. Previously, we reported that in 8-week-old male C57Bl/6j mice, mPFC and BLA inputs synapse onto the same MSNs where they reciprocally inhibit each other presynaptically in a strict time-dependent manner, a phenomenon called synaptic gating. However, the influence of sex and age on synaptic gating and its sensitivity to binge alcohol drinking remained unknown.

@@ -1,5 +1,7 @@
 PMID: 41675501
 Title: Vericiguat attenuates cyclosporine A-induced nephropathy by targeting the NF-κB/TGF-β1 axis: an integrated network pharmacology, Mendelian randomization, and experimental study.
+Journal: Frontiers in immunology
+Authors: Liu, XuanKe; Tang, MengJie; Lu, JiaYing; Kong, YiJing; Shen, WenXuan; Zhang, ChunJiang; Yang, XiaoPing
 
 Abstract:
 Cyclosporine A (CsA)-induced nephrotoxicity is a significant cause of chronic kidney disease (CKD), primarily driven by aberrant activation of the NF-κB and TGF-β1 signaling axes. Vericiguat, a soluble guanylate cyclase (sGC) stimulator, has established cardioprotective effects, but its potential renoprotective role and underlying mechanisms in CsA-induced CKD remain unexplored.

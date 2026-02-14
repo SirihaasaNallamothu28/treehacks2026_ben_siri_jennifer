@@ -1,5 +1,7 @@
 PMID: 41688721
 Title: The impact of coping styles on anxiety and depression trajectories in thyroid cancer surgery patients: a longitudinal study.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Zhang, Jiyin; Li, Langjuan; Lai, Fengxia; Guo, Daoxia; Tian, Li
 
 Abstract:
 Persistent anxiety and depression can adversely affect the long-term quality of life in patients undergoing thyroid cancer surgery. However, the trajectories, influencing factors, and effects of coping styles on these psychological states are not well understood. This study aims to identify the trajectories and latent classes of anxiety and depression among thyroid cancer surgery patients and to explore the impact of demographic, clinical factors, and coping styles, focusing on the predictive role of coping.

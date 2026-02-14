@@ -1,5 +1,7 @@
 PMID: 41677984
 Title: Quality of life in oncology drug approvals: evidence from Swiss decisions in relation to global regulatory trends.
+Journal: Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation
+Authors: Horst, Alexander; Löffler-Perez, Nicolas; Rohr, Ulrich-Peter; Wac, Katarzyna
 
 Abstract:
 In oncology, health-related quality of life (HRQoL) is along with overall survival a decisive clinical element in regulatory and clinical decision-making. Consequently, health authorities are increasingly interested in HRQoL data when evaluating new cancer treatments, as it promises to better capture patient-relevant outcomes. Although strongly encouraged by regulatory agencies such as the FDA, EMA and Swissmedic, the inclusion of HRQoL data in regulatory submissions by pharmaceutical companies remains sparse due to variability in data quality, reporting standards, methodological rigor, and operational constraints.

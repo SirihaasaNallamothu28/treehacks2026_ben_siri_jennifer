@@ -1,5 +1,7 @@
 PMID: 41672597
 Title: DART/SWOG/NCI phase II anti-CTLA-4/PD-1 trial: clear cell carcinomas of ovary, endometrium, cervix.
+Journal: Journal for immunotherapy of cancer
+Authors: Chae, Young Kwang; Othus, Megan; Patel, Sandip P; Backes, Floortje J; O'Malley, David M; Cristea, Mihaela; Naing, Aung; Kurnit, Katherine; Eskander, Ramez N; T Goodrich, Scott; Robinson, William R; Scalici, Jennifer; Chan, John; Ali-Ahmad, Hussein; Hays, John; McCormick, Colleen; Kim, Edward J; Sueblinvong, Thanasak; Ahmed, Amina; Siedel, Jean; Thomes Pepin, Jessica; Bottsford-Miller, Justin Neal; Fagbemi, Seth Olusegun; Jaslowski, Anthony John; Kim, Hye Sung; Chung, Liam Il-Young; Moloney-Lineen, Carolyn; McLeod, Christine M; Chen, Helen X; Sharon, Elad; Streicher, Howard; Ryan, Christopher W; Blanke, Charles D; Kurzrock, Razelle
 
 Abstract:
 Dual anti-CTLA-4/PD-1 inhibitors show efficacy in numerous malignancies. We are the first to report on the efficacy of ipilimumab-nivolumab immunotherapy in a dedicated cohort of patients with gynecologic clear cell carcinomas (CCCs), which are rare, aggressive cancers.

@@ -1,5 +1,7 @@
 PMID: 41673971
 Title: [A case of mixed follicular-papillary-eosinophilic adenocarcinoma of the thyroid gland].
+Journal: Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery
+Authors: Yu, H; Zheng, G B; Liu, Z L; Song, X C; Chen, X M
 
 Abstract:
 

@@ -1,5 +1,7 @@
 PMID: 41686139
 Title: Immediate Postoperative Evolution of Cerebral Doppler and Saturation Parameters After Cardiopulmonary Bypass in Infants With Congenital Heart Disease: A Prospective Cohort Study.
+Journal: Critical care explorations
+Authors: Mir, Marina; Maitre, Guillaume; Dancea, Adrian; Bernier, Pierre-Luc; Fontela, Patricia; Zavalkoff, Samara; Roche Martínez, Ana; O'Brien, Nicole; LaRovere, Kerri L; Shemie, Sam D; Altit, Gabriel
 
 Abstract:
 To describe temporal trends and instantaneous relationships between middle cerebral artery (MCA) cerebral blood flow velocity, cerebral oxygen saturation (Csat), cerebral fractional tissue oxygen extraction (cFTOE), and systemic arteriovenous oxygen difference (AVo2) during the first 24 hours following congenital heart disease (CHD) surgery requiring cardiopulmonary bypass (CPB).

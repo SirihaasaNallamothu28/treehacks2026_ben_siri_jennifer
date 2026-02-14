@@ -1,5 +1,7 @@
 PMID: 41686573
 Title: Global research status of the impact of neutrophil extracellular traps on tumor from 2004 to 2023: A bibliometric and visualized analysis.
+Journal: Medicine
+Authors: Wang, Xinyi; Wang, Yafen; Yang, Yipin; Wu, Chao; Zhuo, Enba; Yin, Mengyao; Zhou, Mengyuan; Gu, Kangsheng; Chen, Bangjie; Jia, Yiwen
 
 Abstract:
 Tumors are a major threat to human life and health. Neutrophil extracellular traps (NETs) have become a research focus in this context, especially regarding their role in tumor progression. Since the concept of NETs was introduced in 2004, its implications for tumor research have attracted significant scholarly attention. This study aims to explore research trends and cutting-edge hotspots in NETs and tumors through bibliometric analysis and provide new ideas for clinical applications.

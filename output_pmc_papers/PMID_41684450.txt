@@ -1,5 +1,7 @@
 PMID: 41684450
 Title: Association between metabolic dysfunction-associated fatty liver disease and cardiovascular autonomic neuropathy in type 2 diabetes.
+Journal: Frontiers in endocrinology
+Authors: Peng, Rong; Ao, Yaoyun; Cen, Enni; Chen, Junnian; Huang, Zeshan; Fu, Xiaoying; Kuang, Jian; Lai, Shuiqing; Zhang, Shuting
 
 Abstract:
 This cross-sectional study aimed to elucidate the relationship between metabolic dysfunction-associated fatty liver disease (MAFLD) and diabetic cardiovascular autonomic neuropathy (DCAN) in patients with type 2 diabetes mellitus (T2DM).

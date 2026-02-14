@@ -1,5 +1,7 @@
 PMID: 41678399
 Title: Emotion Regulation Interventions for Cancer Patients and Their Relatives: A Systematic Review.
+Journal: Cancer medicine
+Authors: Naeyaert, Ambre; Fournier, Valentyn; Caton, Laura; Gandolphe, Marie-Charlotte; Duprez, Christelle; Laroussi-Libeault, Lisa; Haegen, Marie Vander; Antoine, Pascal; Lamore, Kristopher
 
 Abstract:
 Emotional regulation (ER) is crucial for the psychological well-being of patients with cancer and their relatives. Various ER interventions exist but often suffer from poor adherence and high attrition rates.

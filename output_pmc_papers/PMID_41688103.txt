@@ -1,5 +1,7 @@
 PMID: 41688103
 Title: Development of a resource use measure to capture costs related to unpaid care for people living with non-memory led dementia: a modified Delphi study.
+Journal: BMJ open
+Authors: Cullen, Katherine; Brotherhood, Emilie V; Hayes, Oliver; Mansfield, Valerie; Suarez-Gonzalez, Aida; Zimmermann, Nikki; Stott, Joshua; Fitzsimmons, Deborah
 
 Abstract:
 To determine the personal, National Health Service and wider societal resource use in relation to caring responsibilities for carers of people living with non-memory led dementias (NMLDs); and to design a resource use measure (RUM) that can be delivered in the Better Living with Non-memory-led Dementia (BELIDE) randomised controlled trial, part of the Rare Dementia (RD) - TALK research programme.

@@ -1,5 +1,7 @@
 PMID: 41686626
 Title: Soft tissue chordoma of the right thigh demonstrated on 18F-FDG PET/CT and MRI: A case report.
+Journal: Medicine
+Authors: Liu, Mengyue; Yu, Jiaying; Zhong, Aijun; Qiu, Zhongling; Tang, Juan
 
 Abstract:
 Chordoma is a malignant bone tumor that typically affects structures along the midline. Soft tissue chordoma of the right thigh is an extremely rare entity but significant, as it can create diagnostic challenges and increases the risk of misdiagnosis, making accurate identification essential. This report introduces a diagnostic strategy of fluorine-18 fluorodeoxyglucose positron emission tomography/computed tomography (18F-FDG PET/CT) for a huge chordoma.

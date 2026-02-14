@@ -1,5 +1,7 @@
 PMID: 41688098
 Title: Early detection of female-specific cancers using longitudinal healthcare records with a multichannel convolutional neural network.
+Journal: BMJ health & care informatics
+Authors: Chien, Chia-Hui; Chang, Shih-Chuan; Chang, Yung-Chun; Li, Yu-Chuan
 
 Abstract:
 Female-specific cancers, including breast, ovarian, cervical and uterine malignancies, lack comprehensive early detection approaches, particularly for ovarian and endometrial cancers where effective population-level screening remains limited. This study aimed to develop and validate a computational method for early detection of female-specific cancers using longitudinal healthcare records.

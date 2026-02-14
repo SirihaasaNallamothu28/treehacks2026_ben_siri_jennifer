@@ -1,0 +1,5 @@
+PMID: 41686593
+Title: Evaluation of venous thromboembolism and malignancy development in splenectomized patients: A retrospective single-center study from a Southern Anatolian City (Isparta).
+
+Abstract:
+A significant association was found between the last pre-splenectomy platelet count and the development of thrombosis within the first postoperative month (P = .045). Overall, VTE occurred in 4.2% of patients within the first month, with portal vein thrombosis being the most common type in both early and late periods. Persistent thrombocytosis (platelets > 4,50,000/mm3) was present in 29.3% of patients at 1 to 6 months and 10.9% after 6 months. In the immune thrombocytopenic purpura subgroup, 71.2% of patients maintained a platelet count above 30,000/mm3 after 6 months. We found no significant association between pre- or post-splenectomy platelet levels and the subsequent development of malignancy.

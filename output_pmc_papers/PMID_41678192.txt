@@ -1,5 +1,7 @@
 PMID: 41678192
 Title: Chlorhexidine vs Povidone-Iodine and Incidence of Catheter-Related Infections: A Systematic Review and Meta-Analysis.
+Journal: JAMA network open
+Authors: Drugeon, Bertrand; Mihala, Gabor; Schults, Jessica; Bigaud, Benjamin; Guenezan, Jérémy; Batiot, Guillaume; Barker, Natalie; Marjanovic, Nicolas; Buetti, Niccolò; Mimoz, Olivier
 
 Abstract:
 Intravascular catheters are essential in health care but remain a major source of health care-associated infections. Optimal skin antisepsis before insertion is key, yet the most effective antiseptic agent, concentration, and formulation remain uncertain.

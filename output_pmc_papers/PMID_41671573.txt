@@ -1,5 +1,7 @@
 PMID: 41671573
 Title: Computerized Self-Reported Medical History Taking to Support Early Rule Out of Major Adverse Cardiac Events in Patients With Acute Chest Pain: Post Hoc Analysis of the CLEOS-CPDS Prospective Cohort Study.
+Journal: Journal of medical Internet research
+Authors: Brandberg, Helge; Sundberg, Carl Johan; Spaak, Jonas; Koch, Sabine; Kahan, Thomas
 
 Abstract:
 Self-reported, computerized history taking (CHT) may enable efficient collection of medical histories for acute chest pain management.

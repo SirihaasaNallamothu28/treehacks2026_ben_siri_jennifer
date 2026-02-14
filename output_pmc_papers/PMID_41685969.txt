@@ -1,5 +1,7 @@
 PMID: 41685969
 Title: Cancer screening in patients with severe psychiatric disorders in France: Towards a coordinated and inclusive approach.
+Journal: The European journal of general practice
+Authors: Pellen, Nadine; Gouzien, Bleuenn; Troënes, Manon; Khelifi, Sarah; Ragot, Gaëlle; Le Glaz, Aziliz
 
 Abstract:
 The close link between mental health and physical health is evident in patients with severe psychiatric disorders (SPD), such as schizophrenia and bipolar disorder. SPD is associated with a reduction in life expectancy, due to excess mortality from cardiovascular disease and cancer. In patients with SPD, reduced access to cancer screening programs, due to cognitive, organisational and social barriers, leads to late detection and worse prognosis.

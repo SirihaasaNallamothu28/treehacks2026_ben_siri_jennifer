@@ -1,5 +1,7 @@
 PMID: 41672689
 Title: Bleeding in Patients With Infarct-Related Cardiogenic Shock: A DanGer Shock Substudy.
+Journal: JACC. Cardiovascular interventions
+Authors: Sørensen, Rikke; Møller, Jacob Eifer; Vandenbriele, Christophe; Hassager, Christian; Eiskjær, Hans; Mangner, Norman; Polzin, Amin; Schulze, P Christian; Skurk, Carsten; Nordbeck, Peter; Clemmensen, Peter; Panoulas, Vasileios; Zimmer, Sebastian; Schäfer, Andreas; Christensen, Steffen; Engstrøm, Thomas; Beske, Rasmus Paulin; Frydland, Martin; Jensen, Lisette Okkels; Junker, Anders; Schmidt, Henrik; Udesen, Nanna Louise Junker; Terkelsen, Christian Juhl; Linke, Axel; Holmvang, Lene
 
 Abstract:
 The microaxial flow pump (mAFP) has demonstrated improved outcomes in selected patients with ST-segment elevation acute myocardial infarction and cardiogenic shock (STEMI-CS). However, its use has been associated with bleeding events.

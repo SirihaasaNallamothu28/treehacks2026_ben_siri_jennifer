@@ -1,5 +1,7 @@
 PMID: 41683293
 Title: Alcohol Intake and Incidence of Heart Failure and Its Subtypes: VA Million Veteran Program.
+Journal: Nutrients
+Authors: Nguyen, Xuan-Mai T; Elhouderi, Eiman; Li, Yanping; Williams, April R; Gaziano, Liam; Joseph, Jacob; Gaziano, John Michael; Cho, Kelly; Djousse, Luc
 
 Abstract:
 Little is known about the relation between total alcohol intake and beverage types with the risk of heart failure (HF) and its subtypes in the veteran population. This study aims to examine the associations between total and type of alcohol consumption and risk of HF and its subtypes, namely HF with reduced [HFrEF] and preserved [HFpEF] ejection fraction, in a large cohort of US veterans.

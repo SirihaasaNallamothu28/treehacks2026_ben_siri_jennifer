@@ -1,5 +1,7 @@
 PMID: 41683208
 Title: Anthocyanin-Rich Dark Sweet Cherry Phenolics Drive Context-Dependent Modulation of the Nrf2-Keap1-p62 Pathway in Drug-Resistant Triple Negative Breast Cancer Cells: An In Vitro Study.
+Journal: Nutrients
+Authors: Nava-Ochoa, Ana; San-Cristobal, Rodrigo; Mertens-Talcott, Susanne U; Noratto, Giuliana D
 
 Abstract:
 Triple negative breast cancer (TNBC) is an aggressive subtype treated primarily with chemotherapy, which often leads to drug resistance (DR) and reduced effectiveness. Phytochemicals, including anthocyanins from dark sweet cherry (ACN), have emerged as potential adjuvants to overcome DR, though mechanisms remain unclear. This study examines ACN effects on canonical and non-canonical antioxidant pathways (Nrf2-Keap1 and p62) as a mechanism to overcome DR in 4T1 TNBC cells with acquired DR.

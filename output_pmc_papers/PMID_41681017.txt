@@ -1,0 +1,11 @@
+PMID: 41681017
+Title: A comparative analysis of two dual-layer flat panel detector designs and mimicking of a triple-layer flat panel detector in spectral CT.
+Journal: Medical physics
+Authors: Deng, Yifan; Bennett, Nathaniel Robert; Gao, Hewei; Wang, Adam S
+
+Abstract:
+In recent years, dual-layer flat-panel detector (DL FPD) technology has continuously developed, becoming a key technique for spectral cone-beam CT (CBCT).
+To advance the development of dual- and multi-layer flat-panel detector technology, we compared two different designs of DL FPD with or without an interlayer filter and explored the advantages of the triple-layer flat-panel detector (TL FPD).
+First, we used a Cramer-Rao lower bound (CRLB) method to theoretically analyze the optimal performance of DL FPDs and TL FPDs for a large area task. Then, two prototypes of DL FPD with or without interlayer filter in different platforms were used for comparison, and a filter-less TL FPD was mimicked by the two DL FPDs and a 0.15-mm tin filter. In physical experiments, the spectral imaging performance was then evaluated by a Gammex phantom containing water and iodine.
+CRLB analysis showed DL FPD 1 (with interlayer filter) achieved higher basis-image signal-to-noise ratio (SNR) but lower virtual monochromatic image (VMI) SNR compared to DL FPD 2 (without interlayer filter), and TL FPD has the advantages of both DL FPDs, as demonstrated through experimental results with the Gammex phantom showing the best noise performance of basis material images and VMIs. In physical experiments, the averaged standard deviation (STD) of selected ROIs in iodine/water basis images for TL FPD is 19%/18% lower than DL FPD 1 and 38%/37% lower than DL FPD 2. In VMI at optimal energy, the averaged STD for TL FPD matched DL FPD 2, but 36% lower than DL FPD 1 with interlayer filter.
+According to the theoretical and experimental results, DL FPD 1 with interlayer filter has better performance for basis material images, and DL FPD 2 without filter has better performance for VMIs. TL FPD has the advantages of both DL FPDs, which can be a promising technology for spectral CBCT.

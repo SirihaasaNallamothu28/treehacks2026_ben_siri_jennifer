@@ -1,5 +1,7 @@
 PMID: 41678489
 Title: Communication and information needs of patients with cancer in Ghana: A scoping review.
+Journal: PloS one
+Authors: Agyei, Kofi Gyasi; Yahaya, Ahmed-Rufai; LeBlanc, Natalie; Loh, Kah Poh; Norton, Sally A
 
 Abstract:
 Patients with serious illnesses, especially those with cancer, require information and good communication throughout their care. Effective communication is pivotal for quality cancer care, leading to improved quality of life, reduced anxiety, enhanced patient satisfaction, and adherence with treatment recommendations. Considering this, programs including serious illness conversation guides have been developed and implemented internationally (e.g., in the US) to improve communication skills in oncology care. Although many low- and middle-income countries are experiencing a growing cancer burden in both incidence and mortality, prognosis and treatment options are rarely discussed, which may be due to a lack of culturally sensitive guidelines in the African context. Notably, Ghana is facing a concerning increase in cancer prevalence and incidence. However, there is a paucity of information about the communication and information needs of patients with cancer in Ghana. This review will provide critical insights to guide the development or adaptation of culturally sensitive guidelines/frameworks appropriate for the Ghanaian context, with potential applicability to other African countries facing similar sociocultural and health system dynamics.

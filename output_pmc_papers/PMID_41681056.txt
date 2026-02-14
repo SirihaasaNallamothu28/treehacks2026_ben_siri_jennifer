@@ -1,5 +1,7 @@
 PMID: 41681056
 Title: Changes in Epithelial Ovarian Cancer Recurrence and Survival According to Treatment Paradigm Shifts.
+Journal: The journal of obstetrics and gynaecology research
+Authors: Kim, Jeongyun; Suh, Dong Hoon; Kim, Kidong; No, Jae Hong; Kim, Yong Beom
 
 Abstract:
 To evaluate oncologic outcomes in patients with epithelial ovarian cancer (EOC) amid evolving surgical and systemic therapy paradigms.

@@ -1,0 +1,11 @@
+PMID: 41670792
+Title: Assessing systemic endothelial dysfunction in glaucoma subtypes and pseudoexfoliation using photoplethysmography-based flow mediated dilation.
+Journal: International ophthalmology
+Authors: Karakuzu, Fatumatuz Zehra; Buyukaksu, Murat; Aslan, Fatih; Sircan-Kucuksayan, Aslinur
+
+Abstract:
+To evaluate systemic endothelial dysfunction in patients with primary open-angle glaucoma (POAG), pseudoexfoliation glaucoma (PEXG), and pseudoexfoliation syndrome (PEXS) using a novel, non-invasive photoplethysmography-based flow-mediated dilation (PPG-FMD) technique and examine associations between endothelial function and ophthalmic structural parameters.
+In this prospective cross-sectional study, 55 participants were enrolled: POAG (n = 12), PEXG (n = 14), PEXS (n = 16), and controls (n = 13). Systemic endothelial function was measured noninvasively by PPG-FMD, quantifying vascular reactivity from pulse amplitude changes during reactive hyperemia. Ophthalmic parameters included intraocular pressure (IOP), ganglion cell complex (GCC) thickness, and peripapillary retinal nerve fiber layer (RNFL) thickness assessed by spectral-domain OCT. Group comparisons and correlation analyses were performed with Kruskal-Wallis and Dunn post-hoc tests, and Pearson or Spearman correlation analyses as appropriate.
+Mean PPG-FMD dilation index values were significantly lower in the POAG (85.4 ± 6.0%) and PEXG (82.5 ± 4.3%) groups compared to controls (124.5 ± 10.1%, p < 0.001). The PEXS group showed nonsignificant reduction. Endothelial function was positively correlated with GCC (r = 0.311, p = 0.027) and RNFL thickness (r = 0.378, p = 0.007) and negatively correlated with IOP (r = - 0.339, p = 0.013). No significant association was found with central corneal thickness.
+Our findings highlight that systemic endothelial dysfunction is more pronounced in patients with glaucomatous optic neuropathy, especially PEXG and POAG. The PPG-FMD method offers a novel, operator-independent, and clinically feasible tool for evaluating vascular endothelial function in glaucoma.
+This study demonstrates, for the first time, that PPG-FMD can noninvasively detect systemic vascular impairment in glaucoma, offering a novel clinical marker that complements IOP and OCT metrics for identifying high-risk patients.

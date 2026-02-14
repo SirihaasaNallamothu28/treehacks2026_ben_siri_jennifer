@@ -1,5 +1,7 @@
 PMID: 41671552
 Title: The Longevity of Mobile Apps for Cancer Recovery: Scoping Review.
+Journal: JMIR cancer
+Authors: Färnqvist, Kenneth; Thiele, Luisa; Johnsson, Sophie; Lagergren, Pernilla; Schandl, Anna
 
 Abstract:
 The number of cancer survivors is steadily increasing worldwide, leading to an increased demand for long-term follow-up and supportive care. Many survivors face ongoing physical and psychosocial issues that highlight the need for innovative management approaches. Mobile health apps offer potential benefits by facilitating patient-led follow-up, self-management, and more efficient use of health care resources. Although the market for cancer-related mobile apps has grown rapidly, their sustainability and scientific basis remain unclear. In the European Union, the Medical Device Regulation (MDR), in effect since May 2021, introduced stricter criteria for classifying medical devices, including certain software apps. While aiming to improve patient safety, the MDR could pose challenges for small companies and academic developers, potentially limiting the availability of such apps. No scoping review has delineated changes in active apps before and after implementation of the legislation regulating medical devices.

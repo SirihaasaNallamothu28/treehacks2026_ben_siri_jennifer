@@ -1,5 +1,7 @@
 PMID: 41686016
 Title: Atrial Fibrillation and Coronary Events: Competing Risks and Bidirectional Mediation in a Longitudinal Swedish Cohort.
+Journal: Circulation. Population health and outcomes
+Authors: Bao, Xue; Yin, Songjiang; Xu, Biao; Johnson, Linda S; Engström, Gunnar
 
 Abstract:
 The prevalence of atrial fibrillation (AF) and coronary events (CEs) overlap, yet their differential associations with risk factors and reciprocal mediation remain poorly characterized.

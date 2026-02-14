@@ -1,0 +1,7 @@
+PMID: 41672620
+Title: [Review of Progress of Optical Brain-Computer Interface Technology and Prospects for Medical Device Testing Technology].
+Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+Authors: Wang, Yiqiao; Mi, Yunping; Zhang, Xinyan; Zhao, Bin; Li, Hao; Liu, Xun
+
+Abstract:
+Optical brain-computer interface (OBCI) technology is a new cross-cutting frontier technology that achieves information interaction between the human brain and external devices through neuroengineering based on optical methods. Among them, brain-computer interface (BCI) devices based on functional near-infrared spectroscopy (fNIRS) have been successively developed and applied, and this type of technology has become one of the main development directions of non-invasive optical brain-computer interface medical device technology. At the same time, OBCI technology based on optogenetics and optical calcium imaging technology has also been proposed as a research hotspot in recent years, and will serve as a new direction for the future development of OBCI medical device testing technology. This paper mainly reviews the basic principles and research progress of functional near-infrared spectroscopy brain-computer interface (fNIRS-BCI), and introduces the research frontiers of BCI based on optogenetics and optical calcium imaging technology. Finally, it presents prospects for the further development of OBCI medical device testing technology, providing certain guidance and ideas for the development, testing, and supervision of the BCI industry.

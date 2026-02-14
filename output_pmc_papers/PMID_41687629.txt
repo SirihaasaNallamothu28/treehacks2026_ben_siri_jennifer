@@ -1,5 +1,7 @@
 PMID: 41687629
 Title: IMMUNOMODULATORS IN THE TREATMENT OF ATHEROSCLEROSIS AND OTHER CHRONIC HEART DISEASES: PROSPECTS AND RISKS.
+Journal: Georgian medical news
+Authors: Tyravska, Y; Maltsev, D; Moyseyenko, V; Reshetylo, V; Yakymenko, V
 
 Abstract:
 Atherosclerotic cardiovascular diseases remain the leading cause of mortality worldwide, with chronic inflammation driving progression despite traditional lipid-lowering and antiplatelet therapy, leaving substantial residual cardiovascular risk. This study aimed to systematically analyze immunomodulator efficacy and safety in treating atherosclerosis and chronic cardiac diseases, determining therapeutic potential and associated risks.

@@ -1,5 +1,7 @@
 PMID: 41671461
 Title: Unveiling Factors Associated With Older Adult Accrual to Cancer Clinical Trials: Lessons From the ECOG-ACRIN Experience.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Pearson, Laurie K; Zheng, Yue; Nikita, Nikita; Lu-Yao, Grace; Presley, Carolyn J; Wagner, Lynne I; Simon, Melissa A; Dotan, Efrat
 
 Abstract:
 Older adults (OAs) constitute ≥50% of patients with cancer in the United States yet are underrepresented in clinical trials. This study aimed to evaluate the representation of OAs in ECOG-ACRIN (EA) clinical trials and identify factors associated with their participation.

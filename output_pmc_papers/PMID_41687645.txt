@@ -1,5 +1,7 @@
 PMID: 41687645
 Title: BIOMARKERS OF CARDIOMETABOLIC RISK IN PATIENTS WITH ARTERIAL HYPERTENSION: A CROSS-SECTIONAL PILOT STUDY.
+Journal: Georgian medical news
+Authors: Derbissalina, G; Bekbergenova, Z; Umbetzhanova, A; Mauletbayeva, G; Bedelbayeva, G
 
 Abstract:
 To provide a comprehensive assessment of cardiometabolic biomarkers in patients with arterial hypertension and to analyze their relationship with the presence of coronary artery disease and atherosclerosis, as well as to outline directions for further research.

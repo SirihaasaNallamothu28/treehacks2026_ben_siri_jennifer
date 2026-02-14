@@ -1,5 +1,7 @@
 PMID: 41674437
 Title: The Reliability of Measuring Muscle Cross-Sectional Area in Children Undergoing Treatment for Musculoskeletal Sarcoma.
+Journal: Journal of cachexia, sarcopenia and muscle
+Authors: Laurie, Claire; Donnan, Leo; Granger, Catherine L; Spittle, Alicia J; Eisenstat, David D; Cain, Timothy; Mehta, Nisarg; Godfrey, Christopher; FitzGerald, Tara L
 
 Abstract:
 Changes in musculoskeletal health and function are increasingly recognised as important long-term consequences of treatment for malignant bone tumours in paediatric populations. Accurate and reliable assessment methods are critical for monitoring these changes during treatment. We aimed to determine the inter- and intra-rater reliability of MRI-based measurements of muscle cross-sectional area in children undergoing treatment for paediatric musculoskeletal sarcoma.

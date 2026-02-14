@@ -1,5 +1,7 @@
 PMID: 41683415
 Title: Development of a High-Throughput UHPLC-DMS-MS/MS Method for Targeted Quantitation of Pertinent Phospholipid Classes in Colon Cancer.
+Journal: Molecules (Basel, Switzerland)
+Authors: Wimmer, Miriam; Coleman, Olivia I; Sorbie, Adam; Haller, Dirk; Somoza, Veronika; Dunkel, Andreas
 
 Abstract:
 Phospholipids are essential membrane constituents that regulate diverse cellular processes, yet most current workflows rely on relative quantification using high-resolution LC-MS. We developed and validated a highly selective targeted method that couples liquid chromatography with differential mobility spectrometry and tandem mass spectrometry (LC-DMS-MS/MS), providing enhanced selectivity and reduced background noise. The assay quantifies 63 phospholipid species across four classes, achieving excellent recoveries and limits of quantification in the low ng per mg tissue range. Applied to tissues from a colon cancer study in mice, the method enabled the absolute quantification of 47 species, 22 of which were significantly increased in tumor tissue versus adjacent non-tumor tissue. While phosphatidylcholines were the most abundant class overall, the largest fold changes were observed in long-chain phosphatidylglycerol and phosphatidylethanolamine species. LC-DMS-MS/MS thus offers a robust, selective platform for absolute phospholipid quantification and for detecting disease-associated lipid remodeling.

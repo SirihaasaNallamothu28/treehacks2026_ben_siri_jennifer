@@ -1,5 +1,7 @@
 PMID: 41689388
 Title: Efficacy of wound protectors in reducing surgical site infections in patients undergoing open colorectal surgery: A systematic review and meta-analysis.
+Journal: Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland
+Authors: Desai, Arusha; Bisht, Rahul; Misra, Sidharth; Kritya, Mangesh; Bhardwaj, Anjali; Chakraborty, Soubhik; Pisipati, Tejaswini
 
 Abstract:
 The incidence of surgical site infections (SSIs) has been reported to be significantly higher in colorectal surgeries compared to other surgical procedures. Wound protectors have been developed to help reduce the incidence of SSIs by creating a barrier between the incisional wound and the contaminated surgical field, but their efficacy remains uncertain.

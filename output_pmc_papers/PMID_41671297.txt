@@ -1,5 +1,7 @@
 PMID: 41671297
 Title: Identifying regulatory driver motifs in non-small cell lung carcinoma via a systematic approach.
+Journal: PloS one
+Authors: Kumar, Rahul; Massey, Sheersh; Albogami, Sarah; Aloliqi, Abdulaziz A; Asiri, Abdulaziz; Aljohani, Maher M; Aljohani, Hashim M; Kumar, Atul; Dev, Kapil
 
 Abstract:
 Lung cancer exhibits highest incidence among all cancer types worldwide and even after rigorous research and advanced treatment strategies, it constitutes a primary cause of cancer-related mortality. Non-small cell lung cancer is the predominant subtype, constituting the majority of lung cancer cases. Therefore, exploring novel biomarkers is crucial for betterment of diagnostic and therapeutic approaches.

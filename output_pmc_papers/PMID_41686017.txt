@@ -1,5 +1,7 @@
 PMID: 41686017
 Title: Mortality After ST-Segment-Elevated Myocardial Infarction Among Patients With and Without Standard Modifiable Cardiovascular Risk Factors in China.
+Journal: Circulation. Population health and outcomes
+Authors: Sun, Bin; Liang, Chunpo; Sun, Pengfei; Aa, Geru; Li, Linjie; Zhao, Liang; Li, Piao; Li, Yongle; Foo, Roger S Y; Chan, Mark Yan-Yee; Yang, Qing; Zhou, Xin
 
 Abstract:
 Patients without standard modifiable cardiovascular risk factors (SMuRF) have an associated increased mortality with ST-segment-elevation myocardial infarction. This study aims to provide insight into the clinical features, treatments, and outcomes of SMuRF-less patients.

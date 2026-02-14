@@ -1,5 +1,7 @@
 PMID: 41678300
 Title: In vitro sex-specific function-structure relationship in neonatal rat cardiac monolayers.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Authors: Tran, Mary; Nguyen, Toby Viet; Khandelwal, Suhani; Grosberg, Anna
 
 Abstract:
 Even though in vivo rodent studies have been instrumental in investigating sex-specific differences in cardiac health, function, and pathology, they fall short in providing a fast and flexible platform for investigating sex differences of cardiac anisotropic monolayer in isolation. In vitro platforms offer an accessible and more controlled alternative to dissect and study the mechanisms by which male and female cardiac tissue sheets differ from one another. Here, we have shown on an in vitro heart-on-a-chip platform, primary neonatal rat ventricular myocytes can serve as a viable model showing sex chromosome-driven characteristics when presented with identical experimental conditions. With controlled experimental conditions, the self-assembly of isolated cardiomyocytes resulted in morphological differences in the structure of the contractile apparatus. More importantly, the assembly of cardiac cells into confluent monolayers had a sex chromosome-driven divergence in both structure and the corresponding function. This work reports the characterization of the difference between sex-specific neonatal rat ventricular myocytes in in vitro culture. Thus, this offers an avenue to investigate sex-based variations in cardiac function that are otherwise difficult to study.

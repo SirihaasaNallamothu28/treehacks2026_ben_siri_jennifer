@@ -1,5 +1,7 @@
 PMID: 41685317
 Title: Identification and validation of γ-Linolenic acid as a natural FABP5 inhibitor in hepatocellular carcinoma through deep learning and experimental approaches.
+Journal: Frontiers in immunology
+Authors: An, Yuan; Liu, Hongyu; Li, Wei
 
 Abstract:
 Fatty acid binding protein 5 (FABP5) is implicated in hepatocellular carcinoma (HCC) progression and represents a potential therapeutic target.

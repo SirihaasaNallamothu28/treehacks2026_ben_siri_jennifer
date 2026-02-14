@@ -1,5 +1,7 @@
 PMID: 41673958
 Title: Blood cancer caregivers' communication with clinicians about online cancer information.
+Journal: Palliative & supportive care
+Authors: Crowe, Alyssa; Vasquez, Taylor T; Wright, Kevin B; Fisher, Carla L; Johnson, Skyler B; Paige, Samantha R; Sae-Hau, Maria; Weiss, Elisa S; Bylund, Carma L
 
 Abstract:
 Adult children caring for a parent with cancer often assume the role of a "surrogate seeker," looking online for information regarding their parent's diagnosis, which they may then discuss with their parent's clinician. The current study aims to apply the previously developed "Stoplight typology" to explore caregivers' experiences discussing online health information with their parents' clinicians and factors associated with each response type within the typology.

@@ -1,5 +1,7 @@
 PMID: 41689346
 Title: Associations of Arterial Blood Pressure With Radiographic Knee Osteoarthritis and Pain Sensitivity in Middle-Aged and Older Adults.
+Journal: European journal of pain (London, England)
+Authors: Cruz, Carlos J; Tamargo, Javier A; Abbas, Muhammad; Quintana, Ruth E; Staud, Roland; Goodin, Burel R; Fillingim, Roger B; Cruz-Almeida, Yenisel
 
 Abstract:
 High blood pressure (BP) often co-occurs with osteoarthritis (OA) and may influence pain sensitivity, potentially contributing to pain-pathology discordance. We hypothesized that higher BP would associate with reduced pain sensitivity and greater OA severity in adults with chronic knee pain.

@@ -1,5 +1,7 @@
 PMID: 41679898
 Title: CT coronary angiography guided treatment versus routine invasive coronary angiography in patients with non-ST elevation myocardial infarction: a systematic review and meta-analysis.
+Journal: Open heart
+Authors: Lee, Reagan Hon Kuan; Kam, Man Hei Marcus; Chatchalermwit, Pasin; Weston, Callum; Oon, Guo Rong; Moosa, Brian; Gray, Alasdair J; Kelham, Matthew; Jones, Daniel A; Wang, Kang-Ling; Henriksen, Peter A
 
 Abstract:
 Non-ST-segment-elevation myocardial infarction (NSTEMI) accounts for the majority of acute coronary syndrome presentations. Invasive coronary angiography (ICA) is recommended but challenging to deliver within guideline-recommended timeframes and unnecessary in patients without obstructive disease. CT coronary angiography (CTCA) offers a non-invasive alternative for lower-risk patients that may reduce procedural-related complications and optimise resource use by avoiding unnecessary ICA.

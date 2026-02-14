@@ -1,5 +1,7 @@
 PMID: 41671528
 Title: Prospective Cohort Study Testing Interventions to Reduce Diagnosis Delay and Treatment Abandonment of Children With Burkitt Lymphoma in Kenya.
+Journal: JCO global oncology
+Authors: Langat, Sandra; Njuguna, Festus; Kigen, Nicholas; Kipngetich, Martha; Olbara, Gilbert; Moormann, Ann; Vance, Gail H; Lotodo, Teresa; Odwar, Boaz; Loehrer, Patrick J; Kaspers, Gertjan; Mostert, Saskia; Vik, Terry A
 
 Abstract:
 Low survival rates among children with Burkitt lymphoma (BL) in low- and middle-income countries (LMICs) are caused by multiple factors, including delays in diagnosis and treatment abandonment. These issues are often linked to the cost of diagnostic tests, treatment, and transportation. This study describes the implementation and effectiveness of a program targeting these issues among children with BL in Kenya.

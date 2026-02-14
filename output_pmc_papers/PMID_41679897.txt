@@ -1,5 +1,7 @@
 PMID: 41679897
 Title: Prognostic utility of stress perfusion cardiac magnetic resonance in patients with known or suspected coronary artery disease and inconclusive exercise stress testing.
+Journal: Open heart
+Authors: Tanvisut, Naroudol; Kaolawanich, Yodying
 
 Abstract:
 Although exercise stress testing (EST) is commonly used for risk stratification in coronary artery disease (CAD), it yields inconclusive results in up to 20% of patients. Stress perfusion cardiac magnetic resonance (CMR) is a comprehensive and accurate tool for evaluating CAD, but data on its use in patients with inconclusive EST results are limited. Therefore, this study aimed to assess the prognostic value of stress perfusion CMR in patients with inconclusive EST results.

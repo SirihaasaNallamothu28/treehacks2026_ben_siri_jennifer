@@ -1,5 +1,7 @@
 PMID: 41678798
 Title: Remote Patient Monitoring Use Among Commercially Insured Adults With Cancer.
+Journal: JMIR cancer
+Authors: Joo, Joseph H; Jiang, Changchuan; Billig, Jessica I; Lieu, Nadia; Yang, Shining; Jin, Yujia; Hong, Arthur S; Liao, Joshua M
 
 Abstract:
 Our study describes the characteristics of remote patient monitoring use among commercially insured patients with cancer from 2019 to 2023.

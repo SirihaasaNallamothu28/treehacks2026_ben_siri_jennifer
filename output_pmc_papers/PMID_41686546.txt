@@ -1,5 +1,7 @@
 PMID: 41686546
 Title: Schizophyllum commune-associated allergic bronchopulmonary mycosis in a postoperative lung cancer patient: A case report and comprehensive literature review.
+Journal: Medicine
+Authors: Wu, Ningpei; Liang, Yi; Yan, Qunfeng
 
 Abstract:
 Schizophyllum commune (S commune), a basidiomycetous fungus, is increasingly recognized as an important cause of allergic bronchopulmonary mycosis, particularly in immunocompetent individuals with a history of respiratory surgery, chronic sinusitis, or structural airway abnormalities.

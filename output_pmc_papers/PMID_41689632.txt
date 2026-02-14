@@ -1,5 +1,7 @@
 PMID: 41689632
 Title: The sun-earth-health connection: a short review of potential mechanisms and implications.
+Journal: International journal of biometeorology
+Authors: Maghrabi, Abdullrahman H; Maghrabi, Marwa A
 
 Abstract:
 Heliobiology explores the influence of solar and geomagnetic activity on human health. This short review synthesises evidence linking solar flares, coronal mass ejections, and geomagnetic storms to cardiovascular events, autonomic dysregulation, circadian disruption, and possible neurological effects. Proposed mechanisms include melatonin suppression, cryptochrome magnetoreception, and voltage-gated calcium-channel modulation. Recent studies further support associations between geomagnetic disturbances and endothelial activation, systemic inflammation, and elevated cardiovascular mortality. The most reproducible effects involve acute cardiovascular and autonomic responses during major geomagnetic storms, whereas neurological, psychological, and infectious-disease associations remain preliminary. For clinicians, geomagnetic disturbances represent a novel environmental risk factor for vulnerable patients; for space scientists, they have direct implications for astronaut safety. Causal pathways are not yet established. Interdisciplinary collaboration is essential to refine predictive models and develop mitigation strategies for both terrestrial and extraterrestrial populations.

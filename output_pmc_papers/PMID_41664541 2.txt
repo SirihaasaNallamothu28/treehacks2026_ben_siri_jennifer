@@ -1,0 +1,8 @@
+PMID: 41664541
+Title: Plasma biomarker progression across the Alzheimer's disease amyloid beta and tau positron emission tomography trajectories.
+
+Abstract:
+With increased uptake in disease-modifying treatments for amyloid beta (Aβ) removal, it is important to measure performance of highly sensitive plasma biomarkers to detect the presence of Aβ and tau in cognitively impaired populations.
+In this study, we investigated a large set of plasma biomarkers for their capability to predict Aβ and tau positron emission tomography (PET) and their association with increasing Aβ and tau burden.
+From the biomarkers assessed, tau phosphorylated at threonine 217 (pTau217) showed the largest increases across the full range of Aβ and tau levels. Furthermore, pTau217/Aβ42 had the smallest proportion of participants in the intermediate zone (∼4%) to predict Aβ status using a 90/90% dual cut-off for sensitivity and specificity, with < 20% of participants in the intermediate zone using the 95/95% dual cut-off.
+While the studied biomarkers proved their utility to predict Aβ and tau PET at their respective thresholds, each has separate quantified responses to Aβ and tau aggregation.

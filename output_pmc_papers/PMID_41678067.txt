@@ -1,5 +1,7 @@
 PMID: 41678067
 Title: Muscle quality during cancer treatment and associations with health-related quality of life.
+Journal: Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation
+Authors: Rodrigues, Jacob L; O'Connell, Nathaniel S; Sutton, Arnethea L; Ruddy, Kathryn J; Weaver, Kathryn E; Lesser, Glenn J; Ky, Bonnie; D'Agostino, Ralph B; Hundley, W Gregory; Bellissimo, Moriah P
 
 Abstract:
 Breast cancer (BC) survivors report declines in health-related quality of life (HRQoL), including worsening physical function and fatigue levels. It is uncertain if these changes are associated with muscle quality. This study estimated changes in muscle quality and HRQoL in BC participants over 24 months of treatment and tested associations with muscle quality and HRQoL.

@@ -1,5 +1,7 @@
 PMID: 41674460
 Title: Cognitive Communication, Voice and Swallowing Difficulties Experienced by Adults With Long-COVID: A Scoping Review.
+Journal: Health expectations : an international journal of public participation in health care and health policy
+Authors: McTiernan, Kathleen; Hughes, Caoimhe; Gilheaney, Órla
 
 Abstract:
 Adults with Long-COVID frequently experience impairments in cognitive-communication, voice and swallowing, however, few comprehensive reviews of the existing literature has yet to be conducted to map the current research landscape. To go some way toward addressing this gap, this scoping review collected and analysed relevant published studies to identify reported symptoms related to cognitive communication, voice and swallowing in post COVID-19 patients and the assessments used to identify these difficulties.

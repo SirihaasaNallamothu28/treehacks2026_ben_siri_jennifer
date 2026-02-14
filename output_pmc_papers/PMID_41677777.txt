@@ -1,5 +1,7 @@
 PMID: 41677777
 Title: Psychometric properties of the Community Balance and Mobility Scale for people with stroke.
+Journal: European journal of physical and rehabilitation medicine
+Authors: Qin, Yu; Li, Siyue; Chen, Peiming; Wong, Thomson; Ng, Shamay S
 
 Abstract:
 Community Balance and Mobility Scale (CB&M) is a comprehensive performance-based measure developed to assess functional balance and mobility. It represents a potential balance assessment tool for higher functioning stroke survivors.

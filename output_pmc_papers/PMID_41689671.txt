@@ -1,5 +1,7 @@
 PMID: 41689671
 Title: Remote symptom monitoring with clinical alerts following lumpectomy: do alerts predict 30-day re-operation or re-admission rates?
+Journal: Breast cancer research and treatment
+Authors: Wang, Jennifer; Bayard, Solange; Assel, Melissa; Kim, Minji; Moo, Tracy-Ann; Vickers, Andrew J; Carlsson, Sigrid V; Mehrara, Babak; Morrow, Monica; Nelson, Jonas A; Tadros, Audree B
 
 Abstract:
 Electronic patient-reported outcomes (ePROs) are used postoperatively to detect complications through real-time symptom monitoring. This study examines whether alerts triggered through the "Recovery Tracker" (RT), an ePRO system, predict 30-day re-admission or re-operation after lumpectomy.

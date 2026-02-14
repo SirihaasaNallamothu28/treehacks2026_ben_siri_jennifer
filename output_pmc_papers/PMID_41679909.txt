@@ -1,5 +1,7 @@
 PMID: 41679909
 Title: Poorly differentiated neuroendocrine transformation from metastatic upper tract urothelial carcinoma.
+Journal: BMJ case reports
+Authors: Mohamed Lamin Mohamed Mouloud, Failah; Morales-Barrera, Rafael; de Torres, Inés María; Mast, Richard; Maldonado, Xavier; Simó, Marc; Carles, Joan
 
 Abstract:
 Neuroendocrine carcinomas of the genitourinary tract, though rare, are highly aggressive tumours with limited treatment options. The pathogenic mechanisms underlying the progression from urothelial carcinoma to neuroendocrine carcinoma remain poorly understood. This report presents the first documented case of metastatic urothelial carcinoma transforming into neuroendocrine carcinoma, potentially as a resistance mechanism to enfortumab-vedotin therapy, as the dynamic nature of tumour cells may contribute to resistance against evolving microenvironments and novel interventions. In this context, performing biopsies during disease progression serves as a critical tool for elucidating tumour plasticity and enhancing therapeutic strategies.

@@ -1,5 +1,7 @@
 PMID: 41688770
 Title: Dynamic Network Analysis of Symptom Profiles and Their Expected Impact on Patients with Colorectal Cancer Receiving Postoperative Adjuvant Chemotherapy.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Li, Langjuan; Xia, Wangjie; Guo, Daoxia; Peng, Mengyun; Yang, Zhongfang; Tian, Li
 
 Abstract:
 Chemotherapy causes patients to experience a series of side effects. Dynamic network analysis plays a significant role in elucidating the synergistic effects among symptoms. This study attempts to analyze the dynamic correlation among symptoms during the early, middle and late stages of chemotherapy, and to clarify their expected influence on colorectal cancer (CRC) patients.

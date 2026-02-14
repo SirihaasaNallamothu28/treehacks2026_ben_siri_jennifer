@@ -1,5 +1,7 @@
 PMID: 41688121
 Title: Cognitive and physical exercise to improve outcomes after surgery (COPE-iOS) study: protocol for a randomised, controlled trial in the USA examining the efficacy of a combined cognitive and physical exercise programme performed before and after major surgery in improving cognitive and functional outcomes for older adults.
+Journal: BMJ open
+Authors: Rengel, Kimberly F; Archer, Kristin R; Jackson, Jim C; Raman, Rameela; Orun, Onur M; Ellison, Terri; Vanston, Susan W; Ervin, Hope; Lauck, Alana; Provin, Madison; Pandharipande, Pratik P; Hughes, Christopher G
 
 Abstract:
 Surgery and its resulting hospitalisation are associated with subsequent cognitive and functional decline. Interventions to reduce this decline have exhibited limited success. Prehabilitation is the process of enhancing capacity and reserve before an acute stressor to improve tolerance of the acute physiologic insult. Older adults requiring major surgery are an ideal population for prehabilitation. Prehabilitation exercise studies have mostly focused on physical training to improve physical outcomes after specific surgery types, and data on cognitive outcomes and in broader surgical populations are needed. Computerised cognitive training (CCT) has been shown to enhance memory, processing speed, attention and multitasking. Combining CCT with a physical exercise may be most effective in reducing cognitive and functional decline in older patients undergoing major surgery, but has yet to be evaluated.

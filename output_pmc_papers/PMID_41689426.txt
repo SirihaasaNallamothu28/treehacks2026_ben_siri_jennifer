@@ -1,0 +1,7 @@
+PMID: 41689426
+Title: DEAH-Box RNA Helicases in the Spliceosome: Advances in Structure and Function.
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+Authors: Chen, Zhe
+
+Abstract:
+Pre-mRNA splicing is orchestrated by the spliceosome through coordinated RNA and protein rearrangements driven by ATP-dependent RNA helicases. DEAH-box helicases serve as principal motors, controlling catalytic activation, exon ligation, and complex disassembly. Early mechanistic understanding was limited by low-resolution cryo-electron microscopy (cryo-EM) structures, leaving RNA substrate interactions largely inferred from biochemical and genetic studies. Recent high-resolution cryo-EM structures (2021-present) have captured all five spliceosomal DEAH-box helicases-DHX16/Prp2, DHX38/Prp16, DHX8/Prp22, DHX15/Prp43, and DHX35-bound to their RNA targets within distinct spliceosomal states. These structures reveal precise recruitment, substrate recognition, and stage-specific actions. In this review, I integrate these insights into a unified framework, highlighting structural, biochemical, and evolutionary perspectives to guide future investigations of helicase regulation and their role in maintaining the fidelity of eukaryotic RNA splicing.

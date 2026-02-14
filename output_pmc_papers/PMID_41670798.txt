@@ -1,5 +1,7 @@
 PMID: 41670798
 Title: Saying good-bye or final conversations between terminally ill inpatients and family members in the last weeks of life: a nationwide survey of bereaved families.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Otani, Hiroyuki; Morita, Tatsuya; Aoyama, Maho; Tsuneto, Satoru; Mori, Masanori; Miyashita, Mitsunori
 
 Abstract:
 In the last days of life, saying good-bye between terminally ill patients and their family members-sharing meaningful final conversations-is considered a core element of a good death. However, the role of healthcare professionals in facilitating this process remains insufficiently examined. This study aimed to assess bereaved family members' perceptions of (1) the achievement of saying good-bye and (2) the appropriateness of support timing.

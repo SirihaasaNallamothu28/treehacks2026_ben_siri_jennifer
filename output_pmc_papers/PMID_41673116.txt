@@ -1,5 +1,7 @@
 PMID: 41673116
 Title: Comparative in vitro cytotoxicity of free curcumin and a liposomal curcumin formulation on various human cancer cell lines.
+Journal: Scientific reports
+Authors: Ali, Said A; Helmy, Hagar I; Gaber, Mohamed H
 
 Abstract:
 Phospholipids derived from plants are promising for drug delivery applications. This study aimed to develop liposomes from cost-effective, plant-derived soy lecithin to enhance the cytotoxicity of curcumin (CUR) against a panel of human cancer cells. The optimized curcumin-loaded liposomes (CUR-Liposomes) were characterized and exhibited a nanoscale size of 105.7 nm, and a high negative zeta potential of -49.9 mV. The key finding from the in vitro cytotoxicity assay was that CUR-liposomes demonstrated significantly enhanced anticancer activity compared to free CUR, as evidenced by lower half maximal inhibitory concentration (IC50) values across all tested cancer cell lines, including multidrug-resistant MCF-7 breast adenocarcinoma (MCF-7/ADR), colon (Caco-2), lung (A549), prostate (PC3), and pancreatic (PANC-1) cancer cells. Notably, this enhanced cytotoxicity was not observed in normal Vero cells, suggesting a favorable selectivity profile. These findings demonstrate that liposomal encapsulation using plant-derived lipids is a viable strategy to improve the therapeutic efficacy and potential selectivity of CUR for cancer treatment.

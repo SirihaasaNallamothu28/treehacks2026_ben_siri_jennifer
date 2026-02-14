@@ -1,5 +1,7 @@
 PMID: 41670937
 Title: Comparative assessment of pulse transit time-derived blood pressure and ambulatory blood pressure monitoring in patients with obstructive sleep apnea.
+Journal: Sleep & breathing = Schlaf & Atmung
+Authors: Traiwannakij, Sathida; Tripipitsiriwat, Athiwat; Kunanon, Sirisawat; Lertsilp, Duangporn; Promkeam-On, Pakanach; Choeycheep, Pakpoom; Chierakul, Nitipatana
 
 Abstract:
 Nocturnal hypertension is common in patients with obstructive sleep apnea (OSA) and contributes to elevated cardiovascular risk. Pulse transit time (PTT) offers a noninvasive method to estimate nocturnal blood pressure (BP) during sleep, but its clinical validity in OSA remains unclear. This study aimed to assess the correlation between PTT-derived nocturnal BP (PTT-BP) and 24-hour ambulatory BP monitoring (ABPM-BP) in patients with suspected OSA.

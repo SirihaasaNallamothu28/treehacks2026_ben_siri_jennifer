@@ -1,0 +1,5 @@
+PMID: 41669551
+Title: Myosin IXb is involved in multiple pathological conditions.
+
+Abstract:
+Myosin IXb (Myo9b) is a single-headed motor protein in the myosin superfamily. It contains a unique Rho guanosine triphosphatase-activating protein domain, which enables it to regulate cytoskeletal dynamics and cell migration. Most studies on Myo9b are focused on epithelial repair, intestinal barrier function, and immune cell motility; however, its roles in immune regulation, inflammatory responses, tumorigenesis, and various autoimmune diseases have garnered notable attention in recent years. This study comprehensively reviews the structural characteristics, regulatory mechanisms, and biological functions of Myo9b, along with emphasizing its crucial roles in various pathological conditions and its potential as a therapeutic target.

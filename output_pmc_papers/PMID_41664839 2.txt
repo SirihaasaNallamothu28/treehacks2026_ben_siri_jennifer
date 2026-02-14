@@ -1,0 +1,5 @@
+PMID: 41664839
+Title: Condensin complexes: from chromatin organization to disease.
+
+Abstract:
+Condensin complexes are indispensable for mitotic chromosome condensation. In this review, we summarize their structural and functional features, focusing on ATP-dependent loop extrusion and mitotic chromatin folding. We discuss current models of mitotic chromosome formation with an emphasis on the emerging role of condensin in suppressing interphase chromatin contact patterns during mitosis. Additionally, we outline regulatory mechanisms governing condensin activity, including phosphorylation-dependent and -independent regulation of chromatin loading and unloading. Finally, we connect condensin dysfunction to chromosomal instability, cancer, and neurodevelopmental disorders. Our discussions underscore condensin's significance as a genome architect and a key player in disease pathogenesis.

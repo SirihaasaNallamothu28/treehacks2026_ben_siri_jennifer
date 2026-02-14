@@ -1,5 +1,7 @@
 PMID: 41688104
 Title: Artificial intelligence to improve the detection and risk stratification of acute pulmonary embolism (AID-PE): protocol for a pragmatic quasi-experimental comparator study.
+Journal: BMJ open
+Authors: Gunning, Samuel George Sinclair; Page, Joseph; Rossdale, Jennifer; Charters, Pia Frances Pemberton; Hudson, Benjamin; Lyen, Stephen; Mackenzie Ross, Robert; Seatter, Annette; Bartlett, Jonathan W; Austin, Lisa; Myring, Gareth; McLeod, Hugh; Mitchell, Paul; Stimpson, Darryl; Cookson, Andrew; Suntharalingam, Jay; Rodrigues, Jonathan Carl Luis
 
 Abstract:
 Pulmonary embolism (PE) is a potentially fatal condition requiring timely diagnosis and treatment. CT pulmonary angiography (CTPA) is the gold standard for diagnosis and indicates PE severity through radiological markers of right heart strain. However, accurate interpretation and communication of these findings is often suboptimal in real-world practice. Artificial intelligence (AI) could alleviate pressure on radiology services by supporting PE identification, risk stratification and worklist prioritisation. Before widespread adoption, AI tools must be rigorously validated for diagnostic accuracy, safety and clinical impact.

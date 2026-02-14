@@ -1,5 +1,7 @@
 PMID: 41677026
 Title: From correlation to causation: cell-type-specific gene regulatory networks in Alzheimer's disease.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Liu, Danni; Jiang, Zhongli; Kim, Hyunjin; Tukker, Anke M; Dalvi, Ashish; Xie, Junkai; Li, Yan; Yuan, Chongli; Bowman, Aaron B; Zhang, Dabao; Zhang, Min
 
 Abstract:
 Alzheimer's disease (AD) involves complex regulatory disruptions across multiple brain cell types, yet the comprehensive intracellular causal mechanisms remain poorly understood.

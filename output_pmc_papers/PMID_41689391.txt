@@ -1,5 +1,7 @@
 PMID: 41689391
 Title: Optimizing treatment strategies for early-onset mucinous adenocarcinoma of the colon: A SEER database analysis.
+Journal: Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland
+Authors: Perrone, Cameron; Emile, Sameh Hany; Lopez, Christopher; Barnes, Spencer; Wignakumar, Anjelli; Bilotti, Matthew; Wexner, Steven D
 
 Abstract:
 Colorectal mucinous adenocarcinoma (MAC) is challenging due to its unique pathophysiology and increasing incidence in younger populations. Treatment guidelines for early-onset MAC remain unclear, with clinical decisions often based on extrapolated data from classical adenocarcinoma. We aimed to assess the association between the extent of surgical resection and systemic therapy in patients with early-onset colonic MAC and survival.

@@ -1,5 +1,7 @@
 PMID: 41678493
 Title: Does menopause influence the association between atherogenic index of plasma and prediabetes? A cross-sectional study in middle-aged Chinese women.
+Journal: PloS one
+Authors: Ouyang, Bin; Zhuo, Hongxia; Han, Huiwu; Lei, Yujie; Li, Kangning; Li, Zuxia
 
 Abstract:
 The atherogenic index of plasma (AIP) is a novel marker associated with the risk of prediabetes, yet its interplay with menopausal status remains unclear. This study aimed to investigate the association between AIP and prediabetes among middle-aged Chinese women, and to explore this association jointly with menopausal status.

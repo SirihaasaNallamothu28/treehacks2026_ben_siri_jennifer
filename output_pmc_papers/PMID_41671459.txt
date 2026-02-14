@@ -1,5 +1,7 @@
 PMID: 41671459
 Title: NCCN Guidelines® Insights: Small Cell Lung Cancer, Version 2.2026.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Ganti, Apar Kishor P; Loo, Billy W; Badiyan, Shahed; Bassetti, Michael; Bestvina, Christine; Chiang, Anne; Choudhury, Noura; D'Avella, Christopher A; Daly, Megan; Dowlati, Afshin; Edelman, Martin; Florsheim, Charles; Gold, Kathryn A; Goldman, Jonathan W; Grecula, John C; Hann, Christine; Khalil, Maya; Lee, Robert; Malhotra, Jyoti; Merritt, Robert E; Mohindra, Nisha; Molina, Julian R; Moran, Cesar; Mulvey, Claire; Osmundson, Evan C; Patel, Shiven; Patil, Tejas; Pokharel, Saraswati; Puri, Sonam; Qin, Angel; Sands, Jacob; Shields, Misty; Tailor, Tina D; Waqar, Saiama N; Cassara, Carly J; Ramakrishnan, Swathi
 
 Abstract:
 The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Small Cell Lung Cancer provide recommendations for diagnostic workup, staging, and treatment. These NCCN Guidelines Insights highlight recent updates, with a particular focus on changes to systemic therapies and radiation treatment in the NCCN Guidelines for Small Cell Lung Cancer.

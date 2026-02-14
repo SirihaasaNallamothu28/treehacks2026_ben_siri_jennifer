@@ -1,5 +1,7 @@
 PMID: 41678386
 Title: Colorectal Cancer Organoid Model Reveals the Mechanisms of Irinotecan Resistance at Single-Cell Resolution.
+Journal: Cancer medicine
+Authors: Pan, Yi; Chen, Lin; Hu, Yuqing; Chang, Jie; Xu, Xifeng; Xu, ShuoChen; Li, YiWen; Du, Jinlin; Wang, JianPing; Xu, Wenxia
 
 Abstract:
 Irinotecan, a standard therapeutic agent for metastatic colorectal cancer (mCRC), often faces significant limitations due to drug resistance, with treatment failure observed in approximately 30%-50% of patients, leading to poor clinical outcomes. This study aims to systematically elucidate the molecular mechanisms underlying irinotecan resistance in colorectal cancer (CRC) by constructing patient-derived organoid (PDO) models combined with single-cell transcriptomics technology.

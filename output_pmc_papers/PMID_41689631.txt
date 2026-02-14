@@ -1,5 +1,7 @@
 PMID: 41689631
 Title: Electroacupuncture combined with nutritional intervention for gastrointestinal cancer-related sarcopenia: a randomized controlled trial using ultrasonographic indices.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Zheng, Luo; Weilong, Ji; Liwei, Xu; Yujie, Zhao; Tianyi, Zhang; Shijie, Shi; Xinru, Lu; Weiwei, He; Cairong, Zhang
 
 Abstract:
 This randomized controlled trial aimed to evaluate the efficacy of electroacupuncture combined with nutritional intervention for cancer-related sarcopenia compared to nutritional intervention alone. Muscle thickness and elasticity were assessed using ultrasonography to calculate relevant parameters. By integrating these objective measures with conventional indicators and scales, this study aimed to provide a more comprehensive and intuitive evaluation of changes in muscle function, thereby offering a basis for the clinical application of electroacupuncture combined with nutritional intervention in the treatment of cancer-related sarcopenia.

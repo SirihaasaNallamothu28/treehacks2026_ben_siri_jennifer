@@ -1,0 +1,8 @@
+PMID: 41683355
+Title: Dietary Behavior Clustering and Cardiovascular Risk Markers in a Large Population Cohort.
+
+Abstract:
+Eating habits influence cardiometabolic health alongside traditional dietary measures. However, the links between dietary patterns, body composition, and heart-healthy food preferences remain under-explored in large cohorts.
+In this cross-sectional study, 2461 adults (aged 18 to 75 years) completed an online survey on eating behaviors, food preferences, and lifestyle. Principal component analysis (PCA) of seven behaviors identified dietary profiles. A heart-healthy diet score (range -2 to 10; higher = greater preference for fruit, vegetables, legumes, fish, and less meat/processed meat) was derived from these food preferences. ANOVA and adjusted regressions linked the profiles to BMI, fat mass, waist circumference, and diet score.
+Four profiles emerged: structured, social, irregular, and disordered eaters. Structured eaters had the lowest BMI (26.8 ± 5.1 kg/m<sup>2</sup>), lowest fat mass (28.9 ± 9.4%), and highest dietary score (4.73 ± 2.0). Disorganized eaters had the highest BMI (29.0 ± 5.5 kg/m<sup>2</sup>), the highest fat mass (31.2 ± 8.8%) and the lowest score (3.93 ± 2.0); all <i>p</i> < 0.05. Dose-response analyses confirmed that greater disordered eating (PCA1) was associated with worse outcomes.
+Dietary profiles are associated with body composition and cardioprotective preferences. Behavioral assessment could refine the identification of cardiometabolic risk and personalize nutrition.

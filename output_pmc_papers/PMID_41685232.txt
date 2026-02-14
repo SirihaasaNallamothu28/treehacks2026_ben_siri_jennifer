@@ -1,5 +1,7 @@
 PMID: 41685232
 Title: Association of remnant cholesterol with cardiovascular events and mortality in biopsy-proven diabetic kidney disease.
+Journal: Frontiers in endocrinology
+Authors: Hu, Qiyuan; Chen, Ling; Xing, Lingzhi; Xu, Yamei; Xiong, Jiachuan; Tang, Yuewu
 
 Abstract:
 Remnant cholesterol (RC) has been recognized as a critical risk factor for vascular diseases. However, its association with cardiovascular disease (CVD) and overall mortality in individuals with diabetic kidney disease (DKD) has not been thoroughly investigated.

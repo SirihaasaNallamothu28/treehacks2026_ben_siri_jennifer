@@ -1,5 +1,7 @@
 PMID: 41671009
 Title: Effectiveness of treating gestational syphilis in the last trimester on the incidence of congenital syphilis: a systematic review and meta-analysis.
+Journal: Revista colombiana de obstetricia y ginecologia
+Authors: Gutiérrez-Tamayo, Ana María; Mirama-Calderón, Leidy Viviana; Vallejo-Ortega, María Teresa; Gaitán-Duarte, Hernando Guillermo
 
 Abstract:
 To evaluate the effectiveness and safety of treatment for gestational syphilis during the third trimester on maternal and perinatal outcomes, according to the timing of administration relative to delivery, and assess the certainty of the body of evidence.

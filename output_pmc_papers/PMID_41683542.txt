@@ -1,5 +1,7 @@
 PMID: 41683542
 Title: Small Particles, Big Impact: Inorganic Nanotechnology for Glioblastoma.
+Journal: Molecules (Basel, Switzerland)
+Authors: Dynarowicz, Klaudia; Aebisher, David; Tylutki, Jakub; Kozak, Nazarii; Kawczyk-Krupka, Aleksandra; Bartusik-Aebisher, Dorota
 
 Abstract:
 Glioblastoma Multiforme (GBM) is one of the most aggressive primary brain tumors, with a median survival of only 15-17 months. Treatment failure is largely driven by the Blood-Brain Barrier (BBB), which restricts the delivery of most conventional therapeutics and shields invasive tumor regions from systemic drugs.

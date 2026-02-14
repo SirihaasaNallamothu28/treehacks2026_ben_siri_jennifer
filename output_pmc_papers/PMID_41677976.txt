@@ -1,5 +1,7 @@
 PMID: 41677976
 Title: Obstructive sleep apnea comorbid with insomnia symptoms and objective short sleep duration is associated with incident hypertension.
+Journal: Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine
+Authors: Athanasiou, Nikolaos; Pejovic, Slobodanka; Vgontzas, Alexandros N; Fernandez-Mendoza, Julio; Li, Yun; Karataraki, Maria; Bixler, Edward O
 
 Abstract:
 Co-morbid insomnia and obstructive sleep apnea (COMISA) poses greater cardiovascular risks than either condition alone. We investigated whether COMISA associated with insomnia with short sleep duration (ISSD) phenotype is associated with an increased risk of incident hypertension in a large random general population sample.

@@ -1,5 +1,7 @@
 PMID: 41672426
 Title: Substitution of nurses for physicians in the hospital setting for patient, process of care, and economic outcomes.
+Journal: The Cochrane database of systematic reviews
+Authors: Butler, Michelle; Kirwan, Marcia; Mc Carthy, Vera Jc; Cole, Judith A; Schultz, Timothy J
 
 Abstract:
 The demand for health services to deliver hospital-based care has increased due to an ageing population, more complex healthcare needs, comorbidities, and increasing healthcare costs. Nurse-physician substitution can improve access to care for patients who may otherwise have a significant wait for review by a physician.

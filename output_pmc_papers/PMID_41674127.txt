@@ -1,5 +1,7 @@
 PMID: 41674127
 Title: Differential item functioning of the Geriatric Depression Scale-short form in the NACC dataset.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Renn, Brenna N; Cross, Chad L; Zaman, Ishrat; Singsank, Katie T; Cobos, Kimberly; John, Samantha E
 
 Abstract:
 This study examined differential item functioning of the Geriatric Depression Scale - Short Form (GDS-SF) in the National Alzheimer's Coordinating Center (NACC) Uniform Data Set (UDS) to identify potential variables that produce measurement bias.

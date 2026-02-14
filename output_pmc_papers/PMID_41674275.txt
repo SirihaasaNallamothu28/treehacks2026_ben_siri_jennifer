@@ -1,5 +1,7 @@
 PMID: 41674275
 Title: Cell Type-Specific Loss of SIRT1 in Central Amygdala Leads to Depression-Like Behaviors by Altering Neuronal Excitability in Mice.
+Journal: Acta physiologica (Oxford, England)
+Authors: Huang, Hui; Ding, Xiao-Bao; Lin, Yu-Wen; Hu, Wen-Li; Zhou, Chen-Rui; Chen, Tian-Qi; Zhou, Yue; Dong, Wei; Zhou, Cheng-Hua; Wu, Yu-Qing
 
 Abstract:
 The current understanding of the underlying pathogenesis of depression is still limited. Silent information regulator 1 (SIRT1) has been shown to mediate the development of depression. However, the underlying mechanisms are not well understood.

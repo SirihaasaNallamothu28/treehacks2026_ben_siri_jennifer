@@ -1,5 +1,7 @@
 PMID: 41684743
 Title: Metagenomic and ribosomal transcript profiles of diabetic foot osteomyelitis in Hispanic patients: underestimated bacteria in biofilm persistence.
+Journal: Frontiers in cellular and infection microbiology
+Authors: Díaz-Velis, Leonor; Salvador-Sagüez, Francisco; Roach, Freddy; Mancilla, Edgardo; Campos, Marco A; Ruiz-Gil, Tay; López-Moral, Mateo; Garrido, Gabino; Lázaro-Martínez, José Luis
 
 Abstract:
 Diabetic foot osteomyelitis (DFO) is a serious complication of diabetes and a leading cause of lower-limb amputations. Conventional culture-based diagnostics often underestimate the microbial diversity of infected bone tissue. This study represents the first characterization of both total and ribosomally active bone microbiota in Hispanic patients with DFO using high-throughput <i>16S</i> rRNA gene sequencing. The work aims to contribute to the inclusion of underrepresented populations in microbiome research and informing molecular-based antimicrobial strategies.

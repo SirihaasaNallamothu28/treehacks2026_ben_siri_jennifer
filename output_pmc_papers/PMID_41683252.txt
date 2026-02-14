@@ -1,5 +1,7 @@
 PMID: 41683252
 Title: Vitamin D-Related Information Exposure, Attitudes, and Practices Among Prostate and Breast Cancer Survivors in Poland: Implications for Patient-Physician Communication.
+Journal: Nutrients
+Authors: Mikołajczyk, Anita; Kaczmarczyk, Karolina; Mikołajczyk, Mateusz
 
 Abstract:
 The potential impact of vitamin D deficiency on cancer risk and oncological management remains under investigation. The study aimed to analyse vitamin D information exposure, attitudes, and practices, including the use of vitamin D and other supplements as well as serum 25-hydroxyvitamin D [(25(OH)D)] testing, among breast cancer and prostate cancer survivors in the context of patient-physician communication.

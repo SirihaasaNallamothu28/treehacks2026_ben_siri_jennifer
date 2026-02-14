@@ -1,5 +1,7 @@
 PMID: 41671425
 Title: Incorporating an NCCN-Based Systemic Therapy CNS Activity Score Into SRS Decision-Making for Patients With 5 or More Brain Metastases.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Beckham, Thomas H; Dudzinski, Stephanie O; Rooney, Michael K; Faraj, Christina Abi; Pasli, Melisa; Perni, Subha; Tom, Martin; Ghia, Amol; Yeboa, D Nana; McAleer, Mary Frances; Swanson, Todd; McGovern, Susan; Wang, Chenyang; Chung, Caroline; De, Brian; Jiang, Wen; Kim, Betty Y S; Ferguson, Sherise D; Tawbi, Hussein A; Glitza, Isabella; Le, Xiuning; Kaya, Diana; Dumbrava, Ecaterina E; Briere, Tina; Mackin, Dennis; Li, Jing
 
 Abstract:
 Historically, patients with ≥5 brain metastases (BM) were considered borderline or poor candidates for stereotactic radiosurgery (SRS). With increased survival and expanded treatment options for BM in the modern era, paradigms of BM management warrant reevaluation. Our objective was to determine whether overall survival (OS) differs between patients receiving SRS for 5 to 9 BMs versus ≥10 BMs and to identify factors associated with favorable outcomes.

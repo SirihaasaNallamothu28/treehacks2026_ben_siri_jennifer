@@ -1,5 +1,7 @@
 PMID: 41681040
 Title: A respiratory motion analysis for guiding stereotactic arrhythmia radiotherapy motion management.
+Journal: Medical physics
+Authors: Wang, Yuhao; Hao, Yao; An, Hongyu; Gach, H Michael; Robinson, Clifford G; Cuculich, Phillip S; Yang, Deshan
 
 Abstract:
 Stereotactic arrhythmia radiotherapy (STAR) treats ventricular tachycardia (VT) but requires internal target volume (ITV) expansions to compensate for cardiorespiratory motion. Respiratory 4D CTs (r4DCT) are commonly acquired for STAR patients to assess respiratory motion and determine the ITV expansion margin. Current clinical r4DCT imaging methods are limited, and the reconstructed r4DCTs suffer from unmanaged cardiac motion artifacts that affect the quantitative assessment of respiratory motion of the heart and substructures.

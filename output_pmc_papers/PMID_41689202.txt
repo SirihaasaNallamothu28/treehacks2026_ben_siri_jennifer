@@ -1,5 +1,7 @@
 PMID: 41689202
 Title: Angiotensin II Receptor-Associated Protein (AGTRAP) Enhances Glioma Cell Survival Through the IL-6/JAK2/STAT3 Pathway and Correlates With an Immunosuppressive Microenvironment.
+Journal: CNS neuroscience & therapeutics
+Authors: Chen, Siyu; Li, Yuntao; Nie, Xiaohu; Zhang, Yonggang; Chen, Qianxue; Xiong, Xiaoxing; Su, Zhongzhou; Qiu, Sheng
 
 Abstract:
 There is an urgent need for actionable therapeutic targets for glioma. Angiotensin II receptor-associated protein (AGTRAP) is upregulated in glioma, but its functional role and downstream programs remain insufficiently defined. This study aimed to clarify the clinical relevance, biological function, and mechanism of AGTRAP in glioma.

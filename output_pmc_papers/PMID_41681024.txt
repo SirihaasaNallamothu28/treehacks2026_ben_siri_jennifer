@@ -1,5 +1,7 @@
 PMID: 41681024
 Title: Impact of common artefacts on mass visibility in contrast-enhanced mammography: A virtual imaging trial.
+Journal: Medical physics
+Authors: Houbrechts, Katrien; Cockmartin, Lesley; Vancoillie, Liesbeth; Massera T, Rodrigo; Marshall, Nicholas; Bosmans, Hilde
 
 Abstract:
 Artefacts in contrast-enhanced mammography (CEM) can compromise diagnostic image quality. These artefacts may obscure clinically relevant findings or mimic pathological features, potentially leading to misinterpretation.

@@ -1,5 +1,7 @@
 PMID: 41671021
 Title: Integrative Assessment of the Diagnostic Significance of the microRNA (-21, -29a, -133a) Panel in Patients With Hypertrophic Cardiomyopathy in Comparison With the Control Group.
+Journal: Kardiologiia
+Authors: Tashina, E I; Privalova, E V; Kaplunova, V Yu; Belenkov, Yu N
 
 Abstract:
 To evaluate the diagnostic significance of a microRNA panel (-21, -29a, -133a) in patients with hypertrophic cardiomyopathy (HCM) by comparing their expression levels to a group with moderate arterial hypertension (comparison group).

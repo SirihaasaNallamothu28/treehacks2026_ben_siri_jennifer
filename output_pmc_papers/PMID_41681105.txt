@@ -1,5 +1,7 @@
 PMID: 41681105
 Title: Melanoma of Unknown Primary Origin: A Case Report and Literature Review.
+Journal: Annali italiani di chirurgia
+Authors: Matteucci, Matteo; D'Andrea, Vito; Cirillo, Bruno; Pesce, Antonio; Ranucci, Maria Chiara; Bruzzone, Paolo; Rizzuto, Antonia; Properzi, Luca; Guarino, Salvatore; Cirocchi, Roberto
 
 Abstract:
 Melanoma of unknown primary origin (MUP) is a rare clinical entity, accounting for approximately 3-4% of all cases of melanoma. It is defined as histologically confirmed metastases of melanoma occurring in the absence of any identifiable primary lesion. Due to its rarity, diagnostic and therapeutic guidelines remain poorly defined. The aim of this literature review of published case reports is to investigate the most commonly affected anatomical sites, the most frequent presenting symptoms, the diagnostic approaches, and the available therapeutic strategies.

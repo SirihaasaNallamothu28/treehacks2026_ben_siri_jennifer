@@ -1,5 +1,7 @@
 PMID: 41672729
 Title: Clinical Characteristics and Outcomes of Geriatric Calcaneal Osteomyelitis: A Synthesis Analysis of 333 Literature-Reported Cases.
+Journal: Geriatrics & gerontology international
+Authors: Qalalwa, Mahmoud; Liu, Zi-Xian; Qiu, Li-Li; Song, Ming-Rui; Chen, Peng; Zhong, Hong-Fa; Yu, Bin; Jiang, Nan
 
 Abstract:
 The unique anatomical and functional features of the calcaneus pose continual challenges for orthopedic surgeons in treating calcaneal osteomyelitis (CO), particularly among older patients. Through a comprehensive analysis of cases documented in the literature, this study aims to provide a detailed overview of the clinical manifestations, therapeutic approaches, and treatment outcomes of geriatric calcaneal osteomyelitis (GCO).

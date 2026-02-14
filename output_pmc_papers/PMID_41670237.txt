@@ -1,5 +1,7 @@
 PMID: 41670237
 Title: Exploring the Intensity and Continuity of Hospital Care for Patients With Long Covid: Evidence From an English Urban Healthcare System.
+Journal: Health expectations : an international journal of public participation in health care and health policy
+Authors: Clarke, Jonathan; Jha, Sneha; Prociuk, Denys; Mayer, Erik; de Lusignan, Simon; Smith, Nikki; Milne, Ruairidh; Lee, Cassie; Kock, Johannes De; Sivan, Manoj; Delaney, Brendan C
 
 Abstract:
 Long Covid (LC) is a multisystem condition leading to a wide range of symptoms and often requiring treatment by several different clinical specialties. Patients with LC have reported difficulties in accessing care and a lack of coordination of their care, particularly in a hospital setting.

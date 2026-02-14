@@ -1,5 +1,7 @@
 PMID: 41670499
 Title: A Case of Primary IgG-κ with κ Free Light Chain Plasma Cell Leukemia with Literature Review.
+Journal: Clinical laboratory
+Authors: Ma, Qingfeng; Zhang, Sai; Qin, Wei
 
 Abstract:
 The aim of this study was to investigate the clinical and laboratory features of primary IgG-κ with κ free light chain plasma cell leukemia.

@@ -1,5 +1,7 @@
 PMID: 41686587
 Title: Metal mixture inflammatory index and mortality risk in chronic kidney disease patients: A nationally representative cohort study from the NHANES 1999 to 2018.
+Journal: Medicine
+Authors: Tang, Jinmei; Cai, Kangqin; Lin, Qingfang; Pan, Qin
 
 Abstract:
 Patients with chronic kidney disease (CKD) are frequently exposed to environmental heavy metals, which can easily aggravate the condition or even accelerate death. The association between the metal mixture inflammatory index (MMII) and mortality in CKD patients has not been investigated yet. The MMII was developed using reduced rank regression models to gauge the systemic inflammatory potential of a multi-metal mixture. We analyzed data from 2569 CKD patients who participated in the National Health and Nutrition Examination Survey (1999-2018) with follow-up until December 31, 2019. The association between MMII and mortality was explored via multivariate COX regressions. Patients were divided into 3 groups according to tertiles of MMII: MMII-1 (-0.699 to 0.06), MMII-2 (0.060-0.268), and MMII-3 (0.268-1.329). Compared to MMII-1, the hazard ratios for all-cause, non-cardiovascular disease (CVD), and cancer mortality in MMII-3 were 1.30 (1.01-1.67), 1.49 (1.09-2.03), and 2.44 (1.33-4.49), respectively. In this nationally representative sample of U.S. CKD patients, MMII was closely associated with an increased risk of all-cause, non-CVD, and cancer mortality.

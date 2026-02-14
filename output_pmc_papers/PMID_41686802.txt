@@ -1,0 +1,10 @@
+PMID: 41686802
+Title: Association between hospital frailty risk score, risk of sepsis and adverse outcomes across all adult ages.
+Journal: PloS one
+Authors: Kutrani, Huda; Briggs, Jim; Prytherch, David; Spice, Claire
+
+Abstract:
+Hospital Frailty Risk Score (HFRS) is commonly used to identify frailty risk and predict poor outcomes. Frailty and sepsis are associated with poor outcomes. This study aimed to evaluate the association between HFRS, risk of sepsis and poor health outcomes across all adult ages.
+A retrospective cohort study analysed data from Queen Alexandra Hospital, a major acute hospital in the UK, covering the period from January 1, 2010, to December 31, 2019. It included patients aged 16 and older. The Hospital Frailty Risk Score (HFRS) was used to identify patients at risk of frailty. The Suspicion of Sepsis (SOS) codes and the National Early Warning Score (NEWS) were used to identify patients at risk of sepsis. Logistic Regression with interaction models were developed to examine the associations between HFRS, risk of sepsis and poor outcomes (length of stay and in-hospital mortality) across all adult ages.
+Patients with higher frailty risk and sepsis-risk-positive groups had longer length of stay and higher risk of in-hospital mortality compared to the sepsis-risk-negative groups. Interaction between intermediate or high frailty risk and sepsis-risk-positive (SOS codes present, NEWS≥7, and SOS codes present with NEWS≥7 groups) was significant for all periods of length of stay and all periods of in-hospital mortality (P < 0.001). Moreover, sepsis-risk-positive groups had a greater impact on the predictive power of HFRS to predict long LOS and in-hospital mortality compared to the sepsis-risk-negative groups.
+This study concluded that there is a strong association between risk of frailty (identified with HFRS), risk of sepsis, and poor outcomes in urgently hospitalised adults of all ages.

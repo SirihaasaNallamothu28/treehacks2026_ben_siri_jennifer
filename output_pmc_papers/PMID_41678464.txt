@@ -1,5 +1,7 @@
 PMID: 41678464
 Title: Establishing diversity, equity, inclusion and justice task forces for District of Columbia area cancer centers: Lessons learned implementing efforts in oncology.
+Journal: PloS one
+Authors: AuBuchon, Katarina E; McDonnell, Anne; Arem, Hannah; Taylor, Teletia; Kanaan, Yasmine M; Gondré-Lewis, Marjorie C; Harrison, Barbara W; Chapell, Nicole P; Bauman, Julie E; King, Christopher J; Chalasani, Pavani; Gallagher, Christopher; Williams, Carla D; Pratt-Chapman, Mandi L
 
 Abstract:
 To address observed cancer health inequities resulting from historically-embedded structural bias in quality, equity, and access to health care delivery, we organized and coordinated Diversity, Equity, Inclusion, and Justice (DEIJ) Task Forces across three cancer centers in the Mid-Atlantic region.

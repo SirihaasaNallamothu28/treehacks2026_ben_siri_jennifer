@@ -1,0 +1,7 @@
+PMID: 41674165
+Title: Metformin in Diabetes Management and Immune Modulation: A Comprehensive Review.
+Journal: Iranian journal of allergy, asthma, and immunology
+Authors: Ghafari, Mehrangiz; Poursamimi, Javad; Asli, Foroogh
+
+Abstract:
+Metformin is a primary treatment for type 2 diabetes (T2D), well-known for its ability to lower blood glucose levels through both AMP-activated protein kinase (AMPK)-dependent and -independent pathways. Recent evidence suggests that metformin also possesses immunomodulatory properties, indicating its potential as a therapeutic agent that extends beyond metabolic regulation. This review summarizes the current understanding of metformin's dual roles in managing diabetes and modulating the immune system. It also explores the underlying mechanisms, clinical implications, and potential directions for future research.

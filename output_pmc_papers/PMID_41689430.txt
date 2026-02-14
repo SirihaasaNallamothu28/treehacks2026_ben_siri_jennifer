@@ -1,5 +1,7 @@
 PMID: 41689430
 Title: Identification of ALDH1A2-mediated cardioprotective benefits in myocardial ischaemia-reperfusion injury.
+Journal: Cardiovascular research
+Authors: Li, Wei; Zhou, Siyi; Liu, Jiayi; Luo, Lei; Zhang, Long; Wang, Jia; Sun, Yazhou; Gan, Shanyu; Hu, Yufeng; Yang, Hailong; Wan, Rong; Zhang, Xiao-Jing; Cheng, Xu; Huang, Ying; She, Zhi-Gang; Li, Hongliang
 
 Abstract:
 Myocardial ischaemia-reperfusion (MIR) injury is one of the major causes of poor prognosis after revascularization in myocardial infarction. Retinoic acid (RA) signalling is activated after myocardial infarction and participates in cardiac repair after myocardial infarction, but whether it can be applied to target MIR and the specific mechanism underlying its regulation and action in MIR remain unclear.

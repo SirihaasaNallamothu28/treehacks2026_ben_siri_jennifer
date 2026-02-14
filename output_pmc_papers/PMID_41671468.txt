@@ -1,5 +1,7 @@
 PMID: 41671468
 Title: Health Beliefs and Adherence to Lung Cancer Screening in a Diverse Safety-Net Population.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Bhalla, Sheena; Hamann, Heidi A; Prasad, Tanushree; Mullins, Megan A; Malone, Sarah T; Rodriguez, Jennifer; Gwin, Mary E; Natchimuthu, Vijaya; Nair, Rasmi G; Ibekwe-Agunanna, Lynn N; Craddock Lee, Simon J; Johnson, David H; Wahid, Urooj; Gao, Ang; Zhang, Song; Gerber, David E
 
 Abstract:
 Lung cancer screening (LCS) with low-dose CT (LDCT) remains markedly underutilized. Prior studies suggest that perceptions regarding LCS may influence intention to undergo LDCT; however, little is known about these beliefs and behaviors in vulnerable populations. We examined LCS-related health beliefs and LDCT completion in an urban safety-net health care system.

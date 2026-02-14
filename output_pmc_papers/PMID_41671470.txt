@@ -1,5 +1,7 @@
 PMID: 41671470
 Title: Evaluating the Efficacy of Repetitive Transcranial Magnetic Stimulation Combined With Auditory Integration Training for Children With Autism Spectrum Disorder: Protocol for a Randomized Sham-Controlled Trial.
+Journal: JMIR research protocols
+Authors: Hao, Qinghong; Wang, Jinying; Yang, Jindi; Li, Wei; Hu, Sufen; Lv, Zhihai
 
 Abstract:
 Autism spectrum disorder (ASD) represents a significant public health challenge characterized by persistent social communication deficits and restricted, repetitive patterns of behavior. Current interventions show limited efficacy, particularly for core symptoms. Repetitive transcranial magnetic stimulation (rTMS) and auditory integration training (AIT) have independently demonstrated promise in addressing neurophysiological abnormalities associated with ASD.

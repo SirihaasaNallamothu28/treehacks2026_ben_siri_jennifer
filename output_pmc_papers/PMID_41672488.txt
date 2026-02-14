@@ -1,5 +1,7 @@
 PMID: 41672488
 Title: Mobile Apps for Oncology Health Care Professionals: Mapping and Assessment Study.
+Journal: JMIR mHealth and uHealth
+Authors: Liñares, David; Nicolaidou, Iolie; Charalambous, Andreas; Cabutto, Daniela; Moreno-Alonso, Deborah; Madrid Alejos, Clara; Couespel, Norbert; López-Rey, Noemí; Fernández-Domínguez, María José; Carrion, Carme; Clavería, Ana
 
 Abstract:
 The use of mobile apps in oncology has been expanding rapidly, encompassing prevention, treatment, and patient support. These technologies hold significant potential to improve care delivery and enhance the efficiency of health care services. However, their integration into clinical practice faces important challenges. A key issue lies in the difficulties health care professionals (HCPs) encounter when selecting apps that adequately meet their specific needs and comply with appropriate standards of quality and clinical effectiveness. This lack of robust evidence on the availability, adoption, and evaluation of mobile apps designed for cancer care professionals not only hinders their wider adoption but also restricts their potential to serve as reliable tools in oncology practice.

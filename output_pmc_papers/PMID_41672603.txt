@@ -1,5 +1,7 @@
 PMID: 41672603
 Title: Immediate skin-to-skin contact at very preterm birth and effect on infant socio-emotional stress response and mother-infant cortisol co-regulation: secondary outcomes from the randomised clinical Immediate Parent-Infant Skin-To-Skin Study (IPISTOSS).
+Journal: BMJ paediatrics open
+Authors: Lode-Kolz, Karoline; Lillieskold, Siri; Hetland, Hanne Brit; Mascheroni, Eleonora; Klemming, Stina; Pike, Hanne; Linner, Agnes; Bergman, Nils J; Westrup, Bjorn; Ådén, Ulrika; Morelius, Evalotte; Montirosso, Rosario; Jonas, Wibke; Rettedal, Siren
 
 Abstract:
 To explore the effects of immediate parent-infant skin-to-skin contact (iSSC) at very preterm birth on maternal-infant behavioural responses and hypothalamic-pituitary-adrenal (HPA) axis reactivity to age-appropriate socio-emotional stress at 4 months corrected age.

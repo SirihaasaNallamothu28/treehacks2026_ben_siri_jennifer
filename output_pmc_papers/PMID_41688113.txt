@@ -1,5 +1,7 @@
 PMID: 41688113
 Title: Impact of syncope history on long-term physical activity in patients ≥2 years after transcatheter aortic valve replacement: a single-centre cross-sectional study in China.
+Journal: BMJ open
+Authors: Shen, Zhiyun; Zhu, Ziyan; Huang, Chenxu; Zhou, Daxin; Lv, Jiaying; Lin, Ying; Zhang, Yuxia
 
 Abstract:
 To explore long-term physical activity (PA) among patients 2 years post-transcatheter aortic valve replacement (TAVR) and assess the impact of syncope history on post-TAVR activity.

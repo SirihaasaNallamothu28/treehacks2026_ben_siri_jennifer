@@ -1,5 +1,7 @@
 PMID: 41686015
 Title: Association Between Creation of an Endovascular Aortic Aneurysm Surveillance Program and 1-Year Follow-Up and Mortality in the State of Michigan, United States.
+Journal: Circulation. Population health and outcomes
+Authors: Davis, Frank M; Albright, Jeremy; Callow, Brennan; Kobbani, Loay; Thai, Hue; Boules, Tamer; Mouawad, Nicolas J; Harold Osborne, Nicholas
 
 Abstract:
 National guidelines recommend long-term surveillance after endovascular abdominal aortic aneurysm repair (EVAR) to monitor for device failure; however, investigations have demonstrated that EVAR surveillance can vary greatly. Recently, the BMC2 (Blue Cross Blue Shield of Michigan Cardiovascular Consortium) implemented a statewide surveillance program, linked with financial reimbursement, designed to improve EVAR postoperative surveillance. The purpose of this study was to evaluate the impact of this statewide program on EVAR surveillance and long-term mortality.

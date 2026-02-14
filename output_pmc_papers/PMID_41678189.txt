@@ -1,5 +1,7 @@
 PMID: 41678189
 Title: Medical Costs and Productivity Losses of Atrial Fibrillation Among US Privately Insured Employees.
+Journal: JAMA network open
+Authors: Zhang, Han; Lee, Jun Soo; Kim, Sein; Kumar, Ashutosh; Wang, Yu; Imoisili, Omoye; Luo, Feijun; Essien, Utibe R
 
 Abstract:
 Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and a major factor underlying US health care costs. While its clinical burden is well documented, the full economic impact of AF-particularly among working-age adults with productivity losses-remains underexplored.

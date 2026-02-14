@@ -1,5 +1,7 @@
 PMID: 41685329
 Title: Transcriptome and single-cell RNA sequencing analysis with 101 machine learning combinations and experimental verification reveals the mechanism of action of mannose metabolism in bladder cancer.
+Journal: Frontiers in immunology
+Authors: Li, Anhong; Zhao, Kaile; Wang, Tianjiao; Shi, Guangyue
 
 Abstract:
 Bladder cancer (BLCA) is a prevalent genitourinary malignancy characterized by high recurrence and mortality rates. While mannose metabolism has demonstrated anti-tumor potential across various cancers, its role in BLCA remains underexplored. This study examines the influence of mannose metabolism on BLCA prognosis.

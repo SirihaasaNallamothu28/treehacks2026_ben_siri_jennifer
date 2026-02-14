@@ -1,5 +1,7 @@
 PMID: 41683196
 Title: Prebiotics and Gut Health: Mechanisms, Clinical Evidence, and Future Directions.
+Journal: Nutrients
+Authors: Monteiro, Cinara Regina A V; Bogea, Eduarda G; Campos, Carmem D L; Pereira-Filho, José L; Almeida, Viviane S S; Vale, André A M; Azevedo-Santos, Ana Paula S; Monteiro-Neto, Valério
 
 Abstract:
 Prebiotics, which are non-digestible compounds that selectively modulate gut microbiota, are recognized for their potential to promote host health. Although their bifidogenic effect is well documented, a systematic synthesis of how this microbial modulation translates into clinical gastrointestinal (GI) and metabolic outcomes across diverse populations is needed. This review aims to integrate mechanistic insights with clinical evidence to elucidate the pathway from prebiotic structures to tangible health benefits.

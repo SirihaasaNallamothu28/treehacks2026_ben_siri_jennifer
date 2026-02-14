@@ -1,5 +1,7 @@
 PMID: 41671462
 Title: NCCN Guidelines® Insights: Soft Tissue Sarcoma, Version 1.2025.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: von Mehren, Margaret; Kane, John M; Armstrong, Samantha A; Balach, Tessa; Bishop, Andrew J; Buehler, Darya; Carr-Ascher, Janai; Choy, Edwin; Cipriano, Cara; Connolly, Mary; Dann, Amanda; Davis, Elizabeth J; Dry, Sarah; Eulo, Vanessa; Ganjoo, Kristen N; Gonzalez, Ricardo J; De Viveiros, Pedro A Hermida; Hitchcock, Ying J; Kim, Edward; Lefler, Daniel; Liebner, David; McCarter, Martin; McGarry, Sean V; Mesko, Nathan W; Meyer, Christian; Motamedi, Kambiz; Movva, Sujana; Pappo, Alberto S; Pollack, Seth M; Poppe, Matthew; Riedel, Richard F; Robinson, Steven; Schuetze, Scott M; Sicklick, Jason K; Tseng, William W; Weiss, Mia C; Zimel, Melissa; Hang, Lisa E; Bergman, Mary Anne; Diwan, Zeenat
 
 Abstract:
 The treatment landscape for soft tissue sarcomas (STS) is evolving constantly. These NCCN Guidelines Insights focus on recent updates to the NCCN Guidelines for STS specific to surgical management and systemic therapy recommendations for various subtypes.

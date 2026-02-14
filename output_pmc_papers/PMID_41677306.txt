@@ -1,5 +1,7 @@
 PMID: 41677306
 Title: A Systematic Review Evaluating Pain Assessment Strategies for Patients With Dementia in the Emergency Department: The Geriatric ED Guidelines 2.0.
+Journal: Academic emergency medicine : official journal of the Society for Academic Emergency Medicine
+Authors: Lee, Sangil; Lo, Alexander X; Hogan, Teresita M; van Oppen, James D; Gettel, Cameron J; Lapointe-Shaw, Lauren; Seidenfeld, Justine; Hirata, Kaiho; Aliberti, Márlon Juliano Romero; Healy, Heather S; Liu, Shan W
 
 Abstract:
 Pain is common among patients presenting to the emergency department (ED) but is frequently underdetected and undertreated in older people living with dementia (PLWD). This systematic review examined whether dementia-specific pain assessment tools improve pain management compared with usual care in the ED.

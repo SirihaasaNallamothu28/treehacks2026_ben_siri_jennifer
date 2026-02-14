@@ -1,5 +1,7 @@
 PMID: 41677113
 Title: Cancer Patients' Perception, Acceptance, and Utilization of Artificial Intelligence-Based Emotional Distress Assessment Tools: A Scoping Review.
+Journal: Cancer medicine
+Authors: Urrutia, Carlos F; Medina, Joan C; Contreras, Williams; Estapé, Tania
 
 Abstract:
 Emotional distress in cancer patients and survivors impacts overall well-being and quality of life. Several barriers to adequate screening have been identified and are currently being addressed by artificial intelligence (AI)-based tools. However, there is a critical need to explore cancer patients' and survivors' perspectives on these new technologies. This scoping review aims to synthesize the available evidence on their perception, acceptance, and utilization of AI-based voice, speech semantics, and facial expression (AIVSFE) tools for emotional distress screening.

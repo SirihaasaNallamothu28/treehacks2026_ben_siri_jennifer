@@ -1,5 +1,7 @@
 PMID: 41688111
 Title: Development and validation of a machine learning model for prediction of 1-year mortality following ST-elevation myocardial infarction: a retrospective cohort study.
+Journal: BMJ open
+Authors: Sritharan, Hari Prakash; Nguyen, Harrison; Ciofani, Jonathan Laurence; Bhindi, Ravinay; Allahwala, Usaid K
 
 Abstract:
 To develop a machine learning (ML)-based risk prediction model for 1-year mortality in ST-elevation myocardial infarction (STEMI) patients undergoing primary or rescue percutaneous coronary intervention.

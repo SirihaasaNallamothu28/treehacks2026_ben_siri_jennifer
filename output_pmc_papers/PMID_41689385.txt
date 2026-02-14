@@ -1,5 +1,7 @@
 PMID: 41689385
 Title: Qualitative analysis of out-of-hospital self-management capabilities and ongoing care needs in patients with gynecological malignancies and venous thromboembolism.
+Journal: Annals of medicine
+Authors: Li, Tian-Hua; Wang, Yan-Wei; Feng, Jing-Xuan; Sun, Ning; Bian, Ya-Jing; Ma, Jun-Ying; Li, Lai-You
 
 Abstract:
 Postoperative patients with gynecological malignant tumors are prone to venous thromboembolism (VTE) due to hypercoagulability and limited mobility, and lack of professional guidance after discharge, further increasing the risk of VTE occurrence. Therefore, this study focuses on the current status of self-management ability and continuity of care needs of patients after discharge, aiming to clarify the practical difficulties of prevention activities such as limb activity and symptom recognition in the home environment, in order to improve the implementation and compliance of VTE prevention measures for patients outside the hospital.

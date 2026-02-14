@@ -1,5 +1,7 @@
 PMID: 41688189
 Title: [Progress in the study of poor response to proprotein convertase subtilisin/kexin type 9 monoclonal antibodies].
+Journal: Zhonghua xin xue guan bing za zhi
+Authors: Guo, Z X; Zhang, Y; Gao, C Y
 
 Abstract:
 

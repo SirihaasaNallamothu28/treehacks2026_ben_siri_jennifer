@@ -1,5 +1,7 @@
 PMID: 41685242
 Title: Standardizing cervical lymph node evaluation in papillary thyroid carcinoma: diagnostic accuracy of Node-RADS on ultrasound.
+Journal: Frontiers in endocrinology
+Authors: Zhang, Hongjun; He, Danni; Mao, Muyi; Li, Renjie; Yin, Tinghui; Zheng, Bo-Wen; Zheng, Jiayi; Wu, Tao; Ren, Jie; Xu, Zuofeng
 
 Abstract:
 To assess the diagnostic performance of the Node Reporting and Data System (Node-RADS) in ultrasonographic evaluation of cervical lymph node (LN) metastasis in papillary thyroid carcinoma (PTC) and compare it with conventional suspicious sonographic features.

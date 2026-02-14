@@ -1,5 +1,7 @@
 PMID: 41671296
 Title: Exploring the toxicological mechanisms of Benzo[a]anthracene (BaA) exposure in lung adenocarcinoma (LUAD) via network toxicology, machine learning, and multi-dimensional bioinformatics analysis.
+Journal: PloS one
+Authors: Shi, Zhiyao; Fang, Zhiyong; Qin, Qiang; Gao, Yu; Yang, Xi; Liu, Likun; Wang, Xixing
 
 Abstract:
 Lung adenocarcinoma (LUAD) is a major lung cancer subtype influenced by environmental factors. Benzo[a]anthracene (BaA), a common Group 2B carcinogen found in pollutants, smoke, and food, shows genotoxic and oncogenic activity; however, its specific mechanisms in LUAD pathogenesis remain unclear and warrant systematic investigation.

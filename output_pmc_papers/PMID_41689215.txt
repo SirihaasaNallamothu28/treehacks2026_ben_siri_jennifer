@@ -1,5 +1,7 @@
 PMID: 41689215
 Title: Mental Health First Aid training for Chile and Argentina: protocol for a cluster randomised controlled trial.
+Journal: BMJ open
+Authors: Agrest, Martin; Encina-Zúñiga, Esteban; Ardila-Gómez, Sara; Fernandez, Marina Ayelén; Gabriel, Raquel; Bargamian, Jessica; Alvarado, Rubén; Morgan, Amy J; Kelly, Claire M; Reavley, Nicola
 
 Abstract:
 Community support for individuals with mental health problems is a global public health issue. Poor mental health literacy and high levels of stigmatising attitudes among the general population can hinder both help-seeking behaviours and limit the capacity of community members to provide support to people experiencing mental health challenges. The Mental Health First Aid (MHFA) training course was created to educate community members to provide initial help towards a person developing a mental health problem. MHFA training has spread to high-income countries, but there is relatively little research on cultural adaptation to lower-resource settings. This study aims to fill that gap and is the first cluster randomised controlled trial (cRCT) assessing the effectiveness of MHFA training in Chile and Argentina.

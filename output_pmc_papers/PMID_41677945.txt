@@ -1,5 +1,7 @@
 PMID: 41677945
 Title: Predicting health-related quality of life two years post-diagnosis across seven cancer types: using machine learning to identify vulnerable patients.
+Journal: Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation
+Authors: Oudijk, Willemijn F; de Rooij, Belle H; van Benthem, Koen J; Etienne, Rampal S; Oerlemans, Simone; Verkooijen, Helena M; Aben, Katja K H; Vink, Geraldine R; May, Anne M; Mols, Floortje; Katsimpokis, Dimitris; Ezendam, Nicole P M
 
 Abstract:
 Cancer survivors often experience long-term consequences affecting their Health-Related Quality of Life (HRQoL). Sociodemographic factors, clinical characteristics, and health-related behaviours influence HRQoL, making some individuals vulnerable to adverse HRQoL. This study develops linear regression and machine learning models to predict HRQoL two-year post-diagnosis and to identify key vulnerability factors.

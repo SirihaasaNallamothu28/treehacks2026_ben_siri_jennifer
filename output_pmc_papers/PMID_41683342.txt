@@ -1,5 +1,7 @@
 PMID: 41683342
 Title: Xanthohumol: Mechanistic Actions and Emerging Evidence as a Multi-Target Natural Nutraceutical.
+Journal: Nutrients
+Authors: Azuero, Mackenzie; Wenceslau, Camilla F; Tan, Wenbin
 
 Abstract:
 Xanthohumol (XN), a prenylated chalcone flavonoid derived from hops (<i>Humulus lupulus</i>), is increasingly recognized as a highly pleiotropic natural compound.

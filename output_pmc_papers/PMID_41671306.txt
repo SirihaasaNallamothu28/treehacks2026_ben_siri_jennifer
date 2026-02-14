@@ -1,5 +1,7 @@
 PMID: 41671306
 Title: 4-hydroxytamoxifen enhances stemness through the neuropilin-1/estrogen-related receptor alpha pathway to enhance breast cancer cell paclitaxel resistance and metastasis.
+Journal: The Journal of pharmacy and pharmacology
+Authors: Lv, Yanni; Yu, Qinglong; Zhang, Li; Chen, Lu
 
 Abstract:
 Tamoxifen is an endocrine therapy for breast cancer that works by competing with estradiol for estrogen receptors, but continued use of tamoxifen by patients can lead to resistance and metastasis. Studies have shown that 4-hydroxytamoxifen (4-OH-TAM), the active product of tamoxifen, promotes the malignant biological behavior of breast cancer cells, but the mechanism is not fully understood.

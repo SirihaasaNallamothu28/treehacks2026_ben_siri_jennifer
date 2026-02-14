@@ -1,5 +1,7 @@
 PMID: 41671074
 Title: Acceptability of Minimalist Shoes Compared With Balance-Enhancing Shoes in Older Women: Protocol for a Randomised Crossover Trial.
+Journal: Journal of foot and ankle research
+Authors: Nor Azhar, Ameer; Bergin, Shan M; Munteanu, Shannon E; Menz, Hylton B
 
 Abstract:
 Falls are a major concern for older women and can result in significant injury. Footwear has been shown to improve or impair balance performance in older women, contingent upon footwear design features. Balance-enhancing shoes may reduce the risk of falling but their acceptability is unknown. Acceptability is important because it influences the level of adherence to the intervention. The aim of this trial protocol is to describe the methodology of a randomised crossover trial to compare the acceptability of balance-enhancing outdoor shoes versus minimalist outdoor shoes in older women and compare the effects of these two interventions on the perceived risk of falling and balance performance.

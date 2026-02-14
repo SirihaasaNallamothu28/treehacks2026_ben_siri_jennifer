@@ -1,5 +1,7 @@
 PMID: 41688807
 Title: Safety of carotid endarterectomy in the elderly and octogenarian population: a nationwide study including 80,000 patients.
+Journal: Neurosurgical review
+Authors: El-Hajj, Victor Gabriel; Roy, Joanna M; Musmar, Basel; Kim, Wi Jin; Rizzuto, Michael; Ellens, Nathaniel; Alshahrani, Rabab; Staartjes, Victor E; Elmi-Terander, Adrian; Tummala, Ramachandra P; Tjoumakaris, Stavropoula; Gooch, M Reid; Rosenwasser, Robert H; Khabbaz, Ziad; Jabbour, Pascal
 
 Abstract:
 Carotid endarterectomy (CEA) is an established procedure for stroke prevention in patients with carotid artery stenosis. While CEA is considered safe in younger patients, perioperative risks in octogenarians remain debated, with current guidelines classifying the procedure as "high-risk" in this patient population. This study aimed to evaluate short-term outcomes of CEA across age groups and to assess whether comorbidity burden better predicts outcomes than chronological age.

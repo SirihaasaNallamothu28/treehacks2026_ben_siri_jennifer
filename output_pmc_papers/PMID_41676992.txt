@@ -1,5 +1,7 @@
 PMID: 41676992
 Title: Exposure to lead and incidence of Alzheimer's disease and all-cause dementia in the United States.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Wang, Xin; Bakulski, Kelly M; Walker, Erika; Mukherjee, Bhramar; Dodge, Hiroko; Albin, Roger L; Paulson, Henry L; Park, Sung Kyun
 
 Abstract:
 Growing evidence suggests lead exposure may increase dementia risk, but evidence from human studies is limited. We investigated prospective associations between lead exposure and incident Alzheimer's disease (AD) and all-cause dementia in nationally-representative US populations.

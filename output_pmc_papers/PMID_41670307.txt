@@ -1,0 +1,10 @@
+PMID: 41670307
+Title: Management of gallstone disease at Norwegian hospitals providing acute care surgery.
+Journal: Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke
+Authors: Kazaryan, Airazat M; Fasting, Magnus; Glomsaker, Tom; Søvik, Torgeir Thorson; Mala, Tom; Fyhn, Thomas Johan
+
+Abstract:
+The aim of the study was to map current practices in the management of gallstone disease at Norwegian hospitals providing acute care surgery.
+A questionnaire was distributed to all surgical departments in Norway providing acute care for cholecystectomy.
+A total of 41 hospitals met the inclusion criteria and 40 responded to the questionnaire. Institutions were categorised as low, medium or high-volume hospitals (< 50, 50-200 and > 200 cholecystectomies annually, respectively). Six, 20 and 14 hospitals were classified as low, medium and high-volume centres, respectively. Acute cholecystitis and acute biliary pancreatitis were indications for acute cholecystectomy at 31 and 16 hospitals, respectively. Intraoperative cholangiography was performed during elective cholecystectomy at six hospitals and during acute cholecystectomy at eight hospitals. Antibiotic therapy was continued after cholecystectomy for cholecystitis at 37 hospitals. The management of concomitant common bile duct stones was relatively similar across low, medium and high-volume hospitals. Preoperative endoscopic retrograde cholangiopancreatography (ERCP) was the preferred treatment for common bile duct stones in both elective and acute cholecystectomy at 31 and 32 hospitals, respectively. Intraoperative ERCP was performed in elective and acute cases at three and six hospitals, respectively, while intraoperative transcystic stone clearance was performed in elective and acute cases at two and four hospitals, respectively.
+The management of gallstone disease at Norwegian hospitals varies in terms of indications for acute cholecystectomy, management of common bile duct stones, use of intraoperative cholangiography and antibiotic prophylaxis.

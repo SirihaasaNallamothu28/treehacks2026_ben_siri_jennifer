@@ -1,5 +1,7 @@
 PMID: 41678804
 Title: Efficacy of Tuina for Myopia in Children: Protocol for a Randomized Controlled Trial.
+Journal: JMIR research protocols
+Authors: Zhang, Shouyao; Han, Yanju; Zhang, Lijuan; Tan, Fang; Huang, Xueping; Zhang, Can; Yao, Zheng; Xiong, Lei; Tai, Xiantao
 
 Abstract:
 Myopia has emerged as a major threat to the visual health of adolescents worldwide. Early intervention can effectively slow down the progression of myopia in adolescents. Tuina (also known as Tui Na), a significant therapeutic method in traditional Chinese medicine, has shown promising clinical efficacy in delaying the progression of myopia; however, it lacks robust, large-scale, and standardized randomized controlled trials.

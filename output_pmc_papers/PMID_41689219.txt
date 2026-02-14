@@ -1,5 +1,7 @@
 PMID: 41689219
 Title: Dementia and Mild Cognitive Impairment in Prison (DECISION) care pathway and training package: protocol for a realist-informed mixed-methods feasibility study.
+Journal: BMJ open
+Authors: Forsyth, Katrina; Buck, Deborah; Stalker, Kate; Allgar, Victoria; Shaw, Jennifer; Cowley-Sharp, Ryan; Hunter, Rachael; Lennox, Charlotte; O'Neill, Adam; Robinson, Catherine; Ware, Stuart; Robinson, Louise
 
 Abstract:
 Recent research indicates that around 8% of older people living in prison have signs or symptoms of dementia or mild cognitive impairment (MCI), yet the care they receive is not equivalent to care in the community and this means their needs may not be met. We co-developed an intervention specifically for older people living in prison with dementia/MCI (Dementia and Mild Cognitive Impairment in prison care pathway and training package-DECISION). To date, this has not been implemented or evaluated. This paper presents our protocol for a study to assess the feasibility and acceptability of DECISION.

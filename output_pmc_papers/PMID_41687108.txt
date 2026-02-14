@@ -1,5 +1,7 @@
 PMID: 41687108
 Title: Migration Effects on Cognition: Protocol for the Aging in Kerala Americans Research Study.
+Journal: JMIR research protocols
+Authors: Cotton, Kelly; Adhikari, Dristi; Ambrose, Anne Felicia; Ayers, Emmeline; Blumen, Helena M; Ceïde, Mirnova E; Kumar, V G Pradeep; Melecio-Vazquez, Mairim; Sathyan, Sanish; Sigamani, Alben; Sivaramakrishnan, Kavita; Stimmel, Marnina; Weiss, Erica F; Yang, Jie; Verghese, Joe
 
 Abstract:
 In the United States, Asian American people represent the fastest growing population group, and are highly diverse linguistically, culturally, and demographically. Yet, in most national studies, Asian American groups are aggregated, masking potential health disparities. Racial and ethnic minorities, especially first-generation immigrants, are also at a particularly elevated risk of cognitive impairment.

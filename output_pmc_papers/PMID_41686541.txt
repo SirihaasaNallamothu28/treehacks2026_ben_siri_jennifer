@@ -1,5 +1,7 @@
 PMID: 41686541
 Title: Antimuscarinic medication used for the treatment of overactive bladder in women and the risk of cognitive decline, cardiovascular disease and mortality-a systematic review.
+Journal: Age and ageing
+Authors: Maguire, Turlough; Marr, Calum; Barry, Heather; Abdel-Fattah, Mohamed; McGuinness, Bernadette
 
 Abstract:
 Overactive bladder is common among older women and often managed with antimuscarinic agents. These medications contribute to cumulative anticholinergic burden, which has been associated with adverse outcomes including cognitive decline, cardiovascular morbidity and mortality. This study aimed to evaluate the association between bladder antimuscarinics and these outcomes in adult women.

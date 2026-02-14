@@ -1,5 +1,7 @@
 PMID: 41689226
 Title: Association of symptoms at heart failure diagnosis with hospitalisation and mortality at 6 and 12 months: a retrospective cohort study using UK primary care health records.
+Journal: BMJ open
+Authors: Ali, Mohammad Rizwan; Lam, Carolyn S P; Stromberg, Anna; Hand, Simon P P; Booth, Sarah; Zaccardi, Francesco; McCann, Gerry P; Khunti, Kamlesh; Lawson, Claire A
 
 Abstract:
 We investigated symptoms reported before and after heart failure (HF) diagnosis and their associations with 3-month hospitalisation and mortality.

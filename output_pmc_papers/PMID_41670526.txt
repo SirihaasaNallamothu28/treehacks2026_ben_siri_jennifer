@@ -1,5 +1,7 @@
 PMID: 41670526
 Title: Expression and Clinical Significance of FOXQ1, MMP11, and CST1 in Colorectal Cancer.
+Journal: Clinical laboratory
+Authors: Chu, Jiaxin; Wang, Danna; Guo, Fengle; Li, Dandan; Li, Zheng; Ding, Haofeng; Sun, Yun; Yan, Yan; Wang, Ke; Ren, Li; Han, Junwei; Zhu, Bo
 
 Abstract:
 Colorectal cancer (CRC) is associated with a high mortality rate. Previous studies have shown that FOXQ1, MMP11, and CST1 play significant roles in various cancers, influencing the invasion and metastasis of tumors. However, their effects on colorectal cancer have not been fully investigated. The purpose of this research was to examine the expression of FOXQ1, MMP11, and CST1 in colorectal cancer (CRC) and to systematically as-sess how these factors relate to clinicopathological characteristics and patient survival outcomes.

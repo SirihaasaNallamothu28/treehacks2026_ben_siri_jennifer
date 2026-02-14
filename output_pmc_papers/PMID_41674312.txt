@@ -1,5 +1,7 @@
 PMID: 41674312
 Title: The CARMUCI Study Design: A Double-Blind, Cross-Over Sham-Controlled Trial of Indoor Air Purification in People With Cystic Fibrosis and Primary Ciliary Dyskinesia.
+Journal: Pediatric pulmonology
+Authors: Kakkoura, Maria G; Anagnostopoulou, Pinelopi; Kouis, Panayiotis; Michanikou, Antonis; Bargiotas, Panagiotis; Adamides, Tonia; Ioannou, Phivos; Louka, Stavroula F; Neophytou, Marina; Nikolopoulos, Georgios K; Skevaki, Chrysanthi; Koutrakis, Petros; Yiallouros, Panayiotis K
 
 Abstract:
 People with cystic fibrosis (pwCF) and primary ciliary dyskinesia (pwPCD) are particularly vulnerable to the harmful effects of air pollution due to the impairment of mucociliary clearance (MCC). Despite growing evidence supporting the use of indoor air purification in common lung conditions, its role in CF and PCD remains unexplored.

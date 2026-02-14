@@ -1,5 +1,7 @@
 PMID: 41678518
 Title: Global burden and trends of tracheal, bronchus, and lung cancer attributed to occupational exposure to polycyclic aromatic hydrocarbons in regions with different sociodemographic index, 1990-2021.
+Journal: PloS one
+Authors: Lin, Jiansheng; Xie, Xiaowei; Zheng, Xinyang; Shi, Haizhan
 
 Abstract:
 Occupational exposure to polycyclic aromatic hydrocarbons (PAHs) is a known risk factor for tracheal, bronchus, and lung (TBL) cancer. However, evidence of its global burden particularly across different socio-demographic index (SDI) regions has been limited.

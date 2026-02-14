@@ -1,0 +1,7 @@
+PMID: 41672618
+Title: [Key Technologies and Development Prospects of Mobile Low-Field MRI Devices].
+Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+Authors: Li, Xiaoling; Liu, Yuhao; Qiao, Sisi; Wang, Kai; Yu, Yilin; Kong, Kun; Wei, Yilei; Jiang, Jinbo; Sun, Jiajia
+
+Abstract:
+Current clinical MRI systems are primarily high-field magnetic resonance imaging (MRI) systems. These systems are expensive, have high operational costs and long imaging times. In contrast, low-field MRI devices have garnered significant attention in modern medicine in recent years due to their advantages, including quiet operation, rapid imaging, portability, and low cost. This study discussed the challenges in developing mobile low-field MRI systems, focusing on image quality, low-frequency interference, and the trade-off between fast imaging and image clarity. It also analyzed the potential application scenarios of mobile low-field MRI, proposing research strategies to address environmental noise elimination, AI-enhanced algorithms for rapid imaging, and image quality enhancement. These insights provide theoretical foundations and practical references for future advancements in mobile low-field MRI technology.

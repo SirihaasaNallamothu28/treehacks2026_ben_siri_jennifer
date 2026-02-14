@@ -1,0 +1,10 @@
+PMID: 41671224
+Title: Metabolomics-guided machine learning reveals diagnostic and mechanistic biomarkers in CHB with MASLD.
+Journal: PloS one
+Authors: Wang, Chuyang; Chen, Yutao; Xiao, Huanming; Cai, Jianxiong; Wang, Ruihua; Zeng, Xuan; Lin, Ming; Liu, Wofeng; Chi, Xiaoling; Chen, Qubo
+
+Abstract:
+Metabolic dysfunction-associated steatotic liver disease (MASLD) often coexists with chronic hepatitis B (CHB), yet early diagnosis remains challenging, particularly in non-obese patients or those with subclinical features. This study aimed to identify metabolic signatures of CHB-related MASLD and construct a predictive model using untargeted metabolomics integrated with machine learning.
+Serum metabolomics was performed on 160 subjects (80 CHB + MASLD and 80 healthy controls). Differential metabolites were identified and analyzed using KEGG enrichment and 4 machine learning algorithms (Random Forest, XGBoost, SVM, and LASSO). Metabolite-clinical correlations and diagnostic model performance were evaluated.
+A total of 924 differential metabolites were identified, with significant enrichment in pathways related to the TCA cycle, sphingolipid metabolism, and amino acid turnover. Machine learning prioritized six robust and biologically relevant metabolites: L-aspartic acid, succinic acid, caproic acid, sebacic acid, monomenthyl succinate, and glycolaldehyde, which consistently distinguished CHB + MASLD patients from controls (AUC > 0.75). These metabolites reflect key disruptions in mitochondrial function, lipid oxidation, and redox homeostasis. Integrated models combining metabolomics with clinical indices achieved perfect classification (AUC = 1.000).
+CHB-associated MASLD is driven by systemic metabolic remodeling centered on mitochondrial overload, oxidative stress, and impaired amino acid metabolism. The identified metabolites provide mechanistic insights and hold promise for non-invasive MASLD screening in CHB patients. This study underscores the potential of multi-algorithmic metabolomics in advancing early diagnosis and personalized management of complex liver comorbidities.

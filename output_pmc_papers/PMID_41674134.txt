@@ -1,5 +1,7 @@
 PMID: 41674134
 Title: Influence of Venous Access Site and Right Atrial Anatomical Variants on the Detection of Patent Foramen Ovale During Agitated Saline Contrast Transesophageal Echocardiography.
+Journal: Echocardiography (Mount Kisco, N.Y.)
+Authors: Raimoglou, Damla; Mutlu, Deniz; Karadag, Bilgehan; Ikitimur, Baris; Çeviker, Arda; Ozal, Ayten; Dogramaci, Efekan; Aygun, A Atıl; Raimoglu, Utku; Tokdil, Kardelen Ohtaroglu; Tokdil, Hasan; Durmaz, Eser
 
 Abstract:
 Contrast-enhanced transesophageal echocardiography (cTEE) is the gold standard for the detection of patent foramen ovale (PFO). However, the diagnostic yield may vary depending on the venous injection site of the saline contrast medium and the presence of anatomical variants such as the Eustachian valve (EV) or Chiari network (CN), which can alter right atrial flow dynamics. This study aims to evaluate whether the route of injection-an upper-extremity vein vs. a lower-extremity vein-affects PFO detection and whether the presence of EV or CN further influences shunt visualization.

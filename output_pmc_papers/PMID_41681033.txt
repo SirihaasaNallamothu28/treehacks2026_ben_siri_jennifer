@@ -1,0 +1,11 @@
+PMID: 41681033
+Title: A Pilot Validation Study of Plant-Based and Allergy-Friendly Alternative for Testing Gastric Emptying: A Randomized Trial in Healthy Participants.
+Journal: Neurogastroenterology and motility
+Authors: Jencks, Kara J; Abdelnaem, Nada; Carlson, Paula; Busciglio, Irene; Burton, Duane; Ryks, Michael; Johnson, Derek R; Navin, Patrick; Bach, Corrie; Paulsen, Andrew M; Bartlett, David J; Camilleri, Michael
+
+Abstract:
+Gastric emptying (GE) scintigraphy with 4-h imaging and a radiolabeled chicken egg-based meal (320 kcal, 30% fat) is the standard test for gastroparesis at Mayo Clinic, with an intraindividual coefficient of variation (COV<sub>intra</sub>) of 23.8% for GE half emptying time (T<sub>1/2</sub>). Alternative meals for patients with dietary restrictions, including egg allergies or vegan diets, are lacking, limiting test accessibility. The study aimed to establish a vegan, lactose-, nut-, and gluten-free meal with similar caloric and fat content to the egg meal and to assess its performance in GE studies.
+In Vitro: <sup>99m</sup>Tc binding to egg meal over 4 h was compared to a calorically and nutritionally similar vegan alternative, JUST Egg, using a validated in vitro model simulating gastric conditions of pH, pepsin, and stirring. In Vivo: 10 healthy participants underwent randomized crossover GE scintigraphy with standard and vegan meals, spaced ≥ 3 days apart to measure GE% at 2 h, 4 h, and GE T<sub>1/2</sub>. Group comparisons and variance analysis included Rank Sum tests and Bland-Altman plots.
+In Vitro: A strong correlation (R = 0.975, p-value < 0.01) between <sup>99m</sup>Tc binding in the egg and vegan egg models was observed. Minimal variance (< 10%) was recorded at all time points. In Vivo: GE at 4 h and GE T<sub>1/2</sub> showed non-statistically significant mean differences, < 2% and < 10 min respectively, between both meals. The intra-individual variability was 18.8%.
+The vegan meal demonstrated in vitro stability, in vivo performance comparable to the egg meal, and a COV<sub>intra</sub> of 18.8%, which was lower than the 23.8% reported in repeat egg meal GE studies.
+ClinicalTrials.gov number NCT06991036 (https://clinicaltrials.gov/study/NCT06991036?term=NCT06991036&rank=1).

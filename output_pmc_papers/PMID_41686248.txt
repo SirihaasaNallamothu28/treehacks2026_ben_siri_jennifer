@@ -1,5 +1,7 @@
 PMID: 41686248
 Title: A Kermack-McKendrick type epidemic model with double threshold phenomenon (and a possible application to Covid-19).
+Journal: Journal of mathematical biology
+Authors: Ponce, Joan; Thieme, Horst R
 
 Abstract:
 The suggestion by K.L. Cooke (1967) that infected individuals become infective if they are exposed often enough for a natural disease resistance to be overcome is built into a Kermack-McKendrick type epidemic model with post-latency age. Both the case that the resistance may be the same for all hosts and the case that it is distributed among the host population are considered. In addition to the familiar threshold behavior of the final size of the epidemic with respect to a basic reproductive number, an Allee effect is generated for the final cumulative force of infection by the final cumulative primary force of infection. This offers a deterministic explanation why geographic areas that appear to be epidemiologically similar have epidemic outbreaks of quite different severity.

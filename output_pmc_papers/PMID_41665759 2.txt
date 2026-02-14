@@ -1,0 +1,8 @@
+PMID: 41665759
+Title: Rurality, risk factors, and stage at diagnosis in head and neck cancer: insights from a Spanish hospital.
+
+Abstract:
+Rural residence has been linked to disparities in cancer risk factors, access to care, and outcomes. In countries with universal healthcare such as Spain, the impact of rurality on head and neck cancer remains poorly characterized.
+We conducted a retrospective study of 1042 patients discussed at the Head and Neck Tumor Board of a tertiary hospital in Málaga, Spain (2019-2023). Demographic, clinical, and behavioral variables were collected. Rurality was defined according to Spanish legislation (population < 30,000 and density < 100 inhabitants/km<sup>2</sup>). Analyses included chi-square, Kruskal-Wallis, and logistic regression models.
+Rural patients had a higher prevalence of tobacco use (74.8% vs. 66.3%, p = 0.0074) and more severe smoking patterns, especially among men. Advanced-stage tumors were slightly more frequent in rural patients (64.5% vs. 60.6%) without reaching statistical significance (p = 0.6097). No associations were found between rurality and alcohol use, HPV status, or tumor site, while EBV positivity was more frequent in urban patients (p = 0.0235).
+Rural residence was associated with significantly higher tobacco use but not with advanced disease stage at diagnosis. These findings highlight rurality as a social determinant of health and support the need for targeted public health strategies to reduce cancer-related disparities in rural populations.

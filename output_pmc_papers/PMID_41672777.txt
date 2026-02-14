@@ -1,5 +1,7 @@
 PMID: 41672777
 Title: A Giant Thoracic ALK-Rearranged Mesenchymal Neoplasm in a Child.
+Journal: Cancer reports (Hoboken, N.J.)
+Authors: Gao, Sheng; Wu, Junhua; Fan, Jun; Chang, Xiaona; Huang, Bo; Luo, Danju; He, Jun; Shi, Heshui; Dong, Xiaochuan; Nie, Xiu
 
 Abstract:
 Mesenchymal neoplasms characterized by ALK fusions mainly include inflammatory myofibroblastic tumors (IMTs) and epithelioid fibrous histiocytomas (EFHs). More recently, ALK-rearranged mesenchymal tumors that are not IMTs or EFHs, characterized by S100 and CD34 coexpression, have been reported in a few small series and isolated case reports. The neoplasms present a broad clinicopathological spectrum and variable biological behavior.

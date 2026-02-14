@@ -1,5 +1,7 @@
 PMID: 41670296
 Title: Cycloastragenol Derivatives Improve Tyrosine Metabolism, Regulate TLR4/NF-κB/TERT Signaling Pathways, and Inhibit MPTP Induced Neuroinflammation and PD Symptoms.
+Journal: CNS neuroscience & therapeutics
+Authors: Xiao, Shengnan; Liu, Lianmei; Qin, Xuemei; Xu, Lei; Li, Zhenyu; Chai, Zhi
 
 Abstract:
 Parkinson's disease (PD) is a neurodegenerative disease closely related to neuroinflammation and with obvious age characteristics. Existing therapeutic drugs have problems such as insufficient efficacy and side effects. Cycloastragenol (CAG) is a known natural telomerase activator, and previous studies have found that it has a good improvement effect on PD. As a lead compound, there is significant room for improvement in pharmacological activity. Therefore, we further explore safe and efficient small molecules for PD drug exploration through structural optimization.

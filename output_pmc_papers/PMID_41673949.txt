@@ -1,0 +1,10 @@
+PMID: 41673949
+Title: Fetal Growth Outcomes in Early Gestational Diabetes Mellitus Managed Immediately After Diagnosis.
+Journal: The journal of obstetrics and gynaecology research
+Authors: Nakanishi, Sayuri; Miyakoshi, Kei; Yokoyama, Maki; Kasuga, Yoshifumi; Iwama, Noriyuki; Yamashita, Hiroshi; Aoki, Shigeru; Yasuhi, Ichiro; Sugiyama, Takashi
+
+Abstract:
+To evaluate fetal growth outcomes in gestational diabetes diagnosed before 20 weeks' gestation (E-GDM) following immediate intervention and to identify factors associated with abnormal fetal growth.
+We retrospectively analyzed singleton term pregnancies with E-GDM between 2016 and 2021 at two university hospitals in Japan: Keio University Hospital (KUH) and Yokohama City University Medical Center (YCUMC). Dietary management was initiated immediately after diagnosis in both hospitals. At KUH, all E-GDM women underwent self-monitoring of blood glucose (SMBG). At YCUMC, the indication for SMBG was determined based on pre-pregnancy weight, the number of abnormal values on the oral glucose tolerance test, and other glycemic biomarkers, including HbA1c and glycated albumin. Fetal growth outcomes, assessed as the proportions of large-for-gestational-age (LGA) and small-for-gestational-age (SGA), were evaluated in E-GDM receiving early management.
+Among 509 pregnancies (190 at KUH and 319 at YCUMC), LGA and SGA were observed in 63 (12%) and 46 (9%), respectively. The proportion of LGA was not significantly associated with pre-pregnancy BMI (underweight, 9.6%; normal, 11%; overweight/obese, 16%: p = 0.20). In contrast, there was a significant difference in the proportion of SGA among the three groups (underweight, 19%; normal, 8.2%; overweight/obese, 7.2%: p = 0.024). Multivariate analysis demonstrated that pre-pregnancy underweight was significantly associated with SGA in comparison with pre-pregnancy normal weight.
+Fetal growth outcomes in E-GDM receiving early intervention were comparable to that of uncomplicated Japanese pregnancies. Since pre-pregnancy underweight remained a risk factor of SGA, clinicians should pay attention to the development of SGA in lean women with E-GDM.

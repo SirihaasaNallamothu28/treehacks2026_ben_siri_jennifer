@@ -1,5 +1,7 @@
 PMID: 41689611
 Title: Oxidized cellulose polymer outperforms traditional hemostasis in preserving ovarian reserve during LESS cystectomy: a prospective comparative study.
+Journal: Archives of gynecology and obstetrics
+Authors: Xu, Ning; Li, Meng-Xi; Li, Min; Gou, Yuan-Qin; Luo, Zhi-Gui; Li, Yuan-Hong
 
 Abstract:
 Preserving ovarian reserve function during single-port laparoscopic ovarian cystectomy is crucial for women of reproductive age. This study aimed to evaluate the hemostatic efficacy and impact on ovarian reserve of three different hemostatic methods in LESS (laparoendoscopic single-site) ovarian cystectomy.

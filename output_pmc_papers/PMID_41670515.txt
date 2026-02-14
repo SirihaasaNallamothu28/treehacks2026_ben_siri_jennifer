@@ -1,5 +1,7 @@
 PMID: 41670515
 Title: A Rare Case of Acute Promyelocytic Leukemia with ider(17)(q10)t(15;17)(q22;q21) and FLT3-ITD Mutation.
+Journal: Clinical laboratory
+Authors: Lee, Jong Ho
 
 Abstract:
 Acute promyelocytic leukemia (APL) is a subtype of acute myeloid leukemia characterized by the t(15;17)(q22;q21) translocation. Although it typically responds well to therapy, certain genetic aberrations, including ider(17)(q10)t(15;17)(q22;q21) and FLT3-ITD mutations, have unclear prognostic implications.

@@ -1,5 +1,7 @@
 PMID: 41689329
 Title: The Modified Frailty Index-5 as a Predictor of Postoperative Complications Following Radical Cystectomy.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Dincer, Erdinc; Ozkaptan, Orkunt; Canakci, Cengiz; Ipek, Osman Murat; Coskun, Alper; Can, Utku
 
 Abstract:
 To evaluate the predictive value of the modified frailty index-5 (mFI-5) for postoperative complications in patients undergoing radical cystectomy (RC) for muscle-invasive bladder cancer (MIBC).

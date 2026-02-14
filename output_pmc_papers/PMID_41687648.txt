@@ -1,0 +1,10 @@
+PMID: 41687648
+Title: FACTORS AFFECTING MORTALITY IN PATIENTS WITH HIP FRACTURES AND SHAH HIP FRACTURE MORTALITY SCORE: A RISK QUANTIFICATION TOOL.
+Journal: Georgian medical news
+Authors: Shah, F; Clough, R; Saleh, F; Poustie, M; Balanos, I; Najjar, A
+
+Abstract:
+Hip fractures are serious injuries of elderly associated with 6.2% mortality in first 30-days and 22% mortality in ﬁrst year. We aim to identify the key risk factors affecting mortality and to produce a score to predict 30 and 365-day mortality risk in patients with hip fracture.
+689 hip fractures managed at our hospital between 2016 and 2019 were analysed. Mortality at 30 and 365-days was obtained for factors like age, gender, American Society of Anaesthesiologists physical status classification (ASA grade), residence, pre-fracture ambulatory status, Abbreviated Mental Test Score (AMTS), fracture classification, treatment method, time to surgery and anaesthesia used. This data was analysed using univariate and then multivariate regression analysis and a 7-point (5 Factor) score was devised to predict mortality in the first month and first year following hip fracture.
+6.7% and 25.3% of the 689 patients died within 30 and 365-days of suffering a hip fracture. Older age, Male sex, ASA Class IV/V, Non-operative management, and housebound/bedbound status, were all found to be associated with increased mortality at 30 and 365-days post-fracture.
+This study identified Age, Sex, ambulation, ASA grade and non-operative management as key factors influencing 30 and 365-day mortality. Patients with the non-operative management and ASA grade 4/5 had the worst mortality risk. We devised a scoring system to predicts the 30-day and 365-day mortality which shows an almost linear relationship between the score and mortality rates.

@@ -1,5 +1,7 @@
 PMID: 41685309
 Title: Prognostic impact of advanced lung cancer inflammation index and tumor load index in esophageal squamous cell carcinoma after neoadjuvant immunochemotherapy.
+Journal: Frontiers in immunology
+Authors: Huang, Yizhou; Chen, Maohui; Yang, Zhenyuan; Zhang, Yongcong; Lin, Chuanquan; Zhang, Shuliang; Zeng, Taidui; Yu, Jun; Chen, Chun; Zheng, Bin
 
 Abstract:
 Esophageal squamous cell carcinoma (ESCC) carries a high risk of recurrence after neoadjuvant immunochemotherapy and surgery. Both host inflammatory-nutritional status and circulating tumor markers may jointly influence clinical outcomes. We evaluated the prognostic value of the Advanced Lung Cancer Inflammation Index (ALI) and a composite Tumor Load Index (TL) to refine risk stratification in this setting.

@@ -1,5 +1,7 @@
 PMID: 41687046
 Title: Autoimmune Diseases and Incident Spontaneous Subarachnoid Hemorrhage: A Swedish Population-Based Cohort Study.
+Journal: Neurology
+Authors: Zhang, Huan; Janszky, Imre; Arkema, Elizabeth V; Wang, Hui; Möller, Jette; Liang, Yajun; Mo, Xingbo; László, Krisztina D
 
 Abstract:
 Compelling evidence documents an association between autoimmune diseases and several types of cardiovascular diseases. Knowledge on whether autoimmune diseases may increase the risk of subarachnoid hemorrhage (SAH), a rare but severe type of cerebrovascular event, is very limited. The aim of this study was to determine the association between autoimmune diseases and SAH.

@@ -1,5 +1,7 @@
 PMID: 41670839
 Title: CRIP1 knockdown enhances glycolytic dependence and increases sensitivity to 2-Deoxy-D-Glucose in acute myeloid leukemia.
+Journal: Molecular biology reports
+Authors: Zeb, Muhammad Asif; Awan, Faryal Mehwish; Khan, Aamir Ali; Khan, Sadiq Noor
 
 Abstract:
 Acute Myeloid Leukemia (AML) is an aggressive hematologic malignancy with suboptimal treatment outcomes, necessitating the development of novel therapeutic strategies. Metabolic reprogramming, particularly a dependency on glycolysis, is a hallmark of cancer cells. The cysteine-rich intestinal protein 1 (CRIP1) gene exhibits dual roles in cancer, but its function in AML metabolism remains unexplored. This study investigated the metabolic consequences of CRIP1 knockdown and the subsequent efficacy of the glycolytic inhibitor 2-deoxy-D-glucose (2-DG) compared to the oxidative phosphorylation (OXPHOS) inhibitor IACS-010759.

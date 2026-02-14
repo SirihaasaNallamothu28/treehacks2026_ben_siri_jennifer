@@ -1,5 +1,7 @@
 PMID: 41671525
 Title: Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.
+Journal: Neurology
+Authors: Wang, Haotian; Wang, Bo; Liao, Yi; Jin, Nan; Kang, Yixin; Wang, Xinchen; Li, Jiaxiang; Wu, Sheng; Zhong, Yan; Dou, Xiaofeng; Yu, Congcong; Feng, Kai; Zhang, Hong; Tian, Mei; Luo, Wei
 
 Abstract:
 Multiple system atrophy (MSA) is a progressive neurodegenerative disorder presenting significant clinical heterogeneity, posing challenges in diagnosis and treatment. This study uses spatial independent component analysis (ICA) of <sup>18</sup>F-fluorodeoxyglucose (FDG) PET to deconstruct disease heterogeneity and elucidate the large-scale brain network mechanisms of MSA.

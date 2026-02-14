@@ -1,5 +1,7 @@
 PMID: 41671218
 Title: Comparative inhibitory effects of zeolite, sepiolite, and kaolinite on A549 lung cancer cells.
+Journal: PloS one
+Authors: Shamsabad, Fariba Nemati; Salehi, Mohammad Hassan; Shams, Jalaleddin; Ghazanfari, Tooba
 
 Abstract:
 Clays, by their unique structure, due to reduction in the acidity of blood and the surrounding environment, crystalline structure, pores, channels, and variations in microporosity significantly influence cellular growth. This study intends to examine the inhibitory effect of zeolite, sepiolite, and kaolinite on the human lung adenocarcinoma cell line (A549) in comparison to PBMCs (peripheral blood mononuclear cells) as representative cells of the immune system.

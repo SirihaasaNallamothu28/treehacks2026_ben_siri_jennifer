@@ -1,5 +1,7 @@
 PMID: 41685312
 Title: Multi-omics characterization of RNA modification enzymes identifies NAT10 as a functionally validated prognostic biomarker in hepatocellular carcinoma.
+Journal: Frontiers in immunology
+Authors: Zhan, Qianqian; Sun, Huihui; Wang, Xiangting; Liang, Xiaolin
 
 Abstract:
 RNA modification enzymes (RMEs) are key post-transcriptional regulators that impact RNA stability, translation, and splicing. Dysregulation of RMEs is closely associated with tumor initiation and progression. However, their global regulatory patterns and clinical relevance across cancer types remain incompletely characterized.

@@ -1,5 +1,7 @@
 PMID: 41688123
 Title: Is intensive behavioural change enhanced with dialectical behavioural therapy feasible for weight management in adolescents living with higher body weight? A protocol for a pilot randomised controlled trial in three centres in Canada.
+Journal: BMJ open
+Authors: Cameron, Emily E; Morrison, Katherine M; Ho, Josephine; Roos, Leslie; Katz, Laurence; Mushquash, Aislin; Dart, Allison; Wicklow, Brandy A; Senechal, Martin; Jung, Mary E; Strachan, Shaelyn M; Afifi, Tracie O; Archibald, Mandy; Andrade, Brendan; Hadjiyannakis, Stasia; Hamilton, Jill; Slaght, Jana; Penner, Kailey; Balshaw, Robert F; McGavock, Jonathan
 
 Abstract:
 For adolescents living with higher body weight, changing lifestyle behaviours can be met with challenges due to psychosocial factors, such as mental health and emotional challenges. Few behavioural interventions have included skill development to manage these mental health and emotional challenges.

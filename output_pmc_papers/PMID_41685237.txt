@@ -1,5 +1,7 @@
 PMID: 41685237
 Title: Association between controlling nutritional status (CONUT) score and amputation risk factors in T2DM patients with DFU.
+Journal: Frontiers in endocrinology
+Authors: Xiang, Jie; Huang, Weijia; Gao, Wei; Tu, Yuanhui; Zhang, Yongsheng
 
 Abstract:
 Diabetic foot ulcer (DFU) is one of the serious complications of type 2 diabetes (T2DM). Malnutrition is associated with amputation in DFU patients. We aimed to use the CONUT score to investigate the risk factors associated with DFU amputation.

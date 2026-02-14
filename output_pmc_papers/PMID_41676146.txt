@@ -1,5 +1,7 @@
 PMID: 41676146
 Title: FPSIR predicts clinical therapeutic responses and survival outcomes in patients with metastatic colorectal cancer undergoing first-line bevacizumab-containing chemotherapy.
+Journal: Frontiers in immunology
+Authors: Li, Ya-Nan; Deng, Feng-Wen; Lan, Tian-Qi; Lu, Ying; Xiang, Lin; Song, Guo-Bin; Peng, Tian; Cheng, Xue-Xin; Ying, Hou-Qun
 
 Abstract:
 Identifying patients who are most likely to benefit from the combination of bevacizumab and chemotherapy (Bev/CT) is essential for the optimal management of metastatic colorectal cancer (mCRC). The aim of this study is to investigate the utility of chronic inflammatory biomarkers in predicting clinical response to Bev/CT and outcomes in patients with mCRC.

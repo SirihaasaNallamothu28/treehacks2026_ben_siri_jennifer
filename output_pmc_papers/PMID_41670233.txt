@@ -1,5 +1,7 @@
 PMID: 41670233
 Title: Increased levels of serum surfactant protein D are associated with cardiovascular disease incidence in the Spanish adult population: Di@bet.es study.
+Journal: European journal of clinical investigation
+Authors: Oualla-Bachiri, Wasima; Lago-Sampedro, Ana; García-Escobar, Eva; Maldonado-Araque, Cristina; Delgado, Elías; Chaves, Felipe J; Castaño, Luis; Calle-Pascual, Alfonso; Franch-Nadal, Josep; Olveira, Gabriel; Rojo-Martínez, Gemma; Doulatram-Gamgaram, Viyey; Valdés, Sergio
 
 Abstract:
 Cardiovascular disease (CVD) remains the leading cause of mortality. New biomarkers are needed to improve CVD risk prediction. Several studies have reported associations between surfactant protein D (SP-D), an innate immune system component, and CVD; however, general population studies remain scarce. The main aim of this study was to investigate the association between SP-D and CVD events incidence in the Spanish general adult population.

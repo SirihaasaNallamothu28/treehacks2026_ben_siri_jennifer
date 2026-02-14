@@ -1,5 +1,7 @@
 PMID: 41671526
 Title: Previous Antiplatelet Therapy and Outcomes of Acute Ischemic Stroke With Large Vessel Occlusion Treated With Direct Endovascular Therapy.
+Journal: Neurology
+Authors: Benci, Zeno; Bianco, Giovanni; Disanto, Giulio; Wegener, Susanne; Seiffge, David Julian; Gralla, Jan; Katan, Mira; Psychogios, Marios; Pileggi, Marco; De Marchis, Gian Marco; Michel, Patrik; Jubeh, Tamer; Curtze, Sami; Marto, João Pedro; Zini, Andrea; Pezzini, Alessandro; Wali, Nabila; Nederkoorn, Paul J; Padjen, Visnja; Engelter, Stefan T; Gensicke, Henrik; Noseda, Roberta; Cereda, Carlo W
 
 Abstract:
 Previous antiplatelet therapy (APT) may influence outcomes in patients undergoing direct endovascular therapy (EVT) for anterior circulation large vessel occlusion (LVO) stroke, but evidence on clinical benefits and safety is limited and inconsistent. We aimed to evaluate the effects of previous APT on the outcomes of direct EVT.

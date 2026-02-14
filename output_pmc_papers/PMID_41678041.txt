@@ -1,5 +1,7 @@
 PMID: 41678041
 Title: Risk of influenza and COVID-19 illness and pediatric obstructive sleep apnea: a TriNetX cohort with 5-year follow-up.
+Journal: Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine
+Authors: Gileles-Hillel, Alex; Reiter, Joel; Gozal, David
 
 Abstract:
 Obstructive sleep apnea (OSA) is associated with impaired immune responses. Prior small-scale investigations suggested that pediatric OSA leads to a more severe clinical course of common childhood viruses. Whether OSA increases the risk of infection remains unknown.

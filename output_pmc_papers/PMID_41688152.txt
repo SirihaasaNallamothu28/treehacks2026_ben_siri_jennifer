@@ -1,5 +1,7 @@
 PMID: 41688152
 Title: Phenotypic characterization and function of tumor infiltrating and peripheral B cells in cancer patients.
+Journal: Methods in cell biology
+Authors: Rosado, M Manuela; Frisullo, Giuseppe; Campo, Giulia; Petrella, Miriam; Nisticò, Paola
 
 Abstract:
 Lymphocyte characterization is primarily based on the differential expression of surface markers. In this context multiparametric flow-cytometry analysis (FACS) is an exceptional technique that not only allows the identification of lymphocyte subsets but can also be used to evaluate cell function, activation and proliferation. Owed the recent observation that B cells play key roles in anti-tumour immune responses as well as on the outcome of immune checkpoint inhibitor therapy, herein we will describe the combination of polyclonal B cell stimulation, ELISpot, ELISA and flow cytometry tecniques that allow the identification of tumour infiltrating and peripheral B-cell subsets as well as B cell ability to proliferate and generate antibody producing cells, in solid tumor beharing patients (see graphic abstract Figure 1).

@@ -1,5 +1,7 @@
 PMID: 41689316
 Title: Immunopathological Profile of Angiogenesis-Related Markers in Subgroups of EGFR-Mutated Lung Adenocarcinomas.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Ma, Hong-Bo; Wu, Xiao-Li; Hu, di; Wei, Hui-Jie; Zhang, Chong; Zhou, Qi
 
 Abstract:
 To investigate the expression of angiogenesis-related markers in lung adenocarcinoma (LUAD) harbouring EGFR 19Del mutation and EGFR 21L858R mutation.

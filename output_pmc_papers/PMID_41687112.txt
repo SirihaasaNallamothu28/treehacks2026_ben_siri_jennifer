@@ -1,5 +1,7 @@
 PMID: 41687112
 Title: [Prevalence of Dementia and Cognitive Decline in Portuguese Residential Care Homes: A Cross-Sectional Study].
+Journal: Acta medica portuguesa
+Authors: Padeiro, Miguel; Borges-Machado, Flávia; Ribeiro, Oscar; Sousa, Liliana; Almendra, Ricardo; Santana, Paula
 
 Abstract:
 Dementia is one of the leading causes of dependency among older people and poses a critical challenge for long-term care systems. Despite the importance of the issue, national data on the prevalence of dementia in residential care homes remain limited.

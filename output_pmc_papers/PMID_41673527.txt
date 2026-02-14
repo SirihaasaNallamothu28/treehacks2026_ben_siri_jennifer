@@ -1,0 +1,10 @@
+PMID: 41673527
+Title: Depression Risk in Type 1 Versus Type 2 Diabetes: Cross-Sectional Analysis of Body Mass Index (BMI) in a Nationally Diverse Cohort.
+Journal: Endocrinology, diabetes & metabolism
+Authors: Cruz-Vespa, Natalia; Thomas, Michael L; McCarthy, Michael J; Meruelo, Alejandro D
+
+Abstract:
+Major depressive disorder (MDD) commonly co-occurs with diabetes, but comparative risk across type 1 diabetes (DM1), type 2 diabetes (DM2) and non-diabetic groups-and the role of body mass index (BMI)-remains uncertain.
+Using All of Us Research Program data, adults were classified as DM1, DM2 or non-diabetic. Multivariable logistic regression estimated odds of MDD adjusting for age, sex at birth, race and ethnicity; BMI was added in secondary models. Effect modification by sex and race was tested. Structural equation modelling (SEM) assessed whether BMI statistically explained group differences.
+In models excluding BMI, both DM1 and non-diabetic participants had higher odds of MDD than DM2 (DM1 vs. DM2: OR = 1.53, 95% CI 1.17-1.99; non-diabetic vs. DM2: OR = 1.20, 95% CI 1.16-1.25). Interactions by sex and race were significant; contrasts were stronger among females and heterogeneous across race strata. Adding BMI yielded directionally consistent group estimates and confirmed an independent association of higher BMI with higher MDD odds. SEM indicated statistical suppression for the non-diabetic vs. DM2 contrast: non-diabetic status related to lower BMI, while higher BMI related to higher MDD, producing a small indirect effect (~8%). The indirect path for DM1 vs. DM2 was non-significant.
+Compared with DM2, both DM1 and non-diabetic groups show higher adjusted odds of MDD. BMI is independently related to MDD but only modestly-and partly suppressively-accounts for the non-diabetic vs. DM2 contrast. Findings support subgroup-aware screening and the need for longitudinal data to clarify mechanisms.

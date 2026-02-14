@@ -1,5 +1,7 @@
 PMID: 41689227
 Title: Awake suction tracheal extubation using a tracheal tube as a suction catheter: study protocol for a randomised controlled non-inferiority trial.
+Journal: BMJ open
+Authors: Wen, Gengzhi; Xu, Yi; Yu, Yinyao; Pu, Yuju; Gu, Cuifang; Dai, Lianqing; Huang, Bowan
 
 Abstract:
 During recovery from general anaesthesia with tracheal intubation, the tracheal extubation is a necessary step. 22% of anaesthesia-related complications occur after extubation. In a few patients, the hypoxic brain injury and death may occur. Inflation and suction techniques are two common techniques for tracheal extubation; however, it is unclear which technique is superior. In our practice, the suction tracheal extubation is typically performed via a suction catheter, and the tracheal and oropharyngeal secretions are often not completely cleared. Additionally, cough often occurs. When a suction catheter is substituted with a tracheal tube, the clearance of tracheal and oropharyngeal secretions seems to improve. In addition, even without prior tracheal and oropharyngeal suctions before tracheal extubation, the tracheal and oropharyngeal secretions can be effectively cleared when a tracheal tube is used as a suction catheter. This study was designed to investigate the use of tracheal tubes as suction catheters in awake suction tracheal extubation.

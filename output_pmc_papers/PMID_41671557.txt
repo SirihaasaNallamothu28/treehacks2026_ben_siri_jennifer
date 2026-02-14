@@ -1,5 +1,7 @@
 PMID: 41671557
 Title: Evaluation of the ALIBIRD mHealth Platform for Care of Patients With Lung Cancer: Prospective Pilot Study.
+Journal: JMIR cancer
+Authors: Iniesta-Chamorro, Jose M; Sereno, Maria; Garrido-Rubiales, Beatriz; Villarino Sanz, Marta; Espinosa-Salinas, Isabel; Falagán Martínez, Sandra; Rubio Romero, Gustavo; Moreno-Rubio, Juan; Tabarés, Beatriz; Martín, Yolanda; Hernández de Córdoba, Irene; Morales Parga, Maria; Molinero, Natalia; Moreno-Arribas, M Victoria; Reglero Rada, Guillermo; Ramírez de Molina, Ana; Gómez, Enrique J; Casado, Enrique
 
 Abstract:
 Mobile health (mHealth) represents a promising instrument for optimizing symptom management and important lifestyle strategies that enhance self-care and the quality of health care for patients with cancer. The ALIBIRD mHealth platform is a digital health solution specifically designed for the telemonitoring of oncology patients, fostering patient empowerment and supporting clinical decision-making.

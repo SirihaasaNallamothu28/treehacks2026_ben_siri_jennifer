@@ -1,5 +1,7 @@
 PMID: 41676882
 Title: Multi-Omics Dissection of the Role of Ubiquitination Modification in Post-Stroke Neuroinflammation and Function Damage.
+Journal: Synapse (New York, N.Y.)
+Authors: Yao, Peng; Li, Dan
 
 Abstract:
 This study aims to explore the role of ubiquitination in neuroinflammation and functional damage after stroke using multi-omics analysis, focusing on the pathways influenced by ubiquitination.

@@ -1,5 +1,7 @@
 PMID: 41689208
 Title: Pachymic Acid Targets PI3K/Akt Signaling Pathway to Attenuate tPA-Induced Hemorrhagic Transformation After Ischemic Stroke.
+Journal: CNS neuroscience & therapeutics
+Authors: Wu, Yongshi; Zhang, Tong; Li, Ruoqi; Wu, Yige; Wei, Congmin; Sun, Fangming; Zhang, Shanshan; Fan, Xiang
 
 Abstract:
 Tissue plasminogen activator (tPA)-induced cerebral hemorrhagic transformation (HT) after ischemic stroke limits its clinical use widely. Pachymic acid, a main active component of Poria cocos, mitigates brain ischemia/reperfusion injury, but its effect on tPA-induced HT is unclear.

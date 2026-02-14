@@ -1,5 +1,7 @@
 PMID: 41685268
 Title: The role of serum tryptase in COVID-19 pathogenesis and its value as a prognostic marker: a single-center prospective cohort study.
+Journal: Acta biochimica Polonica
+Authors: Majeranowski, Alan; Palus, Damian; Hoffmann, Michał; Heleniak, Zbigniew; Stefaniak, Tomasz; Kuziemski, Krzysztof
 
 Abstract:
 Dysregulated inflammation is central to COVID-19 pathogenesis. Mast cells (MCs) and their protease tryptase are implicated in tissue injury and vascular dysfunction, but the prognostic value of circulating tryptase in COVID-19 remains uncertain.

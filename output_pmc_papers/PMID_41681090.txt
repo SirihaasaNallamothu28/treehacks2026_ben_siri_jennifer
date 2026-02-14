@@ -1,5 +1,7 @@
 PMID: 41681090
 Title: Immune Infiltration Landscape in Osteosarcoma: Clinical Implications for Prognosis and Therapy.
+Journal: Cancer reports (Hoboken, N.J.)
+Authors: Wang, Yuerong; Liu, Xueni; Xie, Guojin; Li, Zheqian
 
 Abstract:
 With survival rates for osteosarcoma largely unchanged for 40 years-especially in metastatic/recurrent cases. While the immune microenvironment is believed to play a crucial role, the heterogeneity of immune cell infiltration (ICI) and its precise impact on prognosis and therapeutic response remain poorly characterized. There is a lack of a robust, ICI-based scoring system to stratify patients and identify novel therapeutic targets. This study aimed to identify the characteristics of ICI subtypes for evaluating prognosis and therapeutic benefits.

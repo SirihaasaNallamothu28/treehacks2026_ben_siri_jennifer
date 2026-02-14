@@ -1,5 +1,7 @@
 PMID: 41671431
 Title: Redefining Upfront Resectable Pancreatic Ductal Adenocarcinoma: Should Vein Abutment Matter?
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Tan, Po Hong; Thiels, Cornelius A; Poruk, Katherine; Miller, Richard Max; Hor, Hoe Yan; Tu, Melody Pi Yin; Huyser, Michelle R; Stucky, Chee-Chee; Wasif, Nabil; Bold, Richard J; Smoot, Rory L; Starlinger, Patrick P; Warner, Susanne G; Kendrick, Michael L; Stauffer, John A; Truty, Mark J; Fong, Zhi Ven
 
 Abstract:
 Upfront resectable pancreatic ductal adenocarcinoma (PDAC) is defined by the NCCN as disease with ≤180° portomesenteric vein (PMV) abutment. However, the clinical significance of PMV abutment in this cohort remains unexplored, and we sought to investigate its impact.

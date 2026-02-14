@@ -1,5 +1,7 @@
 PMID: 41670322
 Title: A man in his 60s with immunodeficiency and hepatitis.
+Journal: Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke
+Authors: Hvitmyhr, Caroline; Enga, Kristin Fjeldstad; Øverbø, Joakim; Midgard, Håvard; Reikvam, Dag Henrik
 
 Abstract:
 Major causes of elevated liver enzymes are toxic, infectious, neoplastic and autoimmune disease. In immunocompromised patients, the spectrum of infectious pathogens causing hepatitis is broader and the immune response is blunted, making diagnosis more challenging.

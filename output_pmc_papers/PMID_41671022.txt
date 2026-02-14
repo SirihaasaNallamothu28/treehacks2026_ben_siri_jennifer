@@ -1,5 +1,7 @@
 PMID: 41671022
 Title: Synergy of Coronary Revascularization and Optimal Drug Therapy in Patients With Ischemic Cardiomyopathy and Reduced Left Ventricular Ejection Fraction.
+Journal: Kardiologiia
+Authors: Kadyrov, B A
 
 Abstract:
 To evaluate the clinical, functional and prognostic outcomes, including left ventricular (LV) reverse remodeling, of combining percutaneous coronary intervention (PCI) with optimal medical therapy (OMT) in patients with ischemic cardiomyopathy (ICM) and reduced left ventricular ejection fraction (LVEF).

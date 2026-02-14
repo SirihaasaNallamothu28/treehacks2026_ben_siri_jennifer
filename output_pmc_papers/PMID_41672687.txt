@@ -1,5 +1,7 @@
 PMID: 41672687
 Title: Genotype-Guided vs Conventional Oral P2Y<sub>12</sub> Inhibitors in Acute Coronary Syndrome: A Combined Analysis of TAILOR-PCI and POPular Genetics.
+Journal: JACC. Cardiovascular interventions
+Authors: Galli, Mattia; Pereira, Naveen L; Lennon, Ryan J; van den Broek, Wout W A; Claassens, Daniel M F; Bergmeijer, Thomas O; Rosenberg, Yves; Fazzini, Luca; Deneer, Vera H M; Murad, M Hassan; Farkouh, Michael E; Rihal, Charanjit; Ten Berg, Jurrien; Angiolillo, Dominick J
 
 Abstract:
 Genotype-guided P2Y<sub>12</sub> inhibitor selection may improve outcomes in acute coronary syndrome (ACS) or percutaneous coronary interventions (PCI) patients.

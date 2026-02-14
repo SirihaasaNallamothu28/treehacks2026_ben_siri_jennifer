@@ -1,5 +1,7 @@
 PMID: 41674103
 Title: Pilot Implementation of a Post-Hypertensive Disorders of Pregnancy Education and Follow-Up Package for Health Care Providers: Protocol for a Mixed Methods Pilot Study.
+Journal: JMIR research protocols
+Authors: Green, Jennifer Elizabeth; Roth, Heike; Harris-Roxas, Ben; Baird, Kathleen; Guirgis, Caroline; Gundevia, Zarin; Henry, Amanda
 
 Abstract:
 Medical complications of pregnancy provide a window into a woman's future health risk. Hypertensive disorders of pregnancy (HDP) affect 1 in 10 pregnant women and elevate the risk for women of experiencing long-term health complications within 5 years of the affected pregnancy, continuing lifelong. These risks include a doubled to tripled risk of developing cardiovascular disease, a doubled risk of developing type 2 diabetes, and a 5- to 10-fold risk of developing chronic kidney disease. Early assessment and intervention following HDP are therefore crucial to improving women's life-course health trajectory, as well as outcomes for any subsequent pregnancies. However, previous research has shown that Australian women and their primary health care providers are largely unaware of ongoing health risks and the necessary follow-up screening and assessments. Primary care providers also receive inadequate hospital-to-community handover and support to promote preventive health measures to women following pregnancy complications. Consequently, post-HDP care remains insufficient for optimizing long-term health.

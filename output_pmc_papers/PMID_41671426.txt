@@ -1,5 +1,7 @@
 PMID: 41671426
 Title: Evaluating Vulnerable Elders Survey-13 and FIL Geriatric Assessment in Older Adults With Aggressive Lymphomas.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Johnson, P Connor; Newcomb, Richard A; Nipp, Ryan D; Tsang, Mazie; Horick, Nora; Stacey, Julia; Yang, Daniel; Coffey, Bridget; Markovitz, Netana; Kaslow-Zieve, Emilia; Venkatachalam, Shruthi; Kim, Elane; El-Jawahri, Areej; Odejide, Oreofe O
 
 Abstract:
 Aggressive non-Hodgkin lymphoma (aNHL) commonly occurs in older adults. However, geriatric assessments (GAs), which are associated with both survival and treatment-related toxicity, are infrequently performed due to logistical constraints. In this study, we examined how the brief, self-reported Vulnerable Elders Survey-13 (VES-13) screening tool and a comprehensive GA relate to clinical outcomes in this population.

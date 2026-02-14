@@ -1,5 +1,7 @@
 PMID: 41685522
 Title: Multiomic single nuclei profiling the mouse hippocampus reveals that ACSS2 confers neuronal resilience to tauopathy.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Egervari, Gabor; Alexander, Desi C; Huang, Hua; Donahue, Greg; Hogan, Connor; Mendoza, Mariel; Xu, Hong; Lee, Virginia; Garcia, Ben; Bonini, Nancy; Berger, Shelley
 
 Abstract:
 Epigenomic dysregulation contributes to Alzheimer's disease (AD) and related tauopathies. Acetyl-CoA synthetase 2 (ACSS2), a nuclear-localized metabolic enzyme in neurons, supports histone acetylation and learning-related gene expression. We examined how ACSS2 loss affects molecular and behavioral phenotypes in a mouse model of tauopathy.

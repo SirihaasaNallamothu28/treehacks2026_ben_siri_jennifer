@@ -1,5 +1,7 @@
 PMID: 41671248
 Title: Durability of the BNT162b2 XBB:1.5-adapted vaccine against JN.1 hospitalisation in Europe, October 2023 to August 2024: A test-negative case-control study using the id.DRIVE platform.
+Journal: PloS one
+Authors: Volkman, Hannah R; de Munter, Leonie; Nguyen, Jennifer L; Tran, Thao M P; Mitratza, Marianna; Marques, Cátia; Choi, Laura; Valluri, Srinivas; Yang, Jingyan; Antón, Andrés; Casas, Irma; Conde-Sousa, Eduardo; Drikite, Laura; Grüner, Beate; Icardi, Giancarlo; Ten Kate, Gerrit Luit; Martin, Charlotte; Mira-Iglesias, Ainara; Orrico-Sánchez, Alejandro; Otero-Romero, Susana; Rohde, Gernot; Jodar, Luis; McLaughlin, John M; Bollaerts, Kaatje
 
 Abstract:
 While multiple studies report that the BNT162b2 XBB.1.5-adapted mRNA COVID-19 vaccine (BNT162b2 XBB vaccine) is effective in preventing COVID-19 hospitalisation and death, effectiveness beyond six months remains unexplored.

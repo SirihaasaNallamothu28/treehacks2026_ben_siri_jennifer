@@ -1,5 +1,7 @@
 PMID: 41689607
 Title: Clinical and Epidemiologic Characteristics of Patients with Hepatocellular Carcinoma in South Asia: A Systematic Review and Meta-analysis.
+Journal: Journal of gastrointestinal cancer
+Authors: Niriella, Madunil Anuk; Dayananda, Piyumi Madushika; Ranathunga, Viranga Sathsarani; Wijesingha, Indeewari Prathibha; de Silva, Tiloka; de Silva, Hithanadura Janaka
 
 Abstract:
 Comprehensive data on hepatocellular carcinoma (HCC) in South Asia remains limited. This systematic review and meta-analysis describe characteristics and risk factors associated with HCC among South Asian adults.

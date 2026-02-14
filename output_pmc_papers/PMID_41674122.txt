@@ -1,5 +1,7 @@
 PMID: 41674122
 Title: Assessing Cardiac Mechanical Dysfunction in Transfusion-Dependent β-Thalassemia With History of Atrial Fibrillation: The Role of Speckle Tracking Echocardiography.
+Journal: Echocardiography (Mount Kisco, N.Y.)
+Authors: Marchini, Federico; Mele, Maria; Marchetti, Elena; Rotondo, Laura; Frascaro, Federica; Malagù, Michele; Pavasini, Rita; Tonet, Elisabetta; Serenelli, Matteo; Cossu, Alberto; Longo, Filomena; Lo Monaco, Maria; Bertella, Erika; Campo, Gianluca; Bertini, Matteo
 
 Abstract:
 Atrial fibrillation (AF) is highly prevalent in patients with transfusion-dependent beta-thalassemia (TDT). Speckle tracking echocardiography (STE) provides detailed information about left ventricular (LV) and atrial function, however its role in TDT patients with AF has not been completely investigated. This study aimed to assess differences in cardiac mechanical parameters between thalassemia patients with and without history of AF.

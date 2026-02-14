@@ -1,5 +1,7 @@
 PMID: 41689638
 Title: Site and number of metastases predict outcomes in avelumab maintenance for advanced UC: results from meet-URO 25.
+Journal: Cancer immunology, immunotherapy : CII
+Authors: Roviello, Giandomenico; Gambale, Elisabetta; De Gennaro Aquino, Irene; Maruzzo, Marco; Messina, Carlo; Vascotto, Ismaela Anna; Rossi, Virginia; Bimbatti, Davide; Erbetta, Elisa; Messina, Marco; Mennitto, Alessia; Rebuzzi, Sara Elena; Nasso, Cecilia; Mercinelli, Chiara; Catalano, Martina; Maiorano, Brigida Anna; Fanelli, Martina; Sorarù, Mariella; Scolari, Federico; Mela, Marinella Micol; Galli, Luca; Salfi, Alessia; Rizzo, Mimma; Puglisi, Silvia; Orlando, Valentina; Fornarini, Giuseppe; Rametta, Alessandro; Giannatempo, Patrizia; Cerbone, Linda; Doni, Laura; Pillozzi, Serena; Antonuzzo, Lorenzo
 
 Abstract:
 In advanced urothelial carcinoma (UC), the prognostic impact of metastatic site and burden during avelumab maintenance therapy remains poorly defined.

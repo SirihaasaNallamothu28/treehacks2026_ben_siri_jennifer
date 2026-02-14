@@ -1,5 +1,7 @@
 PMID: 41684207
 Title: Body Composition in Resectable Non-Small Cell Lung Cancer Patients With Preoperative Sarcopenia: A Propensity-Matched Analysis.
+Journal: Journal of cachexia, sarcopenia and muscle
+Authors: Wang, Zhu-Zhu; He, Jin-Yu; Tang, Rui-Feng; Zhang, Tian; Luo, Le; Zhang, Yu-Han; Zhang, Jing; Lv, Xiao-Qing; Hong, Jing-Fang
 
 Abstract:
 Sarcopenia is a prognostic factor in patients with early-stage non-small cell lung cancer (NSCLC). Previous studies have focused on muscle loss, yet comprehensive body composition (BC) alterations in this population remain poorly characterized. This study aimed to delineate BC alterations using bioelectrical impedance analysis (BIA) in early-stage NSCLC patients with preoperative sarcopenia, with a specific focus on sex-specific disparities and the identification of independent BC factors associated with sarcopenia.

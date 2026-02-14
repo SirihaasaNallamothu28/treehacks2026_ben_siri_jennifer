@@ -1,5 +1,7 @@
 PMID: 41686441
 Title: Shared Decision-Making and Patient Decision Aids for Percutaneous Left Atrial Appendage Occlusion.
+Journal: JAMA network open
+Authors: Rager, Joshua B; Huang, Chien-Yu; Zimmerman, Sarah; Dhruva, Sanket S; Freeman, James V; Matlock, Daniel D; Minges, Karl; Sandhu, Amneet; Spatz, Erica S; Varosy, Paul; Caverly, Tanner J
 
 Abstract:
 Experts recommend a shared decision-making (SDM) process before percutaneous left atrial appendage occlusion (pLAAO) in patients with atrial fibrillation, and the Centers for Medicare & Medicaid Services (CMS) require SDM with the use of a patient decision aid (DA) as a condition for reimbursement. However, little is known about how these guidelines and policies have influenced practice.

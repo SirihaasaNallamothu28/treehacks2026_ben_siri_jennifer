@@ -1,5 +1,7 @@
 PMID: 41688106
 Title: Effectiveness, acceptability and oral health-related quality of life of silver diamine fluoride compared with atraumatic restorative treatment for the management of early childhood caries: protocol of a pragmatic randomised clinical trial.
+Journal: BMJ open
+Authors: Muñoz Millán, Patricia; Pineda, Patricia; Fontana, Margherita; Freyhofer, Vicente Aránguiz; Ormeño, Andrea; Muñoz, Katalina; Martinez-Zapata, María José; Zaror, Carlos
 
 Abstract:
 Early childhood caries (ECC) continues to be a public health problem. The application of silver diamine fluoride (SDF) is a simple, non-invasive procedure. This study aims to evaluate SDF's effectiveness, acceptability and oral health-related quality of life (OHRQoL) compared with atraumatic restorative treatment in managing ECC.

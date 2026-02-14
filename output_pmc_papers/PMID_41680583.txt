@@ -1,5 +1,7 @@
 PMID: 41680583
 Title: Neurorehabilitation Clinical Pathways in Stroke: The Padova Model.
+Journal: Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology
+Authors: Del Felice, Alessandra; Bisogno, Antonio Luigi; Facchini, Silvia; De Pellegrin, Serena; Baba, Alfonc; Lando, Alex; Basile, Anna Maria; Piccione, Francesco; Antonini, Angelo; Maurizio, Corbetta
 
 Abstract:
 The rising prevalence of neurological disabilities underscores the need for neurorehabilitation units grounded in evidence-based medicine. However, a gap persists between available evidence and its consistent implementation in clinical practice. In this study, we present the experience of a single tertiary medical center and propose a structured, evidence-based framework for stroke neurorehabilitation aimed at standardizing care and improving functional outcomes.

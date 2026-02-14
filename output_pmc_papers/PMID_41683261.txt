@@ -1,5 +1,7 @@
 PMID: 41683261
 Title: Neuroprotective Herbs Associated with Parkinson's and Alzheimer's Disease.
+Journal: Nutrients
+Authors: Marțiș, Georgiana Smaranda; Ungur, Rodica Ana; Pop, Anamaria; Bordean, Evelina Maria; Pașca, Claudia; Borda, Ileana Monica
 
 Abstract:
 There is currently no treatment for Parkinson's (PD) and Alzheimer's (AD) diseases, and medications that target the blockage of amyloid plaque cascades appear to be the most promising for preventing these diseases. However, it is believed that consuming natural antioxidants, particularly phytochemicals such as phenolic compounds, may help the treatment process for neurodegenerative illnesses. Phenolic substances such as phenolic acids, polyphenols, and flavonoids have been shown to have antioxidant properties in plants and are thought to have a similar impact in humans. This review provides an analysis of the current landscape of PD and AD pathophysiology, paying particular attention to phytochemical-based therapeutic, preventive, and management strategies using disclosed herb candidates in in vivo/vitro studies. We also highlight the herb-derived components that have recently been identified for their effects in the treatment of PD/AD to provide a review and perspectives for the development of the next generation of drugs and preparations for the treatment of PD/AD.

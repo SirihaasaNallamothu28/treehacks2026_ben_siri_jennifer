@@ -1,5 +1,7 @@
 PMID: 41677635
 Title: The Highly Selective 5-HT<sub>2B</sub> Receptor Antagonist MW073 Mitigates Aggressive Behavior in an Alzheimer's Disease Mouse Model.
+Journal: Cells
+Authors: Acquarone, Erica; Roy, Saktimayee M; Staniszewski, Agnieszka; Watterson, Daniel Martin; Arancio, Ottavio
 
 Abstract:
 <b>Background:</b> Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder and the leading cause of dementia worldwide. Progressive synaptic dysfunction underlies declines in cognition, daily functioning, and the development of neuropsychiatric syndromes. Neuropsychiatric syndromes that include agitation and aggression affect 40-60% of patients and represent a major source of caregiver burden. Serotonin 5-HT<sub>2B</sub> receptor levels are increased in the AD patient brain, and thus, treatment of AD animal models with the selective 5-HT<sub>2B</sub> receptor antagonist MW073 in prevention or disease stage paradigms attenuates Aβ- or tau-induced dysfunction. <b>Methods:</b> We investigated the effects of MW073 treatment on the aggressive behavior of <i>Tg2576</i> mice in a resident-intruder assay. <b>Results:</b> MW073 treatment significantly reduced aggressive behavior in male <i>Tg2576</i> mice. <b>Conclusions:</b> MW073 efficacy in treating aggression in <i>Tg2576</i> mice implicates 5-HT<sub>2B</sub> receptor-mediated signaling in AD neuropsychiatric symptoms as well as cognitive and behavioral dysfunction.

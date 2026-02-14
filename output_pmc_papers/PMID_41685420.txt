@@ -1,5 +1,7 @@
 PMID: 41685420
 Title: Changes in Glutathione Metabolites and Reactive Oxygen Species from Baseline to Post-Treatment in Breast Cancer Survivors with Psychoneurological Symptoms Receiving Acupuncture.
+Journal: Integrative cancer therapies
+Authors: Li, Hongjin; Gao, Shuang; Schlaeger, Judith M; Choi, Hannah; Xia, Yinglin; Sun, Jun; Doorenbos, Ardith Z
 
 Abstract:
 To investigate acupuncture-induced changes in targeted glutathione metabolites in breast cancer survivors with psychoneurological symptoms (PNS) and to examine associations between these metabolic changes and PNS improvements.

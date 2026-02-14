@@ -1,5 +1,7 @@
 PMID: 41677892
 Title: Predictive value of natural killer (NK) cells in bone marrow for relapse in diffuse large B cell lymphoma: integrating antibody-dependent cell-mediated cytotoxicity (ADCC)-based immunotherapy.
+Journal: Cancer immunology, immunotherapy : CII
+Authors: Rincón-López, Sofía; Atencio-Matos, Johelys; Pereda-Sainz, Olalla; Larreina-Pérez, Javier; Campeny-Najara, Andrea; Esteban-Figuerola, Ada; Hernandez-Perez, Montserrat; Garrastachu-Zumaran, Puy; Velasco-Ruiz, María; García-Bosque, Isabel; Rodriguez-Lefler, Carmen; Ruiz de Gaona, Estefanía; Feliu, Jesús; Cabello, Juan; Martín-Carnicero, Alfonso; García-Muñoz, Ricardo
 
 Abstract:
 Diffuse large B cell lymphoma (DLBCL) is characterized by high relapse rates and immunobiological complexity. The therapeutic efficacy of CD20-targeting monoclonal antibodies depends largely on antibody-dependent cellular cytotoxicity (ADCC), mediated by natural killer (NK) cells.

@@ -1,5 +1,7 @@
 PMID: 41686713
 Title: Risks of dementia and stroke in patients with hypertension using telmisartan or other renin‑angiotensin system inhibitors.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Liu, Chi-Hung; Tsai, Ming-Lung; Yang, Ning-I; Chang, Ting-Yu; Chen, Tien-Hsing; Wei, Yi-Chia
 
 Abstract:
 The aim of this study was to investigate the cognitive and cerebrovascular outcomes of patients with hypertension (HTN) receiving various renin-angiotensin system (RAS) inhibitors.

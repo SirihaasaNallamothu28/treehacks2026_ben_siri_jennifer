@@ -1,5 +1,7 @@
 PMID: 41677813
 Title: Antimicrobial dressings for the prevention of surgical-site infection: systematic review and meta-analysis.
+Journal: The British journal of surgery
+Authors: Yusuf, Suraya M; James, Jonathan; Chong, Bryant; Dohle, Esmee; Jovanovic, Luka; Farag, Soma; Wade, Ryckie G; Wormald, Justin C R
 
 Abstract:
 Surgical-site infections (SSIs) are a leading cause of postoperative morbidity, prolonged hospitalization, and significant healthcare costs. Antimicrobial dressings may mitigate SSI risk by minimizing local microbial burden, but their effectiveness remains uncertain.

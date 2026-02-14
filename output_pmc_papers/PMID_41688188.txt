@@ -1,5 +1,7 @@
 PMID: 41688188
 Title: [Application of fundus imaging in the diagnosis and treatment of cardiovascular disease comorbid with mental disorders].
+Journal: Zhonghua xin xue guan bing za zhi
+Authors: He, X; Li, C; Liu, L; Yang, X H
 
 Abstract:
 

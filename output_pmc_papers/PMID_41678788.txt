@@ -1,5 +1,7 @@
 PMID: 41678788
 Title: Machine Learning for Predicting Venous Thromboembolism After Joint Arthroplasty: Systematic Review of Clinical Applicability and Model Performance.
+Journal: JMIR medical informatics
+Authors: Ma, Junwei; Tang, Huifeng; Zhang, Yunshan; Yi, Xuemei; Zhong, Tangsheng; Li, Xinyun; Wang, Gang
 
 Abstract:
 There is increasing research on machine learning in predicting venous thromboembolism after joint arthroplasty, but the quality and clinical applicability of these models remain uncertain.

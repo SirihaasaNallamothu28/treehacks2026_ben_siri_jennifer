@@ -1,5 +1,7 @@
 PMID: 41688115
 Title: Effectiveness of self-abdominal massage on gastrointestinal function in postoperative ileus: a randomised controlled trial protocol.
+Journal: BMJ open
+Authors: Ma, Yaokai; Wang, Huan; Liu, Shoufang; Xu, Zhixian; Cao, Yinlong; Wang, Guimao; Liu, Xuan; Zhang, Kaiyue; Guo, Guangxin
 
 Abstract:
 Postoperative ileus (POI) is a common complication after colorectal surgery, characterised by impaired gastrointestinal motility leading to abdominal distension, delayed flatus and defecation, nausea and vomiting. Self-abdominal massage (SM) can promote bowel peristalsis, but its clinical efficacy on improving colorectal cancer patients with POI treated with an intestinal decompression tube remains to be further verified. Therefore, this study aims to evaluate the efficacy and safety of SM in improving gastrointestinal function in colorectal cancer patients with POI treated with an intestinal decompression tube.

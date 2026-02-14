@@ -1,5 +1,7 @@
 PMID: 41684542
 Title: B cell phenotypes and antibody signatures associate with interpatient variation in the lung adenocarcinoma tumor microenvironment.
+Journal: Frontiers in immunology
+Authors: Rasche, Kamille M; Tieri, David; Morrissey, Samantha M; Li, Hong; Zhang, Fan; Gibson, William S; Ford, Easton E; Jana, Uddalok; Smith, Melissa L; Yan, Jun; Watson, Corey T
 
 Abstract:
 Non-small cell lung cancer is the leading cause of cancer-related mortality worldwide, with lung adenocarcinoma (LUAD) as the most common subtype. Although early-stage disease is often treated surgically, advanced LUAD typically requires chemotherapy, radiation, and/or immunotherapy, largely focused on T cell-mediated responses. Therapeutic efficacy, however, is also shaped by tumor-infiltrating (TI) B cells, whose roles in LUAD remain incompletely understood.

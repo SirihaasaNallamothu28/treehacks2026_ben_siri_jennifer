@@ -1,5 +1,7 @@
 PMID: 41670809
 Title: Clinical characteristics, prognosis, and fertility outcomes in patients with simple and complex endometrial hyperplasia: a comparative analysis.
+Journal: Archives of gynecology and obstetrics
+Authors: Wei, Jiayu; Wang, Hong; Wang, Haiyun; Wang, Yingmei; Tian, Wenyan; Zhang, Huiying
 
 Abstract:
 To analyze the difference in general clinical data, clinical manifestations, hysteroscopic manifestations, prognosis and fertility between patients with complex endometrial hyperplasia (CH) and simple endometrial hyperplasia (SH).

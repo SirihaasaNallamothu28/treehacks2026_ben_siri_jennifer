@@ -1,5 +1,7 @@
 PMID: 41685419
 Title: Microscopic white matter changes in the cingulum contribute to memory impairment among older adults with obstructive sleep apnea in the memory clinic.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Lam, Aaron; Almgren, Hannes; Palmer, Jake; D'Rozario, Angela L; D'Souza, Arkiev; Yee, Brendon J; Mowszowski, Loren; Calamante, Fernando; Naismith, Sharon L
 
 Abstract:
 Obstructive sleep apnea (OSA) is prevalent in memory clinic patients and is associated with learning and memory deficits. In a memory clinic sample, we investigated the relationship between memory-related white matter pathways and OSA.

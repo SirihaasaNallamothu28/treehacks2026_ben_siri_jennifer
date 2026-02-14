@@ -1,5 +1,7 @@
 PMID: 41679957
 Title: Feasibility of proton daily QA prototype for pencil beam scanning carbon ion beam therapy.
+Journal: Journal of applied clinical medical physics
+Authors: Witt, Matthias; Flatten, Veronika; Schönfeld, Andreas; Baumann, Kilian-Simon; Weber, Uli; Zink, Klemens
 
 Abstract:
 The complexity of beam delivery and the limited availability of dedicated quality assurance (QA) devices present unique challenges for carbon ion beam therapy. Most existing systems are designed for single-parameter verification and have been adapted from photon or proton workflows, resulting in time-consuming QA procedures. This study aimed to evaluate the feasibility of using a proton QA prototype device (DQA-P) in a pencil beam scanning (PBS) carbon ion facility, with the aim of enabling fast, efficient, multiparameter QA.

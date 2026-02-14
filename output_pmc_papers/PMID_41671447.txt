@@ -1,5 +1,7 @@
 PMID: 41671447
 Title: Association of Patient Health Literacy With NCCN-Concordant Colorectal Cancer Treatment and Survival.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Bradley, Emma M; Siddiqui, Sobia; Irlmeier, Rebecca; Ye, Fei; Hawkins, Alexander; Khan, Aimal; Ciombor, Kristen K; Bailey, Christina E; Moses, Kelvin A; Kripalani, Sunil; Idrees, Kamran
 
 Abstract:
 Low health literacy (HL) is associated with poor health outcomes. As cancer care becomes increasingly complex, HL plays a critical role in empowering patients to successfully navigate care. Although HL has been shown to play a role in colorectal cancer (CRC) screening, its impact on oncologic treatment is less well defined. This study evaluated the association between HL and receipt of guideline-concordant CRC treatment and subsequent survival outcomes.

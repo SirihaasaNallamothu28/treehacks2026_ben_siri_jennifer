@@ -1,5 +1,7 @@
 PMID: 41671519
 Title: Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.
+Journal: Neurology
+Authors: Zammit, Andrea R; Yu, Lei; Poole, Victoria N; Kapasi, Alifiya; Wilson, Robert S; Bennett, David A
 
 Abstract:
 The effects of lifetime cognitive enrichment on later-life cognitive outcomes are not comprehensively investigated. The aim of this study was to test the association of lifetime cognitive enrichment with Alzheimer disease (AD) dementia and cognitive decline and in an autopsied deceased subset to explore the association between lifetime enrichment and AD and related dementia (ADRD) pathologic indices and cognitive resilience that is, decline after adjusting for common ADRD pathologies.

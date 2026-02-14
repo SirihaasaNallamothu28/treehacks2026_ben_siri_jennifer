@@ -1,5 +1,7 @@
 PMID: 41671464
 Title: Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Kumar, Shaji K; Callander, Natalie S; Adekola, Kehinde; Anderson, Larry D; Baljevic, Muhamed; Baz, Rachid; Campagnaro, Erica; Costello, Caitlin; D'Angelo, Christopher; Derman, Benjamin; Devarakonda, Srinivas; Elsedawy, Noura; Godara, Amandeep; Godby, Kelly; Hillengass, Jens; Holmberg, Leona; Htut, Myo; Huff, Carol Ann; Hultcrantz, Malin; Kang, Yubin; Larson, Sarah; Lee, Hans C; Liedtke, Michaela; Martin, Thomas; Omel, James; Robinson, Timothy J; Rosenberg, Aaron; Sarosiek, Shayna R; Schroeder, Mark A; Sherbenou, Daniel; Suvannasankha, Attaya; Valent, Jason; Varshavsky-Yanovsky, Asya Nina; Vogl, Dan; Ye, Jing Christine; Kovach, Emily; Kumar, Rashmi
 
 Abstract:
 The treatment landscape for multiple myeloma (MM) is evolving rapidly and includes several new options. The management must be tailored to the individual. The NCCN Guidelines for MM provide a framework to base decisions regarding diagnosis, workup, treatment, and follow-up of both newly diagnosed and previously treated relapsed/refractory MM. This manuscript outlines the recommendations from NCCN Guidelines for MM specific to newly diagnosed MM (NDMM).

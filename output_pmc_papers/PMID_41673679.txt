@@ -1,5 +1,7 @@
 PMID: 41673679
 Title: Microbiota and Alzheimer's disease: mechanistic insights from a multi-organ perspective.
+Journal: Translational neurodegeneration
+Authors: Liao, Jiewen; Mou, Hanmeng; Luo, Shilin; Shen, Lu; Jiao, Bin
 
 Abstract:
 Alzheimer's disease (AD) is a progressive neurodegenerative disorder driven by multifactorial mechanisms. Increasing evidence suggests that dysbiosis, a term denoting an imbalance in the composition of the microbiota, may play a pivotal role in the pathogenesis of AD across multiple bodily sites, including the gut, oral cavity, nasal passages, lungs, and skin. Microbial imbalances may promote neuroinflammation, immune dysfunction, and metabolic disturbances through complex host-microbiota networks. This review synthesizes current advances in the understanding of microbiota-driven modulation of AD, introduces the "Multi-Axis Co-Regulation" concept, and evaluates microbial biomarkers for early diagnosis. Finally, the translational potential of microbiota-targeting interventions, including probiotics, dietary modulation, fecal microbiota transplantation, and oral microbiome-based therapies, are discussed, which represent novel strategies for precision prevention and treatment of AD.

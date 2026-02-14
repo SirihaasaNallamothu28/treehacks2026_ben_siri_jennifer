@@ -1,5 +1,7 @@
 PMID: 41681093
 Title: Establishment and Validation of a Risk Prediction Model for Early Postoperative Distant Metastasis in Patients With Medullary Thyroid Carcinoma.
+Journal: Annali italiani di chirurgia
+Authors: Zhu, Yizhou; Zheng, Weihui; Nie, Xilin; Shang, Jinbiao; Gu, Jialei
 
 Abstract:
 This study aimed to investigate risk factors for early postoperative distant metastasis in patients with medullary thyroid carcinoma (MTC) and to establish a risk prediction model.

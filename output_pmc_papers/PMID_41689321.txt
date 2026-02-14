@@ -1,0 +1,12 @@
+PMID: 41689321
+Title: Antidiabetic and Antihyperlipidaemic Effects of <em>Psidium Guajava</em> Leaf Extract in a Diabetic Rabbit Model.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Kumar, Gunesh; Ujjan, Ikram Din; Qazi, Nasreen; Shahani, Muhammad Yaqoob; Malhi, Rekha; Khan, Abdul Sattar
+
+Abstract:
+To determine the dose-dependent effects of the ethanolic leaf extract of Psidium (P.) guajava on diabetes and lipid profile in rabbits with alloxan-induced diabetes.
+An analytical and experimental study. Place and Duration of the Study: Department of Pharmacology, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan, from March 2021 to 2023.
+A total of 48 male rabbits were selected (aged 4-6 months) and randomly divided into six groups (n = 8): normal control, diabetic control, glibenclamide-treated (0.45 mg/kg/day), and P. guajava leaf extract-treated groups receiving 100, 150, and 200 mg/kg/day. Diabetes was induced by intraperitoneal injection of alloxan monohydrate (100 mg/kg). Blood glucose and lipid levels were measured at baseline and after the 28-day treatment period. Data were analysed using SPSS version 23.0. A paired t-test was used to compare the blood glucose levels and lipid profiles between the groups.
+A significant hypoglycaemic effect (p = 0.002) was observed at the 200 mg/kg dose, although the absolute reduction was modest. Dose-dependent improvements were observed in the lipid profile, including significant reductions in LDL (-2.87 mg/dL, p <0.001), triglycerides (-1.75 mg/dL, p = 0.013), and total cholesterol (-3.25 mg/dL, p = 0.009), alongside an increase in HDL (+0.87 mg/dL, p = 0.006) at the 200 mg/kg dose. Histopathological examination revealed that doses of 150-200 mg/kg protected against diabetes-induced renal and hepatic damage.
+ The P. guajava leaf extract exhibited significant antihyperlipidaemic and modest antihyperglycaemic properties at higher doses (150-200 mg/kg) and exhibited protective effects on the kidney and liver.
+Psidium guajava, Antidiabetic, Antihyperlipidaemic, Alloxan, Diabetes, Rabbits.

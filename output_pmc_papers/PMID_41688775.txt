@@ -1,5 +1,7 @@
 PMID: 41688775
 Title: Unveiling the therapeutic potential of Farnesol against Parkinson's disease: insights from molecular Docking and animal studies.
+Journal: Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences
+Authors: Baishya, Hirok Jyoti; Nargish, Jyutia; Sola, Piyong
 
 Abstract:
 Parkinson's disease (PD) is a chronic neurodegenerative disorder that progressively worsens over an individual's lifetime. Current treatments primarily address the symptoms rather than the underlying cause of the disease, and many patients report adverse side effects from the medications used. Nature offers a wealth of medicinal plants, among which Ocimum tenuiflorum stands out for its potential to treat various health issues.

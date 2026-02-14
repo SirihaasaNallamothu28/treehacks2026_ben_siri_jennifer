@@ -1,5 +1,7 @@
 PMID: 41686686
 Title: Utility of PAX1/JAM3 methylation analysis for triage of high-risk HPV-positive individuals.
+Journal: Laboratory medicine
+Authors: Guo, Qin; Wang, Huaguo; Diao, Xue; Liu, Yinghong; Chen, Yanling; Long, Qiyun; Liu, Zejiang; Qi, Xing; Lin, Sheng; Song, Xuhui
 
 Abstract:
 We sought to assess the clinical utility of methylation detection of paired box gene 1 (PAX1) and junctional adhesion molecule 3 (JAM3) in the triage of individuals testing positive for high-risk human papillomavirus (HPV).

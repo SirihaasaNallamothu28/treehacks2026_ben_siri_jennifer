@@ -1,5 +1,7 @@
 PMID: 41671454
 Title: Excision With Total Margin Control Versus Vertical Section Margin Assessment for NCCN Very High-Risk Cutaneous Squamous Cell Carcinoma.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Wang, David M; Ran, Nina A; Granger, Emily E; Koyfman, Shlomo; Vidimos, Allison; Wysong, Ashley; Carr, David R; Shahwan, Kathryn T; Hirotsu, Kelsey E; Carucci, John A; Carter, Joi B; Cañueto, Javier; Girardi, Fabio M; Mangold, Aaron R; Srivastava, Divya; Nijhawan, Rajiv I; Brodland, David G; Zitelli, John A; Willenbrink, Tyler J; Ruiz, Emily S
 
 Abstract:
 Among the 1.5 million cases of cutaneous squamous cell carcinoma (cSCC) diagnosed annually in the United States, a subset of aggressive tumors recur or metastasize. Treatment options include total margin-controlled surgery, such as Mohs micrographic surgery or other forms of peripheral and deep en face margin assessment (MMS/PDEMA), and standard excision with postoperative vertical section margin assessment (SEVMA). NCCN Guidelines recommend MMS/PDEMA for the management of cSCC classified as very high risk based on NCCN risk stratification criteria. This study aims to validate the recommendation of MMS/PDEMA as the preferred surgical approach for NCCN very high-risk cSCCs, using data from a multicenter, multinational cohort.

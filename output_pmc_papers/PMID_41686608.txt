@@ -1,5 +1,7 @@
 PMID: 41686608
 Title: Bibliometric analysis of cognitive impairment secondary to chronic kidney disease.
+Journal: Medicine
+Authors: Chen, Yanran; Zhu, Ruiting; Zhu, Xinyi; Zhu, Qiange; Luo, Zhaoyao; Mu, Junya; Zhang, Ming; Ma, Shaohui
 
 Abstract:
 Cognitive impairment (CI) is a common complication in chronic kidney disease (CKD) patients, affecting 10% to 50% of individuals depending on disease stage. Despite its clinical significance, the molecular mechanisms remain unclear, and effective interventions are lacking. This bibliometric analysis aimed to comprehensively map the research landscape of CI secondary to CKD from 1995 to 2024, identifying trends, key contributors, and evolving foci.

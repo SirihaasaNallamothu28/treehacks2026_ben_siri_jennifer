@@ -1,5 +1,7 @@
 PMID: 41685442
 Title: Cerebrovascular regulation dynamics and Alzheimer's neuroimaging phenotypes.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Tsiknia, Amaryllis A; Terner, Jamie A; Tsokolas, Zoe E; Shin, Dae C; Joe, Elizabeth B; Conti, Peter S; Lepping, Rebecca J; Kelley, Brendan J; Zhang, Rong; Billinger, Sandra A; Chui, Helena C; Marmarelis, Vasilis Z; Braskie, Meredith N
 
 Abstract:
 Cerebrovascular dysfunction may contribute to Alzheimer's disease (AD) pathogenesis. We examined how novel cerebral hemodynamic markers relate to neuroimaging phenotypes associated with AD dementia in cognitively impaired and unimpaired older adults.

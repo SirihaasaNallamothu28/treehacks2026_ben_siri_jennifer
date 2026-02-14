@@ -1,5 +1,7 @@
 PMID: 41685432
 Title: Same Day Discharge After Prostatectomy for Prostate Cancer and Readmissions.
+Journal: Cancer medicine
+Authors: Dall, Christopher P; Liu, Xiu; Leick, Sarah J; Chachlani, Preeti; Faraj, Kassem S; Srivastava, Arnav; Kaufman, Samuel R; Shahinian, Vahakn B; Hollenbeck, Brent K
 
 Abstract:
 Same-day discharge following radical prostatectomy has become increasingly common, with single-institution series suggesting it reduces healthcare costs without increasing adverse events. However, this practice has not been studied nationally, outside of specialized centers. This study assesses 30-day readmissions, observation stays, and emergency department visits among men with prostate cancer undergoing prostatectomy.

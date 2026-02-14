@@ -1,5 +1,7 @@
 PMID: 41685252
 Title: Anatomical evidence links the stomach to the central amygdala, a region responsive to local GLP-1R agonist induced feeding and nausea-like behaviors in male mice.
+Journal: Frontiers in endocrinology
+Authors: Yang, Hui; Yu, Wenxiang; Gao, Yunling; Wang, Jie; Xu, Shaoyong
 
 Abstract:
 The glucagon-like peptide-1 receptor (GLP-1R) agonist liraglutide is an effective therapeutic agent for obesity, primarily through its ability to suppress appetite and delay gastric emptying. However, the central neural substrates mediating its effects on food intake remain incompletely defined.

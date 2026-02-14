@@ -1,5 +1,7 @@
 PMID: 41678513
 Title: Prefrontal cortex connectivity during right and left hand dexterity tests in younger and older adults.
+Journal: PloS one
+Authors: Kulkarni, Manjiri; Rassam, Peter; Mouseli, Pedram; Date, Monisha; Mori, Tamires; Van Hollebeke, Marine; Campos, Jennifer L; Rozenberg, Dmitry; Reid, W Darlene
 
 Abstract:
 Age can negatively impact activation and connectivity among prefrontal cortex (PFC) regions during demanding motor functions, such as hand dexterity tasks. The study objective was to compare functional connectivity between PFC regions during right and left-hand 9-hole peg tests (R9HPT and L9HPT) in younger versus older adults.

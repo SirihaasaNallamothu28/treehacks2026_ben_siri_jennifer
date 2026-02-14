@@ -1,5 +1,7 @@
 PMID: 41671441
 Title: Assessing the Content and Quality of Online Patient Education Material on Clinical Trials From NCI-Designated Comprehensive Cancer Centers.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Beard, Trista A; Morales, Diana L; Arshaid, Alena; Desai, Charmi Suchi; Solomon, Welela; Sharief, Aali; Villanueva, Isabella; Sanogo, Fatimata; El-Khoueiry, Anthony B; Stern, Mariana C; Hughes Halbert, Chanita
 
 Abstract:
 Online patient educational material (PEM) on cancer clinical trials (CCTs) is an essential resource for patients seeking to learn more about treatment options. Assessing its quality and content themes may lead to improved educational content. Using qualitative analysis, this study examined the quality and content themes of online PEM related to CCTs published by comprehensive cancer centers (CCCs).

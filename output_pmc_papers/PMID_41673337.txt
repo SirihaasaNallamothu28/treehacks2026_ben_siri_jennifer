@@ -1,5 +1,7 @@
 PMID: 41673337
 Title: Work challenges and cancer-related cognitive impairment: level of education accounts for unmet needs beyond cognitive impairment severity.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Haywood, Darren; Rossell, Susan L; Henneghan, Ashley; Baughman, Frank D; Haywood, Jennifer; Dauer, Evan; Hegde, Annika; Moustafa, Ahmed A; Hart, Nicolas H
 
 Abstract:
 Cancer-related cognitive impairment (CRCI) can impact cancer survivors' return to work and occupational functioning for many years following the completion of cancer treatment. Understanding the characteristics of CRCI-related occupational difficulties and unmet supportive care needs is critical for the development of effective interventions. Within occupational roles, a higher level of education is typically associated with greater cognitive load and different demands. The objective of this study was to examine whether the level of education accounted for CRCI-related (a) occupational difficulties and (b) occupational unmet supportive care needs, beyond the contributions of perceived cognitive functioning and employment level.

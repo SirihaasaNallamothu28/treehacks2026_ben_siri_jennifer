@@ -1,5 +1,7 @@
 PMID: 41678194
 Title: PREVENT Equation Performance in Asian and Native Hawaiian and Other Pacific Islander Groups.
+Journal: JAMA network open
+Authors: Au, Michael; Zhang, Yiyi; Zhou, Matt M; Choi, Soon Kyu; Zhou, Hui; Harrison, Teresa N; Mefford, Matthew T; Lee, Ming-Sum; Yang, Eugene; Shah, Nilay S; Reynolds, Kristi; An, Jaejin
 
 Abstract:
 In 2023, the PREVENT (Predicting Risk of CVD Events) equations were introduced to estimate 10-year risk of total cardiovascular disease (CVD). However, their accuracy in individual Asian or Native Hawaiian and Other Pacific Islander ethnic groups remains unknown.

@@ -1,5 +1,7 @@
 PMID: 41672493
 Title: Feasibility and Acceptability of Collaborative Augmented Reality for Older Adults and Companions: Protocol for a Randomized Controlled Trial.
+Journal: JMIR research protocols
+Authors: Sarkar, Nilanjan; Tate, Judith A; Tauseef, Mahrukh; Ullal, Akshith; Maxwell, Cathy A; Juckett, Lisa A; Scharre, Douglas W; Tan, Alai; Zhang, Rendong; Ingram, Zalen; Mion, Lorraine C
 
 Abstract:
 Loneliness and social isolation are common among older adults and are associated with dire consequences. Studies using interactive communication technology (ICT) interventions with older adults have yielded mixed results. Advancements in collaborative head-mounted display augmented reality (HMD-AR) can provide older adults who are geographically distant from their families with a more diverse range of interactive activities, thus offering greater potential to enhance social connection.

@@ -1,5 +1,7 @@
 PMID: 41685931
 Title: Rapid and Accurate Diagnosis of Breast Cancer by Fine-Needle Aspiration Biopsy Using the "Click-to-Sense" Method.
+Journal: Cancer medicine
+Authors: Kitahara, Yuri; Tanei, Tomonori; Hatano, Takaaki; Pradipta, Ambara R; Morimoto, Koji; Nagatomo, Tadasuke; Abe, Kaori; Masunaga, Nanae; Mishima, Chieko; Yoshinami, Tetsuhiro; Tsukabe, Masami; Sota, Yoshiaki; Miyake, Tomohiro; Shimoda, Masafumi; Motoyama, Yuichi; Morii, Eiichi; Tanaka, Katsunori; Shimazu, Kenzo
 
 Abstract:
 We have previously demonstrated the value of the "click-to-sense" (CTS) assay, in which a fluorescent probe targeting acrolein can detect cancer cells and differentiate between malignant and benign lesions in breast tissue. In this study, we assessed the usefulness of the CTS assay for diagnosis of breast tumors by fine-needle aspiration biopsy (FNAB).

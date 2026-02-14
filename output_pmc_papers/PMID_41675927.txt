@@ -1,5 +1,7 @@
 PMID: 41675927
 Title: Analysis of prognostic risk factors and risk management measures for patients with ischemic stroke and bloodstream infection based on machine learning.
+Journal: Frontiers in cellular and infection microbiology
+Authors: Li, Xiaojun; Liang, Zhihui; Zhang, Aiyu; Lai, Shaoqin; Duan, Yan; Mei, Chuangchuang; Hong, Xiaojing; Cai, Donghao; Huang, Taoyuan
 
 Abstract:
 Through the machine learning Least absolute shrinkage and selection operator (LASSO) algorithm, the system screened core prognostic risk factors for patients with ischaemic stroke and bloodstream infection, constructed and validated a predictive model, provides a basis for formulating precise risk management strategies in clinical practice.

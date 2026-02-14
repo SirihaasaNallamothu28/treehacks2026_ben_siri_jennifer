@@ -1,5 +1,7 @@
 PMID: 41688191
 Title: [Role of glucose transporter 4 in the pathogenesis of diabetic cardiomyopathy].
+Journal: Zhonghua xin xue guan bing za zhi
+Authors: Aheniyazi, Aliyanmu; Liu, F; Jiang, H Y; Yang, Y N
 
 Abstract:
 

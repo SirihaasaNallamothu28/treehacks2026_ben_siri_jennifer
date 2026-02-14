@@ -1,5 +1,7 @@
 PMID: 41674923
 Title: Gut Microbiota-Derived Metabolites Regulate CASP3 and Neuroimmune Pathways in Multiple Sclerosis: An Integrative Multiomics Study.
+Journal: Mediators of inflammation
+Authors: Liu, Hongwei; Ye, Zhinan; Xu, Wenbin
 
 Abstract:
 Multiple sclerosis (MS) is a chronic autoimmune disease of the central nervous system, closely associated with neuroinflammation, immune dysregulation, and gut microbiota imbalance. Gut microbiota-derived metabolites may modulate key targets involved in MS pathogenesis.

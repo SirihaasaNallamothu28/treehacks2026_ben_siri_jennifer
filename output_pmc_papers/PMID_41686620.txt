@@ -1,5 +1,7 @@
 PMID: 41686620
 Title: The effect of methylene blue infiltrating injection on anal pain after Milligan-Morgan surgery: A randomized controlled clinical study.
+Journal: Medicine
+Authors: Zhu, Jing; Deng, Heng; Li, Ming; Tang, Kun
 
 Abstract:
 To investigate the efficacy and safety of methylene blue infiltrating injection (MBI) in alleviating postoperative pain following hemorrhoidectomy.

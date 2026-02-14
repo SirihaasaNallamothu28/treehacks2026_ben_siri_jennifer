@@ -1,5 +1,7 @@
 PMID: 41687049
 Title: Performance of the 2024 McDonald Criteria in Patients Under Evaluation for Suspected Multiple Sclerosis.
+Journal: Neurology
+Authors: Brownlee, Wallace J; Maccarrone, Davide; Nistri, Riccardo; Yam, Charmaine; Wilson, Heather; Wright, Sarah; Mankad, Kshitij; Hemingway, Cheryl; Thompson, Alan J; Hacohen, Yael; Toosy, Ahmed T; Ciccarelli, Olga
 
 Abstract:
 The 2024 McDonald criteria provide new recommendations for multiple sclerosis (MS) diagnosis, but validation of the criteria is lacking. We wanted to investigate the application and performance of the 2024 McDonald criteria in patients with suspected MS seen in routine clinical practice.

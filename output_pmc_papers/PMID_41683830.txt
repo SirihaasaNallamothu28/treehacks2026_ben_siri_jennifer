@@ -1,0 +1,7 @@
+PMID: 41683830
+Title: Orforglipron: A Comprehensive Review of an Oral Small-Molecule GLP-1 Receptor Agonist for Obesity and Type 2 Diabetes.
+Journal: International journal of molecular sciences
+Authors: Kansakar, Urna; Jankauskas, Stanislovas S; Pande, Shivangi; Mone, Pasquale; Varzideh, Fahimeh; Santulli, Gaetano
+
+Abstract:
+Orforglipron (LY3502970) is a novel, orally available, nonpeptide glucagon-like peptide-1 receptor agonist (GLP-1 RA) designed to replicate the efficacy of injectable GLP-1 RAs for glycemic control and weight reduction while improving convenience and adherence. Preclinical studies have demonstrated potent receptor engagement, favorable pharmacokinetics, and central nervous system activity. Phase 1-3 clinical trials have shown significant reductions in glycated hemoglobin (HbA1c), fasting and postprandial glucose, body weight, and cardiovascular risk biomarkers, with an acceptable safety profile. This comprehensive review integrates pharmacological, clinical, and mechanistic evidence, critically evaluates the data, identifies knowledge gaps, and outlines future directions for orforglipron in the treatment of type 2 diabetes and obesity.

@@ -1,5 +1,7 @@
 PMID: 41678369
 Title: Sleep, Depressive Symptoms, and Quality of Life Among Women With Newly Diagnosed Breast Cancer: Baseline Results From the AMBER Cohort Study.
+Journal: Cancer medicine
+Authors: Yang, Lin; Tayyab, Temoor; Kokts-Porietis, Renée L; Wang, Qinggang; McNeil, Jessica; Matthews, Charles E; Dickau, Leanne; Vallance, Jeff K; McNeely, Margaret L; Culos-Reed, S Nicole; Kopciuk, Karen A; Courneya, Kerry S; Friedenreich, Christine M
 
 Abstract:
 Sleep problems are common among breast cancer survivors and are associated with poor quality of life. However, few studies have considered whether depressive symptoms confound or modify this association. This study evaluates whether depressive symptoms attenuate the association between sleep and quality of life in newly diagnosed breast cancer survivors.

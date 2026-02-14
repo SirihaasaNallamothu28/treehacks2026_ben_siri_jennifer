@@ -1,0 +1,8 @@
+PMID: 41685419
+Title: Microscopic white matter changes in the cingulum contribute to memory impairment among older adults with obstructive sleep apnea in the memory clinic.
+
+Abstract:
+Obstructive sleep apnea (OSA) is prevalent in memory clinic patients and is associated with learning and memory deficits. In a memory clinic sample, we investigated the relationship between memory-related white matter pathways and OSA.
+Eighty-two participants (mean age 67.0) underwent neuropsychological testing and neuroimaging. Fixel-based white matter analyses were conducted in the anterior thalamic radiation (ATR), cingulum, uncinate fasciculus (UF), and fornix. Oxygen desaturation index (ODI) from overnight polysomnography classified participants as controls (ODI < 5, n = 26), mild OSA (ODI 5-14, n = 32), or moderate and severe OSA (ODI ≥ 15, n = 24).
+In mild OSA, white matter changes were seen in the ATR, UF, and fornix. In moderate and severe OSA, alterations were observed in the cingulum and fornix. Cingulum changes were linked to poorer verbal learning and memory.
+OSA is associated with disrupted memory-related pathways. Cingulum changes are associated with memory performance in moderate and severe cases.

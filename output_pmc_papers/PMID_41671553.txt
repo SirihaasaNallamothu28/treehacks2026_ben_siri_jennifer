@@ -1,5 +1,7 @@
 PMID: 41671553
 Title: User Profiles and Engagement in a Hypertension Self-Management App: Cross-Sectional Survey.
+Journal: Journal of medical Internet research
+Authors: Muehlensiepen, Felix; May, Susann; Seifert, Frances; Wengemuth, Eileen; Johannsen, Olen; Middeke, Martin; Heinze, Martin; Petit, Pascal; Vuillerme, Nicolas; Spethmann, Sebastian; Bruch, Dunja
 
 Abstract:
 Mobile health (mHealth) technologies can improve hypertension self-management, yet real-world adoption remains limited and unequally distributed.

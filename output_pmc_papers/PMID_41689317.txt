@@ -1,5 +1,7 @@
 PMID: 41689317
 Title: Implications of Fatty Acid Metabolism Genes on the Prognostic Landscape of Neuroblastoma: Integration of Genetic and Immune Profiles.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Li, Xin; Jin, Hao
 
 Abstract:
 To explore the impact of fatty acid metabolism genes on the prognosis of neuroblastoma and identify potential therapeutic targets.

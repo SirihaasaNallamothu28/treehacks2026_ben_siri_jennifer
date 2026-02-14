@@ -1,5 +1,7 @@
 PMID: 41685048
 Title: Deconvoluting the Electrophysiological Signatures of Myocardial Ischemia using a Validated Machine Learning Framework.
+Journal: F1000Research
+Authors: Mahmood, Ahmad; Jacqueline, Kiel; Lac, Joanne
 
 Abstract:
 Myocardial ischemia is a dynamic, complex process characterized by hyperkalemia, acidosis, and ATP depletion. While these three conditions alter cardiomyocyte electrophysiology, it is difficult to discern how much each one individually contributes to the resulting changes in action potential (AP). In this study, we test whether machine learning can deconvolute these distinct ischemic patterns within a single AP.

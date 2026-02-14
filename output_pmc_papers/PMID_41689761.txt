@@ -1,5 +1,7 @@
 PMID: 41689761
 Title: Acceptance testing of a 0.35 T MR-Linac: procedures, QA baseline, and system limitations.
+Journal: Journal of applied clinical medical physics
+Authors: Khalifa, Mateb Al; Ma, Tianjun; Aljuaid, Haya; Kim, Siyong; Song, William Y
 
 Abstract:
 This study describes and evaluates the acceptance procedure for a ViewRay (VR) MRIdian 0.35T MR-Linac, emphasizing key challenges, limitations, and recommendations to enhance clinical performance and accuracy.

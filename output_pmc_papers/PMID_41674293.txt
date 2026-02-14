@@ -1,0 +1,10 @@
+PMID: 41674293
+Title: Two-Step MRI and Clinical Model for Detecting At-Risk Steatohepatitis in Metabolic Liver Disease.
+Journal: Liver international : official journal of the International Association for the Study of the Liver
+Authors: Li, Mingkai; Chen, Zebin; Chen, Haimei; Zong, Xiaodan; Ren, Yuexiang; Yu, Hongsheng; Lin, Weichun; Chen, Jianning; Yang, Yidong; Luo, Qingtian; Hu, Fulan; Wu, Bin
+
+Abstract:
+Identifying at-risk metabolic dysfunction-associated steatohepatitis (MASH with ≥ stage 2 fibrosis) is critical. While the steatosis-associated fibrosis estimator (SAFE) score effectively stages significant fibrosis (≥ stage 2 fibrosis) and the MR-MASH score detects MASH, their combined performance remains unclear.
+This two-part study evaluated serial combinations of non-invasive tests for at-risk MASH in clinical and population-based settings. In part 1, we analysed 286 patients with metabolic dysfunction-associated steatotic liver disease (MASLD) from an Asian center with biopsy-proven diagnoses. Four two-step strategies were compared. In part 2, 495 MASLD patients from the UK Biobank with corrected T1 values were used to validate selected strategies.
+In part 1, the combination of SAFE followed by the MR-MASH for at-risk MASH (strategy A) showed higher accuracy than SAFE followed by FibroScan-AST (FAST) score and FIB-4 followed by FAST (87.8% vs. 69.1% and 71.2%, both p < 0.01) and similar misclassification rates (10.1% vs. 11.5% and 11.5%, both p = 0.83). Compared with Fibrosis-4 followed by magnetic resonance-based model (strategy B), strategy A had a higher accuracy (88.5% vs. 83.9%, p < 0.01) and a lower misclassification rate (9.1% vs. 12.9%, p < 0.01). In part 2, strategy A maintained a high negative predictive value (99.7%) and showed lower misclassification than strategy B (3.6% vs. 5.7%, p = 0.03), with similar accuracy (82.6% vs. 82.0%, p = 0.74) and indeterminate rates (13.7% vs. 12.3%, p = 0.19).
+Serial combination of SAFE and MR-MASH performs well in predicting at-risk MASH.

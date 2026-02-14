@@ -1,5 +1,7 @@
 PMID: 41684311
 Title: [Late-onset sequel states of poliomyelitis (postpolyomelitic syndrome)].
+Journal: Revista espanola de salud publica
+Authors: Rodríguez de Rivera Garrido, Francisco Javier
 
 Abstract:
 Poliomyelitis remains a Public Health challenge in countries with low vaccination coverage and outbreaks of vaccine-derived polioviruses. The aim of this paper was to review the current evidence on post-polio syndrome (PPS), including its pathophysiological basis, clinical manifestations, diagnostic criteria, and current therapeutic approaches.

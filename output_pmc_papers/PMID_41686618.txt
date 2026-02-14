@@ -1,5 +1,7 @@
 PMID: 41686618
 Title: Effectiveness of repeated ultrasound-guided suprascapular nerve blocks in hemiplegic shoulder pain: A randomized controlled trial.
+Journal: Medicine
+Authors: Dogan, Alper T; Pekin Dogan, Yasemin; Aytekin, Ebru; Sogut, Selman; Gokkaya, Zafer; Tumer, Murat; Ercelen, Omur; Gurkan, Yavuz
 
 Abstract:
 Hemiplegic shoulder pain (HSP) is a common complication after stroke, significantly impairing rehabilitation. While suprascapular nerve block (SSNB) has shown promise in pain management, its long-term efficacy, especially with repeated applications, remains unclear.

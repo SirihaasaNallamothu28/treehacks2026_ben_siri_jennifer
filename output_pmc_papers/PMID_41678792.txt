@@ -1,5 +1,7 @@
 PMID: 41678792
 Title: Effectiveness of Educational Videos in Encouraging Preferences for Guideline-Based Cancer Screening in Japan: Three-Arm Pseudorandomized Controlled Trial.
+Journal: Journal of medical Internet research
+Authors: Sakai, Kosuke; Furuya, Yuko; Nakazawa, Shoko; Fukai, Kota; Sano, Kei; Tatemichi, Masayuki
 
 Abstract:
 Although cancer screening is essential for early detection and an improved prognosis, screening beyond the recommended guidelines may increase the risk of false-positive results. Consequently, educating individuals about the potential harm of non-guideline-based cancer screening is essential; however, effective communication methods remain unclear.

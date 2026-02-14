@@ -1,5 +1,7 @@
 PMID: 41683289
 Title: Dietary Nutrients, Gut Microbiota, and Cardiac Function: From Metabolic Mechanisms to Clinical Applications.
+Journal: Nutrients
+Authors: Scisciola, Lucia; Basilicata, Manuela Giovanna; Belmonte, Marta; Pesapane, Ada; Fontanella, Rosaria Anna; Balzano, Nunzia; Palazzo, Alberta Maria Maddalena; Joshi, Rashmi; Zia, Asad; Tortorella, Giovanni; Ulfat, Zeeshan; Arshad, Maryam; Paolisso, Giuseppe
 
 Abstract:
 The heart depends on a continuous and flexible energy supply from fatty acids, glucose, and other substrates. Emerging evidence shows that gut microbiota-derived metabolites-such as trimethylamine-N-oxide (TMAO), short-chain fatty acids (SCFAs), secondary bile acids, indoles, phenylacetylglutamine (PAGln), and branched-chain amino acids-modulate cardiac metabolism and function. Although clinical evidence linking these metabolites to cardiovascular outcomes is expanding, most data remain associative, with limited causal or interventional proof.

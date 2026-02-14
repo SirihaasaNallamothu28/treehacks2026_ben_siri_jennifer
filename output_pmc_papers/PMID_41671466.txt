@@ -1,5 +1,7 @@
 PMID: 41671466
 Title: Ovarian Function Suppression in HR-Positive, HER2-Positive Breast Cancer: An Exploratory Analysis of the HERA Trial.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Bae, Soong June; Moon, Sohyun; Kook, Yoonwon; Baek, Seung Ho; Lee, Minji; Jeong, Joon; Ahn, Sung Gwe
 
 Abstract:
 Data on the effectiveness of ovarian function suppression (OFS) in premenopausal patients with hormone receptor (HR)-positive, HER2-positive breast cancer are sparse. We investigated the prognostic impact of incorporating OFS in premenopausal women with HER-positive, HR-positive breast cancer, drawing on data from the HERceptin Adjuvant (HERA) trial.

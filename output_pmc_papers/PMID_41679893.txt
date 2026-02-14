@@ -1,5 +1,7 @@
 PMID: 41679893
 Title: Influence of oncostatin M and leukemia inhibitor factor on sarcopenia in individuals with cancer and malnutrition.
+Journal: Endocrinologia, diabetes y nutricion
+Authors: de Luis, Daniel; Primo, David; Izaola, Olatz; López Gómez, Juan José
 
 Abstract:
 Oncostatin-M (OSM) and leukemia inhibitor factor (LIF) have shown relationship with muscle catabolism in Disease Related Malnutrition (DRM). We aimed to investigate the role of OSM and LIF in sarcopenia among patients with cancer and DRM.

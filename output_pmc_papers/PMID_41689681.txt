@@ -1,5 +1,7 @@
 PMID: 41689681
 Title: Consolidation reduced-dose whole-brain radiation therapy with response-adapted boost in older patients with newly diagnosed primary central nervous system lymphoma.
+Journal: Journal of neuro-oncology
+Authors: Yamashita, Shota; Kanamori, Masayuki; Kubozono, Masaki; Shimoda, Yoshiteru; Endo, Hidenori; Yamashita, Yoji
 
 Abstract:
 Primary central nervous system lymphoma (PCNSL) is relatively common among elderly patients, for whom survival outcomes remain limited and treatment-related decline in functional status is a major concern. This study evaluated the efficacy and functional preservation of reduced-dose whole-brain radiotherapy (WBRT) followed by a response-adapted focal boost as consolidation therapy for PCNSL, with a focus on elderly patients.

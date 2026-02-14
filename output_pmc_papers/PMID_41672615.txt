@@ -1,5 +1,7 @@
 PMID: 41672615
 Title: [Advances in Application of Artificial Intelligence for Breast Cancer Radiotherapy].
+Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+Authors: Chen, Rongyao; Liang, Yuting; Shi, Junyue
 
 Abstract:
 Breast cancer is a highly prevalent malignant tumor among women worldwide, posing a serious threat to women's health, and radiotherapy plays a key role in its comprehensive treatment process. With the rapid development of artificial intelligence (AI) technology, its application in the field of breast cancer radiotherapy has been expanding, especially with deep learning as the representative technical means, which has brought new opportunities for enhancing radiotherapy accuracy and optimizing radiotherapy plans. Existing researches demonstrate that AI technology plays a crucial role in medical image processing and automated radiotherapy planning for breast cancer radiotherapy. By systematically reviewing relevant research findings and practical advancements while identifying key technical challenges, this paper will provide effective support for the deep integration and development of AI and breast cancer radiotherapy.

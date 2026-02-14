@@ -1,5 +1,7 @@
 PMID: 41686995
 Title: Mapping the Landscape, Knowledge Gaps, and Areas for Innovation in Brain Health and Dementia Research in Canada: Protocol for a Scoping Review of Reviews.
+Journal: JMIR research protocols
+Authors: Bacsu, Juanita-Dawne; Mero, Kiana; O'Connell, Megan E; Funk, Megan; Ménard, Alixe; Norman, Myrna; Blackstock, Sheila; Mann, Jim; Hulko, Wendy; D'Souza, Melba Sheila; Fraser, Sarah
 
 Abstract:
 Dementia is one of Canada's most pressing public health challenges, with rates expected to surge in response to the country's aging population. Given the rapidly growing issue of dementia, understanding national research efforts is critical to prioritizing and advancing strategic directions in brain health and dementia research. Recently, the Canadian Institutes of Health Research awarded a 1-year funding grant from the Brain Health and Cognitive Impairment in Aging Research Initiative to map the scope of brain health and dementia research in Canada.

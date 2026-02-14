@@ -1,5 +1,7 @@
 PMID: 41689214
 Title: Understanding cognitive dysfunction in depression: perspectives and practices of UK health and social care professionals, a qualitative study.
+Journal: BMJ open
+Authors: Akhtar, Amirah; Nwofe, Emmanuel; Shafiq, Shabana; Parveen, Sahdia; Windle, Karen
 
 Abstract:
 To explore how health and social care professionals (HSCPs) in the UK conceptualise and respond to cognitive dysfunction in depression, including its potential long-term implications for brain health and dementia risk.

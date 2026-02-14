@@ -1,5 +1,7 @@
 PMID: 41672949
 Title: Impact of Biologics on Cardiovascular Events in Ankylosing Spondylitis: A Meta-Analysis.
+Journal: International journal of rheumatic diseases
+Authors: Yin, Huijiao; Wang, Yingying; Chen, Zhongqin; Zhu, Yuhua; Lu, Wenyi; Huang, Kui
 
 Abstract:
 This meta-analysis aimed to explore the impact of biologics on the development of cardiovascular events (CEs) in patients with ankylosing spondylitis (AS).

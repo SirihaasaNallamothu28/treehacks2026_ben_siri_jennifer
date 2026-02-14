@@ -1,5 +1,7 @@
 PMID: 41677086
 Title: Positive Psychology Interventions in Patients With Prostate Cancer: A Systematic Review.
+Journal: Cancer reports (Hoboken, N.J.)
+Authors: Xu, Eleanor; Phung, Quan H; Runcie, Karie; Liu, Michael A
 
 Abstract:
 Prostate cancer is the most common malignancy in men and may often result in psychiatric symptoms due to the direct disease effects, hormonal treatments, functional losses, and psychological responses of patients to the cancer. Positive psychology interventions have shown promise in alleviating psychological symptoms in patients with chronic diseases but are infrequently studied in patients with prostate cancer.

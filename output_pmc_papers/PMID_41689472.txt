@@ -1,5 +1,7 @@
 PMID: 41689472
 Title: Surgical Outcome of Supra-Valvular Aortic Stenosis: A 50-Year Single-Centre Experience.
+Journal: European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery
+Authors: Schaeffer, Thibault; Bellastrada, Tommaso; Kienmoser, Doris; Matsubara, Muneaki; Palm, Jonas; Lemmen, Teresa; Piber, Nicole; Heinisch, Paul Philipp; Hager, Alfred; Ewert, Peter; Hörer, Jürgen; Ono, Masamichi
 
 Abstract:
 This study aimed to evaluate and compare the long-term outcomes of 3 different surgical techniques (McGoon, Doty, and Brom) for supra-valvular aortic stenosis (SVAS) and to identify the risk factors affecting mortality and morbidity.

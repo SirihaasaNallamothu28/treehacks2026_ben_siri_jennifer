@@ -1,5 +1,7 @@
 PMID: 41674486
 Title: Characterizing forearm skeletal muscle composition and function in breast cancer-related lymphedema using B-mode ultrasonography.
+Journal: Clinical physiology and functional imaging
+Authors: Whyte, Jesse; Towers, Anna; Boily, Mathieu; Rosenthall, Leonard; Rivaz, Hassan; Kilgour, Robert D
 
 Abstract:
 Skeletal muscle thickness, echo intensity, and quality are important morphological properties; however, little is known how these variables compare between the affected and unaffected forearms in breast cancer-related lymphedema (BCRL).

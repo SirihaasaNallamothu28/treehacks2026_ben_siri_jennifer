@@ -1,5 +1,7 @@
 PMID: 41679927
 Title: The geometric accuracy of off-axis targets in stereotactic body radiotherapy treatments across three linear accelerators.
+Journal: Journal of applied clinical medical physics
+Authors: Chinnaiya, Dinesan; Mudhana, Gopinath
 
 Abstract:
 This study quantifies isocenter and off-axis geometric uncertainties using MultiMet Winston-Lutz (WL) tests to optimize gross tumour volume (GTV)-to-PTV (planning target volume) margin for single isocenter multiple target (SIMT) stereotactic body radiotherapy (SBRT) across three linear accelerators.

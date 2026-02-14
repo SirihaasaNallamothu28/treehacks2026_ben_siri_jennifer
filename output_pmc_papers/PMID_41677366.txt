@@ -1,5 +1,7 @@
 PMID: 41677366
 Title: Evaluation of Malignant Predictive in Pancreatic Intraductal Papillary Mucinous Neoplasm Using Diffusion-weighted Imaging and Apparent Diffusion Coefficient Values: A Comparative Analysis With Histopathology.
+Journal: Pancreas
+Authors: Ujita, Wataru; Nakahodo, Jun; Suzuki, Mizuka; Horiguchi, Shin-Ichiro; Chiba, Kazuro; Tabata, Hiroki; Iizuka, Toshiro; Kamisawa, Terumi; Igarashi, Yoshinori; Matsuda, Takahisa
 
 Abstract:
 Differentiating benign and malignant intraductal papillary mucinous neoplasms (IPMNs) can facilitate optimal clinical management. However, the current high-risk stigmata (HRS) criteria lack specificity. In this study, we aim to evaluate the diagnostic accuracy of diffusion-weighted imaging (DWI) and apparent diffusion coefficient (ADC) values, which are reported to improve diagnostic accuracy, for distinguishing benign and malignant IPMNs.

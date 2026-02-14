@@ -1,5 +1,7 @@
 PMID: 41671436
 Title: A Prospective Validation of the Decipher Genomic Classifier in Men With Early Localized Prostate Cancer: The VANDAAM Study.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Yamoah, Kosj; Trivedi, Purvish; Awasthi, Shivanshu; Grass, G Daniel; Torres-Roca, Javier; Johnstone, Peter A; Dhillon, Jasreman; Park, Jong Y; Davicioni, Elai; Hakansson, Alexander; Liu, Yang; Fink, Angelina K; Katende, Esther; Smith, Riley; Putney, Ryan; Poch, Michael; Li, Roger; Manley, Brandon; Fernandez, Daniel; Gage, Kenneth; Ferguson, Keith; Lu-Yao, Grace; Kim, Youngchul; Katsoulakis, Evangelia; Leone, Andrew; Vapiwala, Neha; Deville, Curtiland; Rebbeck, Timothy R; Dicker, Adam P; Kelly, William; Yin, Vivien; Burri, Ryan J; Ercole, Cesar E; Pow-Sang, Julio
 
 Abstract:
 The emergence of genomic precision oncology has advanced personalized care for some patients with prostate cancer (PCa), while threatening to widen existing disparities due to the historically low recruitment of African American men (AAM), who have the highest disease burden. Here, we report the first prospective validation of a genomic classifier (GC) to predict rapid-onset biochemical recurrence (BCR) in AAM.

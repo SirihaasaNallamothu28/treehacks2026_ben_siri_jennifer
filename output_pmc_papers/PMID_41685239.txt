@@ -1,0 +1,10 @@
+PMID: 41685239
+Title: Machine learning model based on routine blood and biochemical parameters for early diagnosis of diabetic kidney disease.
+Journal: Frontiers in endocrinology
+Authors: Yong, Wei; Peng, Dan-Dan; Ye, Kai; Gao, Jun-Jie; Cao, Ruo-Xue
+
+Abstract:
+Diabetic kidney disease (DKD) is the leading cause of end-stage renal disease globally, yet early diagnosis remains challenging due to conventional biomarker limitations, including UACR variability and reduced eGFR sensitivity. While machine learning shows promise in diabetes prediction, its application to early DKD identification using routine parameters remains underexplored. This study aimed to develop and validate machine learning models incorporating routine blood and biochemical parameters for early DKD prediction.
+This retrospective study analyzed 3,114 diabetic patients from the Second Affiliated Hospital of Wannan Medical College (EDN1) and 1,496 patients from NHANES 2005-2018 (EDN2) for external validation. Early DKD was defined as UACR 30-300 mg/g with eGFR ≥60 ml/min/1.73m². Seven machine learning algorithms were compared. Feature importance was assessed using SHAP framework, and Mendelian randomization explored causal relationships.
+Among 3,114 patients, 1,333 (42.8%) had early DKD. Logistic regression achieved optimal performance (AUC = 0.689, sensitivity=40.5%, specificity=81.3%). Top predictors included triglyceride-glucose index (TyG), gender, creatinine, globulin, and age. External validation confirmed significant associations for HbA1c, globulin, TyG, and neutrophil-to-albumin ratio.
+The machine learning model successfully identified early DKD using routine parameters, with TyG index, HbA1c, and globulin as key predictors, demonstrating potential as a cost-effective screening tool.

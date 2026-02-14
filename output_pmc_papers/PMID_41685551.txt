@@ -1,5 +1,7 @@
 PMID: 41685551
 Title: Classification of tauopathies from human brain homogenates through salt-modulated tau amplification.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Santambrogio, Alessia; Metrick, Michael A; Xu, Peifeng; Gallagher, Nicholas C T; Koga, Shunsuke; Ghetti, Bernardino; Dickson, Dennis W; Caughey, Byron; Vendruscolo, Michele
 
 Abstract:
 Tauopathies are a heterogeneous group of neurodegenerative disorders defined by abnormal aggregation of tau protein. Although cryogenic electron microscopy (cryo-EM) has uncovered disease-specific tau structures, translating these insights into diagnostic tools remains difficult.

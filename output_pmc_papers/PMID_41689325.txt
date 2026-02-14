@@ -1,5 +1,7 @@
 PMID: 41689325
 Title: Conventional<em> </em><em>vs.</em> Laser Haemorrhoidectomy for Symptomatic Haemorrhoids: A Meta-Analysis.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Wang, Chaoyang; Liu, Yihang; Wang, Ziqian; Li, Bing; Cao, Yiwei; Zheng, Li
 
 Abstract:
 This meta-analysis aimed to compare the efficacy and safety of Diode laser haemorrhoidoplasty (DLH) with conventional haemorrhoidectomy (CH) techniques, namely Milligan-Morgan haemorrhoidectomy (MMH) and Ferguson haemorrhoidectomy (FH), for the treatment of symptomatic haemorrhoids. A search of PubMed, Embase, Cochrane, Web of Science, and Scopus identified 13 eligible studies. Primary outcomes included intraoperative blood loss, postoperative bleeding, pain (measured by VAS), complications (e.g., urinary retention and anal stenosis), recovery time, and recurrence rate. Statistical analysis used both random-effects and fixed-effects models, with results reported as 95% confidence intervals (CIs), and heterogeneity was assessed using the I2 statistic. The results showed that DLH offered significant benefits over MMH and FH, including reduced intraoperative blood loss (MD = -20.19 mL, 95% CI: -28.32 -12.07; p <0.001), lower postoperative bleeding (OR = 0.32, 95% CI: 0.11 - 0.93; p = 0.04), and less postoperative pain, both immediately and one week later. Key Words: Diode laser haemorrhoidoplasty, Milligan-Morgan haemorrhoidectomy, Ferguson haemorrhoidectomy, Haemorrhoids, Meta-analysis.

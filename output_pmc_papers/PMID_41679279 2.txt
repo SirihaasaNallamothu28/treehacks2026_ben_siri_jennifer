@@ -1,0 +1,5 @@
+PMID: 41679279
+Title: Ticker sticker: Control of heart-vessel adhesion by cadherin-6.
+
+Abstract:
+To form a closed circulatory system, developing cardiac inflow tract endocardium must connect to the endothelium of great veins and arteries. In this issue of Developmental Cell, Fukumoto et al.<sup>1</sup> demonstrate a zippering mechanism that achieves this and balances the forces of endocardial elongation and heartbeat through control of cadherin-6.

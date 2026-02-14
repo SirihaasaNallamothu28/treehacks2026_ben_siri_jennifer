@@ -1,5 +1,7 @@
 PMID: 41686438
 Title: Intensive Blood Pressure Control and Cardiovascular Outcomes Across Cardiovascular-Kidney-Metabolic Syndrome Stages: A Post Hoc Analysis of the China Rural Hypertension Control Project.
+Journal: JAMA network open
+Authors: Guo, Xiaofan; Zhou, Shiyu; Mu, Jianjun; Zhao, Chunxia; Sun, Guozhe; Zhou, Ying; Yu, Yao; Tan, Xiangyu; Yin, Yangzhi; Xie, Ziyi; Miao, Wei; Li, Wenhang; Zhang, Caiyu; He, Chenhua; Chen, Jie; Tian, Xiaoxuan; Li, Tianhao; Chen, Yifei; Zhou, Xiaobing; Lu, Mengling; Li, Qiyu; Ye, Ning; Li, Guangxiao; Sun, Yingxian
 
 Abstract:
 Cardiovascular-kidney-metabolic (CKM) syndrome represents a syndromic continuum encompassing overlapping cardiovascular, kidney, and metabolic dysfunction. Hypertension is a central driver in the pathogenesis of CKM syndrome, promoting both kidney and metabolic deterioration, but little is known about the benefits of intensive blood pressure (BP) control across CKM syndrome stages.

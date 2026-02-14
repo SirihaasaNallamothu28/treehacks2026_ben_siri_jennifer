@@ -1,5 +1,7 @@
 PMID: 41686301
 Title: TROP2 expression is associated with early stage and favorable prognosis in upper tract urothelial carcinoma.
+Journal: World journal of urology
+Authors: Kobayashi, Go; Sekino, Yohei; Hayashi, Tetsutaro; Nakahara, Hikaru; Kobatake, Kohei; Kitano, Hiroyuki; Goto, Keisuke; Niitsu, Hiroaki; Hinoi, Takao; Sentani, Kazuhiro; Hinata, Nobuyuki
 
 Abstract:
 TROP2 has recently emerged as a promising therapeutic target, with the antibody‒drug conjugate sacituzumab govitecan. Nevertheless, its biological and clinical relevance in urothelial carcinoma (UC) has not been fully investigated.

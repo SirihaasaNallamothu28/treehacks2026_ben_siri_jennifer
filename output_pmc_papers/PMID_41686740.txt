@@ -1,5 +1,7 @@
 PMID: 41686740
 Title: Prognostic pan-cancer and single-cancer models: A large-scale analysis using a real-world clinico-genomic database.
+Journal: PloS one
+Authors: McGough, Sarah F; Lyalina, Svetlana; Incerti, Devin; Huang, Yunru; Tyanova, Stefka; Mace, Kieran; Harbron, Chris; Copping, Ryan; Narasimhan, Balasubramanian; Tibshirani, Robert
 
 Abstract:
 Prognostic models in oncology have a profound impact on personalized cancer care and patient profiling, but tend to be heterogeneously developed and implemented in narrow patient cohorts. Here, we develop and benchmark multiple machine learning models to predict survival in pan-cancer and 16 single-cancer settings using a de-identified clinico-genomic database of 28,079 US patients with cancer. We identify key predictors of cancer prognosis, including 15 shared across seven or more cancer types, revealing strong consistency in cancer prognostic factors. We demonstrate that pan-cancer models generally outperform or match single-cancer models in predicting survival and risk stratifying patients, especially in smaller cancer cohorts, suggesting a unique transfer learning advantage of pan-cancer models. This work demonstrates the potential of pan-cancer approaches in enhancing the accuracy and applicability of prognostic models in oncology, paving the way for more personalized and effective cancer care strategies.

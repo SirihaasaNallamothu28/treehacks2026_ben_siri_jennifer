@@ -1,5 +1,7 @@
 PMID: 41677858
 Title: Association of midlife macronutrient and mineral intake with subjective cognitive complaints in a prospective cohort of women.
+Journal: European journal of nutrition
+Authors: Zheng, Xiaoying; Qin, Winston; Wu, Fen; Koenig, Karen L; Afanasyeva, Yelena; Zeleniuch-Jacquotte, Anne; Chen, Yu
 
 Abstract:
 Few studies have examined the association between dietary nutrients and subjective cognitive complaints (SCCs), which are potential predictors of Alzheimer's disease-related dementia (ADRD). We aimed to examine the association of midlife intake of macronutrients, as well as of a few other nutrients, with SCC development.

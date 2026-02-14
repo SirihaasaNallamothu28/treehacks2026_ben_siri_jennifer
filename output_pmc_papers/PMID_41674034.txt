@@ -1,0 +1,10 @@
+PMID: 41674034
+Title: The Diagnostic Value of Mean Apparent Propagator-MRI in Dysthyroid Optic Neuropathy: A Quantitative Analysis of the Entire Visual Pathway.
+Journal: CNS neuroscience & therapeutics
+Authors: Zou, Mengsha; Wu, Dide; Cheng, Yanglei; Qin, Haodong; Yang, Zhiyun; Hong, Shubin; Zhu, Hongzhang; Yan, Cui
+
+Abstract:
+This study aimed to apply mean apparent propagator-MRI (MAP-MRI) to the entire visual pathway extending from the orbital to the intracranial visual pathway, to evaluate the model performance in diagnosing dysthyroid optic neuropathy (DON).
+57 thyroid-associated ophthalmopathy (TAO) patients including 30 with DON (55 eyes) and 27 without DON (54 eyes) were collected in this study. Orbital MAP-MRI parameters of the optic nerve (ON) and intracranial visual pathway MAP-MRI parameters of the optic tract (OT), optic radiation (OR), and Brodmann areas (BAs) 17, 18, and 19 were measured and compared. Diagnostic models were constructed based on parameters with significant differences, and the diagnostic performance of models was evaluated and compared using receiver operating characteristic curve analysis and the DeLong test.
+The DON group showed significantly higher values of q-space inverse variance (QIV) and mean squared displacement (MSD), and lower values of non-Gaussianity (NG), radial non-Gaussianity (NGRad), return-to-axis probability (RTAP), return-to-origin probability (RTOP), and return-to-plane probability (RTPP) (p < 0.05) of the ON than the non-DON group. As for the intracranial visual pathway, NGRad values of OT and QIV, MSD values of BA17 were all higher in the DON group (p < 0.05). The model combining orbital and intracranial visual pathway MAP-MRI parameters achieved the best diagnostic performance (AUC = 0.873), which showed a significant improvement over the simple orbital or intracranial visual pathway model.
+Orbital and intracranial visual pathway MAP-MRI both achieved certain efficacy in diagnosing DON. The diagnostic model combining orbital and intracranial MAP-MRI parameters could significantly optimize diagnostic efficiency.

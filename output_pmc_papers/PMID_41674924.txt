@@ -1,5 +1,7 @@
 PMID: 41674924
 Title: Causal Association Between Plasma Proteins and Pericarditis: A Mendelian Randomization Study With Therapeutic Target Identification.
+Journal: Mediators of inflammation
+Authors: Chen, Zhexuan; Chen, Zongqiang; Peng, Lingfeng; Zhang, Huankai
 
 Abstract:
 Observational studies demonstrate that pro-inflammatory cytokines play a critical role in pericarditis. However, the causal association between circulating plasma proteins and pericarditis remains unestablished.

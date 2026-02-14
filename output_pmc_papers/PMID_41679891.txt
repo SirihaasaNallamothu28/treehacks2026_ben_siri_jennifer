@@ -1,5 +1,7 @@
 PMID: 41679891
 Title: Incidentally vs nonincidentally diagnosed paragangliomas: Experience of a tertiary referral center.
+Journal: Endocrinologia, diabetes y nutricion
+Authors: Ferreira, Patrícia; Ribeiro, Sara; Meira, Inês; Canha, Marta; Festas Silva, Diana; Queirós, Joana
 
 Abstract:
 Incidental detection of paragangliomas (PGLs) is increasing due to the increased use and advancements in imaging modalities. Therefore, its clinical presentation is changing. We aimed to compare the clinical characteristics of incidentally discovered PGLs with the clinically suspected.

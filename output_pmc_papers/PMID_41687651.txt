@@ -1,5 +1,7 @@
 PMID: 41687651
 Title: BIOCHEMICAL ASSOCIATION BETWEEN CALCIUM HOMEOSTASIS AND SERUM URIC ACID LEVELS IN PATIENTS WITH HYPOTHYROIDISM: A COMPARATIVE EVALUATION WITH 25-HYDROXYVITAMIN D.
+Journal: Georgian medical news
+Authors: Hussein, S; Murad, Sh; Dawod, O; Ali, E; Elsiddig, Sh; Elshaikh, R; Alsubhi, A; Yousif, T; Nagat, S; Banaga, A; Ali, S; Ismail, M; Alfeel, A
 
 Abstract:
 The relationship between calcium, 1,25-dihydroxyvitamin D and serum uric acid levels in thyroid patients involves complex physiological mechanisms. This study aimed to evaluate the association of serum calcium and 25-hydroxyvitamin D with serum uric acid concentrations in individuals with hypothyroidism.

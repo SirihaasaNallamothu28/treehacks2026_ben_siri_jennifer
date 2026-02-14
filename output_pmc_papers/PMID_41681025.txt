@@ -1,5 +1,7 @@
 PMID: 41681025
 Title: Characterization of a deformable beating cardiac phantom with real-time dosimetric capabilities for validation of MRI-guided heart radiotherapy.
+Journal: Medical physics
+Authors: Aubert, Manon M N; Uijtewaal, Prescilla; Penev, Kalin I; LeChasseur, Yoan; Hartman, Nick; de Vries, Laurie J M; Tzitzimpasis, Paris; Borman, Pim T S; Mandija, Stefano; Fast, Martin F; van Lier, Astrid L H M W
 
 Abstract:
 Stereotactic arrhythmia radioablation (STAR) has emerged as a salvage treatment for patients with ventricular tachycardia, and the MR-linacs offer MRI-guidance during such treatment. However, available workflows on MR-linacs are not yet optimized and characterized dedicatedly to perform heart radiotherapy due to a lack of realistic MRI-compatible cardiac phantoms suitable for real-time dosimetry.

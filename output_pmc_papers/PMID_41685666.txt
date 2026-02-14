@@ -1,5 +1,7 @@
 PMID: 41685666
 Title: Phase 1 Trial of <i>Withania somnifera</i> Leaf Extract (RH324) in Advanced Non-Small Cell Lung Cancer Including [<sup>18</sup>F]FDG PET/CT as a Short-Term Metabolic Biomarker to Assess Efficacy: A Novel Model for Assessment of Complimentary Therapies in Early Phase Human Clinical Trials.
+Journal: Integrative cancer therapies
+Authors: Heo, Jin Uk; Rao, Santosh; Newton, Herbert B; Dowlati, Afshin; Muzic, Raymond F; Kardan, Arash
 
 Abstract:
 <i>Withania somnifera</i> (WS), commonly known as ashwagandha, has been used in the traditional medical system of India. It has shown significant activity against numerous solid tumor varieties in pre-clinical in vitro and in vivo studies. This study focuses on RH324 (ReHeva Biosciences, Columbus, OH), a pharmaceutical-grade formulation derived from WS, which has received FDA allowance for clinical development as a botanical drug in the treatment of cancer.

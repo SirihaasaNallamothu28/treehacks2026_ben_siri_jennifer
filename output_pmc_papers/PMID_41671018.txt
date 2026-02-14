@@ -1,5 +1,7 @@
 PMID: 41671018
 Title: Stress Echocardiography with Advanced Protocol for Evaluation of Hemodynamic Significant Coronary Stenosis and Different Phenotypes of Chronic Coronary Syndromes.
+Journal: Kardiologiia
+Authors: Boshchenko, A A; Zhuravleva, O A; Sviazova, N N; Ryabova, T R; Baev, A E; Vrublevsky, A V; Volkovskaia, A О; Grigoreva, A Е; Karpov, R S
 
 Abstract:
 To evaluate the feasibility of stress echocardiography (stress-ECHO) with an extended protocol in the diagnosis of hemodynamically significant coronary artery disease (CAD) and in the differential diagnosis of different phenotypes of chronic coronary syndromes.

@@ -1,5 +1,7 @@
 PMID: 41673969
 Title: [Congenital triple nostrils malformation combined with patent ductus arteriosus: a case report].
+Journal: Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery
+Authors: Shao, X X; Xu, Z N; Teng, S; Yan, B R; Liu, S; Li, Q Y; Sun, Y N
 
 Abstract:
 

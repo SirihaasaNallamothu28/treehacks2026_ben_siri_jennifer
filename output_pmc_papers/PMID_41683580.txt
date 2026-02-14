@@ -1,5 +1,7 @@
 PMID: 41683580
 Title: Targeting ATR-CHK1 and ATM-CHK2 Axes in Pancreatic Cancer-A Comprehensive Review of Literature.
+Journal: International journal of molecular sciences
+Authors: Kciuk, Mateusz; Wanke, Katarzyna; Marciniak, Beata; Kołat, Damian; Aleksandrowicz, Marta; Mujwar, Somdutt; Ainane, Tarik; Kontek, Renata
 
 Abstract:
 Pancreatic cancer (PC) remains a highly lethal malignancy with limited treatment options and poor survival. Targeting DNA damage response (DDR) pathways has emerged as a promising therapeutic strategy, particularly the ATR-CHK1 and ATM-CHK2 axes. Preclinical studies demonstrate that ATR inhibition disrupts replication stress tolerance, impairs homologous recombination, and disables checkpoint control, enhancing cytotoxicity from standard therapies including gemcitabine, FOLFIRINOX, fluoropyrimidines, and radiotherapy. Synergistic effects have also been observed with other DDR-targeted agents, such as PARP and WEE1 inhibitors. Genomic contexts, including <i>ATM</i> deficiency, <i>ARID1A</i> alterations, and oncogene-driven replication stress, refine therapeutic sensitivity, supporting precision patient stratification. Early-phase clinical trials of ATR inhibitors (ART0380, AZD6738, BBI-355) alone or in combination show promising safety, tolerability, and preliminary efficacy. In this review, we summarize current literature on targeting the ATM-CHK2 and ATR-CHK1 pathways in PC, highlighting preclinical evidence, clinical developments, and strategies for biomarker-driven, precision oncology approaches.

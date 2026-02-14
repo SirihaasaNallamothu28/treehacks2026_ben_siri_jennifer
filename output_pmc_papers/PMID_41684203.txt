@@ -1,0 +1,7 @@
+PMID: 41684203
+Title: PSLite Online: A Portable, Modern Web Application to Analyze Top-Down Mass Spectrometry Fragmentation Data.
+Journal: Journal of mass spectrometry : JMS
+Authors: Fellers, Ryan T; Greer, Joseph B; Early, Bryan P; Hollas, Michael A R; Robey, Matthew T; Kelleher, Neil L; Durbin, Kenneth R
+
+Abstract:
+PSLite Online is a modern, web-based application designed to facilitate the analysis of top-down mass spectrometry fragmentation data, particularly for targeted proteoform studies. As a successor to the Windows-only ProSight Lite, PSLite Online retains and expands upon its core functionalities while offering platform independence and enhanced usability through a responsive, browser-based interface. Users can load or manually define proteoforms, apply a wide range of modifications, and visualize fragmentation coverage in real time. Key new features include ProForma integration, correction for common mass deconvolution errors, SVG export, and cloud-based session sharing via persistent URLs. The application leverages modern web technologies and component libraries to deliver a lightweight, installable progressive web app (PWA) experience. Here, we show that PSLite Online can be used for the characterization of antibody subunits with glycan modifications. This solution broadens accessibility for proteomics researchers by eliminating installation barriers and enabling seamless collaboration across devices and platforms. PSLite Online is freely available at https://pslite.proteinaceous.net.

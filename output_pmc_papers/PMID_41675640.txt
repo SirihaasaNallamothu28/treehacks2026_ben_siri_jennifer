@@ -1,5 +1,7 @@
 PMID: 41675640
 Title: Multi-gene co-mutations of <i>BRAF</i> with <i>TERT</i>, <i>PIK3CA</i>, or <i>TP53</i> are powerful predictors of central lymph node metastasis in papillary thyroid carcinoma.
+Journal: Frontiers in endocrinology
+Authors: Yu, Qing; Liu, Han
 
 Abstract:
 The accurate preoperative prediction of lymph node metastasis (LNM) in papillary thyroid carcinoma (PTC) poses a significant clinical challenge. Although clinicopathological features are commonly utilized, their predictive accuracy remains limited, and the role of multi-gene co-mutations is not fully understood.

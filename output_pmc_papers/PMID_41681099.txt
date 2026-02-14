@@ -1,5 +1,7 @@
 PMID: 41681099
 Title: Development and Validation of a Predictive Model for Poor Healing After Great Saphenous Vein Stripping in Patients With Varicose Ulcers: Focusing on Preoperative Iron Metabolism Markers.
+Journal: Annali italiani di chirurgia
+Authors: Zhou, Yu; Zhan, Xiaorong; Qiao, Tong
 
 Abstract:
 To develop and validate a nomogram for predicting the risk of poor healing after great saphenous vein stripping in patients with venous varicose ulcers, based on preoperative iron metabolism markers and other clinical indicators.

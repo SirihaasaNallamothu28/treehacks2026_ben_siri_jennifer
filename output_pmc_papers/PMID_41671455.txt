@@ -1,5 +1,7 @@
 PMID: 41671455
 Title: Performance of Control Arms in Trials Leading to FDA Cancer Drug Approvals.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Viggiano, Angela; Salomone, Fabio; Napolitano, Fabiana; Liguori, Luigi; Avanzo, Annarita; D'Ambrosio, Simeone; Vitale, Filippo; Isernia, Maria Carmela; Russo, Anna; Longo, Lucia; Pepe, Felice; Santaniello, Antonio; Viscardi, Giuseppe; Vitiello, Fabiana; Gilli, Marina; Formisano, Luigi; Bianco, Roberto; Servetto, Alberto
 
 Abstract:
 Selecting an appropriate control arm is essential when evaluating the efficacy of new anticancer therapies.

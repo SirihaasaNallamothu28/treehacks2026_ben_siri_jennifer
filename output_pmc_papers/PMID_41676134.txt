@@ -1,5 +1,7 @@
 PMID: 41676134
 Title: Comparable immune escape capacity for NB.1 with that of JN.1 variant and survey of infection with severe acute respiratory syndrome coronavirus 2 variants among Chinese <i>Felis silvestris catus</i>.
+Journal: Frontiers in immunology
+Authors: Yuan, Youhua; Geng, Yiman; Zhu, Qiyuan; Sun, Bingfu; Xu, Junhong; Mao, Xiaohuan; Zhang, Xiaohuan; Tian, Wenqian; Zhao, Jing; Zheng, Peiming; Gao, Lan
 
 Abstract:
 Neutralising antibodies and infection with the newest severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant NB.1 in Chinese <i>Felis silvestris catus</i> remains unclear. This study compared the capability of neutralising antibodies in serum against the NB.1 variant prevalent in 2025 with that of the JN.1 variant circulating in 2024 among ill Chinese <i>Felis silvestris catus</i>, and determined whether they could be infected with SARS-CoV-2 variants.

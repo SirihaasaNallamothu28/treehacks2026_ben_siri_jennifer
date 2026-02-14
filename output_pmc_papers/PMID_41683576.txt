@@ -1,5 +1,7 @@
 PMID: 41683576
 Title: Carnosic Acid and Its Semisynthetic Derivatives as Promising Anticancer Agents.
+Journal: International journal of molecular sciences
+Authors: Moura, Sara P S P; Moreira, Vânia M; Salvador, Jorge A R
 
 Abstract:
 Natural products are a valuable source of structurally diverse bioactive compounds, many of which have contributed significantly to the discovery of new anticancer drugs. Carnosic acid <b>1</b>, an abietane-type diterpenoid primarily found in rosemary and sage, has emerged as a promising scaffold due to its ability to modulate key cellular pathways involved in cancer development and progression, including the cell cycle, apoptosis, autophagy, inflammation, and oxidative stress. Despite its multifaceted approach to combat cancer and promising results obtained in vitro and in vivo, its moderate potency limits its clinical application. To address this limitation, several chemical modifications have been performed to generate semisynthetic derivatives with improved efficacy. Several semisynthetic derivatives have demonstrated significantly enhanced anticancer activity across diverse cancer models, highlighting the importance of structural optimization of the carnosic acid <b>1</b> backbone. This review provides a comprehensive overview of carnosic acid <b>1</b> and its semisynthetic derivatives, focusing on their anticancer activities, underlying molecular mechanisms, and structure-activity relationships, with the aim of guiding the future design and development of carnosic acid <b>1</b>-derived anticancer drugs.

@@ -1,5 +1,7 @@
 PMID: 41685971
 Title: Rapid Estimation of Myelin for Diagnostic Imaging and Quantification of Therapy Responses in Multiple Sclerosis.
+Journal: Journal of neuroimaging : official journal of the American Society of Neuroimaging
+Authors: Katsarogiannis, Evangelos; Ouellette, Russell; Virhammar, Johan; Landtblom, Anne-Marie; Burman, Joachim; Granberg, Tobias; Berntsson, Shala G
 
 Abstract:
 Recent MRI developments have allowed for in vivo myelin imaging in clinically feasible time frames. This retrospective study aimed to evaluate the ability of the Rapid Estimation of Myelin for Diagnostic Imaging (REMyDI) technique in monitoring longitudinal myelin changes and brain atrophy in persons with multiple sclerosis (pwMS) undergoing treatment with rituximab or autologous hematopoietic stem cell transplantation (aHSCT).

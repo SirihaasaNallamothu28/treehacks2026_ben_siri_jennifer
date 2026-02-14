@@ -1,0 +1,7 @@
+PMID: 41674370
+Title: Enhanced Monacolin K Production in Monascus purpureus Via Mutagenesis and Nitrogen Source Optimization.
+Journal: Journal of basic microbiology
+Authors: Yang, Chen; Yajing, Yang; Housheng, Hong
+
+Abstract:
+Monascus fungi are valued for their production of Monacolin K (MK), a bioactive compound with recognized lipid-lowering and multifunctional properties. To enhance MK yield in solid-state fermentation, this study combined atmospheric and room-temperature plasma (ARTP) mutagenesis with L-arginine supplementation. A mutant strain, C-23, was obtained, and the addition of L-arginine increased MK production by 97.3%, reaching 9.45 mg/g. Untargeted metabolomics revealed that L-arginine reshaped metabolic pathways related to amino acids, cofactors, carbohydrates, and lipids, elucidating the mechanism behind MK overproduction. This work provides a strategic approach for developing high-yielding Monascus strains and offers insights into the metabolic regulation of MK biosynthesis.

@@ -1,5 +1,7 @@
 PMID: 41685402
 Title: Chronotype and sleep duration in relation to leukaemia subtypes: a two-sample Mendelian randomization analysis.
+Journal: Hematology (Amsterdam, Netherlands)
+Authors: Wang, Lina; Liu, Jiang; Liu, Jiahui; Zhang, Ling; Zhang, Ruijuan
 
 Abstract:
 Several observational studies have suggested an association between sleep traits and leukaemia. This study aimed to determine the causal association between sleep traits and leukaemia using two-sample Mendelian Randomization (MR) analysis.

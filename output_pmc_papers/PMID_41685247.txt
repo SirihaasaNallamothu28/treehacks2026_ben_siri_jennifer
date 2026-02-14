@@ -1,5 +1,7 @@
 PMID: 41685247
 Title: Leveraging the transcriptome-phenotype relationship to guide clinical management of papillary thyroid cancer.
+Journal: Frontiers in endocrinology
+Authors: Harvey, Adrian; Walser, Eric; Lahamm-Andraos, Rebecca; Yeo, Caitlin; Wolfe, Samantha; Stretch, Cynthia; Craig, Steven; Bathe, Oliver F
 
 Abstract:
 Papillary thyroid carcinoma (PTC) is the most common endocrine malignancy, with excellent survival but substantial variation in recurrence risk. Traditional clinicopathologic risk models, while still a cornerstone of current guidelines, overlook the biological differences between patients, resulting in both overtreatment and undertreatment.

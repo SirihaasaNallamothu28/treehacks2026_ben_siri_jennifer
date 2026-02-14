@@ -1,5 +1,7 @@
 PMID: 41686251
 Title: Continuous sedation in adolescent and young adult cancer patients under home-based end-of-life care.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Watanabe, Hirofumi; Watanabe, Akifumi; Fujikawa, Koichi; Furuya, Mitsuru; Goto, Hiroaki; Ishikawa, Ayaka; Yokoyama, Kazuki; Seki, Chihiro; Iida, Akiko; Kosugi, Yoriko; Kumagai, Yumiko; Murakami, Akiko; Sakuma, Eri; Takagi, Kei; Kawauchi, Junya; Gyoda, Yasuaki; Watanabe, Junko
 
 Abstract:
 This study examined the implementation status of continuous sedation (CS) and its clinical and social background factors in adolescent and young adult (AYA) patients with cancer who received end-of-life care at home.

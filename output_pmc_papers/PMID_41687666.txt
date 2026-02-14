@@ -1,5 +1,7 @@
 PMID: 41687666
 Title: ESTIMATING THE PREVALENCE OF FAMILIAL HYPERCHOLESTEROLEMIA IN STROKE AND TRANSITORY ISCHEMIC ATTACK POPULATION: A SYSTEMATIC REVIEW AND META-ANALYSIS.
+Journal: Georgian medical news
+Authors: Davletov, D; Kulimbet, M; Baibolsynova, I; Lee, S; Fakhradiyev, I; Makhmutov, A; Assembekov, B; Davletov, K
 
 Abstract:
 Familial hypercholesterolemia (FH) is a common inherited disorder characterized by lifelong elevation of LDL-cholesterol. While FH prevalence is well described in coronary populations, its contribution to cerebrovascular disease is less clear. This study aims to address this gap by systematically reviewing and synthesizing available evidence to estimate the prevalence of FH in patients with ischemic stroke or transitory ischemic attack overall and across key subgroups.

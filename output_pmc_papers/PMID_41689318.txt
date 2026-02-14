@@ -1,5 +1,7 @@
 PMID: 41689318
 Title: Expression of the Necroptosis-Related Gene MLKL Correlated with Small Cell Lung Cancer Prognosis and the Immune Checkpoint.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Hao, Yujia; Si, Guangqian; Guo, Ying; Lu, Ruichun; Bao, Pengtao
 
 Abstract:
 To identify biomarkers capable of specifically diagnosing small cell lung cancer (SCLC).

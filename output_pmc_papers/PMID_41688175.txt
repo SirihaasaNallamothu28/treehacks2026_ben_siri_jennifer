@@ -1,5 +1,7 @@
 PMID: 41688175
 Title: [Large-scale electrocardiogram and imaging models in cardiovascular diseases: applications and challenges].
+Journal: Zhonghua xin xue guan bing za zhi
+Authors: Chen, B; Lin, X J; Zhang, P
 
 Abstract:
 

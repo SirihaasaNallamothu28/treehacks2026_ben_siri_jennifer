@@ -1,0 +1,7 @@
+PMID: 41683632
+Title: Special Issue "Molecular Insight into Gestational Diabetes Mellitus".
+Journal: International journal of molecular sciences
+Authors: Trojnar, Marcin; Kimber-Trojnar, Żaneta
+
+Abstract:
+Gestational diabetes mellitus (GDM) is one of the most prevalent metabolic disorders complicating pregnancy worldwide, currently affecting up to 15-25% of pregnancies [...].

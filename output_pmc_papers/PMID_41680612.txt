@@ -1,5 +1,7 @@
 PMID: 41680612
 Title: Lipid-lowering medication reduces more target lesion than non-target lesion revascularizations: a cohort study.
+Journal: Annals of medicine
+Authors: Mantyniemi, Elina; Laaperi, Mitja; Karjalainen, Pasi; Sinisalo, Juha
 
 Abstract:
 Factors related to the very long-term progression of atherosclerosis after stent implantation remain unclear.

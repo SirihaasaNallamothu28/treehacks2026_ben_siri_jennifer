@@ -1,5 +1,7 @@
 PMID: 41686539
 Title: Exploring the unmet needs of older people living with lung cancer: a qualitative study.
+Journal: Age and ageing
+Authors: Knox, Nicole; Agar, Meera; McErlean, Gemma; Vinod, Shalini K; Hickman, Louise
 
 Abstract:
 Research into unmet needs in older populations with cancer is crucial, as existing studies often overlook these groups and fail to capture their unique experiences. Addressing these gaps is essential to improve quality of life and reduce psychological distress, particularly in those diagnosed with lung cancer, who face a higher burden of unmet needs than other cancer diagnoses.

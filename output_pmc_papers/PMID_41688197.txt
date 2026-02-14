@@ -1,5 +1,7 @@
 PMID: 41688197
 Title: [Comparison between laparotomy and laparoscopic operation for patients with gastric gastrointestinal stromal tumors: a multi-center observational study].
+Journal: Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery
+Authors: Feng, X Y; Zhou, F Y; Li, R J; Zhang, P; Qiu, H B; Lai, B; Chen, T; Xiong, W W; Yin, Y; Wan, X B; Liu, X F; Li, J; Zhao, Y; Zhou, Y; Li, Y; Wang, J J
 
 Abstract:
 <b>Objective:</b> To evaluate the safety, feasibility and efficacy of laparoscopic surgery for gastric gastrointestinal stromal tumors (G-GISTs). <b>Methods:</b> This study is a multicenter observational study. Between 1998 and 2017, 1072 patients with G-GISTs underwent laparoscopic and open resection were retrospectively analyzed clinicopathological data of G-GISTs patients from 12 Chinese hospitals (including Guangdong Provincial People's Hospital).

@@ -1,5 +1,7 @@
 PMID: 41689378
 Title: Exercise-induced immune response in breast cancer patients during prehabilitation, neoadjuvant or adjuvant treatment: A systematic review and meta-analysis.
+Journal: European journal of clinical investigation
+Authors: Ubaghs, Simone; Mostaqim, Kenza; Lahousse, Astrid; Ahmed, Ishtiaq; Polli, Andrea; Fontaine, Christel; Dams, Lore; Buntinx, Yanthe; Hendrix, Jolien; Aerts, Joeri; Huysmans, Eva; Nijs, Jo
 
 Abstract:
 Adjuvant and neoadjuvant treatment for breast cancer (BC) such as chemotherapy and radiotherapy can lead to immune system impairment. Exercise is hypothesized to mitigate these effects by modulating immune responses and reducing chronic inflammation. This review aims to summarize the existing evidence on the impact of physical exercise on inflammatory markers and cellular immune function in patients with BC during prehabilitation, adjuvant or neoadjuvant treatment.

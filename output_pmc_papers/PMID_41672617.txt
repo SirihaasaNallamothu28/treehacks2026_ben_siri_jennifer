@@ -1,5 +1,7 @@
 PMID: 41672617
 Title: [Research on a Deep Learning-Based Model for Predicting Malignancy Risk of Pan-Endocrine System across Thyroid and Breast Nodules].
+Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+Authors: Wang, Hong; Geng, Zhongli; Ma, Zhen; Gu, Jingliang; Liu, Xiao; Hui, Ting; Zhang, Rui
 
 Abstract:
 To construct a cross-organ AI model based on multi-task deep learning (DL) to achieve unified prediction of malignancy risks of thyroid and breast nodules.

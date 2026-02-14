@@ -1,5 +1,7 @@
 PMID: 41672480
 Title: The efficacy of immune checkpoint inhibitors in metastatic castration-resistant prostate cancer: A meta-analysis and reconstructed individual patient data analysis.
+Journal: Human vaccines & immunotherapeutics
+Authors: Zhang, Fuxun; Xiong, Yang; Luo, Zhirong; Xue, Qi; Wang, Lei; Fu, Qiang; Zhang, Wei; Alisha, Pati-Alam; Okoli, Uzoamaka Adaobi; Zhang, Geng
 
 Abstract:
 Some immune checkpoint inhibitors (ICI) has been used for men with specific metastatic castration-resistant prostate cancer (mCRPC). However, inconsistent results of ICI for unselected mCRPC population raise concerns. The primary outcomes were overall survival (OS) and radiographic progression-free survival (PFS), and the secondary outcomes included objective response rate (ORR). Individual patient data (IPD) were reconstructed from reported survival curve, and Kaplan-Meier method was used to evaluate the efficacy. Data of 1580 patients from 21 clinical trials were analyzed without biomarker-selected indications. The pooled 1-y and 2-y OS were 63% and 39%, while pooled 6-month and 12-month PFS were 41% and 17%. ICI plus other agent showed more OS and PFS benefits comparing with mono or dual ICI therapy (All P < .05). Combination therapy with ICI showed encouraging but preliminary signs in mCRPC. Future large trials focusing on combination regimens of ICI are needed.<b>Registration:</b> PROSPERO (CRD420251087847).

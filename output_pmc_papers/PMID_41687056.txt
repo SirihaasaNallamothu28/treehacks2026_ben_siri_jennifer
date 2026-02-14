@@ -1,5 +1,7 @@
 PMID: 41687056
 Title: Reluctance to Use a Psycho-Oncology Mobile App Among Patients With Primary Breast Cancer: Retrospective Cross-Sectional Survey.
+Journal: JMIR mHealth and uHealth
+Authors: Pawełczak-Szastok, Marta; Syska-Bielak, Anna; Krzywon, Aleksandra; Jarząb, Michał
 
 Abstract:
 eHealth is an increasingly used method of health care in the field of psycho-oncology. While many reports highlight the positive impact of psychological eHealth tools, some patients refuse to use them.

@@ -1,5 +1,7 @@
 PMID: 41670736
 Title: EMVI as an independent predictor of recurrence and the role of chemotherapy in N0 colonic adenocarcinoma: retrospective Cox regression analysis (2015-2022).
+Journal: International journal of colorectal disease
+Authors: Bhanderi, S; Delaney, M; Khan, H; O'Neill, R; Patel, A
 
 Abstract:
 Extramural venous invasion (EMVI) is a high-risk pathological feature in colorectal cancer, yet its role in guiding adjuvant chemotherapy in node-negative colon cancer remains uncertain. This study evaluates EMVI as a predictor of recurrence in patients undergoing colon cancer resection and investigates whether adjuvant chemotherapy affects recurrence in node-negative, EMVI-positive (N0/EMVI +) patients.

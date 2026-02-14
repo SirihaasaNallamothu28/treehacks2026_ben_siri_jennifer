@@ -1,5 +1,7 @@
 PMID: 41670750
 Title: Prognostic performance of thymidine kinase 1 activity in patients with hormone receptor-positive and HER2-negative metastatic breast cancer treated with CDK4/6 and aromatase inhibitors.
+Journal: Breast cancer research and treatment
+Authors: Brown, Nicole L; Howell, Sacha J; Papantoniou, Dimitrios; Eriksson, Olle; Bergqvist, Mattias; Williams, Amy; Kavanagh, Amy; Backlund, Alexandra; Albu-Kareem, Ahmed; Elinder, Ellinor; Larsson, Karolina; Uminska, Monika; Ekholm, Maria
 
 Abstract:
 Thymidine kinase 1 activity (TKa) has previously been demonstrated as a prognostic biomarker for progression-free survival (PFS) in hormone receptor-positive, HER2-negative metastatic breast cancer (MBC), but its optimal use remains undefined. This study evaluated the prognostic performance of TKa across multiple sampling time points and thresholds in patients receiving first-line CDK4/6 inhibitor plus aromatase inhibitor therapy.

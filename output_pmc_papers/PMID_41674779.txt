@@ -1,5 +1,7 @@
 PMID: 41674779
 Title: TMEM106C, BSG, COPE, CDCA8, KPNA2, LIG1, UQCRH, and CCT5: Predictive of Survival and Immunotherapy Resistance in Hepatocellular Carcinoma.
+Journal: Human mutation
+Authors: Yu, Kai; Chen, Minqi; Hou, Wanchao; Lu, Jinhua; Liu, Qianhan; Zeng, Wanrong; Du, Zhengcai; Hou, Xiaotao; Hao, Erwei; Deng, Jiagang; Gong, Peipei
 
 Abstract:
 Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide, with cellular senescence playing a context-dependent role in tumor progression and the immunosuppressive microenvironment. This study is aimed at identifying senescence-related gene signatures through integrated single-cell and transcriptomic analyses to construct a robust prognostic model for predicting survival and immunotherapy response in HCC patients.

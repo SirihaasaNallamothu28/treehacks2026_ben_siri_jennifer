@@ -1,5 +1,7 @@
 PMID: 41685416
 Title: Beyond Chemotherapy: Network Meta-Analysis Reveals Optimal Neoadjuvant Strategies for Luminal Breast Cancer.
+Journal: Cancer medicine
+Authors: Li, Xinyu; Du, Peijing; Huang, Tao
 
 Abstract:
 Hormone receptor-positive (HR+), HER2-negative (HER2-) breast cancer represents the most common subtype. Given its distinct biology, neoadjuvant endocrine therapy (NET) offers comparable efficacy to neoadjuvant chemotherapy (NCT) with less toxicity. This systematic review and network meta-analysis evaluates the evidence to guide clinical decision-making for locally advanced or inoperable HR+/HER2- breast cancer.

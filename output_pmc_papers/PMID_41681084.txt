@@ -1,5 +1,7 @@
 PMID: 41681084
 Title: Moral Distress Among Nurses During the COVID-19 Pandemic: A Cross-Sectional Survey.
+Journal: Nursing open
+Authors: Sydor, Anna; Jones, Bethan; Bundy, Chris; Whybrow, Dean; Pickles, Tim; Pattinson, Rachael; Hewitt, Rachael; Temeng, Eunice; Dale, Carys; Kyle, Richard G; Watts, Tessa
 
 Abstract:
 To examine factors related to moral distress among registered nurses and nursing students during the severe acute respiratory syndrome COVID-19 pandemic.

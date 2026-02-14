@@ -1,5 +1,7 @@
 PMID: 41686342
 Title: Intensive nursing interventions for post-treatment anxiety and depression in bladder cancer: A systematic review and meta-analysis.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Huang, Xianzhi; Chen, Ruoxi; Guo, Zihang; Song, Conghua; Li, Xiaomei
 
 Abstract:
 Post-treatment anxiety and depression are prevalent but often underrecognized among bladder cancer patients. This systematic review and meta-analysis aimed to estimate the pooled prevalence of these symptoms and to evaluate the effectiveness of intensive nursing interventions.

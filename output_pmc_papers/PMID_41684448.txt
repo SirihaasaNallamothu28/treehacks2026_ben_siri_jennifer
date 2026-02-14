@@ -1,5 +1,7 @@
 PMID: 41684448
 Title: Implication of xanthine oxidoreductase in oxidative stress-related chronic diseases.
+Journal: Frontiers in endocrinology
+Authors: Nelson, Kendra L; Voruganti, Venkata Saroja
 
 Abstract:
 Xanthine oxidoreductase (XOR) catalyzes the final steps of purine catabolism: the oxidation of hypoxanthine to xanthine, and xanthine to UA. XOR exists as interconvertible proteoforms, xanthine dehydrogenase (XDH) and xanthine oxidase (XO). The balance between XDH and XO determines whether purine degradation is redox-neutral or strongly pro-oxidant. Evidence across cardiovascular, renal, oncological and neurological disorders shows that excess XO-derived ROS, rather than UA itself, is a likely mediator of tissue injury and clinical progression, with several lines of research linking them to the interplay between XOR and purinergic signaling. Pharmacological inhibition or down-regulation of XO ameliorates pathology even when UA concentrations remain unchanged, underscoring the therapeutic relevance of the proteoform-specific mechanism. This mini-review focuses on the structure, regulation, and pathological roles of XOR, with emphasis on its implications in oxidative stress-related diseases.

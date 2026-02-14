@@ -1,5 +1,7 @@
 PMID: 41677387
 Title: Morpho-Functional Characterization and miRNA Profiling of the Retina in the 5xFAD Murine Model of Alzheimer's Disease.
+Journal: Investigative ophthalmology & visual science
+Authors: Guidotti, Lorenzo; Lucchesi, Martina; Daghini, Eleonora; Amato, Rosario; Neri, Giuseppe; Corsi, Francesca; Marracci, Silvia; Gargini, Claudia; Borello, Ugo; Cammalleri, Maurizio; Dal Monte, Massimo; Casini, Giovanni
 
 Abstract:
 Alzheimer's disease (AD) induces changes in retinal structure/function, making the retina a suitable platform to study the molecular mechanisms of the disease. Dysregulation of some microRNAs (miRNAs) has also been found in AD pathogenesis. Here, we used the 5xFAD mouse to expand our knowledge on structural, functional, and molecular retinal alterations and to elucidate the retinal miRNA profile in this model of AD.

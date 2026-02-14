@@ -1,5 +1,7 @@
 PMID: 41689740
 Title: Clinical outcomes in recurrent glioblastoma with oncolytic virotherapy: a review.
+Journal: Molecular biology reports
+Authors: Tang, Feng; Liu, Zhen-Yuan; Yang, Jin-Zhou; Xu, Ya-Di; Li, Zhi-Qiang
 
 Abstract:
 Glioblastoma (GBM) is a highly aggressive and lethal form of brain cancer with limited treatment options, particularly for recurrent cases. Oncolytic virus (OV) therapy is a novel therapeutic strategy for recurrent GBM, leveraging its ability to selectively target and destroy malignant cells while sparing surrounding healthy tissue. Recent clinical trials have indicated that oncolytic virotherapy has an acceptable safety profile and the potential to enhance survival in recurrent GBM. For instance, CAN-3110, a Nestin-promoter-driven herpes simplex virus-1 (HSV-1), demonstrated a median overall survival of 14.9 months in patients with recurrent GBM, with HSV-1 seropositive patients achieving more prolonged survival (14.2 versus 7.8 months in seronegative patients). This review aims to synthesize the current evidence on clinical outcomes in patients with recurrent GBM receiving oncolytic virotherapy, with a specific focus on safety profiles, therapeutic efficacy, and survival outcomes.

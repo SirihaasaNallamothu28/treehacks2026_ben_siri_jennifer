@@ -1,0 +1,10 @@
+PMID: 41685418
+Title: Effects of hydrorelease on the mechanical properties of muscle and fascia: A study using ultrasonic shear wave elastography.
+Journal: Clinical physiology and functional imaging
+Authors: Nakao, Gakuto; Shiwaku, Kousuke; Adachi, Risa; Kodesho, Taiki; Taniguchi, Keigo; Otsubo, Hidenori
+
+Abstract:
+Recent studies have shown that hydrorelease reduces gliding resistance around nerves and between fascia, alleviating pain. However, the effects of hydrorelease on the mechanical properties of muscle and fascia remain unclear. This study aimed to examine changes in the mechanical properties of muscle and fascia before and after hydrorelease.
+Twelve consecutive patients with ultrasound-confirmed thickening or stacking of fascia and tenderness were included. The hydrorelease was performed under ultrasound guidance using a 25-G, 40-mm needle in-plane technique, using 6 mL of saline containing 0.17% lidocaine at a concentration insufficient to produce an anaesthetic effect. The shear modulus and tenderness were measured before and after hydrorelease. The shear modulus was measured using ultrasonic shear wave elastography at two points on the muscle and fascia in the slacked and extended positions. Tenderness was evaluated for pain using the numeric rating scale. Wilcoxon signed-rank test compared pain levels before and after hydrorelease. A two-way analysis of variance (ANOVA) was performed for the shear modulus, with time (pre and post) and position (slacked and extended) as factors.
+Tenderness significantly decreased after hydrorelease (p < 0.01). A two-way ANOVA revealed a significant interaction (time × position) for the shear modulus in both muscle and fascia (p < 0.01). Post-hoc test results indicated no change in the shear modulus in the slacked position; however, a significant decrease was observed in the extended position after hydrorelease.
+In summary, hydrorelease reduced the shear modulus of fascia and muscle during elongation, decreasing tissue stress.

@@ -1,5 +1,7 @@
 PMID: 41686439
 Title: Pancreatic Cystic Neoplasm Risk Among Individuals With Diabetes.
+Journal: JAMA network open
+Authors: Cho, In Rae; Chang, Sung Hoon; Lee, Sang Hyub; Han, Kyung-Do; Chung, Kwang Hyun; Lee, Min Woo; Choi, Jin Ho; Paik, Woo Hyun; Ryu, Ji Kon
 
 Abstract:
 With advancements in imaging technology and more frequent health evaluations, the incidence and prevalence of pancreatic cysts have gradually increased. Certain types of pancreatic cystic neoplasms are precancerous lesions associated with an increased risk of pancreatic cancer. Hence, identifying risk factors and preventing their occurrence are crucial. Nonetheless, population-based research on modifiable risk factors remains lacking.

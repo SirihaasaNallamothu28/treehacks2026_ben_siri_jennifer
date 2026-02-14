@@ -1,0 +1,7 @@
+PMID: 41672619
+Title: [Research and Application of Super-Resolution Ultrasound Microvascular Imaging Technique].
+Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+Authors: Du, Yigang; Sang, Maodong; Zheng, Zhilan; Ouyang, Yali; Feng, Helin; Cong, Longfei; Lin, Muqing
+
+Abstract:
+This paper elaborates on the research progress of super-resolution ultrasound imaging technique, detailing each step involved in the implementation process of this technology (ultrasound transmission and scanning, beamforming, clutter filtering, microbubble localization and tracking, etc.), and summarizes existing problems and potential solutions based on existing literature. Targeting relevant clinical applications and demand scenarios, the paper focuses on four future directions of super-resolution imaging technology, including 3D super-resolution imaging, realization of productization, contrast-free super-resolution, and artificial intelligence (AI) technology. In addition, the paper introduces the calculation methods of multiple quantitative parameters based on the function of super-resolution imaging, and demonstrates the calculation results and correlations of different parameters (fractal dimension, directional entropy, and circular variance) through simulations.

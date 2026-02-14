@@ -1,5 +1,7 @@
 PMID: 41673970
 Title: [A case of tonsillar clear cell carcinoma].
+Journal: Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery
+Authors: Liu, Y; Pang, Y N; Xu, C B
 
 Abstract:
 

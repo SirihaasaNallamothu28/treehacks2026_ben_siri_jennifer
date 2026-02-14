@@ -1,5 +1,7 @@
 PMID: 41677859
 Title: Rituximab for severe immune checkpoint inhibitor-related adverse events: a multicenter case series.
+Journal: Cancer immunology, immunotherapy : CII
+Authors: Hermabessiere, Stéphanie; Jauzelon, Benjamin; Marmain, Steven; Wauthier, Axelle; Witkowski Durand Viel, Philine; Castille, Elodie; Padern, Guillaume; Lamoureux, Anouck; Thomas, Quentin Dominique; Quantin, Xavier; Maria, Alexandre T J; Coustal, Cyrille
 
 Abstract:
 Immune checkpoint inhibitors (ICIs) can induce severe immune-related adverse events (irAEs) that are life-threatening and may be refractory to standard immunosuppressive therapy. Rituximab has emerged as a potential treatment option, but evidence is limited.

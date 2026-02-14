@@ -1,5 +1,7 @@
 PMID: 41685569
 Title: The impact of membranectomy on chronic subdural hematoma outcomes: a meta-analysis and systematic review.
+Journal: Journal of neurosurgical sciences
+Authors: Ogolo, Donald E; Okwuoma, Okwunodulu; Ndukuba, Kelechi; Akwada, Obioma; Achebe, Sunday; Nnama, Sunday; Ohaegbulam, Samuel
 
 Abstract:
 Chronic subdural hematoma (CSDH) is a common neurosurgical condition, yet the role of membranectomy in reducing recurrence remains controversial. This meta-analysis evaluates whether membranectomy improves outcomes compared to non-membranectomy techniques.

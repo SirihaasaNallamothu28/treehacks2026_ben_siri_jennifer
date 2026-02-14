@@ -1,5 +1,7 @@
 PMID: 41685552
 Title: Greater locus coeruleus vulnerability in atypical clinicopathologic forms of Alzheimer's disease.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Dunlop, Sara Rose; Matchett, Billie J; Mannsbart, Alexander F; Al-Shaikh, Fadi S Hanna; Peng, Zhongwei; Rothberg, Darren M; Tranovich, Jessica F; Duara, Ranjan; Uribe, Idaly Velez; Gondrez, Joselen; Carter, Rickey E; Ferman, Tanis J; Day, Gregory S; Graff-Radford, Neill R; Dickson, Dennis W; Grinberg, Lea T; Murray, Melissa E
 
 Abstract:
 The locus coeruleus (LC) degenerates early in Alzheimer's disease (AD). However, the extent of rostrocaudal degeneration across clinicopathologic heterogeneity remains underexplored in AD.

@@ -1,5 +1,7 @@
 PMID: 41677388
 Title: MTG2 as a Causal and Druggable Target in Uveal Melanoma via Mitochondrial DNA Dynamics: Evidence From Functional Validation and DMSA Identification.
+Journal: Investigative ophthalmology & visual science
+Authors: Zhang, Yan; Min, Daliu; Wang, Yonggang; Yu, Wenxi; Cui, Bowen; Su, Yuying; Shen, Zan; Feng, Changzhou
 
 Abstract:
 Mitochondrial dysfunction is increasingly recognized as a pivotal factor in cancer pathogenesis. We thus explored the causal role of mitochondrial-related genes (MRGs) in uveal melanoma (UM) and the underlying mechanisms.

@@ -1,5 +1,7 @@
 PMID: 41678635
 Title: Rare, dangerous side effects from COVID-19 vaccines explained.
+Journal: Science (New York, N.Y.)
+Authors: Vogel, Gretchen; Kupferschmidt, Kai
 
 Abstract:
 Scientists discover why adenovirus-based shots caused life-threatening blood clots and bleeding in some patients.

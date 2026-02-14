@@ -1,5 +1,7 @@
 PMID: 41689229
 Title: Effects of acupuncture and mindfulness-based stress reduction for chronic non-specific low back pain: study protocol for a 2×2 factorial randomised controlled trial.
+Journal: BMJ open
+Authors: Chen, Ke; Chen, Youmei; Li, Huibiao; Zhan, Xiaonan; Zhao, Xin; Zhou, Jianhao; Yang, Jing; Fu, Siying; Niu, Zhenyuan; Liu, Hong; Jiang, Zheng
 
 Abstract:
 Chronic non-specific low back pain (CNLBP) is a multifactorial disease involving physical dysfunction and psychological distress. Acupuncture and mindfulness-based stress reduction (MBSR) are two non-pharmacological therapies recommended by guidelines, which have been proven effective in improving the clinical symptoms of CNLBP. However, the efficacy of their combined use has yet to be explored. This study aims to explore whether the combination of acupuncture and MBSR would have different synergistic effects in patients with CNLBP compared with acupuncture or MBSR alone.

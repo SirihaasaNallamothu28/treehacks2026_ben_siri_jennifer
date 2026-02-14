@@ -1,5 +1,7 @@
 PMID: 41674108
 Title: Robot-assisted therapy following stroke: what effects on quality of life, cognitive and psychosocial outcomes? A systematic review.
+Journal: Journal of rehabilitation medicine
+Authors: Zanatta, Francesco; Gorini, Alessandra; Fiorentino, Luca; Traversoni, Silvia; Fundarò, Cira; D'Addario, Marco; Steca, Patrizia
 
 Abstract:
 Robot-assisted therapy (RAT) has shown promise in post-stroke motor recovery. However, its effects on non-motor outcomes remain unclear. This systematic review evaluated RAT impact on post-stroke quality of life (QoL), cognition, and psychosocial functioning.

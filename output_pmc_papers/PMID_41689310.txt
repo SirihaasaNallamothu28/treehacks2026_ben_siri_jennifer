@@ -1,5 +1,7 @@
 PMID: 41689310
 Title: Artificial Intelligence and Radiomics to Enhance the Quality of Future Multidisciplinary Team Tumour Boards.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Tariq, Maria; Abbasi, Ahmed Nadeem
 
 Abstract:
 Null.

@@ -1,5 +1,7 @@
 PMID: 41674181
 Title: Evaluating Potential Impacts of Climate-Related Natural Disasters on Subsequent Prostate Cancer Mortality.
+Journal: Cancer medicine
+Authors: Cole, Alexander P; Qian, Zhiyu; Chen, Yu-Jen; Beatrici, Edoardo; Acharya, Rohit; Daniels, Danesha; Dasgupta, Prokar; Kibel, Adam S; Lipsitz, Stuart R; Trinh, Quoc-Dien; Iyer, Hari S
 
 Abstract:
 Climate-related disruptions to the health system may impact cancer outcomes. This may be particularly true for prostate cancer, which greatly contributes to cancer burden while existing on a risk spectrum, leading some men to delay treatment even in advanced cases.

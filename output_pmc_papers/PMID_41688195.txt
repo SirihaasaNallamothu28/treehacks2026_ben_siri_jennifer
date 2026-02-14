@@ -1,5 +1,7 @@
 PMID: 41688195
 Title: [Surgical treatment direction of gastroesophageal junction adenocarcinoma in the age of neoadjuvant immunotherapy].
+Journal: Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery
+Authors: Zhu, Z; Zhang, X W; Wang, X; Gao, P; Sun, J X; Wang, Z N
 
 Abstract:
 Adenocarcinoma of the gastroesophageal junction (AEG) represents a class of malignant digestive tract tumors with unique anatomical features and complex biological behaviors. Recent advancements in neoadjuvant immunotherapy have significantly improved pathological response rates and conversion rates for AEG patients, while simultaneously presenting new challenges and opportunities for preoperative evaluation, lymph node dissection, and gastrointestinal reconstruction strategies. Precise preoperative assessment now emphasizes transcending anatomical staging through multimodal imaging and endoscopic guidance to achieve biology-driven individualized decision-making. The approach to lymph node dissection has evolved from "maximum" to "optimal" scope, integrating treatment response, molecular subtypes, and sentinel lymph node technology for targeted clearance. Gastrointestinal reconstruction prioritizes functional preservation and anti-reflux measures while ensuring anastomotic safety. Neoadjuvant immunotherapy is reshaping surgical paradigms for AEG patients, fostering multidisciplinary collaboration and advancing surgical strategies toward precision, individualization, and functional preservation.

@@ -1,5 +1,7 @@
 PMID: 41671453
 Title: The Impact of Race on Survival and Treatment in Veterans Treated for Metastatic Castration-Resistant Prostate Cancer.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Candelieri-Surette, Danielle; Cheranda, Nina; Lee, JongSoo; Teerlink, Craig C; Pimentel, Camilla; Lynch, Julie A; Berlowitz, Dan; Schoen, Martin W
 
 Abstract:
 Black individuals have higher incidence and mortality rates of prostate cancer than White individuals, and existing literature on treatment sequencing strategies in metastatic castration-resistant prostate cancer (mCRPC) is limited and conflicting. Understanding the interplay between race and treatment could optimize care and improve overall survival (OS).

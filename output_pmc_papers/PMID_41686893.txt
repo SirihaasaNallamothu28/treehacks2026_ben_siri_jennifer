@@ -1,5 +1,7 @@
 PMID: 41686893
 Title: Accessory microRNA byproducts expand RNA interference via microprocessor-mediated cleavage activation.
+Journal: Science advances
+Authors: Mazzetti, Debora; Nowicki, Michal O; Soni, Himanshu; Bernstock, Joshua D; Groff, Maya; Esposito, Luisa; Hernandez, Diego A; Altucci, Lucia; Krichevsky, Anna; Fell, Geoffrey; Chiocca, E Antonio; Nakashima, Hiroshi; Mineo, Marco; Peruzzi, Pierpaolo
 
 Abstract:
 RNA medicine is a promisingly expanding field in modern health care, but its use in genetically complex diseases, like cancer, has been challenging, mainly due to their reliance on multiple abnormal pathways. Here, we describe a microRNA-based platform that exploits previously unrecognized features of microRNA processing. Leveraging a microprocessor-dependent, cleave-activation strategy, this design allows us to expand biological impact by simultaneously up- and down-regulating desired microRNAs, while using them as structural enablers for other short, noncoding RNAs, such as aptamers. We demonstrate its biological potential in a glioblastoma model, where the simultaneous bidirectional modulation of five among the most deregulated microRNAs results in critical mass interference against the tumor. In parallel, microRNA-mediated chaperoning of an anti-p50 aptamer within the platform allows us to selectively block the nuclear factor κB pathway, a difficult-to-drug target. This work highlights the potential of chimeric microRNA clusters as an emerging therapeutic concept for cancer and other similarly multifactorial diseases.

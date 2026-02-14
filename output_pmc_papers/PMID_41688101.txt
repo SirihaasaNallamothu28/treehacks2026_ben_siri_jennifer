@@ -1,5 +1,7 @@
 PMID: 41688101
 Title: Latent profiles of frailty in patients with head and neck cancer undergoing radiotherapy: a cross-sectional study.
+Journal: BMJ open
+Authors: Pu, Xiaolan; Ju, Mei; Han, Xingping; Ma, Wenqiong; Wang, Lin; Wang, Ting
 
 Abstract:
 To identify distinct latent frailty profiles using latent profile analysis (LPA) in patients undergoing radiotherapy for head and neck cancer (HNC) and to examine the factors associated with profile membership.

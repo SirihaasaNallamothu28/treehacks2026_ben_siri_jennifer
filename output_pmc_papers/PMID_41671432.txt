@@ -1,5 +1,7 @@
 PMID: 41671432
 Title: Hodgkin Lymphoma, Version 1.2026, NCCN Clinical Practice Guidelines In Oncology.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Advani, Ranjana H; Kelsey, Christopher R; Armand, Philippe; Bello, Celeste M; Benitez, Cecil M; Bond, David; Chen, Weina; Cherian, Sheen; Czader, Magdalena; Dabaja, Bouthaina; Daly, Megan E; Frosch, Zachary; Gordon, Leo I; Hansen, Neil; Herrera, Alex F; Hochberg, Ephraim P; Hoppe, Richard T; Isufi, Iris; Johnston, Patrick B; Kelly, Kara; Kenkre, Vaishalee P; Kline, Justin; Lynch, Ryan C; McConathy, Jonathan; Morgan, David; Niu, Alex; Paul, Suman; Rabinovitch, Rachel; Salavati, Ali; Sano, Dahlia; Shah, Harsh; Spinner, Michael; Svoboda, Jakub; Winter, Jane N; Yahalom, Joachim; Yang, Joanna C; Montgomery, Sarah; Stehman, Katie
 
 Abstract:
 The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Hodgkin lymphoma provide expert, multidisciplinary recommendations for the diagnosis and treatment of Hodgkin lymphoma. The panel convenes annually to update recommendations based on a review of recently published clinical trials. This selection from the NCCN Guidelines for Hodgkin Lymphoma focuses on the management of newly diagnosed and relapsed/refractory classic Hodgkin lymphoma in adults aged 18 to 60 years.

@@ -1,5 +1,7 @@
 PMID: 41685320
 Title: A machine learning-driven prognostic model based on peripheral blood lymphocyte subsets in osteosarcoma.
+Journal: Frontiers in immunology
+Authors: Li, Longqing; Liu, Jinlei; Pang, Songtao; Zhao, Yuan; Wang, Yimeng; Wen, Jia; Liu, Yongkui; Zhang, Yi; Zhang, Yan; Li, Jiazhen; Zhou, Nan; Lu, Xinchang
 
 Abstract:
 The prognosis of osteosarcoma (OS) remains heterogeneous, and the prognostic value of peripheral blood lymphocyte subsets, analyzed through machine learning (ML), is not fully explored. This study aimed to develop an ML-based prognostic model using lymphocyte subset data to improve risk stratification for OS patients.

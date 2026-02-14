@@ -1,5 +1,7 @@
 PMID: 41689340
 Title: A Paediatric Storm: <em>SARS- CoV-2</em> Unleashing Acute Necrotising Encephalopathy, Hepatic Failure, and Kidney Injury in a Single Strike.
+Journal: Journal of the College of Physicians and Surgeons--Pakistan : JCPSP
+Authors: Wang, Jiapei; Chen, Hehe
 
 Abstract:
 Null.

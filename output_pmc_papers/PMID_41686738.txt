@@ -1,5 +1,7 @@
 PMID: 41686738
 Title: A six-pronged approach to manage a Plasmodium vivax outbreak in a low- and middle-income country on the road to malaria elimination.
+Journal: PLoS neglected tropical diseases
+Authors: Labadie-Bracho, Mergiory; Baldewsingh, Gaitree K; Hiwat van Laar, Hélène; Adhin, Malti R
 
 Abstract:
 Malaria remains a global health concern, with Plasmodium vivax as predominant species in the Americas. The region has made notable strides in reducing malaria incidence, but challenges persist. Guiana Shield countries share similar malaria ecologies and vector dynamics, yet their progress toward elimination is quite different. Suriname, a low-middle income country, has pursued malaria elimination and became the first Amazonian country to receive malaria-free certification in June 2025. However, the reintroduction through imported cases from neighboring countries with higher endemicity remains a serious threat, as exemplified by the 2019 outbreak in Pelele Tepoe. The response strategy and operational measures implemented to address this P. vivax outbreak are described, along with key lessons for effective outbreak management.

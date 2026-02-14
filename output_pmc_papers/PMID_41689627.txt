@@ -1,5 +1,7 @@
 PMID: 41689627
 Title: The impact of social determinants on care for veterans with cancer: a qualitative study.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Thalji, Sam Z; Nataliansyah, M Muska; Conroy, Meghan; Mhs, Susan Tsai; Redlich, Philip N; Nelson, David A
 
 Abstract:
 The Veterans Health Administration created initiatives to enhance the monitoring of Social Determinants of Health (SDOH) among Veterans in the primary care setting. There remains suboptimal communication between primary care and cancer care specialties.

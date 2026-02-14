@@ -1,5 +1,7 @@
 PMID: 41689216
 Title: Linking everyday physical activity and capacity tests using wearable and mobile technologies in older adults and cardiac cohorts: protocol for a pilot observational study.
+Journal: BMJ open
+Authors: Caramaschi, Sara; Maus, Benjamin; Olsson, Carl Magnus; Smedberg, Daniel; Kristen, Helmuth; Whitehead, Millie; Orchard, Elizabeth; Salvi, Dario
 
 Abstract:
 This study investigates the potential of digital health technologies (DHTs), such as wearable devices and smartphones, to complement traditional submaximal functional capacity tests, such as the 6 min walk test (6MWT) and the timed up and go test (TUG). While these traditional tests are widely used due to their simplicity and relevance to daily living activities, they have limitations, including infrequent administration and the need for clinical observation. DHT offers continuous, real-world monitoring, which may accurately reflect patients' health status and effectively inform clinical decisions. However, there is a need to establish the validity of the data and metrics computed through DHT and understand patient perspectives on using such technology.

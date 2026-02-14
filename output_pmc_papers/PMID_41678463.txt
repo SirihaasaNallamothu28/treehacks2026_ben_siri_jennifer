@@ -1,5 +1,7 @@
 PMID: 41678463
 Title: Evaluation of the effectiveness of a multimodal aspiration prevention system in stroke rehabilitation nursing.
+Journal: PloS one
+Authors: Sun, Xibo; Wu, Xiulan; Zhang, Yamei; Lu, Ming; Feng, ChongRui; Liu, ChuRong; Gu, YouMing; Lu, FaHua; Liu, LiRong; Zhang, GengBiao; Dou, Zulin; Liu, Zhanhao
 
 Abstract:
 To evaluate the efficacy of the Multimodal Aspiration Prevention System (MAPS) in reducing aspiration incidence, preventing pneumonia, and improving swallowing function in stroke rehabilitation patients.

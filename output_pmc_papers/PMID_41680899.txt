@@ -1,5 +1,7 @@
 PMID: 41680899
 Title: Inference of SARS-CoV-2 exposure biomarkers using large-scale T-cell repertoire profiling.
+Journal: Genome medicine
+Authors: Vlasova, Elizaveta K; Nekrasova, Alexandra I; Komkov, Alexander Y; Izraelson, Mark; Snigir, Ekaterina A; Mitrofanov, Sergey I; Yudin, Vladimir S; Makarov, Valentin V; Keskinov, Anton A; Korneeva, Darya; Pivnyuk, Anastasia; Shelyakin, Pavel V; Mamedov, Ilgar Z; Rebrikov, Denis V; Yudin, Sergey M; Skvortsova, Veronika I; Chudakov, Dmitry M; Britanova, Olga V; Shugay, Mikhail
 
 Abstract:
 The COVID-19 pandemic offers a powerful opportunity to develop methods for monitoring the spread of infectious diseases based on their signatures in population immunity. Adaptive immune receptor repertoire sequencing (AIRR-seq) has become the method of choice for identifying T cell receptor (TCR) biomarkers encoding pathogen specificity and immunological memory. AIRR-seq can detect imprints of past and ongoing infections and facilitate the study of individual responses to SARS-CoV-2, as shown in many recent studies.

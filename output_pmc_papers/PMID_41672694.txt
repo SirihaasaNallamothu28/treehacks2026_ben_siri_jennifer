@@ -1,5 +1,7 @@
 PMID: 41672694
 Title: Major Bleeding Risk Assessment With Atrial Fibrillation Post-TAVR: The HARHP Score Results From ENVISAGE-TAVI AF.
+Journal: JACC. Cardiovascular interventions
+Authors: Dangas, George D; Unverdorben, Martin; Hengstenberg, Christian; Mehran, Roxana; Moreno, Raúl; Nombela-Franco, Luis; Kimura, Tetsuya; López-Otero, Diego; Nordbeck, Peter; Watanabe, Yusuke; Kim, Hyo-Soo; Nicolas, Johny; van Zyl, Johanna; Chen, Cathy; Noble, Stéphane; Van Mieghem, Nicolas M
 
 Abstract:
 Estimating the probability of major bleeding (MB) in patients with atrial fibrillation (AF) after transcatheter aortic valve replacement (TAVR) is important for decision-making regarding anticoagulation strategy.

@@ -1,5 +1,7 @@
 PMID: 41673398
 Title: Rhythmic sampling of multiple decision alternatives in the human brain.
+Journal: Nature communications
+Authors: Siems, Marcus; Cao, Yinan; Tohidi-Moghaddam, Maryam; Donner, Tobias H; Tsetsos, Konstantinos
 
 Abstract:
 Humans and other animals navigate decisions by sequentially attending to (sampling) subsets of the available information. The internal dynamics of the selective sampling of decision-relevant information remain unknown. Here we use magnetoencephalography recordings and neural decoding to track the spontaneous dynamics of the locus and strength of covert attention as human participants performed a three-alternative perceptual choice task. The strength of covert attention fluctuated rhythmically around 11 Hz. A shift of attention from one alternative to another tends to occur at the trough of this oscillation, presumably enabling comparisons. These shifts further reset the attentional oscillation. By contrast, at the peak of the oscillation, attention tends to increase the focus on the currently sampled alternative, presumably deepening processing of that alternative. We propose intrinsic attentional oscillations as a core mechanism governing the flexible sampling of decision alternatives.

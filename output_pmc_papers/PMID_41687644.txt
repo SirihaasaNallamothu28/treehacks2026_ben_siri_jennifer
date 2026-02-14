@@ -1,5 +1,7 @@
 PMID: 41687644
 Title: ASSOCIATION BETWEEN GALECTIN-3 AND MICROVASCULAR COMPLICATIONS IN TYPE 2 DIABETES MELLITUS: A COMPARATIVE STUDY.
+Journal: Georgian medical news
+Authors: Manzoorudeen, A; Ismail, I; Hashim, A; Eltom, A
 
 Abstract:
 Galectin-3 is a β-galactoside-binding lectin involved in inflammation and fibrosis and has been implicated in the pathogenesis of type 2 diabetes mellitus (T2DM) and its microvascular complications. This study aimed to evaluate the association between serum galectin-3 levels and microvascular complications in patients with T2DM and to determine whether this association persists after adjustment for relevant clinical factors.

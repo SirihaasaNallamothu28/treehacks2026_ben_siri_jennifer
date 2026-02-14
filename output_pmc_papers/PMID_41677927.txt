@@ -1,5 +1,7 @@
 PMID: 41677927
 Title: Spontaneous rupture of an arachnoid cyst with subdural hygroma formation: a rare case report and literature review.
+Journal: Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+Authors: Karaaslan, Mehmet Melih; Aydin, Mehmet Haktan; Kuzucu, Pelin; Borcek, Alp Ozgün
 
 Abstract:
 Arachnoid cysts are congenital, cerebrospinal fluid-filled sacs, predominantly asymptomatic and often detected incidentally. Spontaneous rupture of arachnoid cysts is an exceedingly rare complication, particularly in pediatric patients, and may present with acute neurological symptoms, including cranial nerve palsies.

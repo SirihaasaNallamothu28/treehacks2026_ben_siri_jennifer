@@ -1,5 +1,7 @@
 PMID: 41671000
 Title: Social Asymmetry and Risk of Morbidity and Mortality.
+Journal: JAMA network open
+Authors: Qin, Pei; Graham, Eileen K; Ong, Anthony D; Steptoe, Andrew
 
 Abstract:
 Social asymmetry refers to the discrepancy between subjective loneliness and objective social connections. Although both loneliness and isolation have been linked with risk of premature mortality and morbidity, the association between the 2 is poorly understood.

@@ -1,5 +1,7 @@
 PMID: 41671551
 Title: User Experiences of a Chatbot for Supporting the Self-Management of Peripherally Inserted Central Catheter for Chemotherapy: Mixed Methods Study.
+Journal: JMIR cancer
+Authors: Jo, Bokyung; Kim, Su Jin; Kim, Min Jeong; Kim, Nayeon; Lee, Ayoung; Kim, Hoyoung; Lee, Mangyeong; Cho, Juhee
 
 Abstract:
 A peripherally inserted central catheter (PICC) for vesicant or long-term chemotherapy is recommended for safe and sustainable drug delivery. However, maintaining its benefits requires regular and careful self-management. Although medical staff provide education and telephone consultation, proactive support accessible at any time or location remains limited. Therefore, we developed a rule-based chatbot to support PICC self-management.

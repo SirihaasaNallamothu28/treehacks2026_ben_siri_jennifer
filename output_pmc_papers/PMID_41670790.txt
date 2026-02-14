@@ -1,5 +1,7 @@
 PMID: 41670790
 Title: Barrier resolution via patient navigation in the context of cancer care.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Hoeve, Elizabeth S Ver; Wightman, Patrick; Calhoun, Elizabeth; Hernandez, Monica; Armin, Julie S; Hamann, Heidi A
 
 Abstract:
 Patient navigation programs have demonstrated intervention efficacy associated with barrier reduction and health outcome improvements in the context of cancer care. Greater characterization of barriers and barrier resolution likelihoods may support program optimization.

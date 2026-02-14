@@ -1,5 +1,7 @@
 PMID: 41686511
 Title: The impact of opt-out tobacco screening and treatment referrals among racially and socioeconomically diverse patients in the oncology setting.
+Journal: Cancer
+Authors: Taylor, Kathryn L; Whealan, Julia M; Davis, Kimberly M; Zhu, William J; Williams, Randi M; Breece, Chavalia J; Katter, Rachel; Wheeley, Jennifer; Beplat, Maya; Rostagni, Olivia M; Kirschner, Beau; Hasnie, Aanem A; Young, Taylor L; Thomas, Jenna; Lobo, Tania; Jackson, Lilly; Veytsman, Irina G; Kim, Chul
 
 Abstract:
 Continued smoking following a cancer diagnosis contributes to poorer treatment outcomes and lower survival rates. However, fewer than half of patients who smoke receive tobacco dependence treatment (TDT). To address the TDT barriers, an opt-out clinical program in a racially and socioeconomically diverse oncology patient population was implemented. As part of the National Cancer Institute's Cancer Center Cessation Initiative, the feasibility and impact of improved TDT access and use was assessed.

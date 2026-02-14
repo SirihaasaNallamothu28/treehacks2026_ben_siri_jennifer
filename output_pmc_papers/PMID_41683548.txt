@@ -1,5 +1,7 @@
 PMID: 41683548
 Title: Auranofin Combination Therapy: A New Frontier in Cancer Treatment.
+Journal: Molecules (Basel, Switzerland)
+Authors: Guzman-Gomez, Diana Laura; Telukutla, Srinivasa Reddy; Ojha, Ruchika; Bhargava, Suresh K; Plebanski, Magdalena
 
 Abstract:
 Auranofin, a gold(I)-based compound initially developed for the treatment of rheumatoid arthritis, has emerged as a promising anticancer agent with a multimodal mechanism of action. This review comprehensively examines the therapeutic potential of auranofin in oncology focusing on its ability to synergize with conventional and emerging cancer treatments. Here, we discuss the unique pharmacological properties of auranofin, including thioredoxin reductase inhibition, reactive oxygen species induction, and modulation of key apoptotic pathways. Moreover, this article highlights new recent evidence on its ability to synergize with other cancer treatments such as chemotherapy, immunotherapy, and targeted therapies. Particular emphasis is placed on the role of auranofin in overcoming drug resistance and its potential as an adjuvant in precision medicine. By analyzing both preclinical and clinical data, this review provides critical insights into the repositioning of auranofin as a versatile component in contemporary cancer treatment paradigms, while addressing current challenges and future directions for gold-based therapeutics in oncology.

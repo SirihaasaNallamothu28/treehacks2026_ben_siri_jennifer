@@ -1,5 +1,7 @@
 PMID: 41685619
 Title: Perceptions of ischaemic heart disease risk among Indian migrants in Australia: a qualitative study.
+Journal: Primary health care research & development
+Authors: Kaur, Kunwar; Abu-Qamar, Ma'en Zaid; Rashidi, Amineh; McKay, Nilufeur; Saunders, Rosemary
 
 Abstract:
 Ischaemic heart disease (IHD) is a global health issue, with people of Indian origin facing earlier onset and more severe cases, leading to higher mortality at younger ages compared to Western countries. Indian migrants maintain similar risks post-migration. Managing modifiable risk factors and improving risk knowledge and health-seeking behaviours are essential, but research on IHD risk perceptions among Indian migrants is limited.

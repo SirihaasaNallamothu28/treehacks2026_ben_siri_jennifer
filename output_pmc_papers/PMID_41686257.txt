@@ -1,5 +1,7 @@
 PMID: 41686257
 Title: Comorbidity, treatment toxicity and satisfaction with cancer care: an international cross-sectional study based on the EORTC PATSAT-C33 and OUT-PATSAT7.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Brédart, Anne; Kop, Jean-Luc; Shamieh, Omar; Fox, Louis; Alrjowb, Waleed; Conroy, Thierry; Turhal, Nazim Serdar; Arraras, Ignacio Juan; Bultijnck, Renée; Harle, Amélie; Hemelrijck, Mieke Van; Pinto, Eleonora; Roth, Eric; Ioannidis, Georgios; Costantini, Anna; Chalk, Tara; Young, Teresa; Rohde, Gudrun; Ishiki, Hiroto; Kikawa, Yuichiro; Schmidt, Heike; Vassiliou, Vassilios; Shayler, Stephanie; Marchal, Frédéric; Lehmann, Jens
 
 Abstract:
 This multi-national cross-sectional study assessed socio-demographic and clinical determinants of satisfaction with cancer care in patients enrolled from hospital inpatient and outpatient settings.

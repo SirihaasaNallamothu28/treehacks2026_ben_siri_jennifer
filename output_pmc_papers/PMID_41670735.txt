@@ -1,5 +1,7 @@
 PMID: 41670735
 Title: Mechanisms of simplified sitting Badunjin effects on symptom burden: a network-based cross-lagged analysis in advanced cancer patients.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Zheng, Jianwei; Zou, Huina; Lu, Yuanfeng; Chen, Liangying; Zheng, Meihua; Zhu, Zheng; Cheng, Wan; Xiao, Huimin
 
 Abstract:
 This study used contemporaneous networks and cross-lagged panel network (CLPN) to examine how the Simplified Sitting Badunjin (SSBDJ) intervention interacted with the fatigue, sleep disturbances, and quality of life (QoL) at different follow-up stages in advanced cancer patients.

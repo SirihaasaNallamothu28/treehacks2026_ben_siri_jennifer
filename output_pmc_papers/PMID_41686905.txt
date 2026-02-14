@@ -1,5 +1,7 @@
 PMID: 41686905
 Title: At-home movement state classification using totally implantable cortical-basal ganglia neural interface.
+Journal: Science advances
+Authors: Ramesh, Rithvik; Azgomi, Hamid Fekri; Louie, Kenneth H; Balakid, Jannine P; Marks, Jacob H; Wang, Doris D
 
 Abstract:
 Decoding human movement from invasive neural signals has traditionally relied on complex machine learning algorithms using data collected from short-term laboratory tasks, limiting understanding of brain function during natural behavior and hindering development of clinically viable closed-loop neuromodulation. Here, we demonstrate the first in-human, at-home classification of a specific movement state-walking-using a fully implantable, bidirectional neurostimulator. In four individuals with Parkinson's disease, we recorded chronic motor cortex and globus pallidus activity synchronized with wearable kinematic data across over 80 hours of unsupervised daily activity. We identified highly predictive personalized spectral biomarkers of gait and validated their performance. Critically, we showed that these biomarkers could drive real-time movement state classification using the neurostimulator's embedded linear discriminant classifier, satisfying device-level constraints for closed-loop stimulation. Our results establish a previously unidentified pipeline for real-world neural decoding and scalable framework for personalized adaptive neuromodulation, expanding the translational reach of implantable brain-computer interfaces.

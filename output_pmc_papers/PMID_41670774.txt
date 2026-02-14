@@ -1,5 +1,7 @@
 PMID: 41670774
 Title: Treatment failure after endoscopic third ventriculostomy with choroid plexus cauterization, endoscopic third ventriculostomy alone, and ventriculoperitoneal shunt in congenital hydrocephalus: a network and time-to-event meta-analysis.
+Journal: Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+Authors: Darko, Kwadwo; Kumar, Navina Magesh; Ferguson, Robert; Sam, Ogia; Opare-Addo, Michael Nii; Sarpong, Marfo Kweku; Tu, Albert
 
 Abstract:
 Congenital hydrocephalus is commonly treated with endoscopic third ventriculostomy (ETV), ETV with choroid plexus cauterization (ETV + CPC), or ventriculoperitoneal shunting (VPS), yet outcomes vary, and treatment failure is frequent. This study examines treatment failure between procedures in patients with congenital hydrocephalus.

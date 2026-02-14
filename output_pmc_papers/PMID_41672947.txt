@@ -1,5 +1,7 @@
 PMID: 41672947
 Title: Association Between Bronchiectasis and Serious Infections in Microscopic Polyangiitis and Granulomatosis With Polyangiitis From the J-CANVAS.
+Journal: International journal of rheumatic diseases
+Authors: Omura, Satoshi; Kida, Takashi; Inoue, Hironori; Shimada, Yuki; Nakagomi, Daiki; Abe, Yoshiyuki; Takizawa, Naoho; Nomura, Atsushi; Kukida, Yuji; Kondo, Naoya; Takagi, Hirosuke; Endo, Koji; Hirata, Shintaro; Azuma, Naoto; Takeuchi, Tohru; Fukui, Shoichi; Kamada, Kazuro; Yanai, Ryo; Matsuo, Yusuke; Shimojima, Yasuhiro; Nishioka, Ryo; Okazaki, Ryota; Takata, Tomoaki; Moriyama, Mayuko; Takatani, Ayuko; Miyawaki, Yoshia; Shirai, Tsuyoshi; Dobashi, Hiroaki; Ito, Takafumi; Matsumoto, Isao; Takada, Toshihiko; Ito-Ihara, Toshiko; Yajima, Nobuyuki; Kawaguchi, Takashi; Seno, Takahiro; Kohno, Masataka; Wada, Makoto; Kawahito, Yutaka
 
 Abstract:
 Bronchiectasis is known to be more frequently observed in patients with microscopic polyangiitis (MPA) and granulomatosis with polyangiitis (GPA) compared to the general population. However, its association with patient outcomes and the potential influence of immunosuppressive treatment on this association remain unclear.

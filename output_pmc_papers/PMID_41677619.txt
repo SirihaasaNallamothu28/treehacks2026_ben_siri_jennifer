@@ -1,5 +1,7 @@
 PMID: 41677619
 Title: Temporal and Spatial Gene Expression Dynamics in Neonatal HI Hippocampus with Focus on Arginase.
+Journal: Cells
+Authors: Smith, Michael A; Natarajan, Eesha; Lizama-Valenzuela, Carlos; Arnold, Thomas; Stroud, David; Larpthaveesarp, Amara; Alvira, Cristina; Fineman, Jeffrey R; Ferriero, Donna M; Maltepe, Emin; Gonzalez, Fernando; Mike, Jana K
 
 Abstract:
 Hypoxic-ischemic (HI) brain injury triggers a dynamic, multi-phase response involving early microglial efferocytosis followed by extracellular matrix (ECM) deposition and scar formation. Arginase-1 (ARG1), a key enzyme in tissue repair, is implicated in both processes, yet its role in neonatal microglia remains poorly defined. We characterize ARG1-linked pathways in neonatal microglia, identifying distinct efferocytic and fibrotic phases post-HI.

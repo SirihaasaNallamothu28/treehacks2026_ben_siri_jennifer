@@ -1,5 +1,7 @@
 PMID: 41674515
 Title: The impact of music intervention during emergency suturing on patients' pain and anxiety: a meta-analysis.
+Journal: Frontiers in public health
+Authors: Zhou, Xiaotian; Li, Zehua; Mei, Tianshu; Fang, Meng; Huang, Ping
 
 Abstract:
 To evaluate the effects of music intervention on pain and anxiety in patients undergoing emergency suturing.

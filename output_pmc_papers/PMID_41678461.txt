@@ -1,5 +1,7 @@
 PMID: 41678461
 Title: Prevalence and determinants of hypertension among people living with HIV in Ghana: A cross-sectional study.
+Journal: PloS one
+Authors: Abdulai, Kasim; Osman Aleboko, Safianu; Anane, Isaac; Addae-Mensah, Ivan; Bawah, Abdul-Malik
 
 Abstract:
 Hypertension is a major health concern in Sub-Saharan Africa (SSA). People living with human immunodeficiency virus (PLHIV) face unique risks for cardiometabolic disorders. However, the factors associated with hypertension among PLHIV have been understudied in SSA. This study examines the prevalence and determinants of hypertension among PLHIV in Ghana.

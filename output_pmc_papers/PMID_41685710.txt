@@ -1,5 +1,7 @@
 PMID: 41685710
 Title: Unravelling the role of inflammatory markers in coronary artery disease risk via association, mediation and prediction analyses.
+Journal: Journal of global health
+Authors: Zhang, Hao; Liu, Yuxin; Yan, Yu; Qi, Jike; Lin, Hua; Jiang, Yuchen; Wang, Xinyi; Cao, Hongyan; Jiang, Zhou; Zhang, Shuo; Wang, Ting; Xu, Yue; Song, Weiyi; Wang, Ke; Zheng, Chu; Zeng, Ping
 
 Abstract:
 Systemic inflammation plays a critical role in coronary artery disease (CAD), yet comprehensive profiling of inflammatory markers and their integration into predictive models remain incompletely characterised. We here sought to identify key CAD-related inflammation markers and construct an integrated inflammatory risk score (IRS) to enhance conventional cardiovascular risk prediction.

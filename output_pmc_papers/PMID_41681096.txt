@@ -1,5 +1,7 @@
 PMID: 41681096
 Title: Influence of Chronic Lymphocytic Thyroiditis and <i>BRAF V600E</i> Mutation on Clinicopathological Features in Papillary Thyroid Carcinoma With Different Tumor Size.
+Journal: Annali italiani di chirurgia
+Authors: Yang, Yu-Xin; Feng, Jia-Wei; Ye, Jing; Wu, Wan-Xiao; Jiang, Yong
 
 Abstract:
 Chronic lymphocytic thyroiditis (CLT) is recognized as the most prevalent inflammatory disorder of the thyroid, while the B-Raf proto-oncogene, serine/threonine kinase (<i>BRAF</i>) <i>V600E</i> mutation is the most frequently identified genetic alteration in papillary thyroid carcinoma (PTC). This study aims to explore the relationship between CLT and <i>BRAF V600E</i> mutation and to assess their combined impact on tumor behavior across different tumor sizes.

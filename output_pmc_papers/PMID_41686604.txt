@@ -1,5 +1,7 @@
 PMID: 41686604
 Title: Riedel thyroiditis secondary to papillary thyroid carcinoma: A case report.
+Journal: Medicine
+Authors: Zhao, Tongquan; Wang, Shuqin; Zhang, Min
 
 Abstract:
 Riedel thyroiditis (RT) is categorized as an immunoglobulin G4-related disease (IgG4-RD), a condition that is seldom encountered in clinical practice. IgG4-RDs have been linked to an elevated risk of malignancy. Although prior studies have documented instances where IgG4-RDs were induced by malignant tumors, such occurrences are still rarely reported in both the domestic and international literature.

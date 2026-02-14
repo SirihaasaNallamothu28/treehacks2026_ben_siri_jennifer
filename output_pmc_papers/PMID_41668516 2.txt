@@ -1,0 +1,8 @@
+PMID: 41668516
+Title: Neural Dynamics of Attentional Boost Effect.
+
+Abstract:
+The attentional boost effect refers to enhanced memory for information presented concurrently with target detection. This study explored the temporal neural dynamics of attentional boost effect during encoding and recognition to clarify whether it results from target enhancement or distractor inhibition.
+A dual-task paradigm combining digit detection with word memorization was employed. Electroencephalography was recorded throughout the encoding and recognition stages. Event-related potential components, including P1, N1, P2, N2, P3, FN400, and late positive component (LPC), were analyzed across four regions of interest to track the time course of neural processing associated with attentional facilitation.
+Recognition accuracy for target-associated words was significantly higher than for baseline and distractor words, confirming a robust attentional boost effect. Event-related potential analyses revealed that during the encoding stage, target words elicited shorter P2/N2 latencies and larger P3 amplitudes. During the recognition stage, target words evoked more positive FN400 and LPC responses relative to new words.
+The attentional boost effect emerges from the combined operation of target enhancement and distractor inhibition. These findings outline the neural timeline of attentional boost effect and provide insights for developing cognitive enhancement and rehabilitation strategies.

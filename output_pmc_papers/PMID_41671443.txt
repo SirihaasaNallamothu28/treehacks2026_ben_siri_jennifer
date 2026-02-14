@@ -1,5 +1,7 @@
 PMID: 41671443
 Title: Geographic Variability in Germline Genetic Testing for Prostate Cancer: A Nationwide Medicare Claims Study With Evidence of Low Uptake.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Korn, Stephan M; Qian, Zhiyu; Zurl, Hanna; Piccolini, Andrea; Pohl, Klara K; Lipsitz, Stuart R; Zhang, Jianyi; Kibel, Adam S; Moore, Caroline M; Rana, Huma Q; Kilbridge, Kerry L; Shariat, Shahrokh F; Giri, Veda N; Loeb, Stacy; Trinh, Quoc-Dien; Cole, Alexander P
 
 Abstract:
 Germline genetic testing is recommended for patients with prostate cancer, both localized and advanced, based on disease and family history criteria, with results that may inform targeted therapy. However, real-world utilization of germline genetic testing and potential disparities in access remain inadequately characterized. We analyzed germline genetic testing utilization in a national cohort of Medicare beneficiaries with prostate cancer, examining geographic variation and factors associated with testing.

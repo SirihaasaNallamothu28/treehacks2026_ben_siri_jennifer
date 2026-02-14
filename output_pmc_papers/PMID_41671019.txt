@@ -1,5 +1,7 @@
 PMID: 41671019
 Title: The Value of Rhythm Control in Atrial Functional Mitral Regurgitation Among Patients With Preserved Left Ventricular Ejection Fraction.
+Journal: Kardiologiia
+Authors: Safarova, A F; Kobalava, Zh D; Adam, S B; Timofeeva, T M
 
 Abstract:
 To assess the incidence, severity, and predictors of functional atrial mitral regurgitation (FAMR) and its impact on outcomes in patients with heart failure with preserved ejection fraction (HFpEF) depending on the presence of atrial fibrillation (AF).

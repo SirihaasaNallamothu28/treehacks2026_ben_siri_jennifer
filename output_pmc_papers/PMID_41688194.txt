@@ -1,5 +1,7 @@
 PMID: 41688194
 Title: [Targeted regulation of tumor neovascularization to improve the efficacy of neoadjuvant immunotherapy and chemotherapy in locally advanced gastric cancer].
+Journal: Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery
+Authors: Zhu, Z G
 
 Abstract:
 In view of the abnormal network structure and function of newly formed blood vessels in tumor tissues, which often lead to an immunosuppressive state in the tumor microenvironment, resulting in varying degrees of limitations on the efficacy of immune checkpoint inhibitors (ICI) and chemotherapy. This phenomenon is one of the mechanisms underlying the formation of "cold tumors". Both experimental studies and clinical trials have found that targeted regulation of tumor neovascularization to promote the "normalization" of their structure and function is beneficial for transforming the tumor immunosuppressive microenvironment into an immunosupportive state. It enables the conversion of "cold tumors" to "hot tumors" to improve the efficacy of ICI combined with chemotherapy. This article introduces the preliminary efficacy of preoperative neoadjuvant ICI, chemotherapy combined with targeted tumor neovascular therapy for locally advanced gastric cancer(LAGC)in recent years, and we look forward to more clinical studies to further confirm the benefits of this treatment regimen.

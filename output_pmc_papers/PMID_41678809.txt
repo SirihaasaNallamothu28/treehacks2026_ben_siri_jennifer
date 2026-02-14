@@ -1,5 +1,7 @@
 PMID: 41678809
 Title: IV Tenecteplase Before Thrombectomy Compared With Thrombectomy Alone in Patients With Stroke Due to a Large Vessel Occlusion.
+Journal: Neurology
+Authors: Gerschenfeld, Gaspard; Lapergue, Bertrand; Seners, Pierre; Piotin, Michel; Chausson, Nicolas; Scarcia, Luca; Arquizan, Caroline; Costalat, Vincent; Olindo, Stephane; Marnat, Gaultier; Guillon, Benoit; Bourcier, Romain; Yger, Marion; Allard, Julien; Richard, Sebastien; Gory, Benjamin; Pico, Fernando; Macian Montoro, Francisco; Mounayer, Charbel; Ben Hassen, Wagih; Venditti, Laura; Caroff, Jildaz; Clarençon, Frédéric; Consoli, Arturo; Turc, Guillaume; Alamowitch, Sonia
 
 Abstract:
 The benefit of IV thrombolysis (IVT) with alteplase before endovascular thrombectomy (EVT) compared with EVT alone has been shown to be limited and time dependent. Data on tenecteplase, its recommended alternative, are limited. We aimed to assess the efficacy and safety of IVT with tenecteplase plus mechanical thrombectomy (TNK + EVT) compared with EVT in patients with large vessel occlusion stroke and determine whether its potential benefit decreases with treatment time.

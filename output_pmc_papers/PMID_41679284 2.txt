@@ -1,0 +1,5 @@
+PMID: 41679284
+Title: A modular alliance: Probiotics and macrophages converge on glioblastoma.
+
+Abstract:
+Glioblastoma's antigenic heterogeneity and immunosuppressive microenvironment limit therapeutic efficacy. In this issue, Zhang et al. present a multimodal platform where engineered probiotics "paint" diverse tumor cells with a common tag, enabling universal chimeric antigen receptor (CAR) macrophages to attack. This elegant yet complex strategy offers a new blueprint for adaptable immunotherapy.

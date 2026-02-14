@@ -1,0 +1,7 @@
+PMID: 41672621
+Title: [Review on Development of Detection, Prevention and Treatment Systems for Adolescent Idiopathic Scoliosis].
+Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+Authors: Liu, Jingduan; Gu, Enpeng; An, Guojun; Li, Dan; Liu, Baotao; Zhang, Dechen
+
+Abstract:
+The overall treatment process of adolescent idiopathic scoliosis (AIS) encompasses prevention, detection, diagnosis, and treatment. With advancements in technology and in-depth clinical research, this paper provides a comprehensive review of cutting-edge developments in the field of AIS. These include preventive and diagnostic measures such as genetic testing, optimized observational risk assessment, and the construction of risk models, as well as the evolution of precise non-surgical and minimally invasive, intelligent surgical treatment plans. The study aims to assist medical professionals in scientific research and clinical decision-making.

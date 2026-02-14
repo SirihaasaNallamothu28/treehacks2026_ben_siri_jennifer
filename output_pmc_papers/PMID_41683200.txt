@@ -1,5 +1,7 @@
 PMID: 41683200
 Title: Bioelectrical Impedance and GLIM Criteria Identify Early Nutritional Deterioration and Mortality in Acute Leukemia Patients Undergoing Chemotherapy.
+Journal: Nutrients
+Authors: Dalla Rovere, Lara; Tapia Guerrero, María José; Doulatram-Gamgaram, Viyey K; Garcia-Olivares, María; Del Arco-Romualdo, Belén; Gonzalo-Marín, Montserrat; Mora, María Rosario Vallejo; Decoud, Daniel Barrios; Aizpún, Carola Díaz; Sánchez-Torralvo, Francisco José; Herola-Cobos, Cristina; Hardy-Añón, Carmen; Hernandez-Sanchez, Agustín; García-Almeida, José Manuel; Olveira, Gabriel
 
 Abstract:
 Malnutrition is highly prevalent in patients with acute leukemia and is frequently underrecognized at diagnosis. Traditional screening tools based on anthropometry often fail to identify early nutritional deterioration. This study aimed to evaluate the prognostic utility of a comprehensive morphofunctional assessment-including bioelectrical impedance vector analysis (BIVA), handgrip strength (HGS), and muscle ultrasound-conducted at diagnosis and after induction therapy, to evaluate the prognostic association with 12-month mortality.

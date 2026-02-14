@@ -1,0 +1,7 @@
+PMID: 41682338
+Title: Development of a Dual Photoacoustic-Ultrasound Imaging System: Current Status and Future Perspectives.
+Journal: Sensors (Basel, Switzerland)
+Authors: Pham, Van Hiep; Nguyen Van, Tuan
+
+Abstract:
+Integrated photoacoustic and ultrasound (PAUS) imaging is a promising technology for both preclinical and clinical applications, as it exploits both advantages of photoacoustic (PA) and ultrasound (US) imaging in high resolutions and acoustic penetration depth, respectively. Using a shared US transducer, data acquisition (DAQ), and signal processing framework, the PAUS system provides simultaneous functional and anatomical information. To date, numerous studies have been reported to demonstrate the capabilities and proposed innovative approaches for the development of the PAUS probes and systems. Key performance parameters, including probe resolution, extending the region of interest (ROI), and increasing the scanning speed, play critical roles in improving image quality, expanding the scanning area, and reducing the scanning time, respectively. This review aims to summarize recent advances in PAUS probes and systems designed for rapid image acquisition. The principles and signal processing are introduced as the fundamentals for designing the PAUS probes and systems. The summaries of the PAUS probe and system design are presented and compared systematically. Furthermore, new approaches in the development of PAUS probes and systems are proposed to enhance their proficiencies in preclinical and clinical applications.

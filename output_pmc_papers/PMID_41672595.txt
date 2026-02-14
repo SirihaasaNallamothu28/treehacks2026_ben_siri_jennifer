@@ -1,5 +1,7 @@
 PMID: 41672595
 Title: Genetically engineered ErbB2 overexpression sensitizes organoid-derived tumors to checkpoint inhibition in a syngeneic model of gastric cancer.
+Journal: Journal for immunotherapy of cancer
+Authors: He, Jiazhuo; Kirsche, Lydia; Nascakova, Zuzana; Manfredi, Francesco; Magnani, Chiara F; Papa, Giovanni; Azizi, Flora; Leary, Peter; Müller, Anne
 
 Abstract:
 ERBB2/HER2 is overexpressed or mutated in ~15% of gastric cancers due to amplification or mutation of the <i>ERBB2</i> locus. While the tumor cell-intrinsic consequences of ERBB2 overexpression are well understood, much less is known about its effects on the tumor microenvironment.

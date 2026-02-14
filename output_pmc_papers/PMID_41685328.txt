@@ -1,5 +1,7 @@
 PMID: 41685328
 Title: Timing and intensity of proton pump inhibitor exposure hampers overall survival in patients with metastatic non-small cell lung cancer treated with immune checkpoint inhibitors: a retrospective cohort study.
+Journal: Frontiers in immunology
+Authors: Japelj, Nuša; Horvat, Nejc; Jazbar, Janja; Kos, Mitja; Kapušin, Veronika Pelicon; Knez, Lea
 
 Abstract:
 Proton pump inhibitor (PPI) use has been associated with reduced immune checkpoint inhibitor (ICI) efficacy in metastatic non-small cell lung cancer (mNSCLC) with evidence limited to their use during a short time period around ICI initiation. This study evaluated the associations between the timing and intensity of PPI exposure up to one year before ICI initiation and overall survival (OS) in mNSCLC patients treated with ICIs.

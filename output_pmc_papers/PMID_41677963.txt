@@ -1,5 +1,7 @@
 PMID: 41677963
 Title: Safety and Efficacy of Triple Therapy Containing Encorafenib, Cetuximab, and Binimetinib for BRAF V600E-Mutated Colorectal Cancer: a Systematic Review and Meta-Analysis.
+Journal: Journal of gastrointestinal cancer
+Authors: Ansab, Muhammad; Ramzan, Noor Ul Huda; Ishaque, Ghazal; Araib, Eiman; Rath, Shree; Nisa, Farwa; Qasim, Soban Ali; Dilawar, Esha; Sahin, Ibrahim Halil
 
 Abstract:
 BRAF V600E-mutated colorectal cancer (CRC) is associated with poor prognosis and resistance to standard chemotherapy. Emerging evidence, including the BEACON trial and subsequent real-world studies, suggests that triple therapy targeting BRAF oncoprotein, epidermal growth factor receptor (EGFR), and MEK improves clinical outcomes.

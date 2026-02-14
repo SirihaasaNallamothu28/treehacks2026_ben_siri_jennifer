@@ -1,5 +1,7 @@
 PMID: 41678559
 Title: Anthropometric and biochemical nutritional indicators and survival in women with breast cancer: A retrospective cohort study.
+Journal: PloS one
+Authors: Sánchez-Saldaña, Lourdes; Lozada-Urbano, Michelle; Sullcahuaman-Allende, Yasser; Cotrina-Concha, José; Velarde-Méndez, Marco; Chavez-Chocano, Jorge; Rodríguez-Coyla, Enrique; Zambrano-Jaimes, Luis; Mantilla-Quispe, Raúl; Rosales-Rimache, Jaime
 
 Abstract:
 Weight gain has been observed in breast cancer (BC) survivors, and this can affect survival and lead to adverse health effects such as overweight and obesity. It may be associated with an increase in cancer recurrence of between 35 and 40% with worse survival results, especially in those with estrogen receptor-positive breast cancer. Therefore, this study aims to determine the association between nutritional status and survival in women with BC at a Peruvian Specialized Oncology Institute.

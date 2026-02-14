@@ -1,5 +1,7 @@
 PMID: 41677578
 Title: High vulnerability of medial prefrontal pyramidal neurons in post-stroke, vascular, Alzheimer's disease, and aging-related dementias.
+Journal: Alzheimer's & dementia : the journal of the Alzheimer's Association
+Authors: Jobson, Dan D; Hase, Yoshiki; Walker, Lauren; Polvikoski, Tuomo; Khundakar, Ahmad A; Allan, Louise; Kalaria, Raj N
 
 Abstract:
 The medial prefrontal cortex (mPFC) is critical for executive function, behavioral inhibition, and memory. Its high vulnerability to dementia, compared to other prefrontal regions, remains unclear.

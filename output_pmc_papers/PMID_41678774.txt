@@ -1,5 +1,7 @@
 PMID: 41678774
 Title: Integrating Symptom Screening in Pediatrics Into the Epic Electronic Health Record: Development and Acceptability for Pediatric Cancer Patients.
+Journal: JCO clinical cancer informatics
+Authors: Yan, Adam P; Saso, Emily; Shannon, Julia; Laird, Heather; Ramdeo, Alyssa; Deliva, Robin; Baron, Samantha; Cardiff, Bren; Rosenfield, Daniel; Graham, Ashley; Ramnani, Mihir; Syed, Zahra; Connolly, Denise; Starr, Allison; Patel, Priya; Dupuis, L Lee; Sung, Lillian
 
 Abstract:
 Calls to implement routine symptom screening among pediatric oncology patients are increasing. Objectives were to develop and evaluate the usability of Symptom Screening in Pediatrics (SSPedi), a validated patient reported outcome tool, when integrated into the Epic electronic health record.

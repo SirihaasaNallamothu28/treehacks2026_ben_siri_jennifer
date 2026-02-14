@@ -1,5 +1,7 @@
 PMID: 41686586
 Title: "Efficacy and safety of bimekizumab in moderate-to-severe hidradenitis suppurativa: A systematic review and meta-analysis of RCTs".
+Journal: Medicine
+Authors: Assiri, Ahmad; Almahdi, Muhammad; Mobarki, Osama; Sumayli, Rimas; Alharbi, Nawaf; Alharbi, Wesam; Alhazmi, Suhayb; Alghamdi, Abdulaziz; Alturkistani, Mohammed
 
 Abstract:
 Hidradenitis suppurativa (HS) is a chronic inflammatory dermatosis with limited treatment options. This systematic review and meta-analysis aimed to evaluate the evidence regarding the use of bimekizumab for treating moderate-to-severe HS, focusing on its clinical efficacy, safety, and outcomes across different clinical parameters.

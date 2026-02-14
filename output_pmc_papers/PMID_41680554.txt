@@ -1,5 +1,7 @@
 PMID: 41680554
 Title: Recent advances in non-pharmacological interventions for symptom burden management in breast cancer patients treated with ovarian function suppression.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Li, Yuan; Chen, Yunyun; Wang, Suxing; Wang, Xiaolong; Xing, Yufei; Wu, Qing; Fang, Qiong
 
 Abstract:
 Ovarian function suppression (OFS) treatment causes a sudden drop in patients' estrogen to postmenopausal levels, accompanied by associated side effects that are often abrupt and intense. This study aimed to provide an evidence base for clinical practice by systematically searching for the best current evidence on managing symptom burden in OFS-treated breast cancer patients.

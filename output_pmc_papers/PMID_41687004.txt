@@ -1,5 +1,7 @@
 PMID: 41687004
 Title: Clinical Epidemiology of Cancer in People Living With HIV in Germany: Retrospective, Observational, Multicenter Federated Claims Data Analysis.
+Journal: JMIR public health and surveillance
+Authors: Reiter, Bastian; Andreas, Stefanie; Schumann, Linnea; Bender, Bernd; Schnorr, Isabel; Heidenreich, Andreas; Stephan, Christoph; Prunotto, Andrea; Laukhuf, Andrea; Wehrle, Julius; Müller, Matthias; Aubele, Fabio Paul; Hagedorn, Marlien; Albashiti, Fady; Seybold, Ulrich; Roider, Julia; Stecher, Melanie; Maier, Daniel; Vehreschild, Jörg Janne
 
 Abstract:
 People living with HIV are at increased risk for developing cancer, a leading cause of death in this population. The management of cancer in people living with HIV is particularly challenging, necessitating specialized, interdisciplinary care. However, insights into cancer care provision for people living with HIV in Germany remain scarce.

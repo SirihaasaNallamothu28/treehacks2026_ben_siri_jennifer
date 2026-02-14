@@ -1,5 +1,7 @@
 PMID: 41686842
 Title: A rare ORAI1 missense variant associates with risk of vascular diseases in White British adults.
+Journal: PloS one
+Authors: Shawer, Heba; Cheng, Chew W; Hemmings, Karen E; Aldawsari, Abeer M; Revilla-González, Gonzalo; Stocco, Fabio; Shi, Jian; Beech, David J; Bailey, Marc A
 
 Abstract:
 Pathological remodelling of native vascular smooth muscle cells (VSMC) within the arterial wall is a key contributor to vascular disease. A driver of this remodelling is platelet-derived growth factor BB (PDGF-BB) and its signalling via activation of the store-operated calcium ion channel, ORAI1. Here, we investigated if there are associations of ORAI1 polymorphisms with human cardiovascular disease.

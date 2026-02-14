@@ -1,5 +1,7 @@
 PMID: 41688105
 Title: Relationships between alcohol use and dementia: protocol for an observational study in the UK Clinical Practice Research Datalink.
+Journal: BMJ open
+Authors: Fatih, Nasri; Bhaskaran, Krishnan; Kwok, Aden Chun Hei; Ebmeier, Klaus P; Nichols, Thomas; Gelernter, Joel; Christodoulou, Maria D; Topiwala, Anya
 
 Abstract:
 Alcohol consumption is an increasingly recognised modifiable risk factor for dementia, yet whether it has differential impacts on dementia subtypes and its role in disease progression remains unclear. This study aims to: (1) quantify the association between alcohol intake and incidence of dementia subtypes and (2) examine whether individuals who drink heavily and develop dementia referred to hereafter as 'alcohol-related'-have poorer post-diagnosis outcomes compared with other dementia cases. Clarifying these relationships will determine whether alcohol selectively increases risk for specific dementia phenotypes or broadly heightens neurodegenerative vulnerability, with implications for prevention, clinical counselling and therapeutic targeting.

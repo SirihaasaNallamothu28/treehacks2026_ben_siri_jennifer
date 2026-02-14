@@ -1,5 +1,7 @@
 PMID: 41671282
 Title: Life stressors and mental health: Depressive symptoms, anxiety, and suicidal ideation or intent during and after the COVID-19 pandemic.
+Journal: PloS one
+Authors: Meshkat, Shakila; Han, Xiaoxuan; Lin, Qiaowei; Tassone, Vanessa K; Janssen-Aguilar, Reinhard; Lou, Wendy; Major, Shauna; Cooper, Michael; Greenshaw, Andrew; Bhat, Venkat
 
 Abstract:
 This study aimed to investigate the associations between life stressors and depressive symptoms, anxiety, and suicidal ideation or intent, while also examining how COVID-19 pandemic influenced these associations.

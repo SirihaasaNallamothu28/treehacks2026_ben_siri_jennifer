@@ -1,5 +1,7 @@
 PMID: 41671429
 Title: Immune Checkpoint Inhibitors Did Not Exacerbate Autoimmune Rheumatic Disease Activity in Patients With Cancer.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Tsai, Ping-Han; Hsieh, Chen-I; Kuo, Yung-Chia; Yu, Shao-Ming; Kuo, Chang-Fu; Wang, Yu-Ching; Hsieh, Jason Chia-Hsun
 
 Abstract:
 The safety of immune checkpoint inhibitors (ICIs) in patients with cancer and preexisting or acquired autoimmune rheumatic diseases (ARDs) remains unclear. This study aimed to evaluate the safety of ICIs in patients with cancer and preexisting or acquired ARDs using a relatively large real-world database.

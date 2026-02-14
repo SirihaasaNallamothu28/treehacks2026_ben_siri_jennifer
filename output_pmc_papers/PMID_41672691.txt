@@ -1,5 +1,7 @@
 PMID: 41672691
 Title: Efficacy and Safety of Intravenous Antiplatelet Therapy in Acute Myocardial Infarction With Cardiogenic Shock.
+Journal: JACC. Cardiovascular interventions
+Authors: Elhadad, Anthony; El Zouhayri, Omar; Silvain, Johanne; Kerneis, Mathieu; Sulman, David; Procopi, Niki; Devos, Perrine; Beaupré, Frederic; Charleux, Pierre; Giovachini, Louis; Ferrante, Arnaud; Braik, Nassim; Guedeney, Paul; Barthélémy, Olivier; Combes, Alain; Chommeloux, Juliette; Rouanet, Stéphanie; Montalescot, Gilles; Zeitouni, Michel
 
 Abstract:
 Acute myocardial infarction complicated by cardiogenic shock (AMI-CS) requires potent antiplatelet therapy while minimizing bleeding complications. Despite the increased use of intravenous (IV) antiplatelet therapy in this setting, data regarding its use remain limited.

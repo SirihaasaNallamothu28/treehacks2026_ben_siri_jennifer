@@ -1,5 +1,7 @@
 PMID: 41686582
 Title: Clinicopathological characteristics and prognosis of brain metastasis in non-small cell lung cancer: A retrospective study.
+Journal: Medicine
+Authors: Fu, Xiaodan; Liu, Qingwei; Jia, Jinli; Wang, Minyuan
 
 Abstract:
 This study aims to investigate the clinicopathological features and prognosis of brain metastasis in non-small cell lung cancer (NSCLC). A total of 80 patients with brain metastases from NSCLC admitted to our hospital from Jan 2021 to Dec 2023 were retrospectively selected as patients in the brain metastasis group. One hundred patients with NSCLC who were admitted during the same period were selected as patients with non-brain metastasis. The relationship between different clinicopathological characteristics of lung cancer and brain metastasis was analyzed, the survival curves of patients in the 2 groups were compared, and the prognostic impact was analyzed by univariate and multifactor Logistics regression. The differences were statistically significant among histological types, metastasis time, and gene mutations (P < .05). The results of single and multivariate Logistics regression analysis showed that age, smoking history, T-stage, and tumor node metastasis stage were independent factors influencing the prognostic outcome of patients with brain metastasis of NSCLC (P < .05). Age, smoking history, T-stage, and tumor node metastasis stage are independent influencing factors on the prognosis of patients with brain metastases from NSCLC, and intervention should be taken based on the influencing factors.

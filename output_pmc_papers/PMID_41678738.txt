@@ -1,5 +1,7 @@
 PMID: 41678738
 Title: Anti-inflammatory activity and potential anti-inflammatory mechanisms of Artemisia scoparia essential oil.
+Journal: The Journal of pharmacy and pharmacology
+Authors: Zhang, Panpan; Xu, Xinyu; Wang, Haoyu; Zhang, Yuhong
 
 Abstract:
 Artemisia scoparia is a perennial herb belonging to the Asteraceae family. Although research has shown that A. scoparia possesses antioxidant and anti-inflammatory properties, the anti-inflammatory activity and mechanisms of A. scoparia essential oil (ASEO) remain poorly understood.

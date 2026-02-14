@@ -1,5 +1,7 @@
 PMID: 41683574
 Title: Pmel17 Deficiency Affects Melanogenesis and Promotes Tumor Vascularization.
+Journal: International journal of molecular sciences
+Authors: Sopel, Justyna; Sarad, Katarzyna; Kozinska, Anna; Mokrzyński, Krystian; Szczygieł, Dariusz; Murzyn, Aleksandra; Drzał, Agnieszka; Słomiński, Andrzej; Szczygieł, Małgorzata; Elas, Martyna
 
 Abstract:
 Premelanosomal protein (Pmel, also known as Pmel17) is the major component of melanosomal fibrils and plays a key role in melanin polymerization, making it an important factor in melanogenesis. We investigated how the absence of Pmel affects the properties of B16F10 melanoma cells. Pmel-knockout B16F10 cells were generated using CRISPR/Cas9-mediated genome editing. A viability assay revealed no significant differences between wild-type (WT) and Pmel-knockout (KO) sublines; however, melanosome maturation was impaired. In Pmel KO cells, the cell cycle was disrupted, and higher levels of reactive oxygen species (ROS) were observed compared with WT cells. Moreover, the migration capacity and tube formation of melanoma cells were increased. Tumors derived from Pmel KO cells exhibited unchanged growth kinetics but reduced melanin content, along with enhanced vascularization and oxygenation. Thus, knockout of the Pmel17 gene in melanoma cells alters pigmentation, vascularization, and oxygenation of tumors. These parameters are crucial for both tumor progression and therapeutic response.

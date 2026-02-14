@@ -1,5 +1,7 @@
 PMID: 41678824
 Title: Development and explanation of electrocardiogram-based deep learning for predicting short-term mortality in heart failure patients.
+Journal: Journal of global health
+Authors: Li, Yan; Cheng, Lixia; Zhou, Hongmin; Yu, Hongwei; Liu, Zeyuan; Zhang, Qiuju
 
 Abstract:
 Heart failure mortality has risen sharply after years of decline, highlighting the limitations of current risk assessment tools in accuracy, complexity, and cost, and the need for improved predictive models. To address this gap, we developed and validated a deep learning model to improve short-term mortality prediction in heart failure patients.

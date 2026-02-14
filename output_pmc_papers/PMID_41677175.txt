@@ -1,5 +1,7 @@
 PMID: 41677175
 Title: A Novel Method for Inserting Dose Levels Mid-Trial in Early-Phase Oncology Combination Studies.
+Journal: Statistics in medicine
+Authors: George, Matthew; Wadsworth, Ian; Mozgunov, Pavel
 
 Abstract:
 The use of combination treatments in early-phase oncology trials is growing. The objective of these trials is to search for the maximum tolerated dose combination from a predefined set. However, cases in which the initial set of combinations does not contain one close to the target toxicity pose a significant challenge. Currently, solutions are typically ad hoc and may bring practical challenges. We propose a novel method for inserting dose levels mid-trial, which features a search for the contour partitioning the dose space into combinations with toxicity truly above and below the target toxicity. Establishing this contour with a degree of certainty suggests that no combination is close to the target toxicity, triggering an insertion. We examine our approach in a comprehensive simulation study applied to the PIPE design and two-dimensional Bayesian logistic regression model (BLRM), though any model-based or model-assisted design is an appropriate candidate. Our results demonstrate that, on average, the insertion method can increase the probability of selecting combinations close to the target toxicity, without increasing the probability of subtherapeutic or toxic recommendations.

@@ -1,5 +1,7 @@
 PMID: 41671253
 Title: Health seeking behaviors of nurses diagnosed with hypertension and providing health care in resource-constrained setting in a rural part of Northern Ghana: A qualitative study.
+Journal: PloS one
+Authors: Ankomanin, Thomas; Konlan, Kennedy Dodam; Korsah, Kwadwo Ameyaw
 
 Abstract:
 Hypertension poses a significant occupational health threat to nurses globally, exacerbated by demanding work environments that can hinder their own health-seeking behaviors. In Ghana, despite a high burden of non-communicable diseases and the existence of employee health and wellbeing programme, evidence on how nurses with hypertension navigate their personal health management remains limited, particularly in high-stress settings like those in rural part of Ghana.

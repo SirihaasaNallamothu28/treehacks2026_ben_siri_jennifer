@@ -1,5 +1,7 @@
 PMID: 41684309
 Title: Novel Long-Read Sequencing Method for Characterisation of Hepatitis B Transcripts Show High Expression of Chimeric HBV/Human RNA.
+Journal: Liver international : official journal of the International Association for the Study of the Liver
+Authors: Stenbäck, Joakim Bedner; Ringlander, Johan; Andersson, Maria; Thomsen, Jakob Holm Dalsgaard; Abrahamsson, Sanna; Rydell, Gustaf E; Lindh, Magnus
 
 Abstract:
 Hepatitis B virus (HBV) genomes integrated into human DNA significantly contribute to surface antigen (HBsAg) production and may drive hepatocellular carcinoma (HCC). Long-read sequencing methods like Nanopore offer advantages over short-read next-generation sequencing (NGS) by providing continuous reads of whole transcripts, but their application to HBV integration analysis remains limited.

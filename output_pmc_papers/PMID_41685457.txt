@@ -1,5 +1,7 @@
 PMID: 41685457
 Title: [Metabolic dysfunction-associated steatotic liver disease may affect the brain].
+Journal: Ugeskrift for laeger
+Authors: Mikkelsen, Anne Catrine Daugaard; Amby, Kristoffer Kjærgaard; Lauridsen, Mette Munk; Thomsen, Karen Louise
 
 Abstract:
 One-third of the world's population is affected by metabolic dysfunction-associated steatotic liver disease (MASLD). Recent studies suggest that MASLD is associated with cognitive dysfunction, even in the early stages of the disease. It is believed that MASLD contributes to systemic inflammation, cerebrovascular dysfunction, and early brain ageing, which can lead to cognitive dysfunction, as covered in this review. For now, further clinical studies are needed to unveil the optimal test for diagnosing and characterising cognitive dysfunction in MASLD.

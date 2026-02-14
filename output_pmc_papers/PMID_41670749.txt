@@ -1,5 +1,7 @@
 PMID: 41670749
 Title: Defining prognostic subgroups and treatment outcomes in estrogen receptor low-positive de novo metastatic breast cancer.
+Journal: Breast cancer research and treatment
+Authors: Klugman, Madelyn F; Aboumrad, Maya; Chen, Ruizhe; Marshall, Catherine H; Canzoniero, Jenna V; Wolff, Antonio C; Visvanathan, Kala
 
 Abstract:
 Prognostic factors and treatment outcomes have been identified in estrogen receptor (ER) low-positive early-stage breast cancer. This study evaluates outcomes in ER low-positive de novo metastatic breast cancer (dnMBC) patients.

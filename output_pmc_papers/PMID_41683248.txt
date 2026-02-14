@@ -1,5 +1,7 @@
 PMID: 41683248
 Title: Determining the Global Economic Burden of External Health Effects of Food Consumption in 204 Countries and Territories.
+Journal: Nutrients
+Authors: Seidel, Felix; Oebel, Benjamin; Stein, Lennart; Kleemann, Susanne; Gaugler, Tobias
 
 Abstract:
 Every country and territory worldwide is affected by varying degrees of under- and overconsumption of food. A substantial share of the economic burden of unsustainable malnutrition arises from diet-related health impacts, although existing research has largely focused on environmental consequences.

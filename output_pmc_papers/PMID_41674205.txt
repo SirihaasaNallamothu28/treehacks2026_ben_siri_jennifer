@@ -1,5 +1,7 @@
 PMID: 41674205
 Title: Comparative Effectiveness and Modality-Dependent Prognostic Value of Pathological Response Following Neoadjuvant Therapy for Locally Advanced Gastric Cancer.
+Journal: Cancer medicine
+Authors: Zhu, Yongfeng; Chen, Zhenchong; Jo, Minju; Feng, Shoucheng; Zeng, Yi; Chen, Xiaojiang; Guo, Jianrong; Ding, Chao; Jin, Yukai; Qiu, Haibo
 
 Abstract:
 Neoadjuvant therapies, including chemotherapy (NACT), chemoradiotherapy (NACRT), and chemoimmunotherapy (NACIT), are standard for locally advanced gastric cancer (LAGC). Pathological response is a key surrogate for treatment effectiveness, but its correlation with long-term outcomes across modalities remains unclear.

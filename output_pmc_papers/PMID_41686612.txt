@@ -1,5 +1,7 @@
 PMID: 41686612
 Title: Severe exfoliative dermatitis induced by apalutamide in a mHSPC patient: A case report.
+Journal: Medicine
+Authors: Chen, Hanzhong; Li, Teng; Fan, Junhong; Liu, Jiumin
 
 Abstract:
 Apalutamide is a generation androgen antagonist for the treatment of metastatic hormone sensitive prostate cancer and non-metastatic castration resistant prostate cancer. Skin adverse reactions caused by apalutamide are mostly rashes and maculopapules.

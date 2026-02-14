@@ -1,5 +1,7 @@
 PMID: 41689305
 Title: Breast cancer staging for patients with "low-risk" disease: Are they all the same?
+Journal: Cancer
+Authors: Nierenberg, Tori C; Thomas, Samantha M; Reason, Ellery H; Modell Parrish, Kendra J; Botty van den Bruele, Astrid; Chiba, Akiko; DiNome, Maggie L; Woriax, Hannah E; Hwang, E Shelley; Westbrook, Kelly E; Plichta, Jennifer K
 
 Abstract:
 Contemporary breast cancer staging incorporates anatomic and biologic factors. Although a low (<11) Oncotype Recurrence Score (RS) is linked to favorable survival, it is unclear if RS alone justifies downstaging to pathologic prognostic stage (PPS) IA. This study evaluated whether a low RS equates prognostically to PPS IA.

@@ -1,5 +1,7 @@
 PMID: 41670894
 Title: Chronic Schistosomiasis Infection Dose not Affect the Prognosis of Gastric Cancer Patients.
+Journal: Journal of gastrointestinal cancer
+Authors: Xu, Ran; Li, Yang; Zhao, Haiyuan; Wang, Zhengguang; Liu, Yinhua; Zhao, Jun
 
 Abstract:
 Schistosomiasis is linked to the development of colorectal cancer and is associated with increased colorectal cancer mortality. However, there is limited research on whether schistosomiasis with egg deposition influences the clinicopathologic features and prognosis of patients with gastric cancer (GC).

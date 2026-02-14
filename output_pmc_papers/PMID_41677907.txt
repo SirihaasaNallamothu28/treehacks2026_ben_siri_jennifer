@@ -1,5 +1,7 @@
 PMID: 41677907
 Title: First-line ipilimumab plus nivolumab in advanced merkel cell carcinoma: a meta-analysis of prospective trials and real-world validation cohort.
+Journal: Cancer immunology, immunotherapy : CII
+Authors: Ramadoss, Tanya; Palacios, Christian; Nichols, Matthew; Eroglu, Zeynep; Markowitz, Joseph; Karapetyan, Lilit; Tarhini, Ahmad A; Wuthrick, Evan J; Sondak, Vernon K; Tsai, Kenneth Y; Khushalani, Nikhil I; Brohl, Andrew S
 
 Abstract:
 Advanced Merkel cell carcinoma (MCC) has a high response rate to immune checkpoint blockade (ICB). While early phase studies have demonstrated activity of dual ICB with anti-PD-1 plus anti-CTLA-4 agents in both the first- and second-line settings, the role of combination therapy as a first-line approach remains controversial.

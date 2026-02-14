@@ -1,5 +1,7 @@
 PMID: 41686775
 Title: Concurrent depression and anxiety in women undergoing additional diagnostic procedures due to positive screening for cervical cancer.
+Journal: PloS one
+Authors: Ilic, Irena; Babic, Goran; Sipetic Grujicic, Sandra; Zivanovic Macuzic, Ivana; Ilic, Milena; Ravic-Nikolic, Ana; Milicic, Vesna
 
 Abstract:
 Undergoing additional diagnostic procedures due to a positive cervical cancer screening in women can lead to psychosocial burden. This study investigated the co-occurrence of depression and anxiety in women both before and after additional diagnostic procedures for cervical cancer.

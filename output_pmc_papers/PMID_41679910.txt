@@ -1,5 +1,7 @@
 PMID: 41679910
 Title: Congenital striated muscle hamartoma of the temporalis muscle: an index presentation.
+Journal: BMJ case reports
+Authors: Choudhary, Dipika; Karmakar, Shilpi; Mishra, Brijesh
 
 Abstract:
 Striated muscle hamartomas are rare, benign malformations of disorganised but mature striated muscle fibres. This case report presents a congenital striated muscle hamartoma (CSMH) in a primary school-going girl, involving the temporalis and frontalis muscles-an unprecedented and atypical location. The patient exhibited a progressively enlarging swelling in the left temporal region, initially suspected to be a capillary haemangioma or rhabdomyoma based on imaging findings. However, a definitive diagnosis was achieved through histopathological evaluation, which confirmed CSMH. Complete surgical excision ensured excellent long-term outcomes with no recurrence over six years of follow-up. The report highlights the limited literature outcomes on CSMHs in atypical locations and underscores the importance of histopathological confirmation for accurate diagnosis and management.

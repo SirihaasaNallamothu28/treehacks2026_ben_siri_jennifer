@@ -1,5 +1,7 @@
 PMID: 41678377
 Title: Hypertension is associated with knee osteoarthritis pain in an age-dependent manner.
+Journal: Experimental gerontology
+Authors: Cruz, Carlos J; Tamargo, Javier A; Abbas, Muhammad; Capote, Samira; Staud, Roland; Goodin, Burel R; Fillingim, Roger B; Cruz-Almeida, Yenisel
 
 Abstract:
 Osteoarthritis (OA) is a painful and prevalent disease among older adults. Hypertension, commonly comorbid with OA and associated with aging, may influence OA pathology and pain. We hypothesized that hypertension would influence pain outcomes in an age-dependent manner and associate with greater radiographic OA severity among middle-aged and older adults.

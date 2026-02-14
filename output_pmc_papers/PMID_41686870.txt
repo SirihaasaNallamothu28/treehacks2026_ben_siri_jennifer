@@ -1,0 +1,10 @@
+PMID: 41686870
+Title: Multi-epitope vaccine design against Monkeypox virus: An immunoinformatics approach.
+Journal: PloS one
+Authors: Ahmad, Syed; Aslam, Sara; Khalid, Ammara
+
+Abstract:
+The recent outbreak of the Monkeypox virus (MPXV) across multiple regions has highlighted the need for effective vaccine. This study employed an in-silico immunoinformatics approach to design a multi-epitope vaccine against monkeypox virus.
+The IMV heparin binding surface protein (H3L) of MPV was selected as vaccine target. B and T cell epitopes were predicted and evaluated for their toxicity, allergenicity, antigenicity and global population coverage. A multi-epitope construct was assembled using adjuvant and appropriate linkers. The 3D vaccine structure was modelled, enhanced and then checked for its overall structure and physiochemical properties. The in-silico docking vaccine construct and TLR3 receptor was performed to check affinity and stability of vaccine-TLR3 complex. The vaccine's ability to express and activate the immune system was demonstrated by its cloning into the E. coli plasmid pET-28b (+).
+The selected H3L protein exhibited 92.22% sequence conservation across Monkeypox virus isolates of different continents, supporting its suitability as broad-spectrum vaccine target. The molecular docking and dynamics analysis confirmed both the stability and strong binding affinity of the vaccine construct with the TLR3. Immune stimulation predicted robust humoral and cellular responses, with evidence of immunological memory formation.
+Overall, we proposed a potential vaccine construct that has the potential to effectively prevents monkeypox. However, in-vivo and in-vitro investigations are needed to validate the biological effectiveness and safety of the suggested vaccine.

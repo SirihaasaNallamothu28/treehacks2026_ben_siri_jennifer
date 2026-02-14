@@ -1,5 +1,7 @@
 PMID: 41686014
 Title: Thirty-Year Atherosclerotic Cardiovascular Disease Risk Among US Adults Aged 30 to 59 Years.
+Journal: Circulation. Population health and outcomes
+Authors: Anderson, Timothy S; Wilson, Linnea M; Sussman, Jeremy B
 
 Abstract:
 The 2023 Predicting Risk of Cardiovascular Disease Events equations estimate 30-year atherosclerotic cardiovascular disease (ASCVD) risk for adults aged 30 to 59 years to inform preventative treatment decisions. We aimed to characterize 30-year ASCVD risk in the eligible US population.

@@ -1,5 +1,7 @@
 PMID: 41685330
 Title: Leveraging cfDNA fragmentomic features for the early detection of colorectal cancer.
+Journal: Frontiers in immunology
+Authors: Shan, Lina; Xu, Dengyong; Chen, Jie; Liu, Wenjia; Lin, Ji; Bao, Juhang; Huang, Jianfei; Zhang, Hanqing; Zhao, Hanchen; Xue, Wei; Lin, Ziao; Bai, Bingjun
 
 Abstract:
 Early detection of colorectal cancer (CRC) is crucial for improving patient outcomes. Cell-free DNA (cfDNA) analysis has emerged as a promising non-invasive approach for cancer detection. This study aims to develop a machine learning algorithm leveraging cfDNA fragmentomic features to accurately detect CRC.

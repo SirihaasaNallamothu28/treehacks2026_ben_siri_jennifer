@@ -1,5 +1,7 @@
 PMID: 41671020
 Title: Aortic Pressure in Different Phenotypes of Hypertension in Young Women, Taking Into Account Their Body Weight.
+Journal: Kardiologiia
+Authors: Evsevyeva, M E; Kolomoitseva, I I; Sergeeva, O V; Gachkova, I N; Ovchinnikova, O V
 
 Abstract:
 To assess central arterial pressure (CAP) in young overweight women accounting for their arterial hypertension (AH) phenotype derived from 24-hour ambulatory blood pressure monitoring (ABPM) data.

@@ -1,5 +1,7 @@
 PMID: 41677888
 Title: Associations of six dietary patterns with all-cause and cause-specific mortality among individuals with depression in the UK biobank: a prospective cohort study.
+Journal: European journal of nutrition
+Authors: Yao, Honghui; Zhang, ChengCheng; Xiao, Shuiyuan
 
 Abstract:
 Diet plays an important role in the development of depression, but the impact of dietary patterns on mortality in individuals with depression is unclear. This study investigated the associations of six established dietary patterns with all-cause and cause-specific mortality in adults with depression.

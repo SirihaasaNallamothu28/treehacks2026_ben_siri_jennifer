@@ -1,5 +1,7 @@
 PMID: 41684145
 Title: Predictors of Intravenous Immunoglobulin Non-Responsiveness in Children With Kawasaki Disease.
+Journal: Immunity, inflammation and disease
+Authors: Cheng, Yun; Chen, Biquan
 
 Abstract:
 This retrospective study assesses whether the systemic immune-inflammation index (SII) is a better predictor of intravenous immunoglobulin (IVIG) non-responsiveness (IVIG-NR) in children with Kawasaki disease (KD children) than the neutrophil-to-lymphocyte ratio (NLR) and platelet-to-lymphocyte ratio (PLR).

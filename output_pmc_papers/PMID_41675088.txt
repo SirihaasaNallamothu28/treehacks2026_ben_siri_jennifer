@@ -1,5 +1,7 @@
 PMID: 41675088
 Title: The effectiveness of exercise interventions on muscle strength and balance function in pre-frail older adults: a systematic review and Bayesian network meta-analysis.
+Journal: Frontiers in public health
+Authors: Ma, Ninghong; Lu, Zhiyi; Mei, Xinyi; Ma, Lijuan; Zhang, Qi
 
 Abstract:
 Prefrailty represents a critical transitional phase in age-related functional decline among older adults, characterized by reduced muscle strength and impaired balance. While exercise interventions are recognized as effective in ameliorating these symptoms, the comparative efficacy of different exercise modalities remains unclear.

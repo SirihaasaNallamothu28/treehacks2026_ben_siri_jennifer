@@ -1,5 +1,7 @@
 PMID: 41674056
 Title: Low-Intensity Pulsed Ultrasound Alleviation of LPS-Induced Depression-Like Behavior via Microglial P2X4R Inhibition and BDNF/TrkB Pathway Activation.
+Journal: CNS neuroscience & therapeutics
+Authors: Wang, Yuanli; Meng, Xinyue; Zhang, Xinyi; Chen, Ruilin; Zhang, Mianzhi; Yang, Deli; Zou, Wanke; Chu, Paul K; Ding, Chengbiao; Zhan, Hongrui
 
 Abstract:
 Low-intensity pulsed ultrasound (LIPUS) shows promising anti-inflammatory and neuroprotective effects for different types of neurological disorders. This study aims to investigate the therapeutic effects of LIPUS on LPS-induced depression-like behavior and neuroinflammation and to elucidate the underlying molecular mechanisms.

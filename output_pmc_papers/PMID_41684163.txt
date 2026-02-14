@@ -1,5 +1,7 @@
 PMID: 41684163
 Title: The Complement System in ANCA-Associated Vasculitis: Mechanistic Insights, Therapeutic Horizons, and Unmet Clinical Needs.
+Journal: Immunity, inflammation and disease
+Authors: Sunmboye, Kehinde; Millan, Pauline
 
 Abstract:
 ANCA-associated vasculitides (AAV) are autoimmune small-vessel vasculitides characterized by necrotizing inflammation with few immune deposits ("pauci-immune" lesions). Historically, complement was thought to play a minor role in AAV due to scant complement deposition on biopsy. However, growing evidence from animal models and patient studies indicate that complement activation, particularly the alternative pathway, is a critical amplifier of inflammation in AAV.

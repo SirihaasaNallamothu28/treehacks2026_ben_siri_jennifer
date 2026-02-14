@@ -1,5 +1,7 @@
 PMID: 41678773
 Title: Prompt Engineering for Eastern Cooperative Oncology Group Status Extraction: Comparing Large Language Model Techniques.
+Journal: JCO clinical cancer informatics
+Authors: Dubey, Meenakshi; Chong, Kok Joon; Pun, Yuba Raj; Foo, Lee Yi; Ooi, Melissa; Tan, Iain Bee Huat; Tan, David Shao Peng; Ngiam, Kee Yuan; Wee, Hwee Lin
 
 Abstract:
 Eastern Cooperative Oncology Group (ECOG) performance status is critical for cancer patient management, yet it is often documented only in unstructured clinical notes. This study compares several approaches to extract ECOG status from oncology notes, focusing on advanced prompting techniques for large language models (LLMs).

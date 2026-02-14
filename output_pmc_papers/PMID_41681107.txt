@@ -1,5 +1,7 @@
 PMID: 41681107
 Title: Management of Malignant Left-Side Colonic Obstruction Using Self-Expandable Metal Stents as a Bridge to Elective Surgery: A Case Report and Literature Review.
+Journal: Annali italiani di chirurgia
+Authors: Andolfi, Enrico; Fusario, Daniele; Barni, Lucia; Poto, Gianmario Edoardo; Giulitti, Diego; Spiezia, Salvatore; Cavargini, Elena
 
 Abstract:
 Colonic obstruction is a life-threatening condition, requiring emergency surgery (ES) that usually implies laparotomy and stoma construction. Self-expandable metal stents (SEMS) can be used to overcome the occlusion, realizing the so-called "bridge to surgery (BTS)", allowing management of the patient in an elective setting.

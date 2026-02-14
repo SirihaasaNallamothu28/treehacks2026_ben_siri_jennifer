@@ -1,5 +1,7 @@
 PMID: 41673668
 Title: The shared genetic architecture underlying the autoimmune and cardiovascular disease: a multivariate genome-wide analysis.
+Journal: Cardiovascular diabetology
+Authors: Zhang, Jie; Fang, Xinyu; Ye, Qianling; Yin, Xianyong; Ye, Dongqing
 
 Abstract:
 Epidemiological studies have established that autoimmune diseases (AD) increase cardiovascular disease (CVD) risk. We aimed to elucidate their shared genetic architecture and clinical implications.

@@ -1,5 +1,7 @@
 PMID: 41674311
 Title: Signpost Testing to Navigate the Parameter Space of the Gaussian Graphical Model With High-Dimensional Data.
+Journal: Biometrical journal. Biometrische Zeitschrift
+Authors: Ruan, Kai; van de Wiel, Mark A; van Wieringen, Wessel N
 
 Abstract:
 We evaluate the relevance of external quantitative information on the parameter of a Gaussian graphical model from high-dimensional data. This information comes in the form of a parameter value available from a related knowledge domain or population. We contrast the external information to 'null' information, i.e., an internally accepted parameter value. The direction from a null to this externally provided parameter value is dubbed the signpost. The signpost test evaluates whether to follow the signpost in the search of the true parameter value. We present various test statistics to measure the informativeness of the signpost and ways to obtain their distribution under the null hypothesis of non-informativeness. By simulation, we investigate the power and other properties of the various signpost tests, and compare them to the likelihood ratio test. Finally, we employ the signpost test to illustrate how the learning of the Gaussian graphical model of a low-prevalence breast cancer subtype benefits from external knowledge obtained from data of a more prevalent and related but fundamentally different subtype.

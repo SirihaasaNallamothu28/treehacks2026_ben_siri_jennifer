@@ -1,0 +1,10 @@
+PMID: 41670521
+Title: Comparison of Artificial Intelligence and Guidelines in Answering Questions on Gestational Diabetes: a CLEAR Tool Analysis.
+Journal: Clinical laboratory
+Authors: Köker, Gökhan; Koç, Lütfullah Z; Coşkuner, Muhammed A; Şahintürk, Yasin; Başgöz, Bilgin B
+
+Abstract:
+Gestational diabetes mellitus (GDM) affects millions of people worldwide. Patients often turn to the internet and artificial intelligence (AI)-based conversational models for information. The CLEAR tool evaluates the quality of health-related content produced by AI-based models. This study assessed the responses provided by medical guidelines, ChatGPT, and Google Bard to the ten most frequently asked online questions about GDM, uti-lizing the CLEAR tool for evaluation.
+The most common online questions about GDM were identified using Google Trends, and the top 10 questions were selected. Answers were then gathered from two experienced physicians, ChatGPT 4.0o-mini, and Google Bard, with responses categorized into 'Guide,' 'ChatGPT,' and 'Bard' groups. Answers from the AI models were obtained using two computers and two separate sessions to ensure consistency and minimize bias.
+ChatGPT received higher scores than the medical guidelines, while Bard scored lower than ChatGPT. The medical guidelines provided more accessible answers for the general audience, while ChatGPT and Bard required higher literacy levels. Good reliability (0.781) was observed between the two reviewers. Regarding readability, the medical guidelines were the easiest to read, while Bard provided the most challenging text.
+ChatGPT and Google Bard perform well in content completeness and relevance but face challenges in readability and misinformation. Future research should improve accuracy and readability, integrate AI with peer-reviewed sources, and ensure healthcare professionals guide patients to reliable AI information.

@@ -1,5 +1,7 @@
 PMID: 41674922
 Title: Bone Marrow Mesenchymal Stem Cell-Derived Exosomal Let-7b-5p Reduces High Glucose-Induced Microglial Activation and Inflammation Through TLR4/ATF4.
+Journal: Mediators of inflammation
+Authors: Zhang, Yepin; Luo, Yiyi; Han, Jian; Wang, Ling; Xu, Hong; Zhang, Libo; Chen, Peiqi; Luo, Heng
 
 Abstract:
 Diabetic retinopathy (DR) is a leading cause of vision loss in patients with diabetes mellitus (DM), and its pathogenesis is closely associated with aberrant microglial activation. Although bone marrow mesenchymal stem cell-derived exosomes (BMSC-Exo) and the miRNAs that they carry show therapeutic potential for DR, the specific roles and molecular mechanisms through which let-7b-5p regulates microglial activation after it is delivered by BMSC-Exo remain unclear. This study aimed to elucidate the function and underlying mechanism of BMSC-Exo let-7b-5p in DR.

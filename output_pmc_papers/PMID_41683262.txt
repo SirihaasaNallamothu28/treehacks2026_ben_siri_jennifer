@@ -1,0 +1,10 @@
+PMID: 41683262
+Title: Prediction Models for Early Identification of Overweight and Obese Children-A National Study.
+Journal: Nutrients
+Authors: Sadaka, Irit Lior; Grotto, Itamar; Sadaka, Yair; Eilenberg, Roni; Peleg, Assaf; Greenberg, Dan
+
+Abstract:
+Given the importance of early-life intervention in reducing future obesity, screening models that more accurately identify infants at risk are crucial. The aim of this study was to develop models based solely on growth parameters for better predicting childhood overweight than the current WHO growth chart risk prediction.
+A retrospective national cohort study was conducted among children born in Israel between August 2014 and June 2016, followed for at least 18 months. Machine learning models were generated to predict childhood overweight. Three models for 0-3, 3-6, and 6-12 months were generated. These models were compared with the current WHO growth chart predictions. The outcome was defined as overweight in early childhood, based on weight-for-length (or weight-for-height) ≥97th percentile, according to WHO standards, measured at 18-36 months of age.
+Overall, 198,503 children were included, and 150,572, 146,584, and 149,628 infants were included in Models 1, 2, and 3, respectively, with an average target age of two years. The models demonstrated high predictive performance (AUC) for the 0-3 months' model (0.76 [95% CI: 75 to 76.9%]), for the 3-6 months' model (0.822 [95% CI: 81.3 to 83.0%]) and for 6-12-month-old infants (0.872 [95% CI: 86.6 to 87.8%]). The first two models better predict the risk of early childhood overweight than the current WHO growth chart prediction.
+These models are unique in that they are based on growth parameters, usually screened at early childhood worldwide, and can be implemented in any system collecting growth measurements of infants, providing better risk prediction than the current WHO growth charts. A web calculator is provided.

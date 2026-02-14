@@ -1,5 +1,7 @@
 PMID: 41670524
 Title: Clinicopathological Characteristics and Prognostic Factors in Angioimmunoblastic T-cell Lymphoma: a Retrospective Analysis.
+Journal: Clinical laboratory
+Authors: Wang, Jing; Guo, Lifu
 
 Abstract:
 Our study aimed to analyze the molecular and clinical characteristics of angioimmunoblastic T-cell lymphoma (AITL), identify prognostic factors, and evaluate their implications for patient outcomes.

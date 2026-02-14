@@ -1,5 +1,7 @@
 PMID: 41680534
 Title: Skeletal muscle health in childhood cancer survivors: a systematic review and meta-analysis.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Markarian, Anna Maria; Taaffe, Dennis R; Galvão, Daniel A; Peddle-McIntyre, Carolyn J; Wilkie, Jodie Cochrane; Bettariga, Francesco; Gottardo, Nicholas G; Dhamija, Mayank; Valvi, Santosh; Buchanan, Catriona M; Graham, Kerrie; Newton, Robert U
 
 Abstract:
 Childhood cancer survivors (CCS) are at risk of long-term skeletal muscle deficits following intensive therapies during critical periods of growth. This review aimed to synthesize approaches for assessing muscle quantity, quality, and function in CCS and to quantify deficits relative to healthy peers.

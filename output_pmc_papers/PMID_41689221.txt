@@ -1,5 +1,7 @@
 PMID: 41689221
 Title: Assessment of health-related quality of life and treatment satisfaction and their associated factors among older adults with heart failure: a prospective observational study in selected hospitals in Northwest Ethiopia.
+Journal: BMJ open
+Authors: Tarekegn, Getachew Yitayew; Dagnew, Fisseha Nigussie; Wondm, Samuel Agegnew; Anberbr, Sisay Sitotaw; Tamene, Fasil Bayafers; Tsega, Sintayehu Simie; Asmare, Zufan Alamrie; Zeleke, Tirsit Ketsela; Dagnew, Samuel Berihun; Zerihun, Tigabu Eskeziya; Kassaw, Abel Temeche; Mussie, Desalegn Addis; Melese, Teferi Bihonegn; Moges, Tilaye Arega
 
 Abstract:
 To assess health-related quality of life (HRQoL), treatment satisfaction and associated factors among older adults with acute heart failure in Northwest Ethiopia.

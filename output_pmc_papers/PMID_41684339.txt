@@ -1,0 +1,7 @@
+PMID: 41684339
+Title: [Grisel syndrome following Mycoplasma pneumoniae infection].
+Journal: Revue medicale de Liege
+Authors: Lambert, Jeanne; Delpierre, Isabelle; Vitali, Nancy; Jourdain, Sarah
+
+Abstract:
+Grisel syndrome is an underrecognized clinical entity characterized by non-traumatic rotational subluxation of the atlanto-axial joint, which is caused by inflammatory contracture of the paravertebral muscles near an infectious focus, typically within the ear nose and throat region. This condition is more prevalent among the pediatric population, primarily due to the higher incidence of upper airway infections and anatomical factors in children. Neurological complications of varying severity may occur in the absence of adequate management. Diagnosis is based on clinical presentation and radiological imaging, with 3D reconstructed computed tomography considered as the gold standard. Currently, no established guidelines are available as this condition is rare. Treatment is mainly conservative with cervical immobilization and pain management. However, more invasive procedures are occasionally necessary. We describe here a case of Grisel syndrome in a 10-year-old child during a Mycoplasma pneumoniae infection.

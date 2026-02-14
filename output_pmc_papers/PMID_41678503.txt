@@ -1,5 +1,7 @@
 PMID: 41678503
 Title: Al18F-NOTA-FAPI-04 PET/CT for diagnosis of breast cancer and its correlation with pathological features: A single-center retrospective study.
+Journal: PloS one
+Authors: Wang, Yi; Feng, Lijuan; He, Limeng; Liu, Nan; Wang, Hao
 
 Abstract:
 To systematically evaluate the diagnostic efficacy of Al¹⁸F-NOTA-FAPI-04 PET/CT in breast cancer and explore the correlation between tracer uptake parameters and pathological features of breast cancer based on single-centre, retrospective data.

@@ -1,5 +1,7 @@
 PMID: 41683355
 Title: Dietary Behavior Clustering and Cardiovascular Risk Markers in a Large Population Cohort.
+Journal: Nutrients
+Authors: Lombardo, Mauro; Aulisa, Giovanni; Muthanna, Fares M S; Karav, Sercan; Baldelli, Sara; Tripodi, Gianluca; Aiello, Gilda
 
 Abstract:
 Eating habits influence cardiometabolic health alongside traditional dietary measures. However, the links between dietary patterns, body composition, and heart-healthy food preferences remain under-explored in large cohorts.

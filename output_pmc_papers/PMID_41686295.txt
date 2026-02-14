@@ -1,5 +1,7 @@
 PMID: 41686295
 Title: Patient symptoms, confidence, and adherence during the first 8 weeks of targeted oral anticancer agent treatment.
+Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+Authors: Rizvi-Toner, Amna; Coe, Antoinette B; Friese, Christopher R; Manojlovich, Milisa; Wallner, Lauren P; Farris, Karen B
 
 Abstract:
 We aimed to understand patients' initial experiences with targeted oral anticancer agents (OAAs). We investigated symptoms experienced and how symptom severity affected patient confidence to manage and seek care for symptoms and OAA adherence.

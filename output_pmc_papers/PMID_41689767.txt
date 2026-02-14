@@ -1,5 +1,7 @@
 PMID: 41689767
 Title: Long-Term Risk of Incident Type 2 Diabetes Following SARS-CoV-2 Infection: A Population-Based Study in British Columbia, Canada.
+Journal: Diabetes/metabolism research and reviews
+Authors: Velásquez García, Héctor Alexander; Wong, Stanley; Jeong, Dahn; Naveed, Zaeema; Mahmood, Bushra; McKee, Geoffrey; Janjua, Naveed Zafar
 
 Abstract:
 To assess the long-term risk of incident type 2 diabetes mellitus (T2DM) following SARS-CoV-2 infection in a large population-based cohort.

@@ -1,0 +1,7 @@
+PMID: 41676923
+Title: Structural insights into SHIP2 reveal its membrane regulatory mechanisms.
+Journal: Protein science : a publication of the Protein Society
+Authors: Gupta, Jyoti; Le Coq, Johanne; Lietha, Daniel; Izard, Tina
+
+Abstract:
+Src homology 2 domain-containing inositol-5 phosphatase 2 (SHIP2) is a key player in regulating the signaling by phosphoinositides and is involved in the modulation of cellular functions such as proliferation, adhesion, migration, and survival. SHIP2 works by dephosphorylating PIP<sub>3</sub> to modulate the PI3K/AKT pathway, which plays a role in different standard and pathological conditions. SHIP2 appears to play a dual part in cancer, serving as a tumor suppressor in some instances and a tumor promoter in others. It is also involved in neurodegenerative diseases, including Alzheimer's disease. To understand the molecular mechanism of SHIP2, we solved its cryogenic electron microscopy (cryoEM) structure. Unexpectedly, the SHIP2 pleckstrin homology-related domain was found to associate with its C2 and phosphatase domains. This arrangement enables the catalytic domain to interact with the substrate, especially at higher concentrations of PIP<sub>3</sub> or PI(3,4)P<sub>2</sub>. Furthermore, SHIP2 forms oligomers on the membrane. Our findings suggest a mechanism by which SHIP2 activity may be regulated through interactions with membrane lipids. This provides structural insights into how domain organization and membrane association regulate its function in various physiological contexts.

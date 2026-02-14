@@ -1,5 +1,7 @@
 PMID: 41674547
 Title: Data resource profile: The Life and health After Childhood cancEr (LACE) project.
+Journal: International journal of population data science
+Authors: Baldwin, Heather J; Pont, Sarah; Currell, Anne; Newey, Laura; Youlden, Danny R; Bradford, Natalie; Baade, Peter D; Aitken, Joanne F; Pole, Jason D; Nassar, Natasha
 
 Abstract:
 In Australia, around 85% of children survive childhood cancer. Yet, up to 80% of survivors experience subsequent adverse health conditions called late effects, largely attributed to cancer treatment. The LACE study is a population-based linked data resource that aims to facilitate the investigation of childhood cancer and its treatment and the impact on late effects for childhood cancer survivors.

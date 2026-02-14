@@ -1,0 +1,7 @@
+PMID: 41686970
+Title: Forward-scanning endoscopic optical coherence elastography for elasticity measurements of anisotropic tissues.
+Journal: Optics letters
+Authors: Wang, Chongyang; Wang, Pengbo; Meng, Xiaochen; Ma, Jiawei; Ma, Zongqing; Fan, Fan; Zhu, Jiang
+
+Abstract:
+The elasticity of luminal tissues is closely associated with disease progression and functional status. Endoscopic optical coherence elastography (OCE) has emerged as a promising technique for assessing the mechanical properties of luminal tissues. However, previous endoscopic OCE approaches typically measure elasticity along only a single direction-either laterally or in depth-thereby potentially leading to an inaccurate estimation of anisotropic tissue mechanics. In this study, we propose a forward-scanning endoscopic OCE method that enables quantitative measurement of tissue elasticity in both the lateral and depth directions, allowing direct characterization of anisotropic mechanical properties in luminal tissues. An air-pulse excitation was applied to generate Rayleigh waves and longitudinal shear waves in agar phantoms and ex vivo gastric tissues. Elastic wave propagation was detected using phase-resolved Doppler optical coherence tomography. Experimental results demonstrate that the proposed method can quantitatively assess anisotropic elasticity with a forward-viewing configuration, highlighting its potential for clinical diagnosis and biomechanical characterization of luminal tissues.

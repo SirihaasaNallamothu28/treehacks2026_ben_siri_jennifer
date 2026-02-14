@@ -1,5 +1,7 @@
 PMID: 41686619
 Title: Comparative analysis of different treatment modalities for management of cutaneous warts: A systematic review and network meta-analysis.
+Journal: Medicine
+Authors: Irshad, Tahira; Ali, Sheraz; Usman, Mahnoor; Ramzan, Hurriyah; Imran, Hiba; Ishaq, Khadija; Ahmad, Owais; Saeed, Humza; Asghar, Sunaina; Irshad, Nishat; Rath, Shree; Farooq, Zobia; Imtiaz, Abdullah; Qamar, Ihsan; Sajjad, Waseem
 
 Abstract:
 Cutaneous warts are exophytic, benign proliferative lesions caused by human papillomavirus infection of basal keratinocytes. Many intralesional immunomodulatory agents are used by dermatologists these days including Bacillus Calmette-Guerin vaccine, measles-mumps-rubella vaccine, purified protein derivative (PPD), Candida extract, vitamin D3, interferon alpha, zinc sulphate, and hepatitis B vaccine. Intralesional acyclovir is considered a novel intralesional therapy for warts as it directly destroys the viral cells. The objectives of this study are to provide the latest comparison among different intralesional therapies and to specifically compare acyclovir with PPD.

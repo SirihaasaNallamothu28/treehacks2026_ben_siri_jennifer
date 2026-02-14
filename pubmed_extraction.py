@@ -49,10 +49,13 @@ query = (
         '"Cardiovascular Diseases"[MeSH Terms] OR '
         '"Heart"[MeSH Terms] OR '
         '"Drug Discovery"[MeSH Terms] OR '
+        '"High-Throughput Screening"[MeSH Terms] OR '
+        '"Computational Biology"[MeSH Terms] OR '
         '"Clinical Trials as Topic"[MeSH Terms] OR '
         '"Neoplasms"[MeSH Terms] OR '
         '"Oncology"[MeSH Terms] OR '
         '"Cancer"[MeSH Terms] OR '
+        '"Early Detection of Cancer"[MeSH Terms] OR '
         '"Infectious Diseases"[MeSH Terms] OR '
         '"Dementia"[MeSH Terms] OR '
         '"Brain"[MeSH Terms] OR '
@@ -61,10 +64,18 @@ query = (
         '"Uric Acid"[MeSH Terms] OR '
         '"Hyperuricemia"[MeSH Terms] OR '
         '"Autonomic Nervous System Diseases"[MeSH Terms] OR '
-        '"Neuroinflammatory Diseases"[MeSH Terms]'
+        '"Neuroinflammatory Diseases"[MeSH Terms] OR '
+        '"Alzheimer Disease"[MeSH Terms] OR '
+        '"Parkinson Disease"[MeSH Terms] OR '
+        '"Diabetes Mellitus"[MeSH Terms] OR '
+        '"Hypertension"[MeSH Terms] OR '
+        '"Obesity"[MeSH Terms] OR '
+        '"Risk Assessment"[MeSH Terms] OR '
+        '"Cardiovascular Diseases/diagnosis"[MeSH Terms] OR '
+        '"Diagnostic Imaging"[MeSH Terms] OR '
+        '"Image Processing, Computer-Assisted"[MeSH Terms]'
     ')'
 )
-
 # ------------------------------
 # STEP 1: Search PubMed
 # ------------------------------
@@ -94,7 +105,6 @@ def fetch_pubmed_abstracts(pmids_batch):
 
 print("Fetching abstracts and titles...")
 batch_size = 50
-
 for i in tqdm(range(0, len(pmids), batch_size)):
     batch_pmids = pmids[i:i+batch_size]
     records = fetch_pubmed_abstracts(batch_pmids)
@@ -103,22 +113,40 @@ for i in tqdm(range(0, len(pmids), batch_size)):
         pmid = article["MedlineCitation"]["PMID"]
         article_data = article["MedlineCitation"]["Article"]
 
+        # Title
         title = article_data.get("ArticleTitle", "").strip()
+
+        # Abstract
         abstract_text = ""
         if "Abstract" in article_data and "AbstractText" in article_data["Abstract"]:
             parts = article_data["Abstract"]["AbstractText"]
             abstract_text = "\n".join(str(p) for p in parts)
 
+        # Journal
+       
+        journal_data = article_data.get("Journal")
+        if journal_data:
+            if isinstance(journal_data, dict):
+                journal = journal_data.get("Title", "")
+            elif isinstance(journal_data, list) and len(journal_data) > 0:
+                journal = journal_data[0].get("Title", "")
+
+        # Authors
+        authors_list = []
+        for author in article_data.get("AuthorList", []):
+            last = author.get("LastName")
+            first = author.get("ForeName") or author.get("Initials")
+            if last and first:
+                authors_list.append(f"{last}, {first}")
+        authors_str = "; ".join(authors_list)
+
         # Save each paper to its own file
         paper_file = os.path.join(output_dir, f"PMID_{pmid}.txt")
         with open(paper_file, "w", encoding="utf-8") as f:
             f.write(f"PMID: {pmid}\n")
-            f.write(f"Title: {title}\n\n")
+            f.write(f"Title: {title}\n")
+            f.write(f"Journal: {journal}\n")
+            f.write(f"Authors: {authors_str}\n\n")
             f.write(f"Abstract:\n{abstract_text}\n")
 
     time.sleep(0.5)  # polite delay to NCBI
-
-print(f"Done! Saved {len(pmids)} papers individually in {output_dir}")
-
-
-

@@ -1,5 +1,7 @@
 PMID: 41681095
 Title: Comparison of Robotic-Assisted and Uniportal Video-Assisted Thoracoscopic Lobectomy for Early-Stage Non-Small Cell Lung Cancer: A Retrospective Cohort Study.
+Journal: Annali italiani di chirurgia
+Authors: Ni, Yuyang; Zhang, Jie
 
 Abstract:
 This study aimed to compare perioperative outcomes, lymphadenectomy quality, postoperative recovery, pulmonary function, and short-term oncologic results between robotic-assisted thoracoscopic surgery (RATS) and uniportal video-assisted thoracoscopic surgery (U-VATS) for early-stage non-small cell lung cancer (NSCLC).

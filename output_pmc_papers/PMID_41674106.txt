@@ -1,5 +1,7 @@
 PMID: 41674106
 Title: Exercise modalities and outcome measures used in older adults after hip fracture with or without signs of cognitive impairment: a national cross-sectional e-survey of 90 out of 98 municipalities in Denmark.
+Journal: Journal of rehabilitation medicine
+Authors: Overgaard, Jan A; Kristensen, Morten T; Beaupre, Lauren A; Frederiksen, Kristian S; Skou, Søren T
 
 Abstract:
 To investigate rehabilitation settings, exercise modalities, and assessments provided post-discharge to older adults with hip fracture with and without signs of cognitive impairment.

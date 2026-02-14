@@ -1,5 +1,7 @@
 PMID: 41674123
 Title: Impact of C1-Inhibitor on Renal Function and Safety Outcomes in Kidney Transplant Recipients: A Meta-Analysis of Randomized Controlled Trials.
+Journal: Clinical transplantation
+Authors: Feng, Xinmiao; Zhang, Di; Qiu, Yang; Zhu, Haowei; Wu, Xinzhe; Zha, Boqun; Wang, Zhigang; Shang, Wenjun
 
 Abstract:
 Complement system overactivation contributes to transplanted kidney injury in both ischemia-reperfusion and antibody-mediated rejection, ultimately affecting post-transplant renal function. C1 esterase inhibitor (C1-INH) may reduce complement-mediated injury, yet its effects on renal function and safety outcomes remain uncertain in randomized trials.

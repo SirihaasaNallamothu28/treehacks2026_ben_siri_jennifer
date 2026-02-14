@@ -1,0 +1,8 @@
+PMID: 41665761
+Title: Projections of colorectal cancer mortality to 2040 in Mexico and their association with socioeconomic status.
+
+Abstract:
+Analyze colorectal cancer (CRC) mortality trends in Mexico from 2000 to 2023, evaluate its association with socioeconomic status (SES), and project estimated mortality to 2040.
+We conducted a retrospective, observational analytical study using the Mexican National Mortality registries. We calculated the age-adjusted mortality rate using the direct method of standardization and the WHO standard population. We projected death rates using an ARIMA model (0, 1, 1). Socioeconomic status was stratified into three tiers using the Municipal Social Deprivation Index. A negative binomial regression model was employed, adjusting for age, sex, and year.
+Between 2000 and 2023, 116,135 deaths due to CRC were registered, with a consistent annual increase. The overall age-adjusted mortality rate increased by 44.1%, being higher for men (58.7%) than for women (36.3%). The projections for 2040 estimate a rate of 7.63 deaths per 100,000 persons (95% CI 5.71-9.56). The multivariate analysis demonstrates a progressive increase in mortality risk over time. A lower SES is associated with a 13% increase in mortality risk compared to higher SES (p < 0.001).
+CRC mortality in Mexico has increased significantly with disparities due to sex, age, and socioeconomic status. The findings underline the urgency for the implementation of early detection strategies and oncological attention, especially within vulnerable populations, with the intention of closing gaps in access and improving outcomes for colorectal cancer.

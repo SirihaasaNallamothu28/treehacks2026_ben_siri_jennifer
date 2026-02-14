@@ -1,5 +1,7 @@
 PMID: 41685299
 Title: The predictive value of modified-Naples prognostic score for patients with locally advanced non-small cell lung cancer undergoing surgery after neoadjuvant chemotherapy.
+Journal: Frontiers in immunology
+Authors: Wang, Yang; Tang, Chunyan; Bing, Junyuan; Dejenie, Rebeka; Zhang, Yanfei; Li, Fangchao; Fang, Xiaolong; Chen, Xiaotong; Yang, Min; Zang, Yunxia; Li, Jingjing
 
 Abstract:
 To evaluate the prognostic significance of the modified Naples Prognostic Score (mNPS) in patients with locally advanced non-small cell lung cancer (NSCLC) after neoadjuvant chemotherapy and surgery.

@@ -1,5 +1,7 @@
 PMID: 41671439
 Title: A Novel Evaluation of Patient Socioeconomic Characteristics That Predict Clinical Trial Enrollment.
+Journal: Journal of the National Comprehensive Cancer Network : JNCCN
+Authors: Dong, Weichuan; Shoag, Jamie; Lal, Trisha; Kyasaram, Ravi K; Bruno, Debora S; Rose, Johnie; Koroukian, Siran M; Vu, Long; Shanahan, John P; Hoehn, Richard S
 
 Abstract:
 Clinical trial participation offers patients with cancer access to cutting-edge therapies and generates critical evidence that informs and improves future cancer treatment guidelines. However, disparities in trial enrollment hinder inclusivity and limit the generalizability of trial findings. This study investigates patient-specific factors influencing therapeutic trial enrollment to identify and address barriers to equitable participation.

@@ -1,5 +1,7 @@
 PMID: 41681102
 Title: Research Progress on <i>BRCA1</i>/<i>2</i> Mutations in Sporadic Gastric Cancer: Risk Stratification, Surgical Prognosis, and Individualized Treatment.
+Journal: Annali italiani di chirurgia
+Authors: Chen, Meiqiong; Dong, Yi; Wang, Ru; Cui, Haihong
 
 Abstract:
 Gastric cancer is one of the most prevalent malignant tumors worldwide. Sporadic gastric cancer accounts for more than 80% of all gastric cancer cases, and its pronounced heterogeneity underlies the substantial variability in clinical outcomes and the complexity of treatment strategies. The breast cancer gene 1 (<i>BRCA1</i>) and breast cancer gene 2 (<i>BRCA2</i>) are core regulators of the DNA damage homologous recombination repair (HRR) pathway, and their pathogenic mutations are closely associated with hereditary breast and ovarian cancer syndrome. Recent evidence has shown that <i>BRCA1/2</i> mutations also exist in some sporadic gastric cancer patients and may profoundly affect tumor biological behavior, clinical prognosis, and treatment response. This article systematically reviews the latest research progress on <i>BRCA1/2</i> mutations in sporadic gastric cancer, focusing on their incidence and molecular characteristics, their impact on patients' postoperative prognosis, and their potential value as novel biomarkers for guiding individualized therapy, thereby providing a theoretical basis for clinical risk stratification and tailored treatment strategies.

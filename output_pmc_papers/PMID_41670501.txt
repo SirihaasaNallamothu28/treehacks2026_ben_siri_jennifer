@@ -1,5 +1,7 @@
 PMID: 41670501
 Title: Deep Vein Thrombosis in Pelvic Tumor Patients: Correlating Serum Coagulation Factors with Clinical Risk Profiles.
+Journal: Clinical laboratory
+Authors: Yang, JunZi; Xue, WuPeng; Chen, JiaQi; Yuan, YouYuan
 
 Abstract:
 This study aimed to investigate the clinical features, coagulation, and risk factors of deep vein thrombosis (DVT) in patients with pelvic tumor and to construct a prediction model for postoperative DVT events.

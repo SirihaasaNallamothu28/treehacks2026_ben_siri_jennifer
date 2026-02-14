@@ -1,5 +1,7 @@
 PMID: 41686894
 Title: Elovl6 inhibits colorectal cancer progression through stearic acid-mediated mitochondrial fusion and metabolic reprogramming.
+Journal: Science advances
+Authors: Bi, Zhiqian; Chang, Xiaoyao; Zhu, Shengyun; Fu, Shuilian; Zhang, Yuzhe; Wang, Tingting; Wang, Feng; Zhuang, Hongqin; Hua, Zi-Chun
 
 Abstract:
 Lipid metabolic reprogramming is a hallmark of colorectal cancer (CRC), yet the precise molecular mechanisms underlying lipid-mediated oncogenesis and the specific lipid metabolic enzymes involved remain largely elusive. Here, we identify elongation of very-long-chain fatty acid protein 6 (Elovl6) as a critical regulator in CRC progression. Clinical data reveal significant down-regulation of Elovl6 in colon cancer tissues, with low expression levels correlating with unfavorable patient prognosis. We demonstrate that Elovl6 exerts potent tumor-suppressive effects, significantly inhibiting cellular proliferation in vitro and attenuating tumor growth in vivo. Mechanistically, it maintains intestinal microbial homeostasis by preventing the expansion of opportunistic pathogens while simultaneously orchestrating metabolic reprogramming through modulation of phospholipid biosynthesis pathways. Notably, we find that stearic acid, a key Elovl6-derived metabolite, promotes mitochondrial fusion by stabilizing mitofusin 1 protein. These findings not only position Elovl6 as a promising therapeutic target but also suggest that dietary supplementation with stearic acid could represent a viable strategy for CRC prevention and treatment.

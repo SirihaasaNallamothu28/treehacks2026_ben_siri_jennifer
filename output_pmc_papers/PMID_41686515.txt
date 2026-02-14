@@ -1,5 +1,7 @@
 PMID: 41686515
 Title: Clinical, genetic, and familial features of POT1 tumor predisposition syndrome.
+Journal: Cancer
+Authors: DiNardo, Courtney D; Croden, Jennifer; Abdel-Salam, Hiam M; Kadia, Tapan; Molica, Matteo; Bazinet, Alexandre; Bose, Prithviraj; Maiti, Abhishek; Haddad, Fadi; Burger, Jan; Kantarjian, Hagop; Wierda, William; Jain, Nitin; Ferrajoli, Alessandra
 
 Abstract:
 Protection of telomere 1 (POT1) tumor predisposition syndrome (POT1-TPD) is a hereditary leukemia syndrome that is identified in ∼5% of patients with chronic lymphocytic leukemia (CLL) and is characterized by a predisposition to other cancers, including gliomas, melanomas, and angiosarcomas. This study reports clinical and genetic characteristics of a large cohort of individuals with POT1-TPD.

@@ -1,0 +1,7 @@
+PMID: 41679265
+Title: Residual Oil-Based Contrast Medium Mimicking a Metallic Foreign Body After Cesarean Section: Diagnostic Value of AI-Assisted 3D CT Analysis and Prenatal MRI.
+Journal: The journal of obstetrics and gynaecology research
+Authors: Fukuda, Mizuho; Kagami, Kyosuke; Yasoshima, Iwao; Iizuka, Takashi; Igarashi, Saya; Abiko, Kaoru
+
+Abstract:
+A 36-year-old woman underwent an elective cesarean section at 37 weeks of gestation. A postoperative abdominal X-ray unexpectedly revealed a 20 mm hyperattenuating pelvic lesion. Computed tomography (CT) demonstrated a dense structure exceeding 3000 Hounsfield units with metallic-like artifacts, suggesting a retained metallic object. Intraoperative video review and instrument count confirmed no missing items. Three-dimensional CT reconstruction and open-source artificial intelligence (AI)-based shape analysis found no similarity to metallic instruments. Review of the patient's history revealed prior hysterosalpingography with oil-based iodinated contrast medium. Retrospective assessment of prenatal magnetic resonance imaging (MRI) showed a cystic lesion with high signal intensity on T<sub>1</sub>- and T<sub>2</sub>-weighted images, with signal suppression on fat-suppressed T<sub>1</sub>-weighted imaging, consistent with fatty components. The lesion was diagnosed as a pseudocyst due to residual contrast medium. This case demonstrates that oil-based contrast can mimic metallic density, and that AI-assisted three-dimensional CT and MRI review can prevent unnecessary reoperation.

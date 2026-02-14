@@ -1,5 +1,7 @@
 PMID: 41686329
 Title: Cardio-Obesity and Therapeutic Advances: Intersections Between Excess Adiposity, Cardiovascular Risk, and Pharmacologic Interventions.
+Journal: Current atherosclerosis reports
+Authors: De Oliveira-Gomes, Diana; de Majo, Alfonso Martinez; Ardila-Delgado, Angie; Inglis, Sara S; Mandras, Stacy A; Loro-Ferrer, Juan F; daSilva-deAbreu, Adrian
 
 Abstract:
 This review examines the mechanistic pathways linking obesity and cardiovascular disease, with particular emphasis on recent advancements in pharmacologic therapies. It evaluates the cardiovascular effects of novel anti-obesity medications and their integration into current treatment paradigms. Additionally, these pharmacologic strategies are contextualized alongside lifestyle interventions and metabolic bariatric surgery.
