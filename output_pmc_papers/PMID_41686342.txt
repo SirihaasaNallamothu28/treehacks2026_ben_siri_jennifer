@@ -1,0 +1,9 @@
+PMID: 41686342
+Title: Intensive nursing interventions for post-treatment anxiety and depression in bladder cancer: A systematic review and meta-analysis.
+
+Abstract:
+Post-treatment anxiety and depression are prevalent but often underrecognized among bladder cancer patients. This systematic review and meta-analysis aimed to estimate the pooled prevalence of these symptoms and to evaluate the effectiveness of intensive nursing interventions.
+A comprehensive search of PubMed, EMBASE, the Cochrane Library, and Web of Science was conducted through October 18, 2025. Eligible studies included those reporting the prevalence or severity of anxiety and/or depression in bladder cancer patients, as well as studies comparing intensive nursing interventions with routine care. Data were synthesized using Stata/MP version 14.0. Standardized mean differences (SMDs) with 95% confidence intervals (CIs) were calculated. Heterogeneity was assessed using the I<sup>2</sup> statistic, and subgroup analyses were performed to explore potential sources of variability.
+Sixteen studies involving 1,791 patients were included. The pooled prevalence of anxiety was 25.3% (95% CI: 22.2-28.6%) and that of depression was 29.4% (95% CI: 23.3-35.9%). Higher prevalence rates were observed in non-Western populations and among patients receiving multimodal treatment. Compared with routine care, intensive nursing interventions were associated with significant reductions in anxiety (SMD = -4.52; 95% CI: -6.07 to -2.96) and depression (SMD = -4.51; 95% CI: -5.96 to -3.07) (both P < 0.001). These findings remained robust in sensitivity analyses despite substantial heterogeneity.
+Anxiety and depression are common among bladder cancer survivors. Intensive nursing interventions are associated with meaningful improvements in psychological outcomes and may be considered for integration into post-treatment supportive care.
+PROSPERO registration number: CRD42024590858.

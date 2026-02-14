@@ -1,0 +1,5 @@
+PMID: 41670625
+Title: Follow the "DOTs": Vδ1+ γδ T cells as effectors of cancer immunotherapy.
+
+Abstract:
+Cancer immunotherapy has mostly relied on conventional T cells to achieve success in a limited set of tumor types. A promising avenue to expand the repertoire of cancers effectively treated through immune intervention is to mobilize other anti-tumor effectors, such as γδ T cells. Among these, the Vδ1+ subset commonly predominates within peripheral tissues and within tumors, typically associating with good prognosis. In this Found in Translation, we discuss how to leverage the biological properties of Vδ1+ γδ T cells for cancer immunotherapy, with special focus on the delta one T (DOT) cell approach.

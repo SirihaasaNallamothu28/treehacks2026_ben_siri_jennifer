@@ -1,0 +1,8 @@
+PMID: 41687645
+Title: BIOMARKERS OF CARDIOMETABOLIC RISK IN PATIENTS WITH ARTERIAL HYPERTENSION: A CROSS-SECTIONAL PILOT STUDY.
+
+Abstract:
+To provide a comprehensive assessment of cardiometabolic biomarkers in patients with arterial hypertension and to analyze their relationship with the presence of coronary artery disease and atherosclerosis, as well as to outline directions for further research.
+A pilot sample of 31 patients with established arterial hypertension was analyzed. Anthropometric indicators, lipid parameters, and inflammatory biomarkers were assessed in relation to documented coronary artery disease and atherosclerosis.
+The strongest associations with coronary artery disease and atherosclerosis were observed for waist circumference, BMI, LDL-C, total cholesterol, triglycerides, and systolic blood pressure. Elevated lipoprotein(a) levels were noted in several patients without confirmed disease, suggesting possible early subclinical vascular involvement. These trends are consistent with previously described cardiometabolic patterns in the Kazakhstani population.
+Comprehensive assessment of anthropometric and biochemical biomarkers may be useful for early cardiovascular risk stratification in patients with arterial hypertension in Kazakhstan. The observed tendencies highlight potential region-specific features of cardiometabolic risk, warranting further investigation in larger cohorts.

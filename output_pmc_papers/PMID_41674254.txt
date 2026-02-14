@@ -1,0 +1,5 @@
+PMID: 41674254
+Title: [Ischemic stroke : coordinated management from the community to the hospital].
+
+Abstract:
+Stroke represents a leading cause of mortality and hospitalization in Switzerland, with an estimated 20,000 cases annually. Timely and effective management is critical to minimizing severe neurological deficits. Optimal care relies on seamless coordination among healthcare professionals-including general practitioners, emergency medical services (EMS), paramedics, emergency department personnel, neurologists, and radiologists-and on the prompt transfer of patients to specialized stroke units. Recent therapeutic advances, particularly the extension of the endovascular treatment window to up to 24 hours after symptom onset, underscore the vital importance of rapid medical intervention to significantly improve both prognosis and post-stroke quality of life.

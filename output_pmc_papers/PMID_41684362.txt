@@ -1,0 +1,8 @@
+PMID: 41684362
+Title: Analysis on the hospitalization expenses structure and correlation degree of lung cancer: evidence from Shanxi Province, China.
+
+Abstract:
+Lung cancer is associated with a heavy economic burden in China. In this study, we analyzed the hospitalization expenses of patients with different types of lung cancer and investigated how the expense structure has changed from 2017 to 2021.
+A total of 17,721 patients were included. All patients with lung cancer discharged from a tertiary hospital in Shanxi, China. Hospitalization expenses were categorized as drug, treatment, medical material, diagnostic, nursing, operating, and other expenses. All expenses were inflated to the price of 2022. New grey correlation degree and structural change analyses were conducted.
+Hospitalization expenses increased from 2017 to 2021 at a rate of 27.6%. Among all components, drug expenses were most significantly associated with hospitalization expenses. The expense structure of the hospitalization expenses also changed, with an overall structural variability of 41.74%. The top three contributors to changes were medical material, drug, and treatment expenses. The expense structure differed across lung cancer types.
+In summary, the medical expenses of lung cancer patients are increasing. Although the expense structure has changed, there is still plenty of scope for further optimization.

@@ -1,0 +1,9 @@
+PMID: 41668570
+Title: [Postoperative complications following resection of extramedullary tumors of the craniovertebral junction region].
+
+Abstract:
+Surgical treatment of extramedullary tumors of the craniovertebral junction (CVJ) remains a difficult task due to adjacent important neurovascular structures. International data indicate high incidence of postoperative complications following surgical intervention alone.
+O analyze postoperative complications following resection of CVJ extramedullary tumors.
+A retrospective study of treatment outcomes in 64 patients with CVJ tumors was performed between 2013 and 2024. Neurological status in pre- and postoperative period was assessed depending on location, histological variant of tumor and surgical approach. Surgical, neurological and somatic complications were specified.
+Postoperative complications occurred in 23 (38%) patients. For meningiomas, complications occurred in 38.4% of cases, for schwannomas - in 23.5%, for neurofibromas - in 57.1% of cases. Lateral and median approaches had similar complication rates (35.7% and 33.3%, respectively). Surgical complications occurred in 11 (21.8%) patients, and infectious complications were the most common (meningitis in 6 (9.3%) patients). Neurological complications were detected in 13 (20.3%) patients, and dysfunction of bulbar nerves prevailed (7 (10.9%) patients). Somatic postoperative complications occurred in 8 (12.5%) patients, fatal outcomes - in 1 (1.5%) case.
+Our results demonstrate high incidence of postoperative complications after surgical treatment of extramedullary CVJ tumors.

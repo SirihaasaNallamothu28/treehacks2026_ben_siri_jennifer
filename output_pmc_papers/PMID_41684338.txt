@@ -1,0 +1,5 @@
+PMID: 41684338
+Title: [When inflammation gets sneaky : unmasking granulomatosis with polyangiitis with [18F]FDG PET/CT].
+
+Abstract:
+Granulomatosis with polyangiitis is a rare disease that can lead to potentially fatal multisystem involvement if not properly or promptly managed. Early diagnosis is therefore crucial but may be challenging, especially because this condition often presents with nonspecific general symptoms. Sensitive imaging techniques, such as [18F]FDG PET/CT, can be useful for diagnosis, initial assessment of disease extent, and treatment response, potentially surpassing the conventional imaging methods typically used.

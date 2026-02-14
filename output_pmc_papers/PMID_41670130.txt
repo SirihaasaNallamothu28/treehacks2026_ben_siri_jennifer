@@ -1,0 +1,8 @@
+PMID: 41670130
+Title: Disparities in time-to-treatment initiation and therapeutic modalities for malignant melanoma of the skin: a cross-sectional study, Brazil, 2013-2023.
+
+Abstract:
+To analyze regional disparities in time-to-treatment initiation and initial therapeutic modalities adopted for malignant melanoma of the skin in Brazil between 2013 and 2023.
+This is a cross-sectional study based on secondary data extracted from the Oncology Panel. Prevalence ratios and 95% confidence intervals for time-to-treatment initiation were estimated by treatment region and initial therapeutic modality using Poisson regression with robust variance.
+A total of 23,145 records were analyzed. Surgery was the main initial therapeutic modality in all regions, with 89.0% of procedures performed within 30 days of diagnosis, especially in the Southern region (88.6%). In contrast, chemotherapy and radiotherapy were predominantly initiated after 60 days, with the highest percentages in the Northern region (56.1% and 77.4%).
+Significant disparities in time-to-treatment initiation were observed between the Brazilian regions, regardless of therapeutic modality, except in the Midwest region regarding radiotherapy. The findings highlighted the need for actions to promote greater equity in access to cancer treatment, in accordance with Law No. 12732/2012, aiming to improve clinical outcomes for users.

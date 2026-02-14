@@ -1,0 +1,8 @@
+PMID: 41667906
+Title: ACSL3 Promotes Hepatocellular Carcinoma Tumorigenesis and Correlates With JAK-STAT3 Signaling.
+
+Abstract:
+Hepatocellular carcinoma (HCC) is a leading cause of cancer mortality with limited therapies. Reprogrammed lipid metabolism, driven by upregulated de novo lipogenesis, is a key tumorigenic mechanism. The enzyme ACSL3 is strongly correlated with poor HCC prognosis, positioning it as a potential therapeutic target.
+ACSL3 expression was assessed in vivo and ex vivo using comparative analysis. Bioinformatic investigations, including gene set enrichment analysis (GSEA) and KEGG pathway analysis, were employed to identify signaling pathways and biological processes associated with ACSL3 overexpression.
+ACSL3 expression was consistently elevated in HCC models. Enrichment analyses revealed that high ACSL3 levels are associated with activation of the STAT3 signaling pathway and upregulation of key lipogenic enzymes, suggesting a feedforward oncogenic loop. Predictive data also indicate a correlation between ACSL3 expression and the immune checkpoint regulator PD-L1.
+These findings underscore ACSL3 as a significant biomarker and candidate therapeutic target in HCC. Its role bridges dysregulated lipid metabolism with oncogenic signaling and immune evasion, warranting further investigation into ACSL3-targeted strategies.

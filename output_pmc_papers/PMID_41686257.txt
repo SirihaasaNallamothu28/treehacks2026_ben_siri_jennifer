@@ -1,0 +1,9 @@
+PMID: 41686257
+Title: Comorbidity, treatment toxicity and satisfaction with cancer care: an international cross-sectional study based on the EORTC PATSAT-C33 and OUT-PATSAT7.
+
+Abstract:
+This multi-national cross-sectional study assessed socio-demographic and clinical determinants of satisfaction with cancer care in patients enrolled from hospital inpatient and outpatient settings.
+Six hundred ninety consecutive patients with any cancer type or stage including 558 outpatients were approached between October 2019 and October 2023 in 12 countries (20 cancer centres) from Asia, Europe, the Middle East and South America. Among them, 675 (98%) and 521 (93%) completed the EORTC PATSAT-C33 and the OUT-PATSAT7, respectively. Multi-level analyses were performed accounting for institutional differences in satisfaction with care.
+Self-reported quality of life was positively related to all thirteen PATSAT-C33 and OUT-PATSAT7 satisfaction with care domains. Treatment toxicities and the absence of comorbidity predicted lower satisfaction with nine and ten care domains, respectively. Patients in day hospitals were significantly less satisfied with nurses' availability, care coordination and health professionals' information. Tumour site predicted satisfaction with care transition hospital-home. Not being married/with a partner and shorter travels to the hospital predicted less satisfaction with five and two care domains, respectively.
+This study illustrates the value of collecting patients' feedback on their cancer care experience. It informs health policy, pointing out targets for improving satisfaction with cancer care across several institutions and cultures worldwide.
+ClinicalTrials.gov under ID: NCT05989191, August 2, 2023.

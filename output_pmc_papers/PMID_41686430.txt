@@ -1,0 +1,5 @@
+PMID: 41686430
+Title: Mechanism of RBM15 in Regulating PD-L1-Mediated Immune Escape in Ovarian Cancer Through the JAK2/STAT3/STAT5 Pathway.
+
+Abstract:
+This paper elucidates the role of RNA-binding motif protein 15 (RBM15) in programmed death-ligand 1 (PD-L1)-mediated immune escape in ovarian cancer (OC), providing a novel immunotherapeutic strategy. RBM15/circFGFR3/JAK2/STAT3/STAT5 expression was assessed. OC cell progression was analyzed. OC cells were co-cultured with CD8<sup>+</sup> T cells. The m6A enrichment on circRNA fibroblast growth factor receptor 3 (circFGFR3) was determined. The expression of p-JAK2, p-STAT3, and p-STAT5 was investigated. The bindings of circFGFR3 to EIF4A3 and EIF4A3 to JAK2, STAT3, or STAT5 were analyzed. In conclusion, RBM15 promotes PD-L1-mediated immune escape and accelerates OC progression by upregulating circFGFR3 expression through m6A modification and activating the Janus kinase-signal transducer and activator of transcription (JAK/STAT) pathway.

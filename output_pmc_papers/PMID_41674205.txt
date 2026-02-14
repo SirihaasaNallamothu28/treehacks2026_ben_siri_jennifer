@@ -1,0 +1,8 @@
+PMID: 41674205
+Title: Comparative Effectiveness and Modality-Dependent Prognostic Value of Pathological Response Following Neoadjuvant Therapy for Locally Advanced Gastric Cancer.
+
+Abstract:
+Neoadjuvant therapies, including chemotherapy (NACT), chemoradiotherapy (NACRT), and chemoimmunotherapy (NACIT), are standard for locally advanced gastric cancer (LAGC). Pathological response is a key surrogate for treatment effectiveness, but its correlation with long-term outcomes across modalities remains unclear.
+This retrospective cohort study analyzed 256 LAGC patients receiving neoadjuvant therapy (NACT n = 162; NACRT n = 48; NACIT n = 46) from January 2017 to December 2022. Pathological responses, disease-free survival (DFS), and overall survival (OS) were evaluated using Kaplan-Meier estimates and Cox models.
+Compared to NACT, NACIT was associated with significantly improved DFS (HR = 0.75, p = 0.035), though no OS difference was observed. Although NACRT enhanced pathological response rates, this was not accompanied by a survival benefit. Crucially, major pathological response (MPR) strongly correlated with improved survival in the NACT and NACIT groups, but no significant association was observed in the NACRT group.
+NACIT is associated with improved DFS for patients with LAGC, whereas NACRT suggests a 'pathology-prognosis mismatch,' where improved pathological response may not reliably predict a survival advantage. These findings challenge the uniform application of pathological response as a surrogate endpoint and highlight the critical need for modality-specific interpretation when evaluating neoadjuvant therapy efficacy.

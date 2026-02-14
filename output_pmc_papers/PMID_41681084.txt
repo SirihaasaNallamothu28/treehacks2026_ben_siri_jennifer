@@ -1,0 +1,12 @@
+PMID: 41681084
+Title: Moral Distress Among Nurses During the COVID-19 Pandemic: A Cross-Sectional Survey.
+
+Abstract:
+To examine factors related to moral distress among registered nurses and nursing students during the severe acute respiratory syndrome COVID-19 pandemic.
+Cross-sectional survey study.
+287 registered nurses and nursing students in Wales, UK were invited to participate in an online survey between 26 October 2021 and 11 April 2022. Outcome measures used were Moral Distress for Health Professionals (MMD-HP), Patient Health Questionnaire (PHQ-9), Generalised Anxiety Disorder Questionnaire (GAD-7) and International Trauma Questionnaire (ITQ). Free text responses were collected, which allowed for exploration of moral distress, support received, pandemic preparedness and career intentions.
+Moral distress was significantly associated with depression; high moral distress scores were reported by those who had been redeployed; those with 2-6 years post-registration experience who cared for > 40 patients with suspected or confirmed COVID-19; and those who did not intend to remain in the nursing workforce. Qualitative findings identified: (1) an interplay between trauma experienced at home and work; (2) unhealthy coping strategies; (3) feeling unprepared and unsupported; (4) changes to roles or careers; and (5) renewed commitment to the nursing profession.
+High levels of moral distress and an association with depression were found among nurses working during the pandemic in Wales. Exceptional workforce pressures and their impact during this period cannot be ignored. As these pressures have not abated and sequelae likely continue, interventions that address moral distress and depression among the nursing workforce remain necessary.
+Working during the pandemic had an impact on nurses and nursing students. The link between moral distress and depression was observed as well as unanticipated impacts of moral distress.
+This paper adheres to the STROBE Statement guidelines for reporting cross-sectional studies.
+No patient or public contribution. However, registered nurses who were deployed during the first Covid-19 wave contributed to the study design.

@@ -1,0 +1,5 @@
+PMID: 41671462
+Title: NCCN Guidelines® Insights: Soft Tissue Sarcoma, Version 1.2025.
+
+Abstract:
+The treatment landscape for soft tissue sarcomas (STS) is evolving constantly. These NCCN Guidelines Insights focus on recent updates to the NCCN Guidelines for STS specific to surgical management and systemic therapy recommendations for various subtypes.

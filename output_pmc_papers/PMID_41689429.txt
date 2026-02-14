@@ -1,0 +1,5 @@
+PMID: 41689429
+Title: The Application of PD-1 Inhibitors in Immunotherapy for Glioblastoma.
+
+Abstract:
+Glioblastoma (GBM) is the most common primary malignant brain tumor of the central nervous system, marked by drug resistance, rapid progression, and extremely low survival. Immunotherapy for this disease represents a new generation of treatment following surgery, chemotherapy, and radiotherapy. The emergence of immunotherapy has significantly advanced the treatment of various solid tumors and demonstrated promising efficacy. Although PD-1 inhibitors show potential against GBM, clinical benefit from monotherapy remains modest. A series of clinical studies have found that combining PD-1 inhibitors with chemotherapy, radiotherapy, oncolytic viruses, vaccines, other immune checkpoint inhibitors, and CAR-T cell therapy shows better efficacy and safety, making it an attractive therapeutic approach. In this review, we provide a summary of the approved PD-1 inhibitors in GBM, covering their use as monotherapy and in combination therapies, along with their prospects and the latest research advances.

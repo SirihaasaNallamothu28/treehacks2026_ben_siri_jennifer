@@ -1,0 +1,5 @@
+PMID: 41688153
+Title: Methodological advances to analyze cancer-associated fibroblast-derived ECM effects on macrophage polarization.
+
+Abstract:
+The tumor microenvironment (TME) represents a complex ecosystem composed of tumor cells and various non-cancerous cell types, embedded within an altered extracellular matrix (ECM). In solid tumors, the ECM plays multiple roles: it provides mechanical support, delivers signaling molecules and transmits biophysical stimuli that influence cellular functions. Various cell types, primarily cancer-associated fibroblasts (CAFs) and immune cells such as macrophages, actively participate in the secretion and remodeling of ECM. However, whether the ECM directly instructs or educates immune cells, particularly macrophages within the TME, remains poorly understood. Here, we present a protocol to investigate the impact of ECM derived from non-small cell lung cancer (NSCLC) CAFs on macrophage state.

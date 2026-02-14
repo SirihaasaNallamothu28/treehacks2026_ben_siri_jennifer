@@ -1,0 +1,8 @@
+PMID: 41674139
+Title: The Association Between Right Ventricular Size, Gender, and Body Surface Area Using Transthoracic Echocardiography: A Cross-Sectional Analysis.
+
+Abstract:
+Cardiac dimensions generally exhibit a linear relationship with body size and gender and are commonly indexed to body surface area (BSA) to detect abnormal volume measurements. This study aimed to evaluate right ventricular (RV) indices in relation to BSA and gender using both two-dimensional (2D) and three-dimensional (3D) transthoracic echocardiography.
+A cross-sectional analysis was conducted on 295 patients between 2023 and 2024. Demographic and clinical data were extracted from medical records. RV parameters including RV basal (RVBD), mid-cavity (RVMD), and longitudinal dimensions (RVLD) were assessed via 2D echocardiography. Volumetric and functional indices such as RV end-systolic volume (RVESV), RV end-diastolic volume (RVEDV), and RV ejection fraction (RVEF) were measured using 3D echocardiography. Data analysis was performed using SPSS version 24.
+Of the 295 participants, 50.8% were male, with a mean age of 45.2 ± 14.48 years. The most robust correlation was found between BSA and RVMD (r = 0.633, p < 0.001). Other 2D parameters showed weaker or non-significant associations. In 3D echocardiographic evaluation, BSA demonstrated significant positive correlations with RVEDV (r = 0.626, p < 0.001) and RVESV (r = 0.520, p < 0.001). Moreover, age had a significant inverse relationship with several RV parameters (p < 0.05).
+This study highlights the significant influence of gender and BSA on some RV morphology and volume as assessed by both 2D and 3D echocardiography.

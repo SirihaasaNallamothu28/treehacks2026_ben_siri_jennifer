@@ -1,0 +1,10 @@
+PMID: 41686604
+Title: Riedel thyroiditis secondary to papillary thyroid carcinoma: A case report.
+
+Abstract:
+Riedel thyroiditis (RT) is categorized as an immunoglobulin G4-related disease (IgG4-RD), a condition that is seldom encountered in clinical practice. IgG4-RDs have been linked to an elevated risk of malignancy. Although prior studies have documented instances where IgG4-RDs were induced by malignant tumors, such occurrences are still rarely reported in both the domestic and international literature.
+A 47-year-old male, asymptomatic except for a palpable right neck nodule detected during routine follow-up, was diagnosed with RT secondary to papillary thyroid carcinoma. To our knowledge, this is the inaugural case of its nature ever documented, providing valuable insights into the relationship between malignant tumors and IgG4-RDs.
+Histopathological examination revealed fibrous tissue hyperplasia, atrophic thyroid follicles, extensive infiltration of lymphocytes and plasma cells, and perivascular inflammation. The pathological diagnosis was consistent with RT.
+The patient underwent thyroidectomy and neck lymph node dissection.
+The patient recovered uneventfully, takes levothyroxine daily to suppress thyroid-stimulating hormone, and undergoes a thyroid ultrasound and thyroid function test every 6 months.
+RT can mimic malignancy on ultrasound (e.g., thyroid imaging reporting and data system 5 features). Greater awareness and integrated clinicopathologic evaluation may prevent unnecessary surgery.

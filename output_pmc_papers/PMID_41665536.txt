@@ -1,0 +1,9 @@
+PMID: 41665536
+Title: Cardiac meshes reconstruction from cardiac magnetic resonance image by graph transformation.
+
+Abstract:
+Reconstructing 3D patient-specific cardiac meshes from cardiac magnetic resonance (CMR) images remains a challenging task due to low through-plane resolution, inter-slice misalignment, and anatomic variability. Conventional reconstruction methods often suffer from topological inaccuracies and stair-step artifacts, whereas deep learning-based approaches are constrained by high computational demands and the scarcity of labeled mesh data.
+We propose a novel graph transformation-based method for reconstructing 3D cardiac meshes from 2D cine images.
+By reconstructing mesh vertex displacement with frequency analysis through graph Fourier transform (GFT) and graph wavelet transform (GWT), our method leverages different frequency components to capture cardiac shape features at various scales. Furthermore, we introduce a temporal loss in dynamic mesh reconstruction to ensure physiological consistency in the temporal direction.
+Extensive experiments were conducted on the public ACDC dataset and a private CMR dataset. The results demonstrate that the proposed method outperforms state-of-the-art approaches in both reconstruction accuracy and mesh quality. Ablation studies further highlight the pivotal role of the GWT in capturing fine anatomical structures and the effectiveness of the temporal loss.
+Our framework eliminates the reliance on labeled mesh data and enables high-fidelity reconstruction of patient-specific cardiac meshes.

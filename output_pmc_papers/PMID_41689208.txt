@@ -1,0 +1,8 @@
+PMID: 41689208
+Title: Pachymic Acid Targets PI3K/Akt Signaling Pathway to Attenuate tPA-Induced Hemorrhagic Transformation After Ischemic Stroke.
+
+Abstract:
+Tissue plasminogen activator (tPA)-induced cerebral hemorrhagic transformation (HT) after ischemic stroke limits its clinical use widely. Pachymic acid, a main active component of Poria cocos, mitigates brain ischemia/reperfusion injury, but its effect on tPA-induced HT is unclear.
+A focal middle cerebral artery occlusion/reperfusion model was established and administered with tPA and pachymic acid. Infarct volume and neurological function were assessed at 24 h after reperfusion. Blood-brain barrier (BBB) damage was evaluated using Evans blue leakage, immunofluorescence, and Western blot. Pachymic acid and PI3K protein interaction was identified using molecular docking, molecular dynamics (MD) simulation, and surface plasmon resonance (SPR).
+Compared with the tPA group, pachymic acid dose-dependently improves neurological and motor functions, reduces infarct volume and hemorrhagic volume, and alleviates permeability and tight junction protein degradation of BBB after ischemic stroke, with the strongest effects observed at the highest dose. Molecular docking, MD simulation, and SPR results indicate that pachymic acid can directly bind to PI3K protein. Further experiments showed that the PI3K inhibitor LY294002 reversed pachymic acid's protective effects.
+This study demonstrated that pachymic acid protects the BBB by targeting PI3K to activate the PI3K/Akt signaling pathway, thereby alleviating tPA-induced HT after ischemic stroke.

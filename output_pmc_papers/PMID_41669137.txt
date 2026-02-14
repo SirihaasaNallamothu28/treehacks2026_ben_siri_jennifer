@@ -1,0 +1,8 @@
+PMID: 41669137
+Title: Early experience with pericardiectomy for constrictive pericarditis in Ile-Ife, Nigeria: a retrospective analysis.
+
+Abstract:
+Constrictive pericarditis is a rare but important cause of diastolic heart failure. Its uniqueness lies in the fact that surgery (pericardiectomy) remains the mainstay of treatment. Globally, the leading causes of constrictive pericarditis include idiopathic, mediastinal irradiation, post cardiac surgery and tuberculosis.
+Patients who underwent pericardiectomy at our tertiary hospital between January 2019 and December 2024 were retrospectively studied with the aim of discussing our experience with the procedure and its outcomes. Data including baseline demographics, preoperative conditions, intraoperative details, and postoperative outcomes were collected from clinical records and analysed.
+Thirteen patients had total pericardiectomy during the period under review. The median age was 28 years with dyspnoea and ascites being the most common symptoms. Most patients (61.6%) presented in NYHA class III and IV and were above ASA II classification at the time of surgery. Pericardiectomy was done via median sternotomy and without cardiopulmonary bypass in all cases, with an average surgery duration of 284.5 mins. Postoperative complications included low cardiac output, acute kidney injury, coagulopathy, and prolonged pleural effusion. Median duration of intensive care unit (ICU) stay was 2days and there was 1 mortality. At twelve months follow up, more than 90% of surviving patients were in NYHA class I or II.
+Pericardiectomy offers symptomatic relief to patients with constrictive pericarditis. Early identification of this disease would prevent disease progression and offer improved outcomes.

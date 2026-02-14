@@ -1,0 +1,10 @@
+PMID: 41669989
+Title: Impact of a web-based breast cancer surgery decision aid on knowledge and perceptions of feeling informed in clinics that care for socioeconomically disadvantaged patients: An Alliance Clinical Trial (A231701CD).
+
+Abstract:
+To test the effectiveness of a surgical web-based decision aid (DA) in improving knowledge.
+DAs support decision making by providing information about the options.
+A stepped wedge trial was conducted in 10 National Cancer Institute Community Oncology Research Program clinics (Alliance for Clinical Trials in Oncology). Clinics were randomized to time of transition from usual care (UC) to delivery of a web-based DA. Patients with stage 0 through 3 breast cancer being considered for surgery were enrolled. Knowledge (primary outcome) was measured using the Breast Cancer Surgery Decision Quality Instrument and patients were asked, "How informed do you feel?" Intervention effects were tested with linear mixed-effects models, accounting for surgeon and clinic-level clustering, time, and enrollment after COVID. Additional models controlled for demographics.
+A total of 44% of DA arm patients reviewed the DA and 58% in UC arm reported reviewing "any information." Being in the DA arm versus UC was not associated with knowledge. However, "review of information" was associated with higher knowledge. In addition, non-White race and lower education were associated with lower knowledge. The DA arm was associated with higher perceptions of feeling informed (parameter estimate 1.36; 95% CI, 0.18-2.55; p = .02); this persisted even when controlling for review of information or demographics.
+Improved knowledge was not demonstrate with a web-based DA versus UC. Interestingly, the DA was associated with a higher likelihood of feeling informed. Future research will explore the discrepancy between patients feeling informed but having low knowledge, especially for disadvantaged patients.
+ClinicalTrials.gov Identifier: NCT0376600.

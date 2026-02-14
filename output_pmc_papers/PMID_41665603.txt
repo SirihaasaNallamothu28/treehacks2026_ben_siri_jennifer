@@ -1,0 +1,5 @@
+PMID: 41665603
+Title: Liver-X-receptor agonism enhances T cell priming and activation to promote anti-tumor immunity.
+
+Abstract:
+Many cancer patients do not benefit from current immunotherapies. This lack of efficacy may be, in part, due to insufficient priming and activation of T cells. Here, we show that activation of liver-X-receptors (LXRs) promotes adaptive anti-tumor immunity by enhancing priming of T cells. Genetic LXR deletion in the host and depletion of dendritic and CD8+ T cells, but not of macrophages, abrogated anti-tumor effects of LXR-agonistic therapy. In cross-presentation assays, LXR agonism promoted T cell activation upon DC/T cell cross talk. Genetic deletion of LXRs in T cells, but not in dendritic cells, blunted this effect. Dissection of the temporal dynamics of LXR-enhanced T cell effector function showed that LXR agonism rendered T cells more receptive to adopting effector states upon stimulation. Consistently, LXR agonist therapy elicited T cell expansion in cancer patients enrolled in a phase I trial. Our findings establish LXR activation as an effective approach for enhancing T cell priming.

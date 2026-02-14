@@ -1,0 +1,9 @@
+PMID: 41666172
+Title: Simultaneous transcatheter edge-to-edge repair (TEER) for severe mitral and tricuspid regurgitation is feasible, safe, and associated with good clinical outcome.
+
+Abstract:
+Mitral regurgitation (MR) and tricuspid regurgitation (TR) commonly coexist in patients with heart failure (HF). Their concomitant occurrence carries a much poorer prognosis than isolated valve disease. Transcatheter edge-to-edge repair (TEER) of MR and TR is safe and effective, but there is limited data on combined MR/TR TEER.
+The study evaluates the safety and efficacy of combined TEER for MR and TR in a real-world cohort.
+This retrospective safety and efficacy analysis included the first 40 patients treated with combined MR/TR TEER between 2019 and 2021 at our single tertiary care referral centre.
+Combined procedural success (MR reduction ≥2° and TR reduction ≥1°) was achieved in 80% of the cases. Simultaneous TEER was safe, with no intraprocedural death, myocardial infarction (MI), stroke, or major bleeding. At 1-year follow-up, the median New York Heart Association functional (NYHA) class improved by one grade; twelve patients (30%) died, and fourteen patients (35%) were hospitalized for HF. Procedural success and postprocedural residual MR ≤ 1° were associated with reduced 1-year mortality rates but not HF hospitalizations.
+Combined MR/TR TEER is safe and reduces MR and TR in most patients, conferring a potential benefit regarding symptoms and prognosis. Randomized controlled trials (RCTs) are needed to rigorously evaluate combination therapy in this setting.

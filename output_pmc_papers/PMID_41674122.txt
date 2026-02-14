@@ -1,0 +1,8 @@
+PMID: 41674122
+Title: Assessing Cardiac Mechanical Dysfunction in Transfusion-Dependent β-Thalassemia With History of Atrial Fibrillation: The Role of Speckle Tracking Echocardiography.
+
+Abstract:
+Atrial fibrillation (AF) is highly prevalent in patients with transfusion-dependent beta-thalassemia (TDT). Speckle tracking echocardiography (STE) provides detailed information about left ventricular (LV) and atrial function, however its role in TDT patients with AF has not been completely investigated. This study aimed to assess differences in cardiac mechanical parameters between thalassemia patients with and without history of AF.
+223 TDT patients in sinus rhythm were enrolled and, among them, 26 (11%) had history of AF. A complete STE analysis with the evaluation of global longitudinal strain (GLS), peak atrial longitudinal strain (PALS) and myocardial work (MW) indices were performed. The primary endpoint was the difference in STE parameters. The secondary endpoint was the prevalence of cardiac mechanical dysfunction. Patients with history of AF showed significantly lower values of GLS (19% vs 21%, p = 0.01) and PALS (24% vs 35%, p < 0.001) compared to those without AF. AF patients showed higher prevalence of both ventricular and atrial mechanical dysfunction (respectively 27% vs 12%, p = 0.03 and 42% vs 11%, p < 0.001). PALS showed high discriminative ability (AUC 0.76, 95% CI 0.66-0.85) with an optimal cut-off value of 25.9% to detect those with history of AF.
+Among TDT patients, those with history of AF showed lower values of GLS and PALS. Both LV and atrial mechanical dysfunction were significantly prevalent in patients with history of AF and PALS showed high diagnostic accuracy for the detection of AF.
+ClinicalTrials.gov id NCT05508932.

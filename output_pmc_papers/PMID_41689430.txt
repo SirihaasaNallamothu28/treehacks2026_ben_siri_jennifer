@@ -1,0 +1,7 @@
+PMID: 41689430
+Title: Identification of ALDH1A2-mediated cardioprotective benefits in myocardial ischaemia-reperfusion injury.
+
+Abstract:
+Myocardial ischaemia-reperfusion (MIR) injury is one of the major causes of poor prognosis after revascularization in myocardial infarction. Retinoic acid (RA) signalling is activated after myocardial infarction and participates in cardiac repair after myocardial infarction, but whether it can be applied to target MIR and the specific mechanism underlying its regulation and action in MIR remain unclear.
+We systematically analysed the changes of heart gene transcriptional profile post-MIR and identified cardiomyocyte Aldh1a2 as a central regulator in I/R-induced heart dysfunction. Compared to wild-type controls, Aldh1a2 ablation significantly aggravated heart dysfunction, myocardial damage and fibrosis, while overexpressing ALDH1A2 provided robust protection against heart injury in response to I/R surgery. The in-depth mechanistic investigations indicated that the cardioprotective role of ALDH1A2 is largely dependent on catalyzing RA production. The cardiomyocyte-generated RA inhibited cell death and cardiac fibrosis by binding to RA receptors and regulating the transcription of Bmp7.
+In summary, our study indicates that Aldh1a2 is the central RA-producing enzyme mediating the protective effect against MIR injury and the following cardiac remodelling. Potentiating Aldh1a2 transcription and the downstream RA signalling is a potential means of treatment against MIR injury.

@@ -1,0 +1,5 @@
+PMID: 41665688
+Title: Enhancing human-induced pluripotent stem cell proliferation and cardiac differentiation through 810-nm photobiomodulation.
+
+Abstract:
+Photobiomodulation (PBM) has been shown to enhance cell growth and differentiation. This study investigates the effects of 810-nm PBM on the proliferation and cardiac differentiation of human-induced pluripotent stem cells (hiPSCs), utilizing a custom-made LED device. This device is compatible with standard cell incubators and features an LED array that ensures uniform light exposure to cells in each well of a 96-well plate. hiPSCs were irradiated with 810-nm light at intensities of 1.0, 1.5, and 2.0 mW/cm² for 15 min daily. Outcomes assessed included cell viability, mitochondrial function and morphology, and cardiomyocyte differentiation. The results show that PBM at 1.5 mW/cm² enhanced hiPSC proliferation and cardiac differentiation, yielding a higher number of spontaneously beating cardiomyocytes compared to controls. These findings suggest that 810-nm PBM may improve the efficiency of cardiac cell generation for both research and therapeutic applications.

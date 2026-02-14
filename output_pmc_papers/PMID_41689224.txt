@@ -1,0 +1,10 @@
+PMID: 41689224
+Title: Learning from patients about their experiences with early adoption of virtual care appointments in primary care in Ontario, Canada during the COVID-19 pandemic: a qualitative study.
+
+Abstract:
+The objective of this study was to examine patient experiences with virtual (telephone and video) encounters in primary care and make recommendations to inform the broader adoption of virtual care.
+A descriptive qualitative study using semi-structured interviews for data collection.
+Ontario, Canada.
+Fifty-five primary care patients across Ontario, Canada, who had experienced at least one virtual (telephone or video) encounter with a healthcare provider in primary care, participated in semi-structured individual interviews conducted between 15 January 2021 and 22 March 2021.
+With respect to patients' experiences with virtual care appointments, we identified the following seven themes: (1) Enhancing access, (2) Importance of patient-provider relationship, (3) Active communication and attunement, (4) Assuring privacy and confidentiality, (5) Shorter appointments, (6) Asynchronous technologies being underutilised and (7) Strengthening the future of virtual care. Despite the rapid adoption of synchronous virtual care, participants generally reported positive experiences. Virtual care enhanced access to care and was overwhelmingly supported for continued use. While new patient-provider relationships faced challenges, pre-existing, positive relationships thrived. Concerns about the shortness of virtual care appointments were reported.
+Virtual care offers a promising modality for patients to experience care. Moving forward, primary care practices should consider expanding options for asynchronous virtual care, consider the length of virtual care appointments and offer patients greater choice in the modality of their care appointments.

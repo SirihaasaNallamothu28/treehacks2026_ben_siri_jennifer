@@ -1,0 +1,9 @@
+PMID: 41688775
+Title: Unveiling the therapeutic potential of Farnesol against Parkinson's disease: insights from molecular Docking and animal studies.
+
+Abstract:
+Parkinson's disease (PD) is a chronic neurodegenerative disorder that progressively worsens over an individual's lifetime. Current treatments primarily address the symptoms rather than the underlying cause of the disease, and many patients report adverse side effects from the medications used. Nature offers a wealth of medicinal plants, among which Ocimum tenuiflorum stands out for its potential to treat various health issues.
+The objective of the study is to identify an effective phytochemical from Ocimum tenuiflorum using in silico and in vivo methods for the management of PD.
+Molecular docking was employed to identify potential phytochemicals in Ocimum tenuiflorum that target the mTOR pathway. Farnesol was chosen for further evaluation based on its docking score, blood-brain barrier permeability, and pharmacokinetic properties. In vivo studies were carried out using rotenone-induced PD models in mice, and the effects of farnesol on behavioral changes, oxidative stress, and histopathological alterations were examined.
+Farnesol showed a high docking score and the ability to cross the blood-brain barrier. In vivo studies revealed that farnesol treatment enhanced locomotor activity, lowered cataleptic scores, and increased antioxidant enzyme activity (SOD) in the brain. The strongest antioxidant effect was achieved by the high dose, which brought the levels of MDA and SOD near to the control 8.3% and 95.4% respectively, as compared to the disease group. Additionally, farnesol decreased lipid peroxidation levels and protected against neuronal damage in the substantia nigra region.
+Farnesol exhibits significant neuroprotective effects in rotenone-induced PD models, suggesting its potential as a therapeutic candidate for managing PD.

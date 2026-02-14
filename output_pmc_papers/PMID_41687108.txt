@@ -1,0 +1,10 @@
+PMID: 41687108
+Title: Migration Effects on Cognition: Protocol for the Aging in Kerala Americans Research Study.
+
+Abstract:
+In the United States, Asian American people represent the fastest growing population group, and are highly diverse linguistically, culturally, and demographically. Yet, in most national studies, Asian American groups are aggregated, masking potential health disparities. Racial and ethnic minorities, especially first-generation immigrants, are also at a particularly elevated risk of cognitive impairment.
+The Aging in Kerala Americans Research (AKKARE) study aims to examine both positive and negative migration effects on health in the first-generation Kerala American population, focusing on cognition and dementia. We will assess the effect of immigrant and cultural factors and social relations on cognitive aging from epidemiological, biological, and vascular perspectives. This protocol describes the study design and procedures for the AKKARE study.
+The AKKARE study proposes to enroll 400 older first-generation Kerala American individuals from the tristate area. A smaller subset of these participants will complete blood tests (n=360) and neuroimaging studies (n=160). We will assess the role of immigration and cultural effects on cognitive function, mood, and quality of life, as well as biological and vascular aging. We will conduct follow-up assessments at 12-month intervals for up to 5 years.
+The AKKARE study (grant #1R01AG084567-01) was funded by the US National Institutes of Health in 2024 and received approval from the Stony Brook University Institutional Review Board to start the study in 2025. Enrollment began in September 2025.
+As there is presently a lack of fundamental data on the epidemiology in diseases of aging in Indian American immigrants, the AKKARE study will provide new insights into factors of risk and resilience associated with cognitive impairment in this group and in the broader older adult population.
+DERR1-10.2196/85493.

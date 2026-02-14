@@ -1,0 +1,8 @@
+PMID: 41664563
+Title: Causal Pathways Linking Gut Microbiota, Serum Metabolites, and Meningioma Risk: A Mendelian Randomization Analysis.
+
+Abstract:
+Meningioma is a common tumor of the adult central nervous system (CNS), but its origin remains unclear. Increasing evidence suggests that the gut microbiota affects CNS disorders through the "microbiota-gut-brain axis," yet its link to meningioma is still uncertain. This study used Mendelian randomization (MR) to explore causal relationships between gut microbiota, serum metabolites, and meningioma, and to investigate potential mediation by serum metabolites.
+A two-sample MR framework was applied using publicly available genome-wide association study data on 473 gut microbial taxa, 1400 serum metabolites, and meningioma. Primary estimates were obtained using the inverse variance weighted method, with MR-Egger and weighted median methods as complementary approaches. A two-step MR was used to assess mediation. Sensitivity analyses were performed to confirm robustness.
+Nineteen gut microbial taxa were causally associated with meningioma. A reverse causal association was identified only for Lachnospirales. A total of 49 serum metabolites showed potential causal associations, involving inflammatory, hormonal, and lipid pathways. Arachidonate (20:4n6) may mediate the effect of CAG-873 sp001701165 on meningioma.
+This study provides new insights into the causal roles of gut microbiota and metabolites in meningioma, suggesting novel prevention and treatment strategies.

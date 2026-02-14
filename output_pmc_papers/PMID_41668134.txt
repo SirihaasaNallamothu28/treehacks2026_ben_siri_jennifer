@@ -1,0 +1,8 @@
+PMID: 41668134
+Title: Anxiety, Depression, and Suicidality Among Testicular Cancer Survivors.
+
+Abstract:
+We evaluated the incidence of anxiety, depression, and suicidality amongst TC survivors and the impact of chemotherapy on these outcomes.
+We conducted a retrospective cohort study of men diagnosed with TC in the United States Veterans Affairs Health System from 1990 to 2016. De novo anxiety or depression was a composite endpoint comprised of diagnosis codes for anxiety, depression, or medications used to treat these diagnoses. Incident suicidality was defined as a diagnosis code for suicidal ideation. 2022 TC patients were compared in a 1:3 ratio to 6375 controls. Cox proportional hazards models were employed for statistical analysis.
+Mean age at diagnosis was 42.6 years. 5-year cumulative incidence of anxiety or depression was 53.4% in TC patients and 35% for controls (p < 0.001). TC patients were more likely to develop anxiety or depression (HR 1.66, 95% CI 1.56-1.78, p < 0.001) and suicidality (HR 22.99, 95% CI 17.52-30.17, p < 0.001). In the TC cohort, factors associated with a higher risk of anxiety or depression were divorce (HR 1.15, 95% CI 1.00-1.32, p = 0.044), unemployment (HR 1.68, 95% CI 1.47-1.9, p < 0.001), and receipt of chemotherapy (HR 1.20, 95% CI 1.06-1.35, p < 0.001).
+Psychological morbidity due to depression, anxiety, and suicidality is high among TC survivors. In our analysis chemotherapy increases the rates of psychosocial morbidity. Clinicians should be proactive in screening and intervening for these diagnoses in TC survivors to provide early intervention and improve health comes.

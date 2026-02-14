@@ -1,0 +1,8 @@
+PMID: 41687662
+Title: EVALUATION OF THE DEEP INSPIRATION BREATH-HOLD TECHNIQUE TO IMPROVE DOSIMETRIC OUTCOMES IN RADIOTHERAPY FOR STAGE III NON-SMALL CELL LUNG CANCER.
+
+Abstract:
+Radiotherapy is a key treatment for stage III non-small cell lung cancer (NSCLC), but tumor proximity to critical structures-such as the heart, esophagus, and spinal cord and respiratory motion complicates dose delivery. The Deep Inspiration Breath Hold (DIBH) technique actively controls respiratory motion, potentially improving treatment precision.
+This retrospective study included 56 patients with stage III NSCLC. Each underwent two CT scans: one during free breathing (FB) and one using DIBH. Dosimetric parameters for organs at risk (OARs) were compared between FB (with a 6 mm internal target volume margin) and DIBH plans using paired Student's t-tests.
+DIBH increased total lung volume by 28% and reduced heart volume by 12.5%. Lung dose metrics improved significantly with DIBH, including V5, V20, and mean lung dose (all P < 0.001). Heart dose parameters (V10, V40, mean dose) also decreased. DIBH significantly reduced both maximum and mean doses to the esophagus and maximum dose to the spinal cord.
+In stage III NSCLC, DIBH significantly lowers radiation exposure to OARs and enhances dose delivery accuracy. By expanding lung volume, it may reduce the risk of radiation-induced pneumonitis.

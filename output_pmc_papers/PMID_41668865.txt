@@ -1,0 +1,8 @@
+PMID: 41668865
+Title: Global trends, decomposition analysis, inequality assessment, and economic projections of tracheal, bronchus, and lung cancer.
+
+Abstract:
+This study analyzed global trends in incidence, mortality, disability-adjusted life years (DALYs), and economic burden of tracheal, bronchus, and lung (TBL) cancer from 1990 to 2021, focusing on regional and sex differences, with projections to 2050.
+Using joinpoint regression to assess temporal trends. Decomposition analysis quantified the effects of population growth, aging, and changes in disease fatality. Health inequalities were evaluated using the concentration index (CI), and the economic burden was estimated through a value of statistical life (VSL).
+Globally, TBL cancer deaths increased from 1.08 million in 1990 to 2.02 million in 2021, and DALYs rose from 28.46 million to 46.54 million, with a sharper rise among females. Population growth (94.18%) and population aging (36.07%) were the major components to the observed increase in the global TBL cancer burden. East Asia accounted for over half of the global increase, with China contributing the largest national share. The global economic burden is projected to rise from $3.86 trillion in 2021 to $7.15 trillion by 2050. China's economic loss from TBL cancer is estimated to increase from $688 billion in 2021 to $2.49 trillion by 2050, surpassing the United States and reflecting the rapid escalation of burden in Asia.
+TBL cancer remains a major global health challenge, requiring urgent, region-specific action to reduce its growing impact.

@@ -1,0 +1,5 @@
+PMID: 41683974
+Title: Special Issue "Invasion and Metastasis in Brain Cancer".
+
+Abstract:
+Brain tumors, whether primary gliomas or metastases from breast, lung, melanoma, or other systemic malignancies, share a unique biological feature: the ability to infiltrate brain parenchyma and adapt to the unique microenvironment of the central nervous system [...].

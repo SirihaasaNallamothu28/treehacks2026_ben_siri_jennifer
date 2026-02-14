@@ -1,0 +1,8 @@
+PMID: 41686534
+Title: Neurocognitive Profile of Late Life Hoarding Disorder Using the NIH Toolbox Cognition Battery as an In-Home Assessment.
+
+Abstract:
+Adults with hoarding disorder report high levels of subjective cognitive impairment which have largely gone undetected in formal testing in laboratory settings; this discrepancy may be due to the testing environment.
+This study examined associations between cognitive performance and hoarding severity in a sample of older adults diagnosed with hoarding disorder (N = 52) using the NIH Toolbox Cognition Battery administered in participants' homes.
+Participants demonstrated a cognitive profile that included weaknesses in attention, executive function, and processing speed. Conversely, the sample demonstrated strengths in delayed memory.
+Together, results suggest that adults with hoarding disorder, particularly older adults, may experience impaired cognitive functioning in the context of their household but demonstrate intact cognitive functioning in clinical settings. These findings demonstrate the utility of using the NIH Toolbox to assess for cognitive functioning related to late-life hoarding and underline the importance of in-home assessment for hoarding disorder.

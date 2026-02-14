@@ -1,0 +1,5 @@
+PMID: 41667201
+Title: Anaesthetic management of a paediatric patient with situs inversus totalis and congenitally corrected transposition of the great arteries undergoing adenotonsillectomy.
+
+Abstract:
+Situs inversus totalis (SIT) with congenitally corrected transposition of the great arteries (ccTGA) represents a rare and complex congenital combination that significantly complicates anaesthetic management. We report the anaesthetic management of an early childhood (2-5 years), 13 kg child diagnosed with SIT and ccTGA undergoing elective adenotonsillectomy. Individualised perioperative strategies were implemented, including modified ECG monitoring, arrhythmia preparedness and explicit mg/kg drug dosing. Intraoperative management was uneventful, and the patient had a stable recovery. This case highlights anaesthetic considerations and monitoring adaptations in non-cardiac paediatric surgery involving mirror-image congenital cardiac anatomy.

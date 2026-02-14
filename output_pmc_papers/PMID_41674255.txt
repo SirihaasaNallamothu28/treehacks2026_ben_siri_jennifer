@@ -1,0 +1,5 @@
+PMID: 41674255
+Title: [Cardiology : what's new in 2025].
+
+Abstract:
+In 2025, significant progress has been made in the management of heart failure and cardiovascular diseases, driven by the emergence of new treatments whose effectiveness is now well-established. In cardiac imaging, artificial intelligence-enhanced MRI has become the reference examination for evaluating myopericardial syndromes, while photon-counting CT has markedly improved the assessment of coronary arteries. In addition, the introduction of 18F-flurpiridaz represents a major milestone in PET imaging. The field of electrophysiology also continues to expand with important innovations in arrhythmia management, anticoagulation strategies, and cardiac pacing techniques.
