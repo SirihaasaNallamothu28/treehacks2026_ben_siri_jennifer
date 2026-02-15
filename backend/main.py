@@ -1,4 +1,3 @@
-
 from live_avatar import create_session
 from web_con import connect_and_record
 from speak import send_script
