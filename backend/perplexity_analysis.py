@@ -180,8 +180,8 @@ The JSON must follow this structure:
     }}
   ],
   "dimension": {{
-    "width": {{{{WIDTH}}}},
-    "height": {{{{HEIGHT}}}}
+    "width": 1280,
+    "height": 720
   }}
 }}
 
