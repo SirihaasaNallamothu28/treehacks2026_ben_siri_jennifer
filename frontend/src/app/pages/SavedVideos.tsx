@@ -9,7 +9,7 @@ const FILTER_INTERESTS = [
   "All",
   "Medical imaging",
   "Drug discovery",
-  "Clinical NLP",
+  "Clinical NLP", 
   "Genomics",
   "EHR / tabular",
 ];
