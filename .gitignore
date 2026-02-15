@@ -39,12 +39,11 @@ Thumbs.db
 *.sublime-workspace
 *.sublime-project
 
-# Config files
+# Local config files only (not build configs!)
 *.local.js
 *.local.json
-*.config.js
-*.config.ts
-*.env
+.env.local
+.env.*.local
 
 # Misc
 *.log
