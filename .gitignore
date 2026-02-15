@@ -28,6 +28,8 @@ coverage/
 # Environment files
 .env
 .env.*.local
+pyenv*
+pyenv/*
 
 # OS generated files
 .DS_Store

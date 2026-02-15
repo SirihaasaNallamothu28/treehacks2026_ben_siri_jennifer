@@ -16,19 +16,91 @@ from perplexity_analysis import (
 from heygen_agent import generate_video_agent
 
 
+def get_medical_interests_and_technical_interests():
+    """
+    Get the user's medical and technical interests.
 
-def generate_video_from_paper(paper_index: int, output_filename: str = None):
+    Reads from user_interests.json if it exists, otherwise prompts for input.
+    When the API server is built, it can populate this JSON file with frontend data.
+
+    Returns:
+        tuple: (medical_interests: str, technical_interests: str)
+    """
+    import os
+    import json
+
+    # Path to user interests file
+    interests_file = os.path.join(os.path.dirname(__file__), "user_interests.json")
+
+    # Try to read from file
+    if os.path.exists(interests_file):
+        try:
+            with open(interests_file, 'r') as f:
+                data = json.load(f)
+                medical_interests = data.get("medical_interests", "")
+                technical_interests = data.get("technical_interests", "")
+
+                if medical_interests and technical_interests:
+                    print(f"📋 Using interests from {interests_file}")
+                    print(f"   Medical: {medical_interests}")
+                    print(f"   Technical: {technical_interests}")
+                    return medical_interests, technical_interests
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"⚠️  Warning: Could not read {interests_file}: {e}")
+
+    # Fall back to prompting user
+    print("\n" + "="*80)
+    print("No user_interests.json found. Please enter your interests:")
+    print("="*80)
+
+    medical_interests = input("Medical/Healthcare interests (e.g., 'cancer treatment, immunotherapy'): ").strip()
+    technical_interests = input("Technical/AI interests (e.g., 'machine learning, deep learning'): ").strip()
+
+    # Save for next time
+    try:
+        with open(interests_file, 'w') as f:
+            json.dump({
+                "medical_interests": medical_interests,
+                "technical_interests": technical_interests
+            }, f, indent=2)
+        print(f"✅ Saved interests to {interests_file}")
+    except IOError as e:
+        print(f"⚠️  Warning: Could not save interests: {e}")
+
+    return medical_interests, technical_interests
+
+def get_best_paper_json():
+    """
+    Get the single best paper JSON based on medical and technical interests.
+    Calls search_for_papers which uses the test_synapsis agent to select the most relevant paper.
+
+    Returns:
+        dict: Paper JSON with fields: pmid, title, abstract, authors, journal, publication_year, doi
+    """
+    from paper_search.seach_for_papers import search_for_papers
+
+    medical_interests, technical_interests = get_medical_interests_and_technical_interests()
+
+    paper = search_for_papers(medical_interests, technical_interests)
+
+    # Ensure it's a dict (search_for_papers already returns dict, but verify)
+    if isinstance(paper, str):
+        import json
+        paper = json.loads(paper)
+
+    return paper
+
+
+def generate_video_from_paper(output_filename: str = None):
     """
     Generate a HeyGen video from a research paper using Perplexity analysis.
     """
     print("=" * 80)
-    print(f"Generating Video from Paper Index: {paper_index}")
     print("=" * 80)
     
     # 1. Get paper by index
-    print(f"\n📄 Loading paper #{paper_index}...")
-    pmid = get_pmid_by_index(paper_index)
-    paper = load_paper_json(pmid)
+    #paper = load_paper_json(pmid)  # Replace
+    paper = get_best_paper_json()
     
     print(f"Title: {paper['title']}")
     print(f"Authors: {', '.join(paper['authors'][:3])}")
