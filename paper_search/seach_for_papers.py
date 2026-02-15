@@ -298,19 +298,172 @@ def hybrid_search_papers(
         return []
 
 
+def medical_focused_search(
+    medical_keywords: str,
+    cs_keywords: Optional[str] = None,
+    top_k: int = 10,
+    medical_boost: float = 5.0,
+    cs_boost: float = 1.0
+) -> List[Dict]:
+    """
+    Search papers with medical keywords heavily weighted and CS keywords optional.
+
+    This function prioritizes medical/clinical terms while allowing CS/technical
+    terms to optionally boost relevance without being required.
+
+    Args:
+        medical_keywords (str): Required medical/clinical search terms (highly weighted)
+        cs_keywords (Optional[str]): Optional CS/technical terms (lower weight, not required)
+        top_k (int): Number of results to return
+        medical_boost (float): Boost factor for medical terms (default: 5.0)
+        cs_boost (float): Boost factor for CS terms (default: 1.0)
+
+    Returns:
+        List[Dict]: List of matching papers prioritizing medical relevance
+
+    Example:
+        >>> results = medical_focused_search(
+        ...     medical_keywords="brain tumor glioblastoma classification",
+        ...     cs_keywords="convolutional neural networks deep learning",
+        ...     top_k=10
+        ... )
+    """
+
+    if not ELASTICSEARCH_API_KEY:
+        raise ValueError("ELASTICSEARCH_API_KEY not set in environment")
+
+    url = f"{ELASTICSEARCH_URL}/papers/_search"
+    headers = {
+        "Authorization": f"ApiKey {ELASTICSEARCH_API_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    # Build query with medical terms as "must" and CS terms as "should"
+    bool_query = {
+        "must": [
+            # Semantic search on medical terms (required, highly weighted)
+            {
+                "semantic": {
+                    "field": "title_abstract_semantic_embedding",
+                    "query": medical_keywords,
+                    "boost": medical_boost
+                }
+            }
+        ],
+        "should": []
+    }
+
+    # Add keyword matching for medical terms with high boost
+    bool_query["should"].append({
+        "multi_match": {
+            "query": medical_keywords,
+            "fields": ["title^5", "abstract^3", "journal^2"],
+            "boost": medical_boost,
+            "type": "best_fields"
+        }
+    })
+
+    # Add CS keywords as optional boosters if provided
+    if cs_keywords:
+        # Semantic search on CS terms (optional, lower weight)
+        bool_query["should"].append({
+            "semantic": {
+                "field": "title_abstract_semantic_embedding",
+                "query": cs_keywords,
+                "boost": cs_boost
+            }
+        })
+
+        # Keyword matching for CS terms (optional, lower weight)
+        bool_query["should"].append({
+            "multi_match": {
+                "query": cs_keywords,
+                "fields": ["title^2", "abstract"],
+                "boost": cs_boost,
+                "type": "best_fields"
+            }
+        })
+
+    search_body = {
+        "size": top_k,
+        "query": {
+            "bool": bool_query
+        },
+        "_source": [
+            "pmid",
+            "title",
+            "abstract",
+            "authors",
+            "journal",
+            "publication_year",
+            "doi"
+        ]
+    }
+
+    try:
+        response = requests.post(url, json=search_body, headers=headers, timeout=30)
+        response.raise_for_status()
+
+        results_data = response.json()
+        hits = results_data.get("hits", {}).get("hits", [])
+
+        papers = []
+        for hit in hits:
+            paper = hit.get("_source", {})
+            paper["_score"] = hit.get("_score")
+            paper["_id"] = hit.get("_id")
+            papers.append(paper)
+
+        return papers
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error searching papers: {e}")
+        if hasattr(e, 'response') and e.response is not None:
+            print(f"Response: {e.response.text}")
+        return []
+
+
 # Example usage
 if __name__ == "__main__":
-    # Test semantic search
-    print("Testing Semantic Search with Elastic Agent API...")
+    # Test medical-focused search
+    print("Testing Medical-Focused Search (Medical keywords weighted, CS optional)...")
     print("="*80)
 
-    query = "convolutional neural networks for brain tumor classification"
-    results = search_papers_with_agent(query, top_k=5)
+    medical_terms = "brain tumor glioblastoma classification diagnosis"
+    cs_terms = "convolutional neural networks deep learning CNN"
 
-    print(f"\nQuery: '{query}'")
+    results = medical_focused_search(
+        medical_keywords=medical_terms,
+        cs_keywords=cs_terms,
+        top_k=5,
+        medical_boost=5.0,
+        cs_boost=1.0
+    )
+
+    print(f"\nMedical Keywords (Required, High Weight): '{medical_terms}'")
+    print(f"CS Keywords (Optional, Low Weight): '{cs_terms}'")
     print(f"Found {len(results)} papers:\n")
 
     for i, paper in enumerate(results, 1):
+        print(f"{i}. {paper.get('title', 'No title')}")
+        print(f"   PMID: {paper.get('pmid', 'N/A')}")
+        print(f"   Score: {paper.get('_score', 0):.4f}")
+        print(f"   Authors: {paper.get('authors', 'N/A')[:80]}...")
+        print(f"   Journal: {paper.get('journal', 'N/A')}")
+        print(f"   Year: {paper.get('publication_year', 'N/A')}")
+        print()
+
+    print("\n" + "="*80)
+    print("Testing Standard Semantic Search for comparison...")
+    print("="*80)
+
+    query = "convolutional neural networks for brain tumor classification"
+    results2 = search_papers_with_agent(query, top_k=5)
+
+    print(f"\nQuery: '{query}'")
+    print(f"Found {len(results2)} papers:\n")
+
+    for i, paper in enumerate(results2, 1):
         print(f"{i}. {paper.get('title', 'No title')}")
         print(f"   PMID: {paper.get('pmid', 'N/A')}")
         print(f"   Score: {paper.get('_score', 0):.4f}")
