@@ -161,7 +161,7 @@ The JSON must follow this structure:
       }},
       "voice": {{
         "type": "text",
-        "voice_id": "{{{{VOICE_ID}}}}",
+        "voice_id": "34d3c21554254b32826ded6d5bc3b626",
         "input_text": "Spoken script for scene 1",
         "speed": 1.45,
       }},
