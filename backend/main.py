@@ -93,7 +93,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         index = int(sys.argv[1])
     else:
-        index = 0
+        index = 14  # Default to paper index 14 for testing
 
     generate_video_from_paper(paper_index=index)
 

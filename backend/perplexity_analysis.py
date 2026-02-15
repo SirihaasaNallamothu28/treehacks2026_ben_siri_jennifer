@@ -98,7 +98,7 @@ Return ONLY the title text, nothing else. No quotes, no explanations."""
 def analyze_with_perplexity(paper_data, analysis_type="summarize_short_json"):
     """
     Analyze a paper using Perplexity
-
+    
     Args:
         paper_data: Dictionary containing paper metadata and abstract (full paper not in current dataset)
         analysis_type: Type of analysis
@@ -131,7 +131,7 @@ Try to answer the following focus questions, but prioritize the content and flow
 - How the study was conducted (briefly)
 
 If the paper involves AI or computational methods, or if you identify a potential application for AI in the research,
-briefly mention this as a supporting detail - but keep the focus on the medical significance and results, not the technology itself.
+briefly mention  this as a supporting detail - but keep the focus on the medical significance and results, not the technology itself.
 
 Write in a conversational narrative style that tells the story of the research, rather than answering questions in a rigid format. Make it engaging and accessible."""
 
