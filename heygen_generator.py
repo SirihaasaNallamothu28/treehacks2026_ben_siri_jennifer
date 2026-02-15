@@ -48,7 +48,7 @@ def generate_heygen_video(
             }
         ],
         "dimension": {"width": 1080, "height": 1920},
-        
+
         "title": title
     }
 
@@ -104,6 +104,91 @@ def generate_heygen_video(
     return output_path
 
 
+def _replace_placeholders(obj, replacements):
+    """Recursively replace {{KEY}} in strings with replacements['KEY']."""
+    if isinstance(obj, dict):
+        return {k: _replace_placeholders(v, replacements) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [_replace_placeholders(i, replacements) for i in obj]
+    elif isinstance(obj, str):
+        for key, val in replacements.items():
+            obj = obj.replace("{{" + key + "}}", str(val))
+        return obj
+    return obj
+
+
+def generate_heygen_video_from_body(
+    body: dict,
+    output_path: str,
+    avatar_id: str = "",
+    voice_id: str = "",
+    width: int = 1920,
+    height: int = 1080,
+    replacements: dict = None,
+):
+    """
+    Send a pre-built body to HeyGen v2 video/generate, poll until done, download.
+    Supports {{AVATAR_ID}}, {{VOICE_ID}}, {{WIDTH}}, {{HEIGHT}} placeholders.
+    Pass avatar_id/voice_id/width/height or use replacements dict.
+    """
+    reps = replacements or {}
+    if avatar_id:
+        reps["AVATAR_ID"] = avatar_id
+    if voice_id:
+        reps["VOICE_ID"] = voice_id
+    if width:
+        reps["WIDTH"] = width
+    if height:
+        reps["HEIGHT"] = height
+    body = _replace_placeholders(body, reps) if reps else body
+    # Ensure dimension uses integers
+    if width and height:
+        body["dimension"] = {"width": int(width), "height": int(height)}
+
+    api_key = os.getenv("HEYGEN_API_KEY")
+    if not api_key:
+        raise ValueError("HEYGEN_API_KEY environment variable not set")
+
+    headers = {"Content-Type": "application/json", "X-Api-Key": api_key}
+
+    response = requests.post(f"{BASE_URL}/video/generate", headers=headers, json=body)
+    resp_json = response.json()
+    video_id = (resp_json.get("data") or {}).get("video_id")
+
+    if not video_id:
+        raise RuntimeError(f"Failed to start video generation: {resp_json}")
+
+    print("Video started:", video_id)
+
+    status_url = f"https://api.heygen.com/v1/video_status.get?video_id={video_id}"
+    while True:
+        status_resp = requests.get(status_url, headers=headers).json()
+        status = status_resp.get("status")
+        print("Status:", status)
+        if status == "completed":
+            download_url = status_resp["result"]["download_url"]
+            break
+        elif status == "failed":
+            raise RuntimeError("Video generation failed")
+        time.sleep(5)
+
+    print("Downloading video...")
+    for attempt in range(3):
+        try:
+            r = requests.get(download_url, stream=True, timeout=120)
+            r.raise_for_status()
+            with open(output_path, "wb") as f:
+                for chunk in r.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            break
+        except requests.RequestException as e:
+            if attempt == 2:
+                raise RuntimeError(f"Download failed after 3 attempts: {e}") from e
+            print(f"Download attempt {attempt + 1} failed, retrying...")
+            time.sleep(2)
+
+    print("Saved to:", output_path)
+    return output_path
 
 
 # # heygen_generator.py
