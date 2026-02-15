@@ -13,7 +13,8 @@ load_dotenv()
 from upload_documents import upload_documents_from_keyword_query
 
 if __name__ == "__main__":
-    query = "brain scan with CNN based classifier"
+    #query = "brain scan with CNN based classifier"
+    query = "GNNs interactions" 
 
     print(f"\n{'='*70}")
     print(f"Running upload for query: '{query}'")
