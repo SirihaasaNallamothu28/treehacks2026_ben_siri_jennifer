@@ -1,210 +1,134 @@
 """
-Search for papers using Elasticsearch Agent API
+Search for papers using Elastic Agent Builder API
+
+This module provides functions to call custom Elastic agents that have been
+configured with system prompts in the Kibana UI.
+
+References:
+- Elastic Agent Builder: https://www.elastic.co/elasticsearch/agent-builder
+- API Documentation: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/kibana-api
+- Agent Builder Overview: https://www.elastic.co/docs/solutions/search/agent-builder/agent-builder-agents
 """
 
 import os
 import requests
-from typing import List, Dict, Optional
+from typing import Dict, Optional, Iterator
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
 
-# Elasticsearch configuration
+# Configuration
 ELASTICSEARCH_URL = os.getenv("ELASTICSEARCH_URL", "https://synapsis-c99bf6.es.us-central1.gcp.elastic.cloud")
 ELASTICSEARCH_API_KEY = os.getenv("ELASTICSEARCH_API_KEY")
 
-def search_papers_with_agent(
-    query: str,
-    top_k: int = 10,
-    min_score: Optional[float] = None,
-    filters: Optional[Dict] = None
-) -> List[Dict]:
-    """
-    Search for papers using Elasticsearch Agent API with semantic search.
+# Kibana URL (typically on same domain as Elasticsearch)
+# Convert es.domain.com to kb.domain.com if needed
+KIBANA_URL = os.getenv("KIBANA_URL", ELASTICSEARCH_URL.replace("es.", "kb.") if ELASTICSEARCH_URL else "")
 
-    This function performs a semantic search on the papers index using the
-    title_abstract_semantic_embedding field for vector similarity search.
+
+def call_elastic_agent(
+    agent_id: str,
+    input_query: str,
+    conversation_id: Optional[str] = None,
+    space_name: Optional[str] = None
+) -> Dict:
+    """
+    Call a custom Elastic Agent Builder agent by ID.
+
+    This function invokes an Elastic Agent that has been configured with custom
+    system prompts in the Kibana UI. Agents can be designed for various tasks like
+    document search, analysis, question answering, etc.
+
+    The agent uses its configured system prompt (instructions) along with any
+    tools you've assigned to it to process the input query and generate a response.
 
     Args:
-        query (str): Natural language search query
-        top_k (int): Number of results to return (default: 10)
-        min_score (Optional[float]): Minimum similarity score threshold
-        filters (Optional[Dict]): Additional filters (e.g., publication year, journal)
+        agent_id (str): The unique ID of the agent to invoke (created in Kibana UI)
+        input_query (str): The message/query to send to the agent
+        conversation_id (Optional[str]): ID to maintain conversation context across
+                                         multiple requests (for follow-up questions)
+        space_name (Optional[str]): Kibana space name (if not using default space)
 
     Returns:
-        List[Dict]: List of matching papers with metadata and scores
+        Dict: Agent response containing:
+            - output (str): The agent's response text
+            - conversation_id (str): ID for continuing the conversation
+            - Additional metadata depending on agent configuration
+
+    Raises:
+        ValueError: If ELASTICSEARCH_API_KEY is not configured
+        requests.exceptions.RequestException: If the API call fails
 
     Example:
-        >>> results = search_papers_with_agent("CNN for brain tumor classification")
-        >>> for paper in results:
-        >>>     print(f"{paper['title']} - Score: {paper['_score']}")
+        >>> # Simple query
+        >>> response = call_elastic_agent(
+        ...     agent_id="paper-search-agent",
+        ...     input_query="Find recent papers on CNN for brain tumor classification"
+        ... )
+        >>> print(response['output'])
+
+        >>> # Follow-up question using conversation ID
+        >>> followup = call_elastic_agent(
+        ...     agent_id="paper-search-agent",
+        ...     input_query="Which of those papers has the highest citation count?",
+        ...     conversation_id=response['conversation_id']
+        ... )
+
+    References:
+        - Elastic Agent Builder: https://www.elastic.co/elasticsearch/agent-builder
+        - API Docs: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/kibana-api
     """
 
     if not ELASTICSEARCH_API_KEY:
-        raise ValueError("ELASTICSEARCH_API_KEY not set in environment")
+        raise ValueError(
+            "ELASTICSEARCH_API_KEY not set in environment. "
+            "Please set it in your .env file."
+        )
 
-    # Construct the search URL
-    url = f"{ELASTICSEARCH_URL}/papers/_search"
+    # Build the API endpoint
+    # Format: /api/agent_builder/converse
+    # Or: /s/{space_name}/api/agent_builder/converse for non-default spaces
+    base_path = f"/s/{space_name}" if space_name else ""
+    url = f"{KIBANA_URL}{base_path}/api/agent_builder/converse"
 
-    # Set up headers
+    # Required headers for Kibana API
     headers = {
         "Authorization": f"ApiKey {ELASTICSEARCH_API_KEY}",
+        "kbn-xsrf": "true",  # Required for Kibana XSRF protection
         "Content-Type": "application/json"
     }
 
-    # Build the search query
-    # Using semantic_text search which leverages the embedding pipeline
-    search_body = {
-        "size": top_k,
-        "query": {
-            "bool": {
-                "must": [
-                    {
-                        "semantic": {
-                            "field": "title_abstract_semantic_embedding",
-                            "query": query
-                        }
-                    }
-                ]
-            }
-        },
-        "_source": [
-            "pmid",
-            "title",
-            "abstract",
-            "authors",
-            "journal",
-            "publication_year",
-            "doi"
-        ]
+    # Build request body
+    request_body = {
+        "input": input_query,
+        "agent_id": agent_id
     }
 
-    # Add filters if provided
-    if filters:
-        filter_clauses = []
-
-        # Year filter
-        if "year_from" in filters or "year_to" in filters:
-            range_filter = {"range": {"publication_year": {}}}
-            if "year_from" in filters:
-                range_filter["range"]["publication_year"]["gte"] = filters["year_from"]
-            if "year_to" in filters:
-                range_filter["range"]["publication_year"]["lte"] = filters["year_to"]
-            filter_clauses.append(range_filter)
-
-        # Journal filter
-        if "journal" in filters:
-            filter_clauses.append({
-                "match": {"journal": filters["journal"]}
-            })
-
-        # Author filter
-        if "author" in filters:
-            filter_clauses.append({
-                "match": {"authors": filters["author"]}
-            })
-
-        if filter_clauses:
-            search_body["query"]["bool"]["filter"] = filter_clauses
-
-    # Add minimum score threshold if provided
-    if min_score is not None:
-        search_body["min_score"] = min_score
+    # Add conversation ID if provided (for maintaining context)
+    if conversation_id:
+        request_body["conversation_id"] = conversation_id
 
     try:
-        # Execute the search
-        response = requests.post(url, json=search_body, headers=headers, timeout=30)
+        # Call the agent
+        print(f"Calling agent '{agent_id}' with query: '{input_query[:80]}...'")
+        response = requests.post(url, json=request_body, headers=headers, timeout=60)
         response.raise_for_status()
 
-        # Parse results
-        results_data = response.json()
-        hits = results_data.get("hits", {}).get("hits", [])
+        # Parse and return the response
+        result = response.json()
+        print(f"✓ Agent responded successfully")
+        return result
 
-        # Format results
-        papers = []
-        for hit in hits:
-            paper = hit.get("_source", {})
-            paper["_score"] = hit.get("_score")
-            paper["_id"] = hit.get("_id")
-            papers.append(paper)
-
-        return papers
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error searching papers: {e}")
+    except requests.exceptions.HTTPError as e:
+        error_msg = f"HTTP Error calling Elastic Agent: {e}"
         if hasattr(e, 'response') and e.response is not None:
-            print(f"Response: {e.response.text}")
-        return []
-
-
-def search_papers_with_keyword(
-    query: str,
-    top_k: int = 10,
-    search_fields: Optional[List[str]] = None
-) -> List[Dict]:
-    """
-    Search for papers using keyword-based search (BM25).
-
-    This performs traditional text search on specified fields.
-
-    Args:
-        query (str): Search query
-        top_k (int): Number of results to return
-        search_fields (Optional[List[str]]): Fields to search in
-
-    Returns:
-        List[Dict]: List of matching papers
-    """
-
-    if not ELASTICSEARCH_API_KEY:
-        raise ValueError("ELASTICSEARCH_API_KEY not set in environment")
-
-    url = f"{ELASTICSEARCH_URL}/papers/_search"
-    headers = {
-        "Authorization": f"ApiKey {ELASTICSEARCH_API_KEY}",
-        "Content-Type": "application/json"
-    }
-
-    # Default search fields
-    if search_fields is None:
-        search_fields = ["title^3", "abstract^2", "authors", "journal"]
-
-    search_body = {
-        "size": top_k,
-        "query": {
-            "multi_match": {
-                "query": query,
-                "fields": search_fields,
-                "type": "best_fields"
-            }
-        },
-        "_source": [
-            "pmid",
-            "title",
-            "abstract",
-            "authors",
-            "journal",
-            "publication_year",
-            "doi"
-        ]
-    }
-
-    try:
-        response = requests.post(url, json=search_body, headers=headers, timeout=30)
-        response.raise_for_status()
-
-        results_data = response.json()
-        hits = results_data.get("hits", {}).get("hits", [])
-
-        papers = []
-        for hit in hits:
-            paper = hit.get("_source", {})
-            paper["_score"] = hit.get("_score")
-            paper["_id"] = hit.get("_id")
-            papers.append(paper)
-
-        return papers
+            error_msg += f"\nResponse: {e.response.text}"
+        print(f"✗ {error_msg}")
+        return {
+            "error": str(e),
+            "output": f"Failed to get response from agent: {e}"
+        }
 
     except requests.exceptions.RequestException as e:
         print(f"Error searching papers: {e}")
