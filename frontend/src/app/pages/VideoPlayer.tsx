@@ -4,7 +4,8 @@ import { Card } from "../components/ui/card";
 import { Badge } from "../components/ui/badge";
 import { Separator } from "../components/ui/separator";
 import { Brain, ArrowLeft, Heart, Link, PlayCircle, ChevronLeft, ChevronRight } from "lucide-react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { addSavedVideo, getSavedVideos } from "../../lib/savedVideos";
 
 // Video files from heygen_videos folder
 const videoFiles = [
@@ -127,6 +128,13 @@ export function VideoPlayer() {
     if (!canNavigate) return;
     setCurrentIndex((i) => (i + 1) % len);
   };
+  const [hearted, setHearted] = useState(false);
+
+  useEffect(() => {
+    // update hearted state when currentVideo changes
+    const saved = getSavedVideos();
+    setHearted(saved.some((v) => v.title === currentVideo.title));
+  }, [currentIndex]);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -203,7 +211,26 @@ export function VideoPlayer() {
                     
                     {/* Side Icons */}
                     <div className="absolute right-4 bottom-4 flex flex-col gap-2">
-                      <Button size="icon" variant="secondary" className="rounded-full">
+                      <Button
+                        size="icon"
+                        variant={hearted ? "default" : "secondary"}
+                        className="rounded-full"
+                        onClick={() => {
+                          if (hearted) return;
+                          const newSaved = {
+                            id: Date.now().toString(),
+                            title: currentVideo.title,
+                            subtitle: currentVideo.originalTitle,
+                            relevanceBadge: currentVideo.relevanceBadge,
+                            studyType: currentVideo.studyData?.studyType,
+                            sampleSize: currentVideo.studyData?.datasetSize,
+                            year: currentVideo.metadata?.year,
+                            metric: currentVideo.results?.auroc || currentVideo.results?.improvement,
+                          };
+                          addSavedVideo(newSaved);
+                          setHearted(true);
+                        }}
+                      >
                         <Heart className="h-5 w-5" />
                       </Button>
                       <Button 
@@ -308,3 +335,4 @@ export function VideoPlayer() {
     </div>
   );
 }
+
