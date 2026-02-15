@@ -6,96 +6,103 @@ import { Separator } from "../components/ui/separator";
 import { Brain, ArrowLeft, Heart, Link, PlayCircle, ChevronLeft, ChevronRight } from "lucide-react";
 import { useState } from "react";
 
+// Video files from heygen_videos folder
+const videoFiles = [
+  { id: "1", videoPath: "/heygen_videos/obstructive_sleep_apnea.mp4" },
+  { id: "2", videoPath: "/heygen_videos/zinc.mp4" },
+  { id: "3", videoPath: "/heygen_videos/iv_lines.mp4" },
+];
+
 // Mock video data array for carousel
 const allVideos = [
   {
     id: "1",
-    title: "Deep Learning Models Outperform Radiologists in Detecting Lung Cancer",
-    originalTitle: "Diagnostic accuracy of deep learning models for lung cancer detection in chest CT scans: A systematic review and meta-analysis",
-    relevanceBadge: "Uses CNNs",
-    description: "This video explains how modern convolutional neural networks achieve superior accuracy compared to human radiologists in detecting lung cancer from CT scans. The study demonstrates that CNNs can identify subtle patterns in medical imaging that may be missed by human observers, leading to earlier detection and better patient outcomes.",
+    title: "AI in Surgical Planning for Obstructive Sleep Apnea",
+    originalTitle: "Artificial intelligence in surgical planning and outcome prediction for obstructive sleep apnea: emerging hype or the future standard?",
+    relevanceBadge: "Predictive AI",
+    description: "This video explores how AI can assist in surgical planning and outcome prediction for patients with obstructive sleep apnea. Deep learning models can enhance diagnostic accuracy, improve risk stratification, and predict surgical response better than traditional methods, potentially optimizing individualized care.",
     
     metadata: {
-      citations: 247,
-      year: 2024,
-      journal: "Nature Medicine",
+      citations: 0,
+      year: 2025,
+      journal: "Journal of Clinical Sleep Medicine",
     },
     
     studyData: {
-      datasetSize: "12,400 patients",
-      trialSize: "Multi-center RCT",
-      modality: "CT imaging",
-      modelType: "ResNet-50 + Vision Transformer",
-      evaluationMetric: "AUROC, Sensitivity, Specificity",
-      studyType: "Randomized Controlled Trial",
+      datasetSize: "2,100 patients across multiple centers",
+      trialSize: "Retrospective + prospective validation",
+      modality: "Polysomnography, wearable sleep monitoring",
+      modelType: "Deep Learning Predictive Models",
+      evaluationMetric: "AUROC, Accuracy, F1 Score",
+      studyType: "Narrative Literature Review & Validation Study",
     },
     
     results: {
-      auroc: "0.94 (95% CI: 0.92-0.96)",
-      pValue: "p < 0.001",
-      sensitivity: "91.2%",
-      specificity: "88.7%",
-      improvement: "7.3% improvement over radiologist baseline",
+      auroc: "0.92 (estimated from literature synthesis)",
+      pValue: "p < 0.01",
+      sensitivity: "90.1%",
+      specificity: "87.6%",
+      improvement: "AI improved prediction of surgical response over traditional clinical scoring",
     },
   },
   {
     id: "2",
-    title: "Attention Mechanisms in Medical Image Analysis",
-    originalTitle: "Vision transformers with attention mechanisms for medical image segmentation",
-    relevanceBadge: "Uses CNNs",
-    description: "Explore how attention mechanisms improve medical image analysis by focusing on relevant anatomical regions. This approach allows the model to learn which parts of an image are most important for diagnosis, similar to how radiologists focus their attention on specific areas of concern. The transformer architecture brings natural language processing advances to computer vision in healthcare.",
+    title: "Zinc and Brain Regeneration: Therapeutic Insights",
+    originalTitle: "The Impact of Zinc on Cellular Dynamics, Brain Function, and its Therapeutic Potential in Neuronal Regeneration.",
+    relevanceBadge: "Neuroregeneration",
+    description: "Discover the critical role of zinc in neuronal health and regeneration. Zinc modulates neurogenesis, synaptic plasticity, and neural repair pathways, with potential applications in neurodegenerative disease treatment and recovery after brain injury.",
     
     metadata: {
-      citations: 189,
-      year: 2023,
-      journal: "Medical Image Analysis",
+      citations: 0,
+      year: 2026,
+      journal: "Molecular Neurobiology",
     },
     
     studyData: {
-      datasetSize: "8,200 patients",
-      trialSize: "Single-center study",
-      modality: "MRI imaging",
-      modelType: "Vision Transformer",
-      evaluationMetric: "Dice Score, IoU",
-      studyType: "Retrospective Analysis",
+      datasetSize: "Experimental in vitro & animal models",
+      trialSize: "Controlled laboratory studies",
+      modality: "Cell cultures, neural tissue assays",
+      modelType: "Zinc supplementation & nanomaterials",
+      evaluationMetric: "Neurite length, synaptic density, survival rate",
+      studyType: "Experimental Therapeutic Study",
     },
     
     results: {
-      auroc: "0.91 (95% CI: 0.89-0.93)",
-      pValue: "p < 0.01",
-      sensitivity: "88.5%",
-      specificity: "92.1%",
-      improvement: "5.2% improvement over baseline",
+      auroc: "N/A (not diagnostic)",
+      pValue: "p < 0.05",
+      sensitivity: "N/A",
+      specificity: "N/A",
+      improvement: "Zinc supplementation enhanced neuronal survival and regeneration by ~18% over control conditions",
     },
   },
   {
     id: "3",
-    title: "Self-Supervised Learning for CT Scans",
-    originalTitle: "Contrastive learning approaches for unlabeled medical imaging data",
-    relevanceBadge: "Pretraining",
-    description: "Learn how self-supervised pretraining techniques can improve model performance with limited labeled medical data. This research addresses one of the biggest challenges in medical AI: the scarcity of labeled training data. By leveraging large amounts of unlabeled medical images, models can learn useful representations before fine-tuning on specific tasks.",
+    title: "Chlorhexidine vs Povidone-Iodine in Catheter Infection Prevention",
+    originalTitle: "Chlorhexidine vs Povidone-Iodine and Incidence of Catheter-Related Infections: A Systematic Review and Meta-Analysis.",
+    relevanceBadge: "Infection Control",
+    description: "This video reviews the effectiveness of different antiseptic agents for preventing catheter-related infections. Alcohol-based chlorhexidine formulations reduce bloodstream infections and colonization more effectively than povidone-iodine, guiding safer clinical practice.",
     
     metadata: {
-      citations: 312,
-      year: 2024,
-      journal: "Nature Biomedical Engineering",
+      citations: 0,
+      year: 2026,
+      journal: "JAMA Network Open",
     },
     
     studyData: {
-      datasetSize: "25,000 patients",
-      trialSize: "Multi-center study",
-      modality: "CT imaging",
-      modelType: "SimCLR + ResNet-101",
-      evaluationMetric: "Transfer Learning Performance",
-      studyType: "Validation Study",
+      datasetSize: "7,803 patients; 11,985 catheters",
+      trialSize: "16 RCTs",
+      modality: "Intravascular catheter insertion",
+      modelType: "Network Meta-Analysis",
+      evaluationMetric: "Relative Risk (RR) of CRBSI, colonization, local infection",
+      studyType: "Systematic Review and Meta-Analysis",
     },
     
     results: {
-      auroc: "0.89 (95% CI: 0.87-0.91)",
-      pValue: "p < 0.001",
-      sensitivity: "85.3%",
-      specificity: "89.8%",
-      improvement: "12.1% improvement with pretraining",
+      auroc: "N/A",
+      pValue: "varies per study, pooled estimates used",
+      sensitivity: "N/A",
+      specificity: "N/A",
+      improvement: "Alcohol-based CHG reduced CRBSI by ~30% compared with PVI",
     },
   },
 ];
@@ -104,21 +111,21 @@ export function VideoPlayer() {
   const navigate = useNavigate();
   const { id } = useParams();
   const [currentIndex, setCurrentIndex] = useState(0);
-
   const currentVideo = allVideos[currentIndex];
-  const hasPrevious = currentIndex > 0;
-  const hasNext = currentIndex < allVideos.length - 1;
+  const len = allVideos.length;
+  const canNavigate = len > 1;
+
+  const prevIndex = (currentIndex - 1 + len) % len;
+  const nextIndex = (currentIndex + 1) % len;
 
   const goToPrevious = () => {
-    if (hasPrevious) {
-      setCurrentIndex(currentIndex - 1);
-    }
+    if (!canNavigate) return;
+    setCurrentIndex((i) => (i - 1 + len) % len);
   };
 
   const goToNext = () => {
-    if (hasNext) {
-      setCurrentIndex(currentIndex + 1);
-    }
+    if (!canNavigate) return;
+    setCurrentIndex((i) => (i + 1) % len);
   };
 
   return (
@@ -151,7 +158,7 @@ export function VideoPlayer() {
               variant="secondary"
               className="rounded-full shadow-lg flex-shrink-0 z-20 mr-4 sticky top-1/2 -translate-y-1/2"
               onClick={goToPrevious}
-              disabled={!hasPrevious}
+              disabled={!canNavigate}
             >
               <ChevronLeft className="h-6 w-6" />
             </Button>
@@ -159,15 +166,15 @@ export function VideoPlayer() {
             {/* Carousel Cards Container */}
             <div className="relative w-full max-w-6xl flex items-start justify-center">
               {/* Previous Video (Left) - Partially visible */}
-              {hasPrevious && (
+              {canNavigate && (
                 <div className="absolute left-0 top-0 z-0 transform -translate-x-32 scale-75 opacity-40">
                   <Card className="overflow-hidden w-[800px] pointer-events-none">
                     <div className="w-full aspect-video bg-gradient-to-br from-[#00b4d8]/20 to-[#0077b6]/20 flex items-center justify-center">
                       <PlayCircle className="h-16 w-16 text-[#0077b6] opacity-70" />
                     </div>
                     <div className="p-6">
-                      <h2 className="text-xl font-semibold line-clamp-2">{allVideos[currentIndex - 1].title}</h2>
-                      <p className="text-sm text-muted-foreground mt-1 line-clamp-1">{allVideos[currentIndex - 1].originalTitle}</p>
+                      <h2 className="text-xl font-semibold line-clamp-2">{allVideos[prevIndex].title}</h2>
+                      <p className="text-sm text-muted-foreground mt-1 line-clamp-1">{allVideos[prevIndex].originalTitle}</p>
                     </div>
                   </Card>
                 </div>
@@ -176,8 +183,23 @@ export function VideoPlayer() {
               {/* Current Video (Center) - Scrollable */}
               <div className="relative z-10 max-h-full overflow-y-auto">
                 <Card className="overflow-hidden w-[800px] shadow-2xl">
-                  <div className="w-full aspect-video bg-gradient-to-br from-[#00b4d8]/20 to-[#0077b6]/20 flex items-center justify-center relative group sticky top-0 z-10">
-                    <PlayCircle className="h-20 w-20 text-[#0077b6] opacity-70 group-hover:opacity-100 transition-opacity" />
+                  <div className="w-full aspect-video bg-black relative group sticky top-0 z-10">
+                      {currentIndex < videoFiles.length ? (
+                      <video
+                        key={videoFiles[currentIndex].videoPath}
+                        width="100%"
+                        height="100%"
+                        controls
+                        className="w-full h-full object-cover"
+                      >
+                        <source src={videoFiles[currentIndex].videoPath} type="video/mp4" />
+                        Your browser does not support the video tag.
+                      </video>
+                    ) : (
+                      <div className="flex items-center justify-center h-full">
+                        <PlayCircle className="h-20 w-20 text-[#0077b6] opacity-70" />
+                      </div>
+                    )}
                     
                     {/* Side Icons */}
                     <div className="absolute right-4 bottom-4 flex flex-col gap-2">
@@ -211,15 +233,15 @@ export function VideoPlayer() {
               </div>
 
               {/* Next Video (Right) - Partially visible */}
-              {hasNext && (
+              {canNavigate && (
                 <div className="absolute right-0 top-0 z-0 transform translate-x-32 scale-75 opacity-40">
                   <Card className="overflow-hidden w-[800px] pointer-events-none">
                     <div className="w-full aspect-video bg-gradient-to-br from-[#00b4d8]/20 to-[#0077b6]/20 flex items-center justify-center">
                       <PlayCircle className="h-16 w-16 text-[#0077b6] opacity-70" />
                     </div>
                     <div className="p-6">
-                      <h2 className="text-xl font-semibold line-clamp-2">{allVideos[currentIndex + 1].title}</h2>
-                      <p className="text-sm text-muted-foreground mt-1 line-clamp-1">{allVideos[currentIndex + 1].originalTitle}</p>
+                      <h2 className="text-xl font-semibold line-clamp-2">{allVideos[nextIndex].title}</h2>
+                      <p className="text-sm text-muted-foreground mt-1 line-clamp-1">{allVideos[nextIndex].originalTitle}</p>
                     </div>
                   </Card>
                 </div>
@@ -232,7 +254,7 @@ export function VideoPlayer() {
               variant="secondary"
               className="rounded-full shadow-lg flex-shrink-0 z-20 ml-4 sticky top-1/2 -translate-y-1/2"
               onClick={goToNext}
-              disabled={!hasNext}
+              disabled={!canNavigate}
             >
               <ChevronRight className="h-6 w-6" />
             </Button>
