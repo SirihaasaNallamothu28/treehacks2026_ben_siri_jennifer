@@ -1,2 +1,5 @@
 .env
 pyenv
+__pycache__/
+paper_upload/__pycache__/
+*.pyc

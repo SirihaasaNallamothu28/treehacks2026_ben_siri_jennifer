@@ -9,7 +9,7 @@ import requests
 import tarfile
 import io
 from tqdm import tqdm
-import json
+import jsonx
 
 Entrez.email = "sirihaasanallamothu@gmail.com"
 
