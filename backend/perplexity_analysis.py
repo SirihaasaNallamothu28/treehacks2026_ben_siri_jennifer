@@ -40,6 +40,61 @@ def load_paper_json(pmid):
     with open(json_file, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+def generate_video_title(title, abstract):
+    """
+    Generate a simplified, engaging title for a short-form video based on the research paper.
+
+    Args:
+        title: Original paper title
+        abstract: Paper abstract
+
+    Returns:
+        String title (40-70 characters) suitable for short-form video
+    """
+    TITLE_STYLE_GUIDE = """You are creating a catchy, accessible title for a short medical research video.
+
+Your target audience is students new to healthcare who are curious about the latest medical research.
+
+Guidelines:
+- Use simple, everyday language - avoid medical jargon
+- Make it engaging and intriguing
+- Focus on the key finding or "what" rather than the technical "how"
+- Keep it between 40-70 characters (strict requirement)
+- Make it sound interesting without being clickbait
+- Use active language when possible
+
+Examples of good transformations:
+- "Artificial intelligence in surgical planning..." → "AI Helps Predict Sleep Apnea Surgery Success"
+- "Risk assessment of cardiovascular disease..." → "New Tool Predicts Heart Disease Risk Earlier"
+- "Novel therapeutic approach for neuroinflammation..." → "Fresh Take on Treating Brain Inflammation"
+"""
+
+    prompt = f"""{TITLE_STYLE_GUIDE}
+
+Original paper title: "{title}"
+
+Paper abstract (for context):
+"{abstract}"
+
+Create a single, engaging video title that captures the essence of this research. The title MUST be between 40-70 characters.
+
+Return ONLY the title text, nothing else. No quotes, no explanations."""
+
+    response = client.chat.completions.create(
+        model="sonar-pro",
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        stream=False
+    )
+
+    video_title = response.choices[0].message.content.strip()
+
+    # Remove quotes if present
+    video_title = video_title.strip('"\'')
+
+    return video_title
+
 def analyze_with_perplexity(paper_data, analysis_type="summarize_short_json"):
     """
     Analyze a paper using Perplexity

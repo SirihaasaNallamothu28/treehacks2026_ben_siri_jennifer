@@ -6,12 +6,13 @@ Run this file to test the various analysis functions
 from perplexity_analysis import (
     get_pmid_by_index,
     load_paper_json,
+    generate_video_title,
     analyze_with_perplexity,
     batch_analyze_papers
 )
 
 
-def test_single_paper_medium_json(index=0, analysis_type="summarize_medium_text"):
+def test_single_paper_medium_json(index=0):
     """Test analyzing a single paper"""
     print("=" * 80)
     print("TEST 1: Single Paper Analysis")
@@ -29,18 +30,18 @@ def test_single_paper_medium_json(index=0, analysis_type="summarize_medium_text"
 
     # Analyze with Perplexity
     print("Getting summary from Perplexity...")
-    summary = analyze_with_perplexity(paper, analysis_type)
+    summary = analyze_with_perplexity(paper, "summarize_medium_json")
     print(f"\nSummary:\n{summary}\n")
 
 
-def test_single_paper_medium_text():
+def test_single_paper_medium_text(index=0):
     """Test analyzing a single paper with medium text output"""
     print("=" * 80)
     print("TEST 2: Single Paper Analysis (Medium Text)")
     print("=" * 80)
 
     # Load second paper
-    pmid = get_pmid_by_index(1)
+    pmid = get_pmid_by_index(index)
     paper = load_paper_json(pmid)
 
     print(f"\nTitle: {paper['title'][:60]}...")
@@ -52,14 +53,14 @@ def test_single_paper_medium_text():
     print(f"\nSummary:\n{summary}\n")
 
 
-def test_single_paper_short_json():
+def test_single_paper_short_json(index=0):
     """Test analyzing a single paper with short JSON output"""
     print("=" * 80)
     print("TEST 3: Single Paper Analysis (Short JSON)")
     print("=" * 80)
 
     # Load third paper
-    pmid = get_pmid_by_index(2)
+    pmid = get_pmid_by_index(index)
     paper = load_paper_json(pmid)
 
     print(f"\nTitle: {paper['title'][:60]}...")
@@ -100,6 +101,31 @@ def test_specific_pmid():
     print(f"Year: {paper['publication_year']}")
 
 
+def test_video_title_generation():
+    """Test generating simplified video titles"""
+    print("=" * 80)
+    print("TEST 6: Video Title Generation")
+    print("=" * 80)
+
+    # Test with 3 different papers
+    for i in range(3):
+        pmid = get_pmid_by_index(i)
+        paper = load_paper_json(pmid)
+
+        print(f"\n--- Paper {i+1} (PMID: {pmid}) ---")
+        print(f"Original title: {paper['title']}")
+
+        video_title = generate_video_title(paper['title'], paper['abstract'])
+
+        print(f"Video title: {video_title}")
+        print(f"Length: {len(video_title)} characters", end="")
+
+        if 40 <= len(video_title) <= 70:
+            print(" ✓ (within 40-70 range)")
+        else:
+            print(f" ✗ (outside 40-70 range)")
+
+
 def run_all_tests():
     """Run all tests"""
     tests = [
@@ -108,6 +134,7 @@ def run_all_tests():
         ("Single Paper (Short JSON)", test_single_paper_short_json),
         ("Batch Analysis", test_batch_analysis),
         ("Specific PMID", test_specific_pmid),
+        ("Video Title Generation", test_video_title_generation),
     ]
 
     print("\n" + "=" * 80)
@@ -134,7 +161,8 @@ if __name__ == "__main__":
     # Uncomment the test you want to run:
 
     # Run single test
-    test_single_paper_medium_json(2, "summarize_medium_text")
+    # test_single_paper_medium_json(1, "summarize_medium_text")
+    test_video_title_generation()
 
     # Or run all tests (warning: will use more API credits)
     # run_all_tests()
