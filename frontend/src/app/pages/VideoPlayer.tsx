@@ -3,8 +3,9 @@ import { Button } from "../components/ui/button";
 import { Card } from "../components/ui/card";
 import { Badge } from "../components/ui/badge";
 import { Separator } from "../components/ui/separator";
-import { Brain, ArrowLeft, Heart, Link, PlayCircle, ChevronLeft, ChevronRight } from "lucide-react";
-import { useState } from "react";
+import { Brain, ArrowLeft, Heart, Link, PlayCircle, ChevronLeft, ChevronRight, Loader2 } from "lucide-react";
+import { useState, useEffect } from "react";
+import { getVideoStatus, type VideoJob } from "../services/api";
 
 // Video files from heygen_videos folder
 const videoFiles = [
@@ -111,9 +112,176 @@ export function VideoPlayer() {
   const navigate = useNavigate();
   const { id } = useParams();
   const [currentIndex, setCurrentIndex] = useState(0);
-  const currentVideo = allVideos[currentIndex];
-  const len = allVideos.length;
+  const [videosWithGenerated, setVideosWithGenerated] = useState(allVideos);
+  const [generatingVideo, setGeneratingVideo] = useState<VideoJob | null>(null);
+  const [savedVideoIds, setSavedVideoIds] = useState<Set<string>>(() => {
+    const saved = localStorage.getItem("savedVideos");
+    return new Set(saved ? JSON.parse(saved) : []);
+  });
+  const currentVideo = videosWithGenerated[currentIndex];
+  const len = videosWithGenerated.length;
   const canNavigate = len > 1;
+
+  const handleSaveVideo = () => {
+    const videoToSave = {
+      id: currentVideo.id,
+      title: currentVideo.title,
+      originalTitle: currentVideo.originalTitle,
+      relevanceBadge: currentVideo.relevanceBadge,
+      description: currentVideo.description,
+      metadata: currentVideo.metadata,
+      videoPath: currentIndex < videoFiles.length ? videoFiles[currentIndex].videoPath : null,
+    };
+
+    // Get existing saved videos
+    const saved = localStorage.getItem("savedVideosData");
+    const savedVideos = saved ? JSON.parse(saved) : [];
+
+    // Check if already saved
+    const alreadySaved = savedVideos.some((v: any) => v.id === videoToSave.id);
+
+    if (!alreadySaved) {
+      savedVideos.push(videoToSave);
+      localStorage.setItem("savedVideosData", JSON.stringify(savedVideos));
+
+      // Update saved IDs
+      const newSavedIds = new Set(savedVideoIds);
+      newSavedIds.add(currentVideo.id);
+      setSavedVideoIds(newSavedIds);
+      localStorage.setItem("savedVideos", JSON.stringify([...newSavedIds]));
+    }
+  };
+
+  // Poll for generating video on mount
+  useEffect(() => {
+    const jobId = localStorage.getItem("generatingJobId");
+    if (!jobId) return;
+
+    let isCancelled = false;
+
+    const pollForVideo = async () => {
+      try {
+        const job = await getVideoStatus(jobId);
+        if (isCancelled) return;
+
+        setGeneratingVideo(job);
+
+        // If completed, add to videos array
+        if (job.status === "completed" && job.video_path && job.title) {
+          // Create a new video object
+          const newVideo = {
+            id: `generated-${job.paper_index}`,
+            title: job.title,
+            originalTitle: job.title,
+            relevanceBadge: "AI Generated",
+            description: "This video was generated based on your interests using AI analysis of recent research papers.",
+            metadata: job.metadata || {
+              citations: 0,
+              year: "2026",
+              journal: "Generated",
+            },
+            studyData: {
+              datasetSize: "Generated from paper analysis",
+              trialSize: "N/A",
+              modality: "AI-generated explainer",
+              modelType: "HeyGen AI Avatar",
+              evaluationMetric: "N/A",
+              studyType: "Research Summary",
+            },
+            results: {
+              auroc: "N/A",
+              pValue: "N/A",
+              sensitivity: "N/A",
+              specificity: "N/A",
+              improvement: "Video generated from cutting-edge research",
+            },
+          };
+
+          // Add to videos array if not already there
+          setVideosWithGenerated((prev) => {
+            const exists = prev.find((v) => v.id === newVideo.id);
+            if (!exists) {
+              return [...prev, newVideo];
+            }
+            return prev;
+          });
+
+          // Add to videoFiles array with backend URL
+          const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:8000";
+          const newVideoFile = {
+            id: newVideo.id,
+            videoPath: `${apiUrl}/${job.video_path}`,
+          };
+
+          // Check if already in videoFiles
+          const existsInFiles = videoFiles.find((v) => v.id === newVideo.id);
+          if (!existsInFiles) {
+            videoFiles.push(newVideoFile);
+          }
+
+          // Clear the job ID
+          localStorage.removeItem("generatingJobId");
+        } else if (job.status === "failed") {
+          console.error("Video generation failed:", job.error);
+          localStorage.removeItem("generatingJobId");
+        } else {
+          // Still generating, poll again in 3 seconds
+          setTimeout(pollForVideo, 3000);
+        }
+      } catch (error) {
+        console.error("Error polling video status:", error);
+        if (!isCancelled) {
+          setTimeout(pollForVideo, 3000);
+        }
+      }
+    };
+
+    // Add a loading placeholder video immediately
+    const loadingVideo = {
+      id: "loading",
+      title: "Generating your personalized video...",
+      originalTitle: "AI is analyzing the research paper and creating your video",
+      relevanceBadge: "Generating",
+      description: "Please wait while we analyze the research paper and generate a personalized video for you. This may take a few minutes.",
+      metadata: {
+        citations: 0,
+        year: "2026",
+        journal: "Generating...",
+      },
+      studyData: {
+        datasetSize: "Analyzing...",
+        trialSize: "Generating...",
+        modality: "AI Video Generation",
+        modelType: "HeyGen AI Avatar",
+        evaluationMetric: "In Progress",
+        studyType: "Research Summary",
+      },
+      results: {
+        auroc: "Pending",
+        pValue: "Pending",
+        sensitivity: "Pending",
+        specificity: "Pending",
+        improvement: "Video generation in progress...",
+      },
+    };
+
+    // Add loading video to the array
+    setVideosWithGenerated((prev) => {
+      const hasLoading = prev.find((v) => v.id === "loading");
+      if (!hasLoading) {
+        return [...prev, loadingVideo];
+      }
+      return prev;
+    });
+
+    // Start polling
+    pollForVideo();
+
+    return () => {
+      isCancelled = true;
+    };
+  }, []);
+
 
   const prevIndex = (currentIndex - 1 + len) % len;
   const nextIndex = (currentIndex + 1) % len;
@@ -184,7 +352,14 @@ export function VideoPlayer() {
               <div className="relative z-10 max-h-full overflow-y-auto">
                 <Card className="overflow-hidden w-[800px] shadow-2xl">
                   <div className="w-full aspect-video bg-black relative group sticky top-0 z-10">
-                      {currentIndex < videoFiles.length ? (
+                      {currentVideo.id === "loading" ? (
+                      <div className="flex flex-col items-center justify-center h-full bg-gradient-to-br from-[#0077b6]/20 to-[#00b4d8]/20">
+                        <Loader2 className="h-16 w-16 text-[#0077b6] animate-spin mb-4" />
+                        <p className="text-white text-lg font-medium">
+                          {generatingVideo?.message || "Generating video..."}
+                        </p>
+                      </div>
+                    ) : currentIndex < videoFiles.length ? (
                       <video
                         key={videoFiles[currentIndex].videoPath}
                         width="100%"
@@ -203,12 +378,19 @@ export function VideoPlayer() {
                     
                     {/* Side Icons */}
                     <div className="absolute right-4 bottom-4 flex flex-col gap-2">
-                      <Button size="icon" variant="secondary" className="rounded-full">
-                        <Heart className="h-5 w-5" />
+                      <Button
+                        size="icon"
+                        variant="secondary"
+                        className="rounded-full"
+                        onClick={handleSaveVideo}
+                      >
+                        <Heart
+                          className={`h-5 w-5 ${savedVideoIds.has(currentVideo.id) ? "fill-red-500 text-red-500" : ""}`}
+                        />
                       </Button>
-                      <Button 
-                        size="icon" 
-                        variant="secondary" 
+                      <Button
+                        size="icon"
+                        variant="secondary"
                         className="rounded-full"
                         onClick={() => window.open("https://example.com/paper", "_blank")}
                       >

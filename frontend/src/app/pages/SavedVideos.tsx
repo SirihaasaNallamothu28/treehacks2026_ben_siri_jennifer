@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate } from "react-router";
 import { VideoCard } from "../components/VideoCard";
 import { Button } from "../components/ui/button";
@@ -22,92 +22,32 @@ const FILTER_STRENGTHS = [
   "Time series",
 ];
 
-// Mock saved videos
-const savedVideos = [
-  {
-    id: "1",
-    title:
-      "Deep Learning Models Outperform Radiologists in Detecting Lung Cancer",
-    subtitle:
-      "Diagnostic accuracy of deep learning for lung cancer detection...",
-    relevanceBadge: "Uses CNNs",
-    relevanceIcon: "🧠",
-    studyType: "RCT",
-    sampleSize: "n = 12,400",
-    year: "2024",
-    metric: "AUROC 0.94",
-  },
-  {
-    id: "2",
-    title:
-      "Transformer Architecture Identifies Novel Drug Candidates for Alzheimer's",
-    subtitle:
-      "Machine learning approach to drug discovery in neurodegenerative...",
-    relevanceBadge: "LLM-based",
-    relevanceIcon: "🤖",
-    studyType: "In silico",
-    sampleSize: "n = 50k compounds",
-    year: "2025",
-    metric: "Hit rate 23%",
-  },
-  {
-    id: "3",
-    title:
-      "Vision Transformers Achieve State-of-the-Art Diabetic Retinopathy Classification",
-    subtitle:
-      "Automated detection of diabetic retinopathy using modern vision...",
-    relevanceBadge: "Uses CNNs",
-    relevanceIcon: "🧠",
-    studyType: "Retrospective",
-    sampleSize: "n = 8,900",
-    year: "2024",
-    metric: "AUROC 0.97",
-  },
-  {
-    id: "5",
-    title: "Understanding Medical Image Analysis Basics",
-    subtitle:
-      "Introduction to computer vision in healthcare applications...",
-    relevanceBadge: "Uses CNNs",
-    relevanceIcon: "🧠",
-    studyType: "Review",
-    sampleSize: "87 studies",
-    year: "2023",
-    metric: "Systematic",
-  },
-  {
-    id: "6",
-    title:
-      "Clinical Data Standards: HL7 FHIR for AI Researchers",
-    subtitle:
-      "Overview of healthcare data formats and interoperability...",
-    relevanceBadge: "Tabular ML",
-    relevanceIcon: "📊",
-    studyType: "Tutorial",
-    sampleSize: "N/A",
-    year: "2024",
-    metric: "Educational",
-  },
-  {
-    id: "8",
-    title: "Foundation Models for Medical Imaging Show Promise",
-    subtitle:
-      "Large-scale pre-training on medical images enables few-shot learning...",
-    relevanceBadge: "Uses CNNs",
-    relevanceIcon: "🧠",
-    studyType: "Observational",
-    sampleSize: "n = 100k images",
-    year: "2026",
-    metric: "AUROC 0.89",
-  },
-];
-
 export function SavedVideos() {
   const navigate = useNavigate();
-  const [selectedInterest, setSelectedInterest] =
-    useState("All");
-  const [selectedStrength, setSelectedStrength] =
-    useState("All");
+  const [selectedInterest, setSelectedInterest] = useState("All");
+  const [selectedStrength, setSelectedStrength] = useState("All");
+  const [savedVideos, setSavedVideos] = useState<any[]>([]);
+
+  // Load saved videos from localStorage
+  useEffect(() => {
+    const saved = localStorage.getItem("savedVideosData");
+    if (saved) {
+      const videos = JSON.parse(saved);
+      // Convert to the format VideoCard expects
+      const formatted = videos.map((v: any) => ({
+        id: v.id,
+        title: v.title,
+        subtitle: v.originalTitle,
+        relevanceBadge: v.relevanceBadge,
+        relevanceIcon: "🎬",
+        studyType: "Research",
+        sampleSize: v.metadata?.citations ? `${v.metadata.citations} citations` : "N/A",
+        year: v.metadata?.year?.toString() || "N/A",
+        metric: "Saved",
+      }));
+      setSavedVideos(formatted);
+    }
+  }, []);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -145,7 +85,7 @@ export function SavedVideos() {
             Saved Videos
           </h1>
           <p className="text-muted-foreground">
-            You have {savedVideos.length} saved videos
+            You have {savedVideos.length} saved video{savedVideos.length !== 1 ? "s" : ""}
           </p>
         </div>
 
@@ -197,15 +137,27 @@ export function SavedVideos() {
         </div>
 
         {/* Video Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {savedVideos.map((video) => (
-            <VideoCard
-              key={video.id}
-              {...video}
-              showLinkOnHover={true}
-            />
-          ))}
-        </div>
+        {savedVideos.length === 0 ? (
+          <div className="text-center py-16">
+            <p className="text-muted-foreground text-lg mb-4">No saved videos yet</p>
+            <p className="text-sm text-muted-foreground mb-6">
+              Click the heart icon on any video to save it here
+            </p>
+            <Button onClick={() => navigate("/")}>
+              Discover Videos
+            </Button>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {savedVideos.map((video) => (
+              <VideoCard
+                key={video.id}
+                {...video}
+                showLinkOnHover={true}
+              />
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );

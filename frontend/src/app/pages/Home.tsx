@@ -9,12 +9,27 @@ export function Home() {
   const [selectedInterests, setSelectedInterests] = useState<string[]>([]);
   const [selectedStrengths, setSelectedStrengths] = useState<string[]>([]);
 
-  const handleSearch = () => {
+  const handleSearch = async () => {
     // Save to localStorage with formatted string
     const userProfile = `User interested in healthcare: user interests in ${selectedInterests.join(", ")}. User strengths in ${selectedStrengths.join(", ")}.`;
     localStorage.setItem("userProfile", userProfile);
     console.log("Saved:", userProfile);
-    
+
+    // Trigger video generation in the background
+    try {
+      // Import the API function dynamically
+      const { generateVideo } = await import("../services/api");
+
+      // Start video generation (defaults to paper 14)
+      const job = await generateVideo(14);
+      console.log("Video generation started:", job.job_id);
+
+      // Save job ID to localStorage so VideoPlayer can poll for it
+      localStorage.setItem("generatingJobId", job.job_id);
+    } catch (error) {
+      console.error("Failed to start video generation:", error);
+    }
+
     // Show loading screen for 8 seconds, then navigate
     setIsLoading(true);
     setSecondsLeft(8);
