@@ -128,7 +128,7 @@ export function SavedVideos() {
         {/* Video Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {savedVideosState.map((video) => (
-            <VideoCard key={video.id} {...video} showLinkOnHover={true} />
+            <VideoCard relevanceIcon={""} key={video.id} {...video} subtitle={video.subtitle ?? ""} showLinkOnHover={true} />
           ))}
         </div>
       </div>
